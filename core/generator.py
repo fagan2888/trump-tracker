@@ -29,7 +29,7 @@ def generate():
         line = '[{}]({})'.format(yesterday, yesterday)
         f.write(line + '\n')
 
-    with open('build/index.md', 'w+'):
+    with open('build/index.md', 'w+') as f:
         for filename in os.listdir('build/output'):
             line = '[{}](output/{})'.format(filename, filename)
             f.write(line + '\n')
