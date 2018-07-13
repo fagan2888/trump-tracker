@@ -14,7 +14,7 @@ def generate():
     for filename in os.listdir('build/cache'):
         if not filename.startswith(yesterday):
             continue
-        stream = open(filename)
+        stream = open(os.path.join('build/cache', filename))
         tweet = json.load(stream)
         stream.close()
         created_at = tweet['created_at'].replace('+0000 ', '')
@@ -29,7 +29,7 @@ def generate():
         line = '[{}]({})'.format(yesterday, yesterday)
         f.write(line + '\n')
 
-    with open('build/output/index.md', 'w+'):
+    with open('build/index.md', 'w+'):
         for filename in os.listdir('build/output'):
-            line = '[{}]({})'.format(filename, filename)
+            line = '[{}](output/{})'.format(filename, filename)
             f.write(line + '\n')
