@@ -5,7 +5,6 @@ import json
 
 def generate():
     yesterday = datetime.datetime.utcnow() - datetime.timedelta(days=1)
-    day = yesterday.day
     month_folder = yesterday.strftime('%Y-%m')
     month_folder_fp = os.path.join('build/output', month_folder)
     yesterday = yesterday.strftime('%Y-%m-%d')
@@ -27,9 +26,11 @@ def generate():
         f.write(content)
 
     with open(os.path.join(month_folder_fp, 'index.md'), 'w+') as f:
-        for i in range(1, day + 1):
-            i = '{}-{}'.format(month_folder, i)
-            line = '#### [{}]({})'.format(i, i)
+        for filename in os.listdir(month_folder_fp):
+            if filename in ['index.md']:
+                continue
+            day_str = filename[:-3]
+            line = '#### [{}]({})'.format(day_str, day_str)
             f.write(line + '\n')
 
     with open('build/index.md', 'w+') as f:
