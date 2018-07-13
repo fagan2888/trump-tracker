@@ -1,0 +1,12 @@
+# JetBrains IDEA
+.idea
+
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+
+# Project specific
+.secret
+build

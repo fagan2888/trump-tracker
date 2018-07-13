@@ -1,0 +1,21 @@
+language: python
+
+python:
+  - "3.6"
+
+install:
+  - pip install -r requirements.txt
+
+script: pytest test
+
+after_success:
+  - if [[ $TRAVIS_EVENT_TYPE = cron ]]; sh .travis/cron.sh; fi
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  on:
+    branch: master
+  local_dir: ./build/output
+  #keep-history: true
