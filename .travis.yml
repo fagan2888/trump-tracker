@@ -9,7 +9,8 @@ install:
 script: pytest test
 
 after_success:
-  - if [[ $TRAVIS_EVENT_TYPE = cron ]]; sh .travis/cron.sh; fi
+  sh .travis/cron.sh
+  #- if [[ $TRAVIS_EVENT_TYPE = cron ]]; sh .travis/cron.sh; fi
 
 deploy:
   provider: pages
