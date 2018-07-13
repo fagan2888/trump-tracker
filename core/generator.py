@@ -29,10 +29,10 @@ def generate():
     with open(os.path.join(month_folder_fp, 'index.md'), 'w+') as f:
         for i in range(1, day + 1):
             i = '{}-{}'.format(month_folder, i)
-            line = '[{}]({})'.format(i, i)
+            line = '#### [{}]({})'.format(i, i)
             f.write(line + '\n')
 
     with open('build/index.md', 'w+') as f:
         for filename in os.listdir('build/output'):
-            line = '[{}](output/{})\n'.format(filename, filename)
+            line = '#### [{}](output/{})\n'.format(filename, filename)
             f.write(line + '\n')
