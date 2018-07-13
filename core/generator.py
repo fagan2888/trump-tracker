@@ -25,7 +25,7 @@ def generate():
     with open(os.path.join(month_folder_fp, yesterday) + '.md', 'w+') as f:
         f.write(content)
 
-    with open(month_folder_fp + 'index.md', 'a') as f:
+    with open(os.path.join(month_folder_fp, 'index.md'), 'a') as f:
         line = '[{}]({})'.format(yesterday, yesterday)
         f.write(line + '\n')
 
