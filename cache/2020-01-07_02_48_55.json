@@ -1,0 +1,224 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 07 02:48:55 +0000 2020",
+  "display_text_range": [
+    0,
+    143
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20748745,
+        "id_str": "20748745",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Brad Thor",
+        "screen_name": "BradThor"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BradThor: Very informative piece --&gt; \"It is impossible to overstate the importance of this particular action. It is more significant th\u2026",
+  "geo": null,
+  "id": 1214378348840964097,
+  "id_str": "1214378348840964097",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4008,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 04 19:11:46 +0000 2020",
+    "display_text_range": [
+      0,
+      252
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "foreignpolicy.com/2020/01/03/pet\u2026",
+          "expanded_url": "https://foreignpolicy.com/2020/01/03/petraeus-on-qassem-suleimani-killing-says-trump-helped-reestablish-deterrence/",
+          "indices": [
+            229,
+            252
+          ],
+          "url": "https://t.co/yIHWVKEXuk"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 13188,
+    "favorited": false,
+    "full_text": "Very informative piece --&gt; \"It is impossible to overstate the importance of this particular action. It is more significant than the killing of Osama bin Laden or even the death of [Islamic State leader Abu Bakr] al-Baghdadi.\" https://t.co/yIHWVKEXuk",
+    "geo": null,
+    "id": 1213538528300277760,
+    "id_str": "1213538528300277760",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4008,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 13 04:51:52 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "#1 New York Times Bestselling Author. NEAR DARK arrives June 23. Pre-order it today: https://t.co/3rScVblTEq",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bradthor.com/book/near-dark",
+              "expanded_url": "http://bradthor.com/book/near-dark",
+              "indices": [
+                85,
+                108
+              ],
+              "url": "https://t.co/3rScVblTEq"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BradThor.com",
+              "expanded_url": "http://www.BradThor.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/K6S1MEkzyP"
+            }
+          ]
+        }
+      },
+      "favourites_count": 75655,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 104331,
+      "following": false,
+      "friends_count": 1221,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 20748745,
+      "id_str": "20748745",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2080,
+      "location": "United States",
+      "name": "Brad Thor",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20748745/1561433024",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1101202037763698689/sos9LfAQ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101202037763698689/sos9LfAQ_normal.png",
+      "profile_link_color": "6A8D9B",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BradThor",
+      "statuses_count": 3034,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/K6S1MEkzyP",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 69450042,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 112506,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47720,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

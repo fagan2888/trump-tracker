@@ -1,0 +1,472 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 01 12:26:35 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          44,
+          51
+        ],
+        "text": "Dorian"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16669075,
+        "id_str": "16669075",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "FEMA",
+        "screen_name": "fema"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @fema: Stay alert &amp; get prepared for #Dorian if you are in the Southeast. Monitor forecasts closely, as the storm's track can change qui\u2026",
+  "geo": null,
+  "id": 1168138078214660096,
+  "id_str": "1168138078214660096",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1167767220610428928,
+  "quoted_status_id_str": "1167767220610428928",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NHC_Atlantic/s\u2026",
+    "expanded": "https://twitter.com/NHC_Atlantic/status/1167767220610428928",
+    "url": "https://t.co/9fCYnHqpQK"
+  },
+  "retweet_count": 2143,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 31 13:31:43 +0000 2019",
+    "display_text_range": [
+      0,
+      284
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            34,
+            41
+          ],
+          "text": "Dorian"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/NHC_Atlantic/s\u2026",
+          "expanded_url": "https://twitter.com/NHC_Atlantic/status/1167767220610428928",
+          "indices": [
+            285,
+            308
+          ],
+          "url": "https://t.co/9fCYnHqpQK"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 299798272,
+          "id_str": "299798272",
+          "indices": [
+            238,
+            251
+          ],
+          "name": "National Hurricane Center",
+          "screen_name": "NHC_Atlantic"
+        },
+        {
+          "id": 71245831,
+          "id_str": "71245831",
+          "indices": [
+            254,
+            261
+          ],
+          "name": "FL Division of Emergency Management",
+          "screen_name": "FLSERT"
+        },
+        {
+          "id": 20165052,
+          "id_str": "20165052",
+          "indices": [
+            264,
+            275
+          ],
+          "name": "Georgia EM&HS",
+          "screen_name": "GeorgiaEMA"
+        },
+        {
+          "id": 57017317,
+          "id_str": "57017317",
+          "indices": [
+            278,
+            284
+          ],
+          "name": "SCEMD",
+          "screen_name": "SCEMD"
+        }
+      ]
+    },
+    "favorite_count": 7572,
+    "favorited": false,
+    "full_text": "Stay alert &amp; get prepared for #Dorian if you are in the Southeast. Monitor forecasts closely, as the storm's track can change quickly.\n\nWe continue to coordinate with state, local &amp; tribal officials to provide support.\n\n\u27a1\ufe0f Follow @NHC_Atlantic , @FLSERT , @GeorgiaEMA , @SCEMD https://t.co/9fCYnHqpQK",
+    "geo": null,
+    "id": 1167792082217590784,
+    "id_str": "1167792082217590784",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Aug 31 11:52:56 +0000 2019",
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              59,
+              66
+            ],
+            "text": "Dorian"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7yI3bxa8ti",
+            "expanded_url": "https://twitter.com/NHC_Atlantic/status/1167767220610428928/photo/1",
+            "id": 1167767216705527808,
+            "id_str": "1167767216705527808",
+            "indices": [
+              267,
+              290
+            ],
+            "media_url": "http://pbs.twimg.com/media/EDS-GLQUYAAWIvh.png",
+            "media_url_https": "https://pbs.twimg.com/media/EDS-GLQUYAAWIvh.png",
+            "sizes": {
+              "large": {
+                "h": 738,
+                "resize": "fit",
+                "w": 897
+              },
+              "medium": {
+                "h": 738,
+                "resize": "fit",
+                "w": 897
+              },
+              "small": {
+                "h": 559,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7yI3bxa8ti"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7yI3bxa8ti",
+            "expanded_url": "https://twitter.com/NHC_Atlantic/status/1167767220610428928/photo/1",
+            "id": 1167767216705527808,
+            "id_str": "1167767216705527808",
+            "indices": [
+              267,
+              290
+            ],
+            "media_url": "http://pbs.twimg.com/media/EDS-GLQUYAAWIvh.png",
+            "media_url_https": "https://pbs.twimg.com/media/EDS-GLQUYAAWIvh.png",
+            "sizes": {
+              "large": {
+                "h": 738,
+                "resize": "fit",
+                "w": 897
+              },
+              "medium": {
+                "h": 738,
+                "resize": "fit",
+                "w": 897
+              },
+              "small": {
+                "h": 559,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7yI3bxa8ti"
+          }
+        ]
+      },
+      "favorite_count": 921,
+      "favorited": false,
+      "full_text": "Significant impacts could also occur even if the center of #Dorian stays offshore. With the change in the forecast, the risk of strong winds and life-threatening storm surge is increasing along the coasts of Georgia and South Carolina during the middle of next week. https://t.co/7yI3bxa8ti",
+      "geo": null,
+      "id": 1167767220610428928,
+      "id_str": "1167767220610428928",
+      "in_reply_to_screen_name": "NHC_Atlantic",
+      "in_reply_to_status_id": 1167767214109278210,
+      "in_reply_to_status_id_str": "1167767214109278210",
+      "in_reply_to_user_id": 299798272,
+      "in_reply_to_user_id_str": "299798272",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 704,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 16 17:59:24 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "This is the primary official Twitter account for the National Hurricane Center, focusing on the Atlantic basin. For more details: https://t.co/mRyGMdRYT3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weather.gov/twitter",
+                "expanded_url": "http://weather.gov/twitter",
+                "indices": [
+                  130,
+                  153
+                ],
+                "url": "https://t.co/mRyGMdRYT3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nhc.noaa.gov",
+                "expanded_url": "http://www.nhc.noaa.gov/",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/5gzYJFziuU"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 671388,
+        "following": false,
+        "friends_count": 73,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 299798272,
+        "id_str": "299798272",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10348,
+        "location": "Miami, FL",
+        "name": "National Hurricane Center",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/299798272/1361991526",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/892736587397816320/nTDra-V-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/892736587397816320/nTDra-V-_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NHC_Atlantic",
+        "statuses_count": 7749,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/5gzYJFziuU",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1167767220610428928,
+    "quoted_status_id_str": "1167767220610428928",
+    "quoted_status_permalink": {
+      "display": "twitter.com/NHC_Atlantic/s\u2026",
+      "expanded": "https://twitter.com/NHC_Atlantic/status/1167767220610428928",
+      "url": "https://t.co/9fCYnHqpQK"
+    },
+    "retweet_count": 2143,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 09 16:54:20 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Our story of supporting citizens & first responders before, during, and after emergencies. For emergencies, call your local fire/EMS/police or 9-1-1.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fema.gov",
+              "expanded_url": "http://www.fema.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pJoesev0fm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3333,
+      "follow_request_sent": false,
+      "followers_count": 760938,
+      "following": false,
+      "friends_count": 713,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16669075,
+      "id_str": "16669075",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11020,
+      "location": "United States",
+      "name": "FEMA",
+      "notifications": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16669075/1543516470",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_link_color": "2A91B0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DCDCE0",
+      "profile_text_color": "65686E",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fema",
+      "statuses_count": 16854,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pJoesev0fm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63833084,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108023,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43972,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

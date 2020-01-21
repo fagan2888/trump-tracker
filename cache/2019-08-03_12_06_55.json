@@ -1,0 +1,285 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 03 12:06:55 +0000 2019",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/robertjeffress\u2026",
+        "expanded_url": "https://twitter.com/robertjeffress/status/1156436825705209856",
+        "indices": [
+          16,
+          39
+        ],
+        "url": "https://t.co/h0o1laZ7e3"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 38125,
+  "favorited": false,
+  "full_text": "A great couple! https://t.co/h0o1laZ7e3",
+  "geo": null,
+  "id": 1157623881575927809,
+  "id_str": "1157623881575927809",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 31 05:29:59 +0000 2019",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2D2AH02qAo",
+          "expanded_url": "https://twitter.com/robertjeffress/status/1156436825705209856/photo/1",
+          "id": 1156436820743413761,
+          "id_str": "1156436820743413761",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/EAx9KVGX4AErFBY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EAx9KVGX4AErFBY.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1538
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 901
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 511
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2D2AH02qAo"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2D2AH02qAo",
+          "expanded_url": "https://twitter.com/robertjeffress/status/1156436825705209856/photo/1",
+          "id": 1156436820743413761,
+          "id_str": "1156436820743413761",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/EAx9KVGX4AErFBY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EAx9KVGX4AErFBY.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1538
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 901
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 511
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2D2AH02qAo"
+        }
+      ]
+    },
+    "favorite_count": 3986,
+    "favorited": false,
+    "full_text": "Enjoying a wonderful dinner celebrating our\u00a0\u00a042nd\u00a0\u00a0wedding anniversary with the love of my life Amy Renard Jeffress! https://t.co/2D2AH02qAo",
+    "geo": null,
+    "id": 1156436825705209856,
+    "id_str": "1156436825705209856",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 487,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri May 29 15:34:04 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Pastor of @firstdallas, best-selling author of \"A Place Called Heaven,\" and host of Pathway To Victory, a national radio and television ministry.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ptv.org",
+              "expanded_url": "http://www.ptv.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DCbZUiTlFw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 304,
+      "follow_request_sent": false,
+      "followers_count": 73709,
+      "following": false,
+      "friends_count": 81,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 43350851,
+      "id_str": "43350851",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 605,
+      "location": "Dallas, TX",
+      "name": "Dr. Robert Jeffress",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/43350851/1556052466",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/806975839770411008/-8eA9g_p_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/806975839770411008/-8eA9g_p_normal.jpg",
+      "profile_link_color": "AF2227",
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "robertjeffress",
+      "statuses_count": 6881,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DCbZUiTlFw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1156436825705209856,
+  "quoted_status_id_str": "1156436825705209856",
+  "quoted_status_permalink": {
+    "display": "twitter.com/robertjeffress\u2026",
+    "expanded": "https://twitter.com/robertjeffress/status/1156436825705209856",
+    "url": "https://t.co/h0o1laZ7e3"
+  },
+  "retweet_count": 6995,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 62634029,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106232,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43313,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

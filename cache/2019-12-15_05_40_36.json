@@ -1,0 +1,242 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 15 05:40:36 +0000 2019",
+  "display_text_range": [
+    0,
+    56
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/mikedebonis/st\u2026",
+        "expanded_url": "https://twitter.com/mikedebonis/status/1205930681970417664",
+        "indices": [
+          57,
+          80
+        ],
+        "url": "https://t.co/7yDPU4N3wd"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 15190,
+  "favorited": false,
+  "full_text": "Wow, that would be big. Always heard Jeff is very smart! https://t.co/7yDPU4N3wd",
+  "geo": null,
+  "id": 1206086633428332544,
+  "id_str": "1206086633428332544",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 14 19:20:54 +0000 2019",
+    "display_text_range": [
+      0,
+      194
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "washingtonpost.com/powerpost/trum\u2026",
+          "expanded_url": "http://www.washingtonpost.com/powerpost/trump-urges-rep-van-drew-anti-impeachment-democrat-to-switch-parties/2019/12/14/b201bb4a-1ea0-11ea-8d58-5ac3600967a1_story.html",
+          "indices": [
+            171,
+            194
+          ],
+          "url": "https://t.co/BSxwYXsZpm"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1083469084648505344,
+          "id_str": "1083469084648505344",
+          "indices": [
+            28,
+            43
+          ],
+          "name": "Congressman Jeff Van Drew",
+          "screen_name": "CongressmanJVD"
+        },
+        {
+          "id": 38936142,
+          "id_str": "38936142",
+          "indices": [
+            160,
+            169
+          ],
+          "name": "Josh Dawsey",
+          "screen_name": "jdawsey1"
+        }
+      ]
+    },
+    "favorite_count": 2458,
+    "favorited": false,
+    "full_text": "NEWS: Trump met Friday with @CongressmanJVD and urged him to switch parties -- VAN DREW, vocal anti-impeachment Dem, believed to be strongly considering it. w/ @jdawsey1  https://t.co/BSxwYXsZpm",
+    "geo": null,
+    "id": 1205930681970417664,
+    "id_str": "1205930681970417664",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1153,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Oct 15 03:23:55 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I cover Congress for The Washington Post. Covered D.C. politics and government, 2007-2015.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "washingtonpost.com/people/mike-de\u2026",
+              "expanded_url": "http://www.washingtonpost.com/people/mike-debonis",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/G14yMzoY7z"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1927,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 47175,
+      "following": false,
+      "friends_count": 1403,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 16753660,
+      "id_str": "16753660",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1778,
+      "location": "Washington, D.C., USA",
+      "name": "Mike DeBonis",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16753660/1546443312",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080487432334786560/Lyzj0h1M_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080487432334786560/Lyzj0h1M_normal.jpg",
+      "profile_link_color": "1955B9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "mikedebonis",
+      "statuses_count": 50189,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/G14yMzoY7z",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1205930681970417664,
+  "quoted_status_id_str": "1205930681970417664",
+  "quoted_status_permalink": {
+    "display": "twitter.com/mikedebonis/st\u2026",
+    "expanded": "https://twitter.com/mikedebonis/status/1205930681970417664",
+    "url": "https://t.co/7yDPU4N3wd"
+  },
+  "retweet_count": 3753,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67564787,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111455,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47133,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

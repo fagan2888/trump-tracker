@@ -1,0 +1,535 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 17 00:22:43 +0000 2020",
+  "display_text_range": [
+    0,
+    25
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          18,
+          25
+        ],
+        "text": "CHAMPS"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/LSUfootball/st\u2026",
+        "expanded_url": "https://twitter.com/LSUfootball/status/1217888605961506816",
+        "indices": [
+          26,
+          49
+        ],
+        "url": "https://t.co/ud1PVpx1zK"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 106253,
+  "favorited": false,
+  "full_text": "See you tomorrow! #CHAMPS https://t.co/ud1PVpx1zK",
+  "geo": null,
+  "id": 1217965436119191553,
+  "id_str": "1217965436119191553",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 16 19:17:25 +0000 2020",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NxXENYm3xr",
+          "expanded_url": "https://twitter.com/LSUfootball/status/1217888605961506816/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 754,
+                  "y": 622
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 328,
+                  "y": 636
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 582,
+                  "y": 638
+                },
+                {
+                  "h": 150,
+                  "w": 150,
+                  "x": 1620,
+                  "y": 884
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 441,
+                  "y": 364
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 192,
+                  "y": 372
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 341,
+                  "y": 373
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 949,
+                  "y": 517
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 754,
+                  "y": 622
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 328,
+                  "y": 636
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 582,
+                  "y": 638
+                },
+                {
+                  "h": 150,
+                  "w": 150,
+                  "x": 1620,
+                  "y": 884
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 250,
+                  "y": 206
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 108,
+                  "y": 211
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 193,
+                  "y": 211
+                },
+                {
+                  "h": 49,
+                  "w": 49,
+                  "x": 537,
+                  "y": 293
+                }
+              ]
+            }
+          },
+          "id": 1217888597442875392,
+          "id_str": "1217888597442875392",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EObPOgqU0AAC3JO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EObPOgqU0AAC3JO.jpg",
+          "sizes": {
+            "large": {
+              "h": 1402,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 821,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 466,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NxXENYm3xr"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "lsul.su/2RldlDK",
+          "expanded_url": "https://lsul.su/2RldlDK",
+          "indices": [
+            57,
+            80
+          ],
+          "url": "https://t.co/TlcL01mYAm"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NxXENYm3xr",
+          "expanded_url": "https://twitter.com/LSUfootball/status/1217888605961506816/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 754,
+                  "y": 622
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 328,
+                  "y": 636
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 582,
+                  "y": 638
+                },
+                {
+                  "h": 150,
+                  "w": 150,
+                  "x": 1620,
+                  "y": 884
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 441,
+                  "y": 364
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 192,
+                  "y": 372
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 341,
+                  "y": 373
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 949,
+                  "y": 517
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 754,
+                  "y": 622
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 328,
+                  "y": 636
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 582,
+                  "y": 638
+                },
+                {
+                  "h": 150,
+                  "w": 150,
+                  "x": 1620,
+                  "y": 884
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 250,
+                  "y": 206
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 108,
+                  "y": 211
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 193,
+                  "y": 211
+                },
+                {
+                  "h": 49,
+                  "w": 49,
+                  "x": 537,
+                  "y": 293
+                }
+              ]
+            }
+          },
+          "id": 1217888597442875392,
+          "id_str": "1217888597442875392",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EObPOgqU0AAC3JO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EObPOgqU0AAC3JO.jpg",
+          "sizes": {
+            "large": {
+              "h": 1402,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 821,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 466,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NxXENYm3xr"
+        }
+      ]
+    },
+    "favorite_count": 10473,
+    "favorited": false,
+    "full_text": "The National Champions are headed to Washington D.C. \n\n\ud83d\udd17 https://t.co/TlcL01mYAm https://t.co/NxXENYm3xr",
+    "geo": null,
+    "id": 1217888605961506816,
+    "id_str": "1217888605961506816",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1470,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Apr 26 16:42:45 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Official Twitter account of LSU Football, the 2019 National Champions #GeauxTigers",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "LSUsports.net/football",
+              "expanded_url": "http://www.LSUsports.net/football",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5NJN6ULQpi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5074,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 779458,
+      "following": false,
+      "friends_count": 546,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 137396575,
+      "id_str": "137396575",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2074,
+      "location": "Baton Rouge, LA",
+      "name": "LSU Football",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/137396575/1578981566",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1216963000147566593/n9AwEQBB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216963000147566593/n9AwEQBB_normal.jpg",
+      "profile_link_color": "23045A",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EDEDED",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LSUfootball",
+      "statuses_count": 22822,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/5NJN6ULQpi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1217888605961506816,
+  "quoted_status_id_str": "1217888605961506816",
+  "quoted_status_permalink": {
+    "display": "twitter.com/LSUfootball/st\u2026",
+    "expanded": "https://twitter.com/LSUfootball/status/1217888605961506816",
+    "url": "https://t.co/ud1PVpx1zK"
+  },
+  "retweet_count": 17481,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71146089,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113466,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47937,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

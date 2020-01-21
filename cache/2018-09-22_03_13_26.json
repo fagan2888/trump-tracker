@@ -1,0 +1,360 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Sep 22 03:13:26 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          103,
+          114
+        ],
+        "text": "TrumpRally"
+      },
+      {
+        "indices": [
+          115,
+          123
+        ],
+        "text": "RedWave"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 4041824789,
+        "id_str": "4041824789",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "RSBN \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "RSBNetwork"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          26,
+          42
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RSBNetwork: President @realDonaldTrump absolutely packs the house at JQH Arena in Springfield, MO. #TrumpRally #RedWave https://t.co/1c\u2026",
+  "geo": null,
+  "id": 1043337448850317313,
+  "id_str": "1043337448850317313",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4255,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 22 00:06:24 +0000 2018",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            87,
+            98
+          ],
+          "text": "TrumpRally"
+        },
+        {
+          "indices": [
+            99,
+            107
+          ],
+          "text": "RedWave"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1csQKb1A2Q",
+          "expanded_url": "https://twitter.com/RSBNetwork/status/1043290379955650560/video/1",
+          "id": 1043289475714043904,
+          "id_str": "1043289475714043904",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043289475714043904/pu/img/J7QfYpliZCqQYS_c.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043289475714043904/pu/img/J7QfYpliZCqQYS_c.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1csQKb1A2Q"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/1csQKb1A2Q",
+          "expanded_url": "https://twitter.com/RSBNetwork/status/1043290379955650560/video/1",
+          "id": 1043289475714043904,
+          "id_str": "1043289475714043904",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043289475714043904/pu/img/J7QfYpliZCqQYS_c.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043289475714043904/pu/img/J7QfYpliZCqQYS_c.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/1csQKb1A2Q",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 78566,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1043289475714043904/pu/vid/640x360/lof4UbRcRJl1yUy-.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1043289475714043904/pu/vid/1280x720/vUIIFmG0EU-v88fm.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1043289475714043904/pu/pl/Hb6ycItY8MK6r53c.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1043289475714043904/pu/vid/320x180/jbzlf-lJBfhrGeY-.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 13799,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump absolutely packs the house at JQH Arena in Springfield, MO. #TrumpRally #RedWave https://t.co/1csQKb1A2Q",
+    "geo": null,
+    "id": 1043290379955650560,
+    "id_str": "1043290379955650560",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4255,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Oct 25 22:00:42 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Right Side Broadcasting Network, Auburn AL. Following @POTUS wherever he goes. #1 source for live political event coverage. RT's \u2260 Endorsement. CEO @JoeSeales",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "rsbn.tv",
+              "expanded_url": "http://rsbn.tv",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/in8FJYRfkf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7000,
+      "follow_request_sent": false,
+      "followers_count": 55993,
+      "following": false,
+      "friends_count": 319,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 4041824789,
+      "id_str": "4041824789",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 536,
+      "location": "Auburn, AL",
+      "name": "RSBN \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4041824789/1537582387",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/749814591652302848/3dd6J8TR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/749814591652302848/3dd6J8TR_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RSBNetwork",
+      "statuses_count": 9317,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/in8FJYRfkf",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54580117,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93873,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39068,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

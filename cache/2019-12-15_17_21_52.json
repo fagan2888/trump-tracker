@@ -1,0 +1,364 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 15 17:21:52 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 384910109,
+        "id_str": "384910109",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Kimberley Strassel",
+        "screen_name": "KimStrassel"
+      },
+      {
+        "id": 130684893,
+        "id_str": "130684893",
+        "indices": [
+          56,
+          72
+        ],
+        "name": "Andy McCarthy",
+        "screen_name": "AndrewCMcCarthy"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KimStrassel: And I should say it is only because of @AndrewCMcCarthy deep knowledge and analysis that we understand it all! https://t.c\u2026",
+  "geo": null,
+  "id": 1206263113521217536,
+  "id_str": "1206263113521217536",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1205294072895815680,
+  "quoted_status_id_str": "1205294072895815680",
+  "quoted_status_permalink": {
+    "display": "twitter.com/AndrewCMcCarth\u2026",
+    "expanded": "https://twitter.com/AndrewCMcCarthy/status/1205294072895815680",
+    "url": "https://t.co/Igx2vYdaG2"
+  },
+  "retweet_count": 5537,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 13 01:36:07 +0000 2019",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/AndrewCMcCarth\u2026",
+          "expanded_url": "https://twitter.com/AndrewCMcCarthy/status/1205294072895815680",
+          "indices": [
+            111,
+            134
+          ],
+          "url": "https://t.co/Igx2vYdaG2"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 130684893,
+          "id_str": "130684893",
+          "indices": [
+            39,
+            55
+          ],
+          "name": "Andy McCarthy",
+          "screen_name": "AndrewCMcCarthy"
+        }
+      ]
+    },
+    "favorite_count": 19672,
+    "favorited": false,
+    "full_text": "And I should say it is only because of @AndrewCMcCarthy deep knowledge and analysis that we understand it all! https://t.co/Igx2vYdaG2",
+    "geo": null,
+    "id": 1205300331514458114,
+    "id_str": "1205300331514458114",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Dec 13 01:11:14 +0000 2019",
+      "display_text_range": [
+        0,
+        120
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "wsj.com/articles/the-f\u2026",
+            "expanded_url": "https://www.wsj.com/articles/the-fbis-fusion-fiasco-11576195213",
+            "indices": [
+              97,
+              120
+            ],
+            "url": "https://t.co/aPZluteUYG"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 384910109,
+            "id_str": "384910109",
+            "indices": [
+              23,
+              35
+            ],
+            "name": "Kimberley Strassel",
+            "screen_name": "KimStrassel"
+          }
+        ]
+      },
+      "favorite_count": 10875,
+      "favorited": false,
+      "full_text": "If you\u2019ve been reading @KimStrassel all along, you had the Horowitz report before Horowitz did.  https://t.co/aPZluteUYG",
+      "geo": null,
+      "id": 1205294072895815680,
+      "id_str": "1205294072895815680",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 3648,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 08 00:51:15 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bestselling author. Contributing Editor at National Review & Fellow at NR Inst. Fox News Contributor. Former Chief Asst. U.S. Attorney",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "AndrewCMcCarthy.com",
+                "expanded_url": "http://AndrewCMcCarthy.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/fDxNxIMDW2"
+              }
+            ]
+          }
+        },
+        "favourites_count": 40,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 219996,
+        "following": false,
+        "friends_count": 1173,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 130684893,
+        "id_str": "130684893",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2029,
+        "location": "New York, NY",
+        "name": "Andy McCarthy",
+        "notifications": false,
+        "profile_background_color": "020608",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130684893/1533335431",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1055823007191420928/Y-aYqPQm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055823007191420928/Y-aYqPQm_normal.jpg",
+        "profile_link_color": "030C0F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndrewCMcCarthy",
+        "statuses_count": 12386,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/fDxNxIMDW2",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1205294072895815680,
+    "quoted_status_id_str": "1205294072895815680",
+    "quoted_status_permalink": {
+      "display": "twitter.com/AndrewCMcCarth\u2026",
+      "expanded": "https://twitter.com/AndrewCMcCarthy/status/1205294072895815680",
+      "url": "https://t.co/Igx2vYdaG2"
+    },
+    "retweet_count": 5537,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 04 15:00:44 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Potomac Watch columnist for Wall Street Journal edit page. Please preorder my new book! Resistance (At All Costs). https://t.co/8UUcgU7SCk",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "tinyurl.com/y23r5k6q",
+              "expanded_url": "https://tinyurl.com/y23r5k6q",
+              "indices": [
+                115,
+                138
+              ],
+              "url": "https://t.co/8UUcgU7SCk"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4838,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 339371,
+      "following": false,
+      "friends_count": 466,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 384910109,
+      "id_str": "384910109",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2517,
+      "location": "",
+      "name": "Kimberley Strassel",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/384910109/1571165408",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1658210459/strasshedcut_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1658210459/strasshedcut_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KimStrassel",
+      "statuses_count": 6433,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67589625,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111493,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47162,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

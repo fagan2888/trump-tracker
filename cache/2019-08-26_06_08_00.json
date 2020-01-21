@@ -1,0 +1,370 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 26 06:08:00 +0000 2019",
+  "display_text_range": [
+    0,
+    16
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/kthopkins/stat\u2026",
+        "expanded_url": "https://twitter.com/kthopkins/status/1165547339077050368",
+        "indices": [
+          17,
+          40
+        ],
+        "url": "https://t.co/uCXoTFTEGm"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 14161,
+  "favorited": false,
+  "full_text": "Thank you Katie! https://t.co/uCXoTFTEGm",
+  "geo": null,
+  "id": 1165868479389388800,
+  "id_str": "1165868479389388800",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 25 08:51:55 +0000 2019",
+    "display_text_range": [
+      0,
+      192
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            130,
+            139
+          ],
+          "text": "MBGA2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/G5p3hCSr2v",
+          "expanded_url": "https://twitter.com/AlwaysActions/status/1157812396670541824/video/1",
+          "id": 1157812313942106112,
+          "id_str": "1157812313942106112",
+          "indices": [
+            169,
+            192
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157812313942106112/pu/img/gcdTV-Z9lWvqvu9N.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157812313942106112/pu/img/gcdTV-Z9lWvqvu9N.jpg",
+          "sizes": {
+            "large": {
+              "h": 320,
+              "resize": "fit",
+              "w": 180
+            },
+            "medium": {
+              "h": 320,
+              "resize": "fit",
+              "w": 180
+            },
+            "small": {
+              "h": 320,
+              "resize": "fit",
+              "w": 180
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1157812396670541824,
+          "source_status_id_str": "1157812396670541824",
+          "source_user_id": 102862980,
+          "source_user_id_str": "102862980",
+          "type": "photo",
+          "url": "https://t.co/G5p3hCSr2v"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Fri Jan 08 02:43:27 +0000 2010",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Breaking news and developing stories.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "bit.ly/1Q4Bnfy",
+                      "expanded_url": "http://bit.ly/1Q4Bnfy",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/j88MlSuDpf"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 582,
+              "follow_request_sent": false,
+              "followers_count": 49789,
+              "following": false,
+              "friends_count": 27610,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 102862980,
+              "id_str": "102862980",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 451,
+              "location": "New York City",
+              "name": "AlwaysActions",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/102862980/1508963075",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/923282189973934080/WP9zv0fB_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/923282189973934080/WP9zv0fB_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "AlwaysActions",
+              "statuses_count": 159685,
+              "time_zone": null,
+              "translator_type": "regular",
+              "url": "https://t.co/j88MlSuDpf",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/G5p3hCSr2v",
+          "expanded_url": "https://twitter.com/AlwaysActions/status/1157812396670541824/video/1",
+          "id": 1157812313942106112,
+          "id_str": "1157812313942106112",
+          "indices": [
+            169,
+            192
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157812313942106112/pu/img/gcdTV-Z9lWvqvu9N.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157812313942106112/pu/img/gcdTV-Z9lWvqvu9N.jpg",
+          "sizes": {
+            "large": {
+              "h": 320,
+              "resize": "fit",
+              "w": 180
+            },
+            "medium": {
+              "h": 320,
+              "resize": "fit",
+              "w": 180
+            },
+            "small": {
+              "h": 320,
+              "resize": "fit",
+              "w": 180
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1157812396670541824,
+          "source_status_id_str": "1157812396670541824",
+          "source_user_id": 102862980,
+          "source_user_id_str": "102862980",
+          "type": "video",
+          "url": "https://t.co/G5p3hCSr2v",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 49794,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1157812313942106112/pu/pl/gxoCjKdzNscflIU5.m3u8?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157812313942106112/pu/vid/180x320/v7FS7A10STYfk7FP.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 32376,
+    "favorited": false,
+    "full_text": "This is TRUMP off camera. \n\nMaking time for ordinary people. Caring for the regular voter &amp; their kids. \n\nThis is why he wins #MBGA2020 \n\n Well done young lady xx \n\nhttps://t.co/G5p3hCSr2v",
+    "geo": null,
+    "id": 1165547339077050368,
+    "id_str": "1165547339077050368",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9979,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 20 22:01:54 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Milo\u2019s Mum. The Female Farage. Angry Ellen de Generes. The Biggest Bitch in Britain. katie@katiehopkins.co.uk",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 91,
+      "follow_request_sent": false,
+      "followers_count": 1001544,
+      "following": false,
+      "friends_count": 80,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 21439144,
+      "id_str": "21439144",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3553,
+      "location": "",
+      "name": "Katie Hopkins",
+      "notifications": false,
+      "profile_background_color": "FF33CC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21439144/1565370706",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/915081489573974016/esP5WVn-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/915081489573974016/esP5WVn-_normal.jpg",
+      "profile_link_color": "0004FA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "00CCFF",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KTHopkins",
+      "statuses_count": 50741,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1165547339077050368,
+  "quoted_status_id_str": "1165547339077050368",
+  "quoted_status_permalink": {
+    "display": "twitter.com/kthopkins/stat\u2026",
+    "expanded": "https://twitter.com/kthopkins/status/1165547339077050368",
+    "url": "https://t.co/uCXoTFTEGm"
+  },
+  "retweet_count": 3146,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63524939,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107615,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43797,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

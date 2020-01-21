@@ -1,0 +1,341 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 26 03:28:34 +0000 2019",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/iUD808JXyt",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1187934016235888641/video/1",
+        "id": 1187933955233849344,
+        "id_str": "1187933955233849344",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1187933955233849344/pu/img/3vl0Iv0W0YV8thA2.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1187933955233849344/pu/img/3vl0Iv0W0YV8thA2.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/iUD808JXyt"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/robertjeffress\u2026",
+        "expanded_url": "https://twitter.com/robertjeffress/status/1187763371837415424",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/o6mk8orgrC"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/iUD808JXyt",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1187934016235888641/video/1",
+        "id": 1187933955233849344,
+        "id_str": "1187933955233849344",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1187933955233849344/pu/img/3vl0Iv0W0YV8thA2.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1187933955233849344/pu/img/3vl0Iv0W0YV8thA2.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/iUD808JXyt",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 35575,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1187933955233849344/pu/vid/640x360/p8WlkZLVAwNGovoY.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1187933955233849344/pu/vid/480x270/LKKtzvKi9e2SFI8M.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1187933955233849344/pu/pl/W9ZAaCbSBDC2RslQ.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 15509,
+  "favorited": false,
+  "full_text": "https://t.co/o6mk8orgrC https://t.co/iUD808JXyt",
+  "geo": null,
+  "id": 1187934016235888641,
+  "id_str": "1187934016235888641",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 25 16:10:30 +0000 2019",
+    "display_text_range": [
+      0,
+      195
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            51,
+            67
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 26487169,
+          "id_str": "26487169",
+          "indices": [
+            133,
+            142
+          ],
+          "name": "Lou Dobbs",
+          "screen_name": "LouDobbs"
+        },
+        {
+          "id": 56413858,
+          "id_str": "56413858",
+          "indices": [
+            173,
+            185
+          ],
+          "name": "FOX Business",
+          "screen_name": "FoxBusiness"
+        }
+      ]
+    },
+    "favorite_count": 32165,
+    "favorited": false,
+    "full_text": "A new poll shows evangelical support for President @realDonaldTrump GROWING in spite of Democrat impeachment farce! I\u2019ll discuss on \u201c@LouDobbs Tonight\u201d at 6 &amp; 9pm CT on @FoxBusiness. Tune in!",
+    "geo": null,
+    "id": 1187763371837415424,
+    "id_str": "1187763371837415424",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 9503,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri May 29 15:34:04 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Pastor of @firstdallas, best-selling author of \"A Place Called Heaven,\" and host of Pathway To Victory, a national radio and television ministry.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ptv.org",
+              "expanded_url": "http://www.ptv.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DCbZUiTlFw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 341,
+      "follow_request_sent": false,
+      "followers_count": 83404,
+      "following": false,
+      "friends_count": 82,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 43350851,
+      "id_str": "43350851",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 659,
+      "location": "Dallas, TX",
+      "name": "Dr. Robert Jeffress",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/43350851/1556052466",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/806975839770411008/-8eA9g_p_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/806975839770411008/-8eA9g_p_normal.jpg",
+      "profile_link_color": "AF2227",
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "robertjeffress",
+      "statuses_count": 7430,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DCbZUiTlFw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1187763371837415424,
+  "quoted_status_id_str": "1187763371837415424",
+  "quoted_status_permalink": {
+    "display": "twitter.com/robertjeffress\u2026",
+    "expanded": "https://twitter.com/robertjeffress/status/1187763371837415424",
+    "url": "https://t.co/o6mk8orgrC"
+  },
+  "retweet_count": 4932,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 66172844,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110199,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45531,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

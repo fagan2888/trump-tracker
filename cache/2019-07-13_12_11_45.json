@@ -1,0 +1,333 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 13 12:11:45 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18247062,
+        "id_str": "18247062",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Judicial Watch \ud83d\udd0e",
+        "screen_name": "JudicialWatch"
+      },
+      {
+        "id": 18266688,
+        "id_str": "18266688",
+        "indices": [
+          20,
+          30
+        ],
+        "name": "Tom Fitton",
+        "screen_name": "TomFitton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JudicialWatch: .@TomFitton: \u201cThe president should direct the DOJ to re-open the Clinton investigation to reassure Americans that there\u2026",
+  "geo": null,
+  "id": 1150014951421087750,
+  "id_str": "1150014951421087750",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9831,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 12 22:04:00 +0000 2019",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GTTO0SvKYp",
+          "expanded_url": "https://twitter.com/JudicialWatch/status/1149801608211042304/video/1",
+          "id": 1149779719010828289,
+          "id_str": "1149779719010828289",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_Tax7JXsAYirVN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_Tax7JXsAYirVN.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GTTO0SvKYp"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 18266688,
+          "id_str": "18266688",
+          "indices": [
+            1,
+            11
+          ],
+          "name": "Tom Fitton",
+          "screen_name": "TomFitton"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/GTTO0SvKYp",
+          "expanded_url": "https://twitter.com/JudicialWatch/status/1149801608211042304/video/1",
+          "id": 1149779719010828289,
+          "id_str": "1149779719010828289",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_Tax7JXsAYirVN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_Tax7JXsAYirVN.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/GTTO0SvKYp",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 299900,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1149779719010828289/vid/640x360/YSKAkdJoXciCuk9D.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1149779719010828289/vid/1280x720/Y4QgXSgOLO0CWbKs.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1149779719010828289/pl/sXPFFa3uAtFTcvEi.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1149779719010828289/vid/480x270/biPQWOZ1TqfqybL3.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 23840,
+    "favorited": false,
+    "full_text": ".@TomFitton: \u201cThe president should direct the DOJ to re-open the Clinton investigation to reassure Americans that there was a fair, competent &amp; unbiased investigation. It\u2019s clear that there was a cover-up to protect Hillary that goes beyond misconduct relating to her emails.\u201d https://t.co/GTTO0SvKYp",
+    "geo": null,
+    "id": 1149801608211042304,
+    "id_str": "1149801608211042304",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9831,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 19 18:04:57 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government. Follow us on FB & Instagram: judicialwatch",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "judicialwatch.org",
+              "expanded_url": "http://www.judicialwatch.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JPjqvKy5es"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1450,
+      "follow_request_sent": false,
+      "followers_count": 1150360,
+      "following": false,
+      "friends_count": 1960,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18247062,
+      "id_str": "18247062",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5206,
+      "location": "Washington, DC",
+      "name": "Judicial Watch \ud83d\udd0e",
+      "notifications": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18247062/1557862227",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1149693510301429760/tqrvTBTF_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149693510301429760/tqrvTBTF_normal.png",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "30353B",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JudicialWatch",
+      "statuses_count": 62608,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JPjqvKy5es",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 61896633,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105215,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42901,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 11 11:12:31 +0000 2018",
+  "display_text_range": [
+    0,
+    28
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "text": "NeverForget"
+      },
+      {
+        "indices": [
+          14,
+          28
+        ],
+        "text": "September11th"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/scavino45/stat\u2026",
+        "expanded_url": "https://twitter.com/scavino45/status/1039469874609893376",
+        "indices": [
+          29,
+          52
+        ],
+        "url": "https://t.co/ExGrrVtrEf"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 55487,
+  "favorited": false,
+  "full_text": "#NeverForget  #September11th https://t.co/ExGrrVtrEf",
+  "geo": null,
+  "id": 1039471746120908801,
+  "id_str": "1039471746120908801",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 11 11:05:05 +0000 2018",
+    "display_text_range": [
+      0,
+      283
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bSlX64Wqpk",
+          "expanded_url": "https://twitter.com/Scavino45/status/1039469874609893376/photo/1",
+          "id": 1039469867638943744,
+          "id_str": "1039469867638943744",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/media/DmzwVldXcAAYDcz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DmzwVldXcAAYDcz.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bSlX64Wqpk"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bSlX64Wqpk",
+          "expanded_url": "https://twitter.com/Scavino45/status/1039469874609893376/photo/1",
+          "id": 1039469867638943744,
+          "id_str": "1039469867638943744",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/media/DmzwVldXcAAYDcz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DmzwVldXcAAYDcz.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bSlX64Wqpk"
+        },
+        {
+          "display_url": "pic.twitter.com/bSlX64Wqpk",
+          "expanded_url": "https://twitter.com/Scavino45/status/1039469874609893376/photo/1",
+          "id": 1039469867651481600,
+          "id_str": "1039469867651481600",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/media/DmzwVlgWwAAT2mO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DmzwVlgWwAAT2mO.jpg",
+          "sizes": {
+            "large": {
+              "h": 1708,
+              "resize": "fit",
+              "w": 957
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 672
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 381
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bSlX64Wqpk"
+        }
+      ]
+    },
+    "favorite_count": 25717,
+    "favorited": false,
+    "full_text": "President Donald J. Trump signs a Proclamation at his desk in the Oval Office designating \u201cPatriot Day 2018\u201d to honor the memories of the nearly 3,000 lives lost on September 11, 2001, and of every hero who has given their life since that day to protect our safety &amp; our freedom. https://t.co/bSlX64Wqpk",
+    "geo": null,
+    "id": 1039469874609893376,
+    "id_str": "1039469874609893376",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8251,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 23 03:09:28 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Assistant to the President | Director of Social Media @WhiteHouse | Personal Twitter Handle\u279c@DanScavino",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/danscavino",
+              "expanded_url": "http://www.instagram.com/danscavino",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5aakliW5HL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 983,
+      "follow_request_sent": false,
+      "followers_count": 299112,
+      "following": false,
+      "friends_count": 684,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 823367015830323201,
+      "id_str": "823367015830323201",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1944,
+      "location": "The White House",
+      "name": "Dan Scavino Jr.",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/823367015830323201/1535394794",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1025089186502766592/RdJqW9Ds_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025089186502766592/RdJqW9Ds_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Scavino45",
+      "statuses_count": 3358,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/5aakliW5HL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1039469874609893376,
+  "quoted_status_id_str": "1039469874609893376",
+  "quoted_status_permalink": {
+    "display": "twitter.com/scavino45/stat\u2026",
+    "expanded": "https://twitter.com/scavino45/status/1039469874609893376",
+    "url": "https://t.co/ExGrrVtrEf"
+  },
+  "retweet_count": 15390,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54375247,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93470,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38894,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

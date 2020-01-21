@@ -1,0 +1,380 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Dec 09 04:52:46 +0000 2019",
+  "display_text_range": [
+    0,
+    14
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/danscavino/sta\u2026",
+        "expanded_url": "https://twitter.com/danscavino/status/1203855761690038273",
+        "indices": [
+          15,
+          38
+        ],
+        "url": "https://t.co/dOU1MK1Lwu"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 22264,
+  "favorited": false,
+  "full_text": "AMERICA FIRST! https://t.co/dOU1MK1Lwu",
+  "geo": null,
+  "id": 1203900269827952640,
+  "id_str": "1203900269827952640",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 09 01:55:54 +0000 2019",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/9HsklIRe9k",
+          "expanded_url": "https://twitter.com/Solmemes1/status/1203688184938475521/video/1",
+          "features": {},
+          "id": 1203687300913344512,
+          "id_str": "1203687300913344512",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203687300913344512/pu/img/X5f0dhhhvgYFlDD7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203687300913344512/pu/img/X5f0dhhhvgYFlDD7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1203688184938475521,
+          "source_status_id_str": "1203688184938475521",
+          "source_user_id": 997503485707943937,
+          "source_user_id_str": "997503485707943937",
+          "type": "photo",
+          "url": "https://t.co/9HsklIRe9k"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": false,
+              "contributors_enabled": false,
+              "created_at": "Fri May 18 15:45:38 +0000 2018",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Master Memetician ....Professor of Memology at University of GFY..... PayPal Solentgreenis@gmail.com...my views are my own and not associated with real life",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "patreon.com/Solentgreenis",
+                      "expanded_url": "https://www.patreon.com/Solentgreenis",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/4F6WplyOkv"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 200040,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 83685,
+              "following": false,
+              "friends_count": 32868,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 997503485707943937,
+              "id_str": "997503485707943937",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 287,
+              "location": "Mirror World",
+              "name": "Sol \ud83c\udfac",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/997503485707943937/1574641732",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1199203186382450688/zEEHTAnf_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199203186382450688/zEEHTAnf_normal.jpg",
+              "profile_link_color": "19CF86",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "Solmemes1",
+              "statuses_count": 94638,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/4F6WplyOkv",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/9HsklIRe9k",
+          "expanded_url": "https://twitter.com/Solmemes1/status/1203688184938475521/video/1",
+          "features": {},
+          "id": 1203687300913344512,
+          "id_str": "1203687300913344512",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203687300913344512/pu/img/X5f0dhhhvgYFlDD7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203687300913344512/pu/img/X5f0dhhhvgYFlDD7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1203688184938475521,
+          "source_status_id_str": "1203688184938475521",
+          "source_user_id": 997503485707943937,
+          "source_user_id_str": "997503485707943937",
+          "type": "video",
+          "url": "https://t.co/9HsklIRe9k",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 138125,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1203687300913344512/pu/vid/480x270/mIHZKKC4NU1VusXY.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1203687300913344512/pu/vid/1280x720/V123dr0FxXS9FBTU.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1203687300913344512/pu/vid/640x360/cK_Vy8QA7xCpbqZ4.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1203687300913344512/pu/pl/LTmb3iusQfUpbIhA.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 9021,
+    "favorited": false,
+    "full_text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\nhttps://t.co/9HsklIRe9k",
+    "geo": null,
+    "id": 1203855761690038273,
+    "id_str": "1203855761690038273",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3974,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "MAKING AMERICA GREAT AGAIN!\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8Personal Twitter Handle.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2941,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 597000,
+      "following": false,
+      "friends_count": 791,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3656,
+      "location": "Washington, DC\u2708\ufe0fNew York",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1571389614",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10657,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1203855761690038273,
+  "quoted_status_id_str": "1203855761690038273",
+  "quoted_status_permalink": {
+    "display": "twitter.com/danscavino/sta\u2026",
+    "expanded": "https://twitter.com/danscavino/status/1203855761690038273",
+    "url": "https://t.co/dOU1MK1Lwu"
+  },
+  "retweet_count": 6470,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67353829,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111108,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46828,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

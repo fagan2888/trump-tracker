@@ -1,0 +1,327 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jun 01 23:26:56 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 202200137,
+        "id_str": "202200137",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Jenna Browder",
+        "screen_name": "JennaBrowder"
+      },
+      {
+        "id": 44945327,
+        "id_str": "44945327",
+        "indices": [
+          103,
+          119
+        ],
+        "name": "Franklin Graham",
+        "screen_name": "Franklin_Graham"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JennaBrowder: \u201cThis is not a political endorsement. It\u2019s just simply praying for the president.\u201d - @Franklin_Graham tells me and @JohnJ\u2026",
+  "geo": null,
+  "id": 1134964577484124160,
+  "id_str": "1134964577484124160",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3352,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 01 12:32:27 +0000 2019",
+    "display_text_range": [
+      0,
+      240
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            188,
+            200
+          ],
+          "text": "FaithNation"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KbkeKsYRIK",
+          "expanded_url": "https://twitter.com/JennaBrowder/status/1134799869535821824/photo/1",
+          "id": 1134799860203474944,
+          "id_str": "1134799860203474944",
+          "indices": [
+            241,
+            264
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7-edd6XUAAdB7S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7-edd6XUAAdB7S.jpg",
+          "sizes": {
+            "large": {
+              "h": 750,
+              "resize": "fit",
+              "w": 1334
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/KbkeKsYRIK"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "www1.cbn.com/cbnnews/politi\u2026",
+          "expanded_url": "http://www1.cbn.com/cbnnews/politics/2019/may/franklin-graham-calls-for-national-day-of-prayer-for-president-trump-nbsp-ldquo-prayer-is-a-weapon-rdquo",
+          "indices": [
+            217,
+            240
+          ],
+          "url": "https://t.co/J2gy3579gZ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 44945327,
+          "id_str": "44945327",
+          "indices": [
+            85,
+            101
+          ],
+          "name": "Franklin Graham",
+          "screen_name": "Franklin_Graham"
+        },
+        {
+          "id": 183212100,
+          "id_str": "183212100",
+          "indices": [
+            115,
+            129
+          ],
+          "name": "John Jessup",
+          "screen_name": "JohnJessupCBN"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KbkeKsYRIK",
+          "expanded_url": "https://twitter.com/JennaBrowder/status/1134799869535821824/photo/1",
+          "id": 1134799860203474944,
+          "id_str": "1134799860203474944",
+          "indices": [
+            241,
+            264
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7-edd6XUAAdB7S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7-edd6XUAAdB7S.jpg",
+          "sizes": {
+            "large": {
+              "h": 750,
+              "resize": "fit",
+              "w": 1334
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/KbkeKsYRIK"
+        }
+      ]
+    },
+    "favorite_count": 11556,
+    "favorited": false,
+    "full_text": "\u201cThis is not a political endorsement. It\u2019s just simply praying for the president.\u201d - @Franklin_Graham tells me and @JohnJessupCBN about the special day of prayer he\u2019s organizing. Our full #FaithNation interview here: https://t.co/J2gy3579gZ https://t.co/KbkeKsYRIK",
+    "geo": null,
+    "id": 1134799869535821824,
+    "id_str": "1134799869535821824",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3352,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Oct 13 14:32:46 +0000 2010",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Host of CBN\u2019s Faith Nation",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "CBNNewsChannel.com",
+              "expanded_url": "http://CBNNewsChannel.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/XM8qeaHhhU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4086,
+      "follow_request_sent": false,
+      "followers_count": 28002,
+      "following": false,
+      "friends_count": 14690,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 202200137,
+      "id_str": "202200137",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 200,
+      "location": "Washington, DC",
+      "name": "Jenna Browder",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/202200137/1512334961",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1034556557005082629/gj3D2xbu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034556557005082629/gj3D2xbu_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JennaBrowder",
+      "statuses_count": 5064,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/XM8qeaHhhU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60741231,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103708,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559318619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42171,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

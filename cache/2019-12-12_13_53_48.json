@@ -1,0 +1,371 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 12 13:53:48 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 26487169,
+        "id_str": "26487169",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Lou Dobbs",
+        "screen_name": "LouDobbs"
+      },
+      {
+        "id": 384910109,
+        "id_str": "384910109",
+        "indices": [
+          39,
+          51
+        ],
+        "name": "Kimberley Strassel",
+        "screen_name": "KimStrassel"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LouDobbs: Media Misrepresentation. @KimStrassel says IG Horowtiz report did find personal bias, despite reports otherwise by the Nation\u2026",
+  "geo": null,
+  "id": 1205123587746750465,
+  "id_str": "1205123587746750465",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5042,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 12 00:49:10 +0000 2019",
+    "display_text_range": [
+      0,
+      171
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            145,
+            158
+          ],
+          "text": "AmericaFirst"
+        },
+        {
+          "indices": [
+            159,
+            164
+          ],
+          "text": "MAGA"
+        },
+        {
+          "indices": [
+            165,
+            171
+          ],
+          "text": "Dobbs"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3tcbhHQxTM",
+          "expanded_url": "https://twitter.com/LouDobbs/status/1204926128588296192/video/1",
+          "features": {},
+          "id": 1204925475900051458,
+          "id_str": "1204925475900051458",
+          "indices": [
+            172,
+            195
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELjBq9YXsAA-0_m.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELjBq9YXsAA-0_m.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3tcbhHQxTM"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 384910109,
+          "id_str": "384910109",
+          "indices": [
+            25,
+            37
+          ],
+          "name": "Kimberley Strassel",
+          "screen_name": "KimStrassel"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/3tcbhHQxTM",
+          "expanded_url": "https://twitter.com/LouDobbs/status/1204926128588296192/video/1",
+          "features": {},
+          "id": 1204925475900051458,
+          "id_str": "1204925475900051458",
+          "indices": [
+            172,
+            195
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELjBq9YXsAA-0_m.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELjBq9YXsAA-0_m.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/3tcbhHQxTM",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 382815,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1204925475900051458/vid/640x360/n5QPjB7x_9SY-kkT.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1204925475900051458/vid/1280x720/NFIdRbiDXixS5EKI.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1204925475900051458/vid/480x270/Y1hWmUtWLKE_b1ng.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1204925475900051458/pl/cJWx1r-mzpi-2I4F.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 14587,
+    "favorited": false,
+    "full_text": "Media Misrepresentation. @KimStrassel says IG Horowtiz report did find personal bias, despite reports otherwise by the National Left-Wing media. #AmericaFirst #MAGA #Dobbs https://t.co/3tcbhHQxTM",
+    "geo": null,
+    "id": 1204926128588296192,
+    "id_str": "1204926128588296192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5042,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 25 12:39:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Lou Dobbs Tonight, Fox Business Network, 7 & 10 pm IG: https://t.co/Mqnxd3lgtA",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/loudobbstonigh\u2026",
+              "expanded_url": "http://Instagram.com/loudobbstonight/",
+              "indices": [
+                55,
+                78
+              ],
+              "url": "https://t.co/Mqnxd3lgtA"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "loudobbs.com",
+              "expanded_url": "http://loudobbs.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mRPE2ZuJkU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 15181,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 2023578,
+      "following": false,
+      "friends_count": 2059,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 26487169,
+      "id_str": "26487169",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5357,
+      "location": "New York, NY",
+      "name": "Lou Dobbs",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26487169/1555706370",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/663851941571641344/OqqkE56l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/663851941571641344/OqqkE56l_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LouDobbs",
+      "statuses_count": 33517,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mRPE2ZuJkU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67491776,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47085,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

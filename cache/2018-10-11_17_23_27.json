@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 11 17:23:27 +0000 2018",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "The White House",
+        "screen_name": "WhiteHouse"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @WhiteHouse: Moments ago, President Trump signed the Music Modernization Act, which will close loopholes in our digital royalty laws to\u2026",
+  "geo": null,
+  "id": 1050436733039534080,
+  "id_str": "1050436733039534080",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11142,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 11 16:59:21 +0000 2018",
+    "display_text_range": [
+      0,
+      230
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yeQxBI15V0",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1050430667958509569/video/1",
+          "id": 1050430585091502083,
+          "id_str": "1050430585091502083",
+          "indices": [
+            231,
+            254
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050430585091502083/pu/img/Mu3PyRPDDe0RV5Ly.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050430585091502083/pu/img/Mu3PyRPDDe0RV5Ly.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yeQxBI15V0"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/yeQxBI15V0",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1050430667958509569/video/1",
+          "id": 1050430585091502083,
+          "id_str": "1050430585091502083",
+          "indices": [
+            231,
+            254
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050430585091502083/pu/img/Mu3PyRPDDe0RV5Ly.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050430585091502083/pu/img/Mu3PyRPDDe0RV5Ly.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/yeQxBI15V0",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 68633,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1050430585091502083/pu/vid/640x360/bOik0S5QYvzZSmGN.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1050430585091502083/pu/vid/1280x720/T9vTRvP8uG11-2xT.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1050430585091502083/pu/vid/320x180/2ZMGdvIBWXAu7q78.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1050430585091502083/pu/pl/ZKJ-9F5WexOGg8ct.m3u8?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 42029,
+    "favorited": false,
+    "full_text": "Moments ago, President Trump signed the Music Modernization Act, which will close loopholes in our digital royalty laws to ensure that songwriters, artists, producers, and providers receive fair payment for the licensing of music. https://t.co/yeQxBI15V0",
+    "geo": null,
+    "id": 1050430667958509569,
+    "id_str": "1050430667958509569",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11142,
+    "retweeted": false,
+    "source": "<a href=\"https://www.whitehouse.gov/\" rel=\"nofollow\">WH Digital</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "whitehouse.gov/privacy",
+              "expanded_url": "http://whitehouse.gov/privacy",
+              "indices": [
+                126,
+                149
+              ],
+              "url": "https://t.co/IURuMIrzxb"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9,
+      "follow_request_sent": false,
+      "followers_count": 17460055,
+      "following": false,
+      "friends_count": 12,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 822215673812119553,
+      "id_str": "822215673812119553",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 8766,
+      "location": "Washington, D.C.",
+      "name": "The White House",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1508763959",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/822251886988267520/28GpoRsy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/822251886988267520/28GpoRsy_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WhiteHouse",
+      "statuses_count": 5761,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55070983,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94535,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39242,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

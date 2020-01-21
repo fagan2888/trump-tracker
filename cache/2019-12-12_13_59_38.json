@@ -1,0 +1,243 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 12 13:59:38 +0000 2019",
+  "display_text_range": [
+    0,
+    76
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "wsj.com/articles/a-tra\u2026",
+        "expanded_url": "https://www.wsj.com/articles/a-trail-of-fbi-abuse-11575938300?shareToken=st64c149b436bb463e8aa02a65e112095a",
+        "indices": [
+          44,
+          67
+        ],
+        "url": "https://t.co/VnLr0ilB3i"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 384910109,
+        "id_str": "384910109",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Kimberley Strassel",
+        "screen_name": "KimStrassel"
+      },
+      {
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          72,
+          76
+        ],
+        "name": "The Wall Street Journal",
+        "screen_name": "WSJ"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KimStrassel: Read it all here, folks: \n https://t.co/VnLr0ilB3i via @WSJ",
+  "geo": null,
+  "id": 1205125055635578880,
+  "id_str": "1205125055635578880",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 4804,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 10 00:48:06 +0000 2019",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "wsj.com/articles/a-tra\u2026",
+          "expanded_url": "https://www.wsj.com/articles/a-trail-of-fbi-abuse-11575938300?shareToken=st64c149b436bb463e8aa02a65e112095a",
+          "indices": [
+            27,
+            50
+          ],
+          "url": "https://t.co/VnLr0ilB3i"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 3108351,
+          "id_str": "3108351",
+          "indices": [
+            55,
+            59
+          ],
+          "name": "The Wall Street Journal",
+          "screen_name": "WSJ"
+        }
+      ]
+    },
+    "favorite_count": 12736,
+    "favorited": false,
+    "full_text": "Read it all here, folks: \n https://t.co/VnLr0ilB3i via @WSJ",
+    "geo": null,
+    "id": 1204201087953076224,
+    "id_str": "1204201087953076224",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4804,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 04 15:00:44 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Potomac Watch columnist for Wall Street Journal edit page. Please preorder my new book! Resistance (At All Costs). https://t.co/8UUcgU7SCk",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "tinyurl.com/y23r5k6q",
+              "expanded_url": "https://tinyurl.com/y23r5k6q",
+              "indices": [
+                115,
+                138
+              ],
+              "url": "https://t.co/8UUcgU7SCk"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4830,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 334351,
+      "following": false,
+      "friends_count": 466,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 384910109,
+      "id_str": "384910109",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2494,
+      "location": "",
+      "name": "Kimberley Strassel",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/384910109/1571165408",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1658210459/strasshedcut_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1658210459/strasshedcut_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KimStrassel",
+      "statuses_count": 6425,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67491776,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47085,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

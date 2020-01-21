@@ -1,0 +1,451 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 01 12:27:34 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          112,
+          119
+        ],
+        "text": "Dorian"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 728248697654415360,
+        "id_str": "728248697654415360",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Hurricane Hunters",
+        "screen_name": "53rdWRS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @53rdWRS: We\u2019ve made it back home to Keesler Air Force Base, Mississippi. Here\u2019s a few photos from hurricane #Dorian \n\u2708\ufe0f\u26c8\ud83c\udf2a\ud83c\udf0a \n\n#ReserveCi\u2026",
+  "geo": null,
+  "id": 1168138324168585216,
+  "id_str": "1168138324168585216",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5712,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 01 07:52:36 +0000 2019",
+    "display_text_range": [
+      0,
+      203
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            99,
+            106
+          ],
+          "text": "Dorian"
+        },
+        {
+          "indices": [
+            116,
+            137
+          ],
+          "text": "ReserveCitizenAirmen"
+        },
+        {
+          "indices": [
+            138,
+            151
+          ],
+          "text": "ReserveReady"
+        },
+        {
+          "indices": [
+            152,
+            158
+          ],
+          "text": "403WG"
+        },
+        {
+          "indices": [
+            159,
+            166
+          ],
+          "text": "WC130J"
+        },
+        {
+          "indices": [
+            167,
+            181
+          ],
+          "text": "SuperHercules"
+        },
+        {
+          "indices": [
+            182,
+            195
+          ],
+          "text": "WeatherReady"
+        },
+        {
+          "indices": [
+            196,
+            203
+          ],
+          "text": "NWSNHC"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3Erxlf4qUk",
+          "expanded_url": "https://twitter.com/53rdWRS/status/1168069126838992896/photo/1",
+          "id": 1168069113262030848,
+          "id_str": "1168069113262030848",
+          "indices": [
+            204,
+            227
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDXQq3kWwAAXQee.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDXQq3kWwAAXQee.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3Erxlf4qUk"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3Erxlf4qUk",
+          "expanded_url": "https://twitter.com/53rdWRS/status/1168069126838992896/photo/1",
+          "id": 1168069113262030848,
+          "id_str": "1168069113262030848",
+          "indices": [
+            204,
+            227
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDXQq3kWwAAXQee.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDXQq3kWwAAXQee.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3Erxlf4qUk"
+        },
+        {
+          "display_url": "pic.twitter.com/3Erxlf4qUk",
+          "expanded_url": "https://twitter.com/53rdWRS/status/1168069126838992896/photo/1",
+          "id": 1168069113253683200,
+          "id_str": "1168069113253683200",
+          "indices": [
+            204,
+            227
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDXQq3iXYAAFWrV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDXQq3iXYAAFWrV.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3Erxlf4qUk"
+        },
+        {
+          "display_url": "pic.twitter.com/3Erxlf4qUk",
+          "expanded_url": "https://twitter.com/53rdWRS/status/1168069126838992896/photo/1",
+          "id": 1168069113404514306,
+          "id_str": "1168069113404514306",
+          "indices": [
+            204,
+            227
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDXQq4GU4AIB620.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDXQq4GU4AIB620.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3Erxlf4qUk"
+        },
+        {
+          "display_url": "pic.twitter.com/3Erxlf4qUk",
+          "expanded_url": "https://twitter.com/53rdWRS/status/1168069126838992896/photo/1",
+          "id": 1168069113400291335,
+          "id_str": "1168069113400291335",
+          "indices": [
+            204,
+            227
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDXQq4FUcAciCaJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDXQq4FUcAciCaJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3Erxlf4qUk"
+        }
+      ]
+    },
+    "favorite_count": 18705,
+    "favorited": false,
+    "full_text": "We\u2019ve made it back home to Keesler Air Force Base, Mississippi. Here\u2019s a few photos from hurricane #Dorian \n\u2708\ufe0f\u26c8\ud83c\udf2a\ud83c\udf0a \n\n#ReserveCitizenAirmen #ReserveReady #403WG #WC130J #SuperHercules #WeatherReady #NWSNHC https://t.co/3Erxlf4qUk",
+    "geo": null,
+    "id": 1168069126838992896,
+    "id_str": "1168069126838992896",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5712,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu May 05 15:43:14 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Official page of the Air Force Reserve #HurricaneHunters (Following, RT and links do not equal endorsement) #hurricanestrong @403rdWing",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "403wg.afrc.af.mil",
+              "expanded_url": "http://www.403wg.afrc.af.mil",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/qqWe9OIJvO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 413,
+      "follow_request_sent": false,
+      "followers_count": 60397,
+      "following": false,
+      "friends_count": 91,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 728248697654415360,
+      "id_str": "728248697654415360",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1141,
+      "location": "Keesler Air Force Base",
+      "name": "Hurricane Hunters",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/728248697654415360/1464614206",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/877257782885482497/S5IK0-tE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/877257782885482497/S5IK0-tE_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "53rdWRS",
+      "statuses_count": 388,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/qqWe9OIJvO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63833084,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108023,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43972,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

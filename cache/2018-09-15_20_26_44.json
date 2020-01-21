@@ -1,0 +1,386 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Sep 15 20:26:44 +0000 2018",
+  "display_text_range": [
+    0,
+    27
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/nycemergencymg\u2026",
+        "expanded_url": "https://twitter.com/nycemergencymgt/status/1040631845145194498",
+        "indices": [
+          28,
+          51
+        ],
+        "url": "https://t.co/8jR4DLm99t"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 226631680,
+        "id_str": "226631680",
+        "indices": [
+          10,
+          26
+        ],
+        "name": "NYC Emergency Management",
+        "screen_name": "nycemergencymgt"
+      }
+    ]
+  },
+  "favorite_count": 23944,
+  "favorited": false,
+  "full_text": "Thank you @nycemergencymgt! https://t.co/8jR4DLm99t",
+  "geo": null,
+  "id": 1041060770908393473,
+  "id_str": "1041060770908393473",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 14 16:02:20 +0000 2018",
+    "display_text_range": [
+      0,
+      156
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            100,
+            118
+          ],
+          "text": "HurricaneFlorence"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iAVpmQg8nW",
+          "expanded_url": "https://twitter.com/nycemergencymgt/status/1040631845145194498/video/1",
+          "id": 1040631067139555328,
+          "id_str": "1040631067139555328",
+          "indices": [
+            157,
+            180
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1040631067139555328/pu/img/nf1laBNVZxmyWpgw.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1040631067139555328/pu/img/nf1laBNVZxmyWpgw.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iAVpmQg8nW"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 16669075,
+          "id_str": "16669075",
+          "indices": [
+            119,
+            124
+          ],
+          "name": "FEMA",
+          "screen_name": "fema"
+        },
+        {
+          "id": 17393196,
+          "id_str": "17393196",
+          "indices": [
+            125,
+            134
+          ],
+          "name": "NYPD NEWS",
+          "screen_name": "NYPDnews"
+        },
+        {
+          "id": 134846593,
+          "id_str": "134846593",
+          "indices": [
+            135,
+            140
+          ],
+          "name": "FDNY",
+          "screen_name": "FDNY"
+        },
+        {
+          "id": 906979258421084160,
+          "id_str": "906979258421084160",
+          "indices": [
+            141,
+            156
+          ],
+          "name": "NATIONAL US&R SYSTEM",
+          "screen_name": "FEMA_USAR_NEWS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/iAVpmQg8nW",
+          "expanded_url": "https://twitter.com/nycemergencymgt/status/1040631845145194498/video/1",
+          "id": 1040631067139555328,
+          "id_str": "1040631067139555328",
+          "indices": [
+            157,
+            180
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1040631067139555328/pu/img/nf1laBNVZxmyWpgw.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1040631067139555328/pu/img/nf1laBNVZxmyWpgw.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/iAVpmQg8nW",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 36562,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1040631067139555328/pu/pl/FLnf_TAzSadIFgHi.m3u8?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1040631067139555328/pu/vid/1280x720/DdVTEpQifS--eLkw.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1040631067139555328/pu/vid/320x180/Ys-JMnln-O1Q2UVO.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1040631067139555328/pu/vid/640x360/XCvDs6ly0tdU0Ruc.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 791,
+    "favorited": false,
+    "full_text": "Water rescues are under way in River Bend, NC. US&amp;R NY-TF1 Bravo and partners are hard at work. #HurricaneFlorence @fema @NYPDnews @FDNY @FEMA_USAR_NEWS https://t.co/iAVpmQg8nW",
+    "geo": null,
+    "id": 1040631845145194498,
+    "id_str": "1040631845145194498",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 307,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 14 17:28:06 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official NYC Emergency Management feed. \nCall 911 for emergencies; \n311 for non-emergencies.\nAccount not monitored 24/7. \nhttps://t.co/N0igPl3T7S",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "nyc.gov/socialmediapol\u2026",
+              "expanded_url": "http://nyc.gov/socialmediapolicy",
+              "indices": [
+                126,
+                149
+              ],
+              "url": "https://t.co/N0igPl3T7S"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nyc.gov/emergencymanag\u2026",
+              "expanded_url": "http://www.nyc.gov/emergencymanagement",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Y9FE79QPRf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 544,
+      "follow_request_sent": false,
+      "followers_count": 51390,
+      "following": false,
+      "friends_count": 673,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 226631680,
+      "id_str": "226631680",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1180,
+      "location": "Brooklyn, New York",
+      "name": "NYC Emergency Management",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/226631680/1467128958",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875421118764433408/tHkJsE6h_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875421118764433408/tHkJsE6h_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "nycemergencymgt",
+      "statuses_count": 8168,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Y9FE79QPRf",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1040631845145194498,
+  "quoted_status_id_str": "1040631845145194498",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nycemergencymg\u2026",
+    "expanded": "https://twitter.com/nycemergencymgt/status/1040631845145194498",
+    "url": "https://t.co/8jR4DLm99t"
+  },
+  "retweet_count": 5543,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54471576,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93646,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38966,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

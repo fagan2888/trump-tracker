@@ -1,0 +1,819 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 06 19:10:25 +0000 2019",
+  "display_text_range": [
+    0,
+    280
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/MsWuEBgZxK",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1192157303753125888/photo/1",
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "Steven Mnuchin",
+                "screen_name": "stevenmnuchin1",
+                "type": "user",
+                "user_id": "799764016885329921"
+              },
+              {
+                "name": "Treasury Department",
+                "screen_name": "USTreasury",
+                "type": "user",
+                "user_id": "120176950"
+              }
+            ]
+          },
+          "large": {
+            "faces": [
+              {
+                "h": 42,
+                "w": 42,
+                "x": 825,
+                "y": 210
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 557,
+                "y": 227
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 741,
+                "y": 230
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 652,
+                "y": 232
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 268,
+                "y": 238
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 369,
+                "y": 256
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 879,
+                "y": 251
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 168,
+                "y": 257
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 374,
+                "y": 288
+              },
+              {
+                "h": 36,
+                "w": 36,
+                "x": 458,
+                "y": 321
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 532,
+                "y": 632
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 379,
+                "y": 633
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 42,
+                "w": 42,
+                "x": 825,
+                "y": 210
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 557,
+                "y": 227
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 741,
+                "y": 230
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 652,
+                "y": 232
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 268,
+                "y": 238
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 369,
+                "y": 256
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 879,
+                "y": 251
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 168,
+                "y": 257
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 374,
+                "y": 288
+              },
+              {
+                "h": 36,
+                "w": 36,
+                "x": 458,
+                "y": 321
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 532,
+                "y": 632
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 379,
+                "y": 633
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 42,
+                "w": 42,
+                "x": 825,
+                "y": 210
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 557,
+                "y": 227
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 741,
+                "y": 230
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 652,
+                "y": 232
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 268,
+                "y": 238
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 369,
+                "y": 256
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 879,
+                "y": 251
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 168,
+                "y": 257
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 374,
+                "y": 288
+              },
+              {
+                "h": 36,
+                "w": 36,
+                "x": 458,
+                "y": 321
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 532,
+                "y": 632
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 379,
+                "y": 633
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 27,
+                "w": 27,
+                "x": 547,
+                "y": 139
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 369,
+                "y": 150
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 492,
+                "y": 152
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 432,
+                "y": 154
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 177,
+                "y": 158
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 245,
+                "y": 170
+              },
+              {
+                "h": 29,
+                "w": 29,
+                "x": 583,
+                "y": 166
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 111,
+                "y": 170
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 248,
+                "y": 191
+              },
+              {
+                "h": 23,
+                "w": 23,
+                "x": 304,
+                "y": 213
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 353,
+                "y": 419
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 251,
+                "y": 420
+              }
+            ]
+          }
+        },
+        "id": 1192157296207552514,
+        "id_str": "1192157296207552514",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/EItkvpzXYAIoJ94.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EItkvpzXYAIoJ94.jpg",
+        "sizes": {
+          "large": {
+            "h": 682,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 682,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/MsWuEBgZxK"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/MsWuEBgZxK",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1192157303753125888/photo/1",
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "Steven Mnuchin",
+                "screen_name": "stevenmnuchin1",
+                "type": "user",
+                "user_id": "799764016885329921"
+              },
+              {
+                "name": "Treasury Department",
+                "screen_name": "USTreasury",
+                "type": "user",
+                "user_id": "120176950"
+              }
+            ]
+          },
+          "large": {
+            "faces": [
+              {
+                "h": 42,
+                "w": 42,
+                "x": 825,
+                "y": 210
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 557,
+                "y": 227
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 741,
+                "y": 230
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 652,
+                "y": 232
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 268,
+                "y": 238
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 369,
+                "y": 256
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 879,
+                "y": 251
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 168,
+                "y": 257
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 374,
+                "y": 288
+              },
+              {
+                "h": 36,
+                "w": 36,
+                "x": 458,
+                "y": 321
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 532,
+                "y": 632
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 379,
+                "y": 633
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 42,
+                "w": 42,
+                "x": 825,
+                "y": 210
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 557,
+                "y": 227
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 741,
+                "y": 230
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 652,
+                "y": 232
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 268,
+                "y": 238
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 369,
+                "y": 256
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 879,
+                "y": 251
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 168,
+                "y": 257
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 374,
+                "y": 288
+              },
+              {
+                "h": 36,
+                "w": 36,
+                "x": 458,
+                "y": 321
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 532,
+                "y": 632
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 379,
+                "y": 633
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 42,
+                "w": 42,
+                "x": 825,
+                "y": 210
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 557,
+                "y": 227
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 741,
+                "y": 230
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 652,
+                "y": 232
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 268,
+                "y": 238
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 369,
+                "y": 256
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 879,
+                "y": 251
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 168,
+                "y": 257
+              },
+              {
+                "h": 34,
+                "w": 34,
+                "x": 374,
+                "y": 288
+              },
+              {
+                "h": 36,
+                "w": 36,
+                "x": 458,
+                "y": 321
+              },
+              {
+                "h": 38,
+                "w": 38,
+                "x": 532,
+                "y": 632
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 379,
+                "y": 633
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 27,
+                "w": 27,
+                "x": 547,
+                "y": 139
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 369,
+                "y": 150
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 492,
+                "y": 152
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 432,
+                "y": 154
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 177,
+                "y": 158
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 245,
+                "y": 170
+              },
+              {
+                "h": 29,
+                "w": 29,
+                "x": 583,
+                "y": 166
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 111,
+                "y": 170
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 248,
+                "y": 191
+              },
+              {
+                "h": 23,
+                "w": 23,
+                "x": 304,
+                "y": 213
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 353,
+                "y": 419
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 251,
+                "y": 420
+              }
+            ]
+          }
+        },
+        "id": 1192157296207552514,
+        "id_str": "1192157296207552514",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/EItkvpzXYAIoJ94.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EItkvpzXYAIoJ94.jpg",
+        "sizes": {
+          "large": {
+            "h": 682,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 682,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/MsWuEBgZxK"
+      }
+    ]
+  },
+  "favorite_count": 52018,
+  "favorited": false,
+  "full_text": "Just had a meeting with top representatives from Egypt, Ethiopia, and Sudan to help solve their long running dispute on the Grand Ethiopian Renaissance Dam, one of the largest in the world, currently being built. The meeting went well and discussions will continue during the day! https://t.co/MsWuEBgZxK",
+  "geo": null,
+  "id": 1192157303753125888,
+  "id_str": "1192157303753125888",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 12180,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66630100,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110566,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45895,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

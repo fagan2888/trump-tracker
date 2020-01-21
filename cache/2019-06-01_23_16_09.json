@@ -1,0 +1,340 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jun 01 23:16:09 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 110606529,
+        "id_str": "110606529",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Jack Graham",
+        "screen_name": "jackngraham"
+      },
+      {
+        "id": 44945327,
+        "id_str": "44945327",
+        "indices": [
+          44,
+          60
+        ],
+        "name": "Franklin Graham",
+        "screen_name": "Franklin_Graham"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @jackngraham: I\u2019m joining my good friend @Franklin_Graham and hundreds of other faith leaders in asking our churches across America to p\u2026",
+  "geo": null,
+  "id": 1134961862494380034,
+  "id_str": "1134961862494380034",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4345,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 30 21:37:59 +0000 2019",
+    "display_text_range": [
+      0,
+      229
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/l8EbIDNHjA",
+          "expanded_url": "https://twitter.com/jackngraham/status/1134212384170631175/video/1",
+          "id": 1134212207955316736,
+          "id_str": "1134212207955316736",
+          "indices": [
+            230,
+            253
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134212207955316736/pu/img/YHLBFCBYnBVP8ryY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134212207955316736/pu/img/YHLBFCBYnBVP8ryY.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/l8EbIDNHjA"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "BillyGraham.org",
+          "expanded_url": "http://BillyGraham.org",
+          "indices": [
+            189,
+            212
+          ],
+          "url": "https://t.co/5m9AYIEj0a"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 44945327,
+          "id_str": "44945327",
+          "indices": [
+            27,
+            43
+          ],
+          "name": "Franklin Graham",
+          "screen_name": "Franklin_Graham"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/l8EbIDNHjA",
+          "expanded_url": "https://twitter.com/jackngraham/status/1134212384170631175/video/1",
+          "id": 1134212207955316736,
+          "id_str": "1134212207955316736",
+          "indices": [
+            230,
+            253
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134212207955316736/pu/img/YHLBFCBYnBVP8ryY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134212207955316736/pu/img/YHLBFCBYnBVP8ryY.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/l8EbIDNHjA",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 55509,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1134212207955316736/pu/vid/640x360/s9OB6c0v1_ikwliW.mp4?tag=9"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1134212207955316736/pu/vid/320x180/qGbMG_e-FnFQsG0c.mp4?tag=9"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1134212207955316736/pu/pl/NGLL7sg3ibgLuBdx.m3u8?tag=9"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1134212207955316736/pu/vid/1280x720/ONO-hbz0aDfdnqSr.mp4?tag=9"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 15680,
+    "favorited": false,
+    "full_text": "I\u2019m joining my good friend @Franklin_Graham and hundreds of other faith leaders in asking our churches across America to pray for our President this Sunday, June 2. Will you join us? Visit https://t.co/5m9AYIEj0a for more info. \ud83d\ude4f https://t.co/l8EbIDNHjA",
+    "geo": null,
+    "id": 1134212384170631175,
+    "id_str": "1134212384170631175",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4345,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Feb 02 04:04:41 +0000 2010",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Pastor @Prestonwood. Speaker PowerPoint. Following Jesus. Loving my family",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jackgraham.org",
+              "expanded_url": "http://jackgraham.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/oDcaRKRfRt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 45877,
+      "following": false,
+      "friends_count": 495,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 110606529,
+      "id_str": "110606529",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 474,
+      "location": "",
+      "name": "Jack Graham",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/110606529/1470668781",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/933416510428762112/Iut001sy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/933416510428762112/Iut001sy_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jackngraham",
+      "statuses_count": 12892,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/oDcaRKRfRt",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60741231,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103708,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559318619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42171,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

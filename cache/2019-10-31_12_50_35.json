@@ -1,0 +1,456 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 31 12:50:35 +0000 2019",
+  "display_text_range": [
+    0,
+    111
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/RoadMN/status/\u2026",
+        "expanded_url": "https://twitter.com/RoadMN/status/1189228108022460417",
+        "indices": [
+          112,
+          135
+        ],
+        "url": "https://t.co/C87eV3Zp7B"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1367531,
+        "id_str": "1367531",
+        "indices": [
+          19,
+          27
+        ],
+        "name": "Fox News",
+        "screen_name": "FoxNews"
+      },
+      {
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          38,
+          42
+        ],
+        "name": "CNN",
+        "screen_name": "CNN"
+      },
+      {
+        "id": 2836421,
+        "id_str": "2836421",
+        "indices": [
+          49,
+          55
+        ],
+        "name": "MSNBC",
+        "screen_name": "MSNBC"
+      }
+    ]
+  },
+  "favorite_count": 44212,
+  "favorited": false,
+  "full_text": "Congratulations to @FoxNews, you left @CNN &amp; @MSNBC in the dust (that\u2019s because the don\u2019t tell the truth!). https://t.co/C87eV3Zp7B",
+  "geo": null,
+  "id": 1189887388832714752,
+  "id_str": "1189887388832714752",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 29 17:10:50 +0000 2019",
+    "display_text_range": [
+      0,
+      219
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/aEUBBvHlw9",
+          "expanded_url": "https://twitter.com/RoadMN/status/1189228108022460417/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1189227697022685184,
+          "id_str": "1189227697022685184",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/media/EID8SiYX0AAOuta.png",
+          "media_url_https": "https://pbs.twimg.com/media/EID8SiYX0AAOuta.png",
+          "sizes": {
+            "large": {
+              "h": 855,
+              "resize": "fit",
+              "w": 439
+            },
+            "medium": {
+              "h": 855,
+              "resize": "fit",
+              "w": 439
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 349
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/aEUBBvHlw9"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 15513604,
+          "id_str": "15513604",
+          "indices": [
+            38,
+            52
+          ],
+          "name": "FOX & friends",
+          "screen_name": "foxandfriends"
+        },
+        {
+          "id": 60680268,
+          "id_str": "60680268",
+          "indices": [
+            53,
+            66
+          ],
+          "name": "Jedediah Bila",
+          "screen_name": "JedediahBila"
+        },
+        {
+          "id": 405004997,
+          "id_str": "405004997",
+          "indices": [
+            67,
+            79
+          ],
+          "name": "Pete Hegseth",
+          "screen_name": "PeteHegseth"
+        },
+        {
+          "id": 16157855,
+          "id_str": "16157855",
+          "indices": [
+            80,
+            88
+          ],
+          "name": "Ed Henry",
+          "screen_name": "edhenry"
+        },
+        {
+          "id": 2412738884,
+          "id_str": "2412738884",
+          "indices": [
+            93,
+            107
+          ],
+          "name": "SundayMorningFutures",
+          "screen_name": "SundayFutures"
+        },
+        {
+          "id": 208155240,
+          "id_str": "208155240",
+          "indices": [
+            108,
+            123
+          ],
+          "name": "Maria Bartiromo",
+          "screen_name": "MariaBartiromo"
+        },
+        {
+          "id": 21010253,
+          "id_str": "21010253",
+          "indices": [
+            126,
+            140
+          ],
+          "name": "Leland Vittert",
+          "screen_name": "LelandVittert"
+        },
+        {
+          "id": 2263438704,
+          "id_str": "2263438704",
+          "indices": [
+            141,
+            156
+          ],
+          "name": "Gillian Turner",
+          "screen_name": "GillianHTurner"
+        },
+        {
+          "id": 38495835,
+          "id_str": "38495835",
+          "indices": [
+            159,
+            173
+          ],
+          "name": "Mark R. Levin",
+          "screen_name": "marklevinshow"
+        },
+        {
+          "id": 851526166100029442,
+          "id_str": "851526166100029442",
+          "indices": [
+            176,
+            187
+          ],
+          "name": "The Next Revolution",
+          "screen_name": "NextRevFNC"
+        },
+        {
+          "id": 2779389582,
+          "id_str": "2779389582",
+          "indices": [
+            188,
+            201
+          ],
+          "name": "steve hilton",
+          "screen_name": "SteveHiltonx"
+        },
+        {
+          "id": 18805644,
+          "id_str": "18805644",
+          "indices": [
+            205,
+            219
+          ],
+          "name": "FoxNewsSunday",
+          "screen_name": "FoxNewsSunday"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/aEUBBvHlw9",
+          "expanded_url": "https://twitter.com/RoadMN/status/1189228108022460417/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1189227697022685184,
+          "id_str": "1189227697022685184",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/media/EID8SiYX0AAOuta.png",
+          "media_url_https": "https://pbs.twimg.com/media/EID8SiYX0AAOuta.png",
+          "sizes": {
+            "large": {
+              "h": 855,
+              "resize": "fit",
+              "w": 439
+            },
+            "medium": {
+              "h": 855,
+              "resize": "fit",
+              "w": 439
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 349
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/aEUBBvHlw9"
+        }
+      ]
+    },
+    "favorite_count": 1619,
+    "favorited": false,
+    "full_text": "Cable News Rankings Sun Oct 27\n\n1\u20e34\u20e36\u20e3@FoxandFriends @JedediahBila @PeteHegseth @EdHenry\n2\u20e33\u20e3@SundayFutures @MariaBartiromo\n5\u20e3@LelandVittert @GillianHTurner\n7\u20e3@MarkLevinShow\n8\u20e3@NextRevFNC @SteveHiltonx\n9\u20e3\ud83d\udd1f@FoxNewsSunday https://t.co/aEUBBvHlw9",
+    "geo": null,
+    "id": 1189228108022460417,
+    "id_str": "1189228108022460417",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 640,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Feb 19 00:13:58 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "An indefatigable tweeter of cable news ratings and cable news.   Meteorologist, Marketing Specialist.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2917,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 7977,
+      "following": false,
+      "friends_count": 249,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1195342478,
+      "id_str": "1195342478",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 55,
+      "location": "Minnesota Nice",
+      "name": "RoadMN",
+      "notifications": false,
+      "profile_background_color": "8B542B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1195342478/1555102584",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1116806860340908032/j5HBPnD3_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116806860340908032/j5HBPnD3_normal.png",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EADEAA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RoadMN",
+      "statuses_count": 11218,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1189228108022460417,
+  "quoted_status_id_str": "1189228108022460417",
+  "quoted_status_permalink": {
+    "display": "twitter.com/RoadMN/status/\u2026",
+    "expanded": "https://twitter.com/RoadMN/status/1189228108022460417",
+    "url": "https://t.co/C87eV3Zp7B"
+  },
+  "retweet_count": 11816,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66425535,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110361,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45705,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

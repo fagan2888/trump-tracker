@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jun 24 11:03:06 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818910970567344128,
+        "id_str": "818910970567344128",
+        "indices": [
+          3,
+          6
+        ],
+        "name": "Vice President Mike Pence",
+        "screen_name": "VP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @VP: Mexico has done more to secure our border in 10 days than Democrats in Congress have in 10 YEARS. The time to put Americans first i\u2026",
+  "geo": null,
+  "id": 1143112307335213056,
+  "id_str": "1143112307335213056",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11882,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 23 15:10:09 +0000 2019",
+    "display_text_range": [
+      0,
+      182
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rKMyUPCYd3",
+          "expanded_url": "https://twitter.com/VP/status/1142812088781459456/video/1",
+          "id": 1142811676422619148,
+          "id_str": "1142811676422619148",
+          "indices": [
+            183,
+            206
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142811676422619148/pu/img/Rf9xeTvQCaVfVg33.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142811676422619148/pu/img/Rf9xeTvQCaVfVg33.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rKMyUPCYd3"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/rKMyUPCYd3",
+          "expanded_url": "https://twitter.com/VP/status/1142812088781459456/video/1",
+          "id": 1142811676422619148,
+          "id_str": "1142811676422619148",
+          "indices": [
+            183,
+            206
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142811676422619148/pu/img/Rf9xeTvQCaVfVg33.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142811676422619148/pu/img/Rf9xeTvQCaVfVg33.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/rKMyUPCYd3",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 11634,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1142811676422619148/pu/vid/1280x720/dBr3A3wFHQry-N4O.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1142811676422619148/pu/vid/640x360/fo-4pDaRAOo1bbY3.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1142811676422619148/pu/vid/480x270/492VMP1GDxHscE8H.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1142811676422619148/pu/pl/Q9dQTRV1AJov48Ao.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 51405,
+    "favorited": false,
+    "full_text": "Mexico has done more to secure our border in 10 days than Democrats in Congress have in 10 YEARS. The time to put Americans first is now, we must act to fix the crisis on the border! https://t.co/rKMyUPCYd3",
+    "geo": null,
+    "id": 1142812088781459456,
+    "id_str": "1142812088781459456",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11882,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 20:02:44 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Vice President Mike Pence. Husband, father, & honored to serve as the 48th Vice President of the United States. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                136,
+                159
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Whitehouse.gov",
+              "expanded_url": "http://Whitehouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8TGZjBkuaR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16,
+      "follow_request_sent": false,
+      "followers_count": 7535405,
+      "following": false,
+      "friends_count": 13,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 818910970567344128,
+      "id_str": "818910970567344128",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9135,
+      "location": "Washington, D.C.",
+      "name": "Vice President Mike Pence",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818910970567344128/1559336634",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "VP",
+      "statuses_count": 6641,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8TGZjBkuaR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61341388,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104510,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42519,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

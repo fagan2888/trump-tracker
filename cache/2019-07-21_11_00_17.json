@@ -1,0 +1,509 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jul 21 11:00:17 +0000 2019",
+  "display_text_range": [
+    0,
+    85
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ha9DhzTakM",
+        "expanded_url": "https://twitter.com/GOP/status/1152726168182935552/video/1",
+        "id": 1152726130698461185,
+        "id_str": "1152726130698461185",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152726130698461185/pu/img/ffSpAzIFI8_mYeB-.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152726130698461185/pu/img/ffSpAzIFI8_mYeB-.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1152726168182935552,
+        "source_status_id_str": "1152726168182935552",
+        "source_user_id": 11134252,
+        "source_user_id_str": "11134252",
+        "type": "photo",
+        "url": "https://t.co/ha9DhzTakM"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 11134252,
+        "id_str": "11134252",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "GOP",
+        "screen_name": "GOP"
+      },
+      {
+        "id": 75541946,
+        "id_str": "75541946",
+        "indices": [
+          48,
+          61
+        ],
+        "name": "Lara Trump",
+        "screen_name": "LaraLeaTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Dec 13 17:15:41 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Join our team and get official updates from the Republican National Committee. \u2b07\ufe0f",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "goo.gl/xqho9k",
+                    "expanded_url": "https://goo.gl/xqho9k",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/TuMeEDhfc4"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 278,
+            "follow_request_sent": false,
+            "followers_count": 1957677,
+            "following": false,
+            "friends_count": 1660,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 11134252,
+            "id_str": "11134252",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 9231,
+            "location": "",
+            "name": "GOP",
+            "notifications": false,
+            "profile_background_color": "F0F0F0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/11134252/1560908994",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+            "profile_link_color": "F1242B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F5F5F5",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "GOP",
+            "statuses_count": 34481,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/TuMeEDhfc4",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/ha9DhzTakM",
+        "expanded_url": "https://twitter.com/GOP/status/1152726168182935552/video/1",
+        "id": 1152726130698461185,
+        "id_str": "1152726130698461185",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152726130698461185/pu/img/ffSpAzIFI8_mYeB-.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152726130698461185/pu/img/ffSpAzIFI8_mYeB-.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1152726168182935552,
+        "source_status_id_str": "1152726168182935552",
+        "source_user_id": 11134252,
+        "source_user_id_str": "11134252",
+        "type": "video",
+        "url": "https://t.co/ha9DhzTakM",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 18701,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1152726130698461185/pu/pl/bRQFe0R5LQcBAemy.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1152726130698461185/pu/vid/640x360/28VvjB5JZuQ9Wl5o.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1152726130698461185/pu/vid/1280x720/7rK7Q5PUVPwa--_m.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1152726130698461185/pu/vid/480x270/08mKCmav08nItzC-.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOP: \u201cWomen\u2019s issues are American issues.\u201d -@LaraLeaTrump https://t.co/ha9DhzTakM",
+  "geo": null,
+  "id": 1152896068180422658,
+  "id_str": "1152896068180422658",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 8119,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 20 23:45:09 +0000 2019",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ha9DhzTakM",
+          "expanded_url": "https://twitter.com/GOP/status/1152726168182935552/video/1",
+          "id": 1152726130698461185,
+          "id_str": "1152726130698461185",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152726130698461185/pu/img/ffSpAzIFI8_mYeB-.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152726130698461185/pu/img/ffSpAzIFI8_mYeB-.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ha9DhzTakM"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 75541946,
+          "id_str": "75541946",
+          "indices": [
+            39,
+            52
+          ],
+          "name": "Lara Trump",
+          "screen_name": "LaraLeaTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/ha9DhzTakM",
+          "expanded_url": "https://twitter.com/GOP/status/1152726168182935552/video/1",
+          "id": 1152726130698461185,
+          "id_str": "1152726130698461185",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152726130698461185/pu/img/ffSpAzIFI8_mYeB-.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152726130698461185/pu/img/ffSpAzIFI8_mYeB-.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ha9DhzTakM",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 18701,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1152726130698461185/pu/pl/bRQFe0R5LQcBAemy.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1152726130698461185/pu/vid/640x360/28VvjB5JZuQ9Wl5o.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1152726130698461185/pu/vid/1280x720/7rK7Q5PUVPwa--_m.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1152726130698461185/pu/vid/480x270/08mKCmav08nItzC-.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 32122,
+    "favorited": false,
+    "full_text": "\u201cWomen\u2019s issues are American issues.\u201d -@LaraLeaTrump https://t.co/ha9DhzTakM",
+    "geo": null,
+    "id": 1152726168182935552,
+    "id_str": "1152726168182935552",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8119,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 13 17:15:41 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Join our team and get official updates from the Republican National Committee. \u2b07\ufe0f",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/xqho9k",
+              "expanded_url": "https://goo.gl/xqho9k",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TuMeEDhfc4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 278,
+      "follow_request_sent": false,
+      "followers_count": 1957677,
+      "following": false,
+      "friends_count": 1660,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 11134252,
+      "id_str": "11134252",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9231,
+      "location": "",
+      "name": "GOP",
+      "notifications": false,
+      "profile_background_color": "F0F0F0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11134252/1560908994",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_link_color": "F1242B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F5F5F5",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOP",
+      "statuses_count": 34481,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/TuMeEDhfc4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62172868,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105547,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43055,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

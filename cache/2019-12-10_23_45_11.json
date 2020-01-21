@@ -1,0 +1,336 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Dec 10 23:45:11 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          63,
+          69
+        ],
+        "text": "USMCA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 842072478834909184,
+        "id_str": "842072478834909184",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Sec. Sonny Perdue",
+        "screen_name": "SecretarySonny"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SecretarySonny: Very encouraged by today\u2019s breakthrough on #USMCA \u2013 the agreement is a big win for America, especially for our farmers\u2026",
+  "geo": null,
+  "id": 1204547638244319232,
+  "id_str": "1204547638244319232",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5033,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 10 16:42:15 +0000 2019",
+    "display_text_range": [
+      0,
+      167
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            43,
+            49
+          ],
+          "text": "USMCA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ddc6qI8HTL",
+          "expanded_url": "https://twitter.com/SecretarySonny/status/1204441206794661889/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1204441200662634498,
+          "id_str": "1204441200662634498",
+          "indices": [
+            168,
+            191
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELcI4_5XYAItx2Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELcI4_5XYAItx2Z.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ddc6qI8HTL"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "usda.gov/media/press-re\u2026",
+          "expanded_url": "https://www.usda.gov/media/press-releases/2019/12/10/secretary-perdue-statement-usmca-agreement",
+          "indices": [
+            144,
+            167
+          ],
+          "url": "https://t.co/2ZG9oBrJIc"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ddc6qI8HTL",
+          "expanded_url": "https://twitter.com/SecretarySonny/status/1204441206794661889/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1204441200662634498,
+          "id_str": "1204441200662634498",
+          "indices": [
+            168,
+            191
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELcI4_5XYAItx2Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELcI4_5XYAItx2Z.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ddc6qI8HTL"
+        }
+      ]
+    },
+    "favorite_count": 17359,
+    "favorited": false,
+    "full_text": "Very encouraged by today\u2019s breakthrough on #USMCA \u2013 the agreement is a big win for America, especially for our farmers and ranchers. More HERE: https://t.co/2ZG9oBrJIc https://t.co/Ddc6qI8HTL",
+    "geo": null,
+    "id": 1204441206794661889,
+    "id_str": "1204441206794661889",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5033,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 15 17:58:18 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "31st Secretary @USDA. Husband, Father of 4, Big Buddy to 14 grandchildren. #Farmer, #Veteran, #Veterinarian, former two-term Gov. of GA.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "usda.gov",
+              "expanded_url": "https://www.usda.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JAsBIE5HWA"
+            }
+          ]
+        }
+      },
+      "favourites_count": 23,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 64909,
+      "following": false,
+      "friends_count": 480,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 842072478834909184,
+      "id_str": "842072478834909184",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 627,
+      "location": "",
+      "name": "Sec. Sonny Perdue",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/842072478834909184/1571773574",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1186730495519973376/dMwaqpb4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186730495519973376/dMwaqpb4_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SecretarySonny",
+      "statuses_count": 3071,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JAsBIE5HWA",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67448885,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111273,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46961,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

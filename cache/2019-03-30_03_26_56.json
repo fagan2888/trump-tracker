@@ -1,0 +1,347 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Mar 30 03:26:56 +0000 2019",
+  "display_text_range": [
+    0,
+    130
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/secpompeo/stat\u2026",
+        "expanded_url": "https://twitter.com/secpompeo/status/1111734163193954305",
+        "indices": [
+          131,
+          154
+        ],
+        "url": "https://t.co/oq0ZaA3MID"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 275451635,
+        "id_str": "275451635",
+        "indices": [
+          17,
+          31
+        ],
+        "name": "heather nauert",
+        "screen_name": "HeatherNauert"
+      },
+      {
+        "id": 9624742,
+        "id_str": "9624742",
+        "indices": [
+          59,
+          69
+        ],
+        "name": "Department of State",
+        "screen_name": "StateDept"
+      }
+    ]
+  },
+  "favorite_count": 18672,
+  "favorited": false,
+  "full_text": "A huge thanks to @HeatherNauert for serving America at the @StateDept. Great work! I\u2019m proud to have you join the Fulbright board! https://t.co/oq0ZaA3MID",
+  "geo": null,
+  "id": 1111832153602564101,
+  "id_str": "1111832153602564101",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 29 20:57:34 +0000 2019",
+    "display_text_range": [
+      0,
+      199
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bZKQovf52v",
+          "expanded_url": "https://twitter.com/SecPompeo/status/1111734163193954305/photo/1",
+          "id": 1111734109762654208,
+          "id_str": "1111734109762654208",
+          "indices": [
+            200,
+            223
+          ],
+          "media_url": "http://pbs.twimg.com/media/D22sSFkWkAAqRpB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D22sSFkWkAAqRpB.jpg",
+          "sizes": {
+            "large": {
+              "h": 1363,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bZKQovf52v"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 9624742,
+          "id_str": "9624742",
+          "indices": [
+            17,
+            27
+          ],
+          "name": "Department of State",
+          "screen_name": "StateDept"
+        },
+        {
+          "id": 275451635,
+          "id_str": "275451635",
+          "indices": [
+            45,
+            59
+          ],
+          "name": "heather nauert",
+          "screen_name": "HeatherNauert"
+        },
+        {
+          "id": 48788647,
+          "id_str": "48788647",
+          "indices": [
+            172,
+            187
+          ],
+          "name": "The Fulbright Program",
+          "screen_name": "FulbrightPrgrm"
+        },
+        {
+          "id": 19006707,
+          "id_str": "19006707",
+          "indices": [
+            188,
+            199
+          ],
+          "name": "Exchange Programs",
+          "screen_name": "ECAatState"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bZKQovf52v",
+          "expanded_url": "https://twitter.com/SecPompeo/status/1111734163193954305/photo/1",
+          "id": 1111734109762654208,
+          "id_str": "1111734109762654208",
+          "indices": [
+            200,
+            223
+          ],
+          "media_url": "http://pbs.twimg.com/media/D22sSFkWkAAqRpB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D22sSFkWkAAqRpB.jpg",
+          "sizes": {
+            "large": {
+              "h": 1363,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bZKQovf52v"
+        }
+      ]
+    },
+    "favorite_count": 1923,
+    "favorited": false,
+    "full_text": "On behalf of the @StateDept family, we thank @HeatherNauert for her service and two years of unequalled excellence. You will represent America well on the Fulbright board! @FulbrightPrgrm @ECAatState https://t.co/bZKQovf52v",
+    "geo": null,
+    "id": 1111734163193954305,
+    "id_str": "1111734163193954305",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 465,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Apr 24 00:20:22 +0000 2018",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "70th U.S. Secretary of @StateDept, working alongside the world\u2019s finest diplomatic corps. Husband, father, Army veteran, and proud Kansan.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "state.gov",
+              "expanded_url": "http://www.state.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eFqP1DyLiJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9,
+      "follow_request_sent": false,
+      "followers_count": 578933,
+      "following": false,
+      "friends_count": 47,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 988573326376427520,
+      "id_str": "988573326376427520",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 2554,
+      "location": "",
+      "name": "Secretary Pompeo",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/988573326376427520/1525190402",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1014454396522934273/w_96hmja_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014454396522934273/w_96hmja_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SecPompeo",
+      "statuses_count": 822,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eFqP1DyLiJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1111734163193954305,
+  "quoted_status_id_str": "1111734163193954305",
+  "quoted_status_permalink": {
+    "display": "twitter.com/secpompeo/stat\u2026",
+    "expanded": "https://twitter.com/secpompeo/status/1111734163193954305",
+    "url": "https://t.co/oq0ZaA3MID"
+  },
+  "retweet_count": 4242,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59416836,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101562,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41067,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

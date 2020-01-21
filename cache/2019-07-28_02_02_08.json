@@ -1,0 +1,328 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jul 28 02:02:08 +0000 2019",
+  "display_text_range": [
+    0,
+    30
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/realsaavedra/s\u2026",
+        "expanded_url": "https://twitter.com/realsaavedra/status/1155253573959028737",
+        "indices": [
+          31,
+          54
+        ],
+        "url": "https://t.co/JV4SF8ykCT"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 787373558,
+        "id_str": "787373558",
+        "indices": [
+          1,
+          13
+        ],
+        "name": "Elijah E. Cummings",
+        "screen_name": "RepCummings"
+      }
+    ]
+  },
+  "favorite_count": 41416,
+  "favorited": false,
+  "full_text": ".@RepCummings \u2014 your district! https://t.co/JV4SF8ykCT",
+  "geo": null,
+  "id": 1155297355203305476,
+  "id_str": "1155297355203305476",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 27 23:08:10 +0000 2019",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yGhKKB12DJ",
+          "expanded_url": "https://twitter.com/RealSaavedra/status/1155253573959028737/video/1",
+          "id": 1155253500667785216,
+          "id_str": "1155253500667785216",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1155253500667785216/pu/img/_jg8g1jcGUCwdFbU.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1155253500667785216/pu/img/_jg8g1jcGUCwdFbU.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 204
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 204
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 204
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yGhKKB12DJ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1259714432,
+          "id_str": "1259714432",
+          "indices": [
+            1,
+            15
+          ],
+          "name": "Kimberly Klacik",
+          "screen_name": "kimKBaltimore"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/yGhKKB12DJ",
+          "expanded_url": "https://twitter.com/RealSaavedra/status/1155253573959028737/video/1",
+          "id": 1155253500667785216,
+          "id_str": "1155253500667785216",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1155253500667785216/pu/img/_jg8g1jcGUCwdFbU.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1155253500667785216/pu/img/_jg8g1jcGUCwdFbU.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 204
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 204
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 204
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/yGhKKB12DJ",
+          "video_info": {
+            "aspect_ratio": [
+              17,
+              30
+            ],
+            "duration_millis": 134267,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1155253500667785216/pu/pl/mye7gW5r6CiCX01S.m3u8?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1155253500667785216/pu/vid/204x360/rFJJ9JHoexmHIoRG.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 30936,
+    "favorited": false,
+    "full_text": ".@kimKBaltimore interviews Baltimore resident Michelle:\n\nMichelle on Trump's tweets: \"What he said was definitely true. [Cummings] hasn't done anything for us\"\n\nMichelle on Cummings: \"He's worried more about [caring for illegal aliens at the border] than his own people\"\n\n(1/2) https://t.co/yGhKKB12DJ",
+    "geo": null,
+    "id": 1155253573959028737,
+    "id_str": "1155253573959028737",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 14510,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 23 03:20:58 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Reporter at @realDailyWire. Retweets \u2260 endorsement. rsaavedra@dailywire.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dailywire.com/authors/ryan-s\u2026",
+              "expanded_url": "http://www.dailywire.com/authors/ryan-saavedra",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OeFiLruANp"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8769,
+      "follow_request_sent": false,
+      "followers_count": 286042,
+      "following": false,
+      "friends_count": 286,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 812135885328236551,
+      "id_str": "812135885328236551",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1733,
+      "location": "USA",
+      "name": "Ryan Saavedra",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/812135885328236551/1516447063",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RealSaavedra",
+      "statuses_count": 34872,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/OeFiLruANp",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1155253573959028737,
+  "quoted_status_id_str": "1155253573959028737",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realsaavedra/s\u2026",
+    "expanded": "https://twitter.com/realsaavedra/status/1155253573959028737",
+    "url": "https://t.co/JV4SF8ykCT"
+  },
+  "retweet_count": 14888,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62378070,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105875,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43187,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

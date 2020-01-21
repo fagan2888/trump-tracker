@@ -1,0 +1,465 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 14:15:27 +0000 2019",
+  "display_text_range": [
+    0,
+    112
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/evanmcmurry/st\u2026",
+        "expanded_url": "https://twitter.com/evanmcmurry/status/1207459106908340224",
+        "indices": [
+          89,
+          112
+        ],
+        "url": "https://t.co/AT0WR10LkR"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 393469195,
+        "id_str": "393469195",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Stephen Miller",
+        "screen_name": "redsteeze"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @redsteeze: So you\u2019re saying you\u2019ve tried to impeach him four times now? Interesting. https://t.co/AT0WR10LkR",
+  "geo": null,
+  "id": 1207665752909713409,
+  "id_str": "1207665752909713409",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1207459106908340224,
+  "quoted_status_id_str": "1207459106908340224",
+  "quoted_status_permalink": {
+    "display": "twitter.com/evanmcmurry/st\u2026",
+    "expanded": "https://twitter.com/evanmcmurry/status/1207459106908340224",
+    "url": "https://t.co/AT0WR10LkR"
+  },
+  "retweet_count": 5110,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 19 00:36:11 +0000 2019",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/evanmcmurry/st\u2026",
+          "expanded_url": "https://twitter.com/evanmcmurry/status/1207459106908340224",
+          "indices": [
+            74,
+            97
+          ],
+          "url": "https://t.co/AT0WR10LkR"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 15558,
+    "favorited": false,
+    "full_text": "So you\u2019re saying you\u2019ve tried to impeach him four times now? Interesting. https://t.co/AT0WR10LkR",
+    "geo": null,
+    "id": 1207459578431995905,
+    "id_str": "1207459578431995905",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Dec 19 00:34:19 +0000 2019",
+      "display_text_range": [
+        0,
+        247
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/23aT13m4H5",
+            "expanded_url": "https://twitter.com/evanmcmurry/status/1207459106908340224/video/1",
+            "features": {},
+            "id": 1207459051866443776,
+            "id_str": "1207459051866443776",
+            "indices": [
+              248,
+              271
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMHBp3nVAAAcQ2D.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMHBp3nVAAAcQ2D.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/23aT13m4H5"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "abcn.ws/35ysXJW",
+            "expanded_url": "https://abcn.ws/35ysXJW",
+            "indices": [
+              224,
+              247
+            ],
+            "url": "https://t.co/6vo1s1WxJm"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "http://abcnews.com"
+                }
+              },
+              "description": "ABC News",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Video"
+            },
+            "display_url": "pic.twitter.com/23aT13m4H5",
+            "expanded_url": "https://twitter.com/evanmcmurry/status/1207459106908340224/video/1",
+            "features": {},
+            "id": 1207459051866443776,
+            "id_str": "1207459051866443776",
+            "indices": [
+              248,
+              271
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMHBp3nVAAAcQ2D.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMHBp3nVAAAcQ2D.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/23aT13m4H5",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 40908,
+              "variants": [
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1207459051866443776/vid/720x720/rmPMB4VWw_T_YGQQ.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1207459051866443776/vid/480x480/hudUIWFW0NMrrds1.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1207459051866443776/pl/hOVlGlfVl0hvpCGJ.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1207459051866443776/vid/320x320/aIcFsR1Pb8f73r21.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 602,
+      "favorited": false,
+      "full_text": "\"Democrats did not choose this impeachment,\" Dem. Rep. Steny Hoyer says. \"We voted against it three times, as recently as July.\"\n\n\"However, Pres. Trump's misconduct has forced our constitutional republic to protect itself.\" https://t.co/6vo1s1WxJm https://t.co/23aT13m4H5",
+      "geo": null,
+      "id": 1207459106908340224,
+      "id_str": "1207459106908340224",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 262,
+      "retweeted": false,
+      "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 04 00:50:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior Social Media Editor @ABC. Winner @NewMillWritings Fiction Prize, @ExpoReviewLit Flash 405 Award.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evanmcmurry.com",
+                "expanded_url": "http://evanmcmurry.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/zfuyRPjfZZ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 22753,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 15025,
+        "following": false,
+        "friends_count": 4073,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20017835,
+        "id_str": "20017835",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 517,
+        "location": "Brooklyn, NY",
+        "name": "Evan McMurry",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20017835/1441388870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199765572671676416/fO_XrrXD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199765572671676416/fO_XrrXD_normal.jpg",
+        "profile_link_color": "2F3FED",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "evanmcmurry",
+        "statuses_count": 60721,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zfuyRPjfZZ",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1207459106908340224,
+    "quoted_status_id_str": "1207459106908340224",
+    "quoted_status_permalink": {
+      "display": "twitter.com/evanmcmurry/st\u2026",
+      "expanded": "https://twitter.com/evanmcmurry/status/1207459106908340224",
+      "url": "https://t.co/AT0WR10LkR"
+    },
+    "retweet_count": 5110,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 18 15:46:57 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Creator + host of Vs Media Podcast on Patreon | Harm to ongoing matter | Published The Wilderness | Commentary archive at @nro @FoxNews @nypost @ricochet",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "patreon.com/millervsmedia",
+              "expanded_url": "https://www.patreon.com/millervsmedia",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/KQeHXCDOJT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 26,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 209878,
+      "following": false,
+      "friends_count": 1619,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 393469195,
+      "id_str": "393469195",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2777,
+      "location": "New York City of Brooklyn",
+      "name": "Stephen Miller",
+      "notifications": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/393469195/1460992872",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1171149010754854912/2CVoK6I8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171149010754854912/2CVoK6I8_normal.jpg",
+      "profile_link_color": "731010",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "redsteeze",
+      "statuses_count": 187551,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/KQeHXCDOJT",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

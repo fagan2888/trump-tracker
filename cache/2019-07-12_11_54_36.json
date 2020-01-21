@@ -1,0 +1,465 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 12 11:54:36 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1029600409554309120,
+        "id_str": "1029600409554309120",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "UnplannedMovie",
+        "screen_name": "UnplannedMovie"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @UnplannedMovie: What's it like being a film whose social media platforms were totally shut down because owners didn't like the implicat\u2026",
+  "geo": null,
+  "id": 1149648247872356352,
+  "id_str": "1149648247872356352",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1149459383723544577,
+  "quoted_status_id_str": "1149459383723544577",
+  "quoted_status_permalink": {
+    "display": "twitter.com/LiveAction/sta\u2026",
+    "expanded": "https://twitter.com/LiveAction/status/1149459383723544577",
+    "url": "https://t.co/0gypwg3Iv3"
+  },
+  "retweet_count": 5948,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 11 23:38:54 +0000 2019",
+    "display_text_range": [
+      0,
+      282
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            202,
+            220
+          ],
+          "text": "SocialMediaSummit"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/LiveAction/sta\u2026",
+          "expanded_url": "https://twitter.com/LiveAction/status/1149459383723544577",
+          "indices": [
+            283,
+            306
+          ],
+          "url": "https://t.co/0gypwg3Iv3"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 70468535,
+          "id_str": "70468535",
+          "indices": [
+            156,
+            170
+          ],
+          "name": "Lila Rose",
+          "screen_name": "LilaGraceRose"
+        },
+        {
+          "id": 18001922,
+          "id_str": "18001922",
+          "indices": [
+            177,
+            188
+          ],
+          "name": "Live Action",
+          "screen_name": "LiveAction"
+        }
+      ]
+    },
+    "favorite_count": 14573,
+    "favorited": false,
+    "full_text": "What's it like being a film whose social media platforms were totally shut down because owners didn't like the implications of the story? \n\nOur team joined @LilaGraceRose &amp; @LiveAction today at the #SocialMediaSummit in Washington D.C. to discuss this and other questions today. https://t.co/0gypwg3Iv3",
+    "geo": null,
+    "id": 1149463105497436165,
+    "id_str": "1149463105497436165",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Jul 11 23:24:07 +0000 2019",
+      "display_text_range": [
+        0,
+        177
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              159,
+              177
+            ],
+            "text": "SocialMediaSummit"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Fen5LIHLQB",
+            "expanded_url": "https://twitter.com/LiveAction/status/1149459383723544577/video/1",
+            "id": 1149459122430996480,
+            "id_str": "1149459122430996480",
+            "indices": [
+              178,
+              201
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149459122430996480/pu/img/Jm1ujXGzT_oaUAOG.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149459122430996480/pu/img/Jm1ujXGzT_oaUAOG.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Fen5LIHLQB"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/Fen5LIHLQB",
+            "expanded_url": "https://twitter.com/LiveAction/status/1149459383723544577/video/1",
+            "id": 1149459122430996480,
+            "id_str": "1149459122430996480",
+            "indices": [
+              178,
+              201
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149459122430996480/pu/img/Jm1ujXGzT_oaUAOG.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149459122430996480/pu/img/Jm1ujXGzT_oaUAOG.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/Fen5LIHLQB",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 109910,
+              "variants": [
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1149459122430996480/pu/vid/320x320/s-qfNBGLSF0b7Pce.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1149459122430996480/pu/vid/480x480/nwGnEmlQ9pl19PUp.mp4?tag=10"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1149459122430996480/pu/vid/720x720/wQdkBKd_Y-CQA7ky.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1149459122430996480/pu/pl/qxl2r4mnqDyWLWpd.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 5245,
+      "favorited": false,
+      "full_text": "We have been banned or suppressed on virtually every social media platform.\n \nThe active censorship is egregious and we refuse to back down to Big Tech.\n\nRT!\n\n#SocialMediaSummit https://t.co/Fen5LIHLQB",
+      "geo": null,
+      "id": 1149459383723544577,
+      "id_str": "1149459383723544577",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2800,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 09 20:48:11 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Live Action is a new media movement dedicated to building a culture of life and ending abortion.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "liveaction.org",
+                "expanded_url": "http://liveaction.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/lafaIjwIjU"
+              }
+            ]
+          }
+        },
+        "favourites_count": 5873,
+        "follow_request_sent": false,
+        "followers_count": 133100,
+        "following": false,
+        "friends_count": 2188,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18001922,
+        "id_str": "18001922",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1192,
+        "location": "Los Angeles, CA",
+        "name": "Live Action",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18001922/1549567356",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093584214883213312/MgRFVIXB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093584214883213312/MgRFVIXB_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LiveAction",
+        "statuses_count": 43960,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/lafaIjwIjU",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1149459383723544577,
+    "quoted_status_id_str": "1149459383723544577",
+    "quoted_status_permalink": {
+      "display": "twitter.com/LiveAction/sta\u2026",
+      "expanded": "https://twitter.com/LiveAction/status/1149459383723544577",
+      "url": "https://t.co/0gypwg3Iv3"
+    },
+    "retweet_count": 5948,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Aug 15 05:27:21 +0000 2018",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Unplanned is the inspiring true story of one woman\u2019s journey of transformation. #UnPlanned IN THEATERS NOW",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Unplanned.com",
+              "expanded_url": "http://Unplanned.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bMXQrouB4n"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3127,
+      "follow_request_sent": false,
+      "followers_count": 336665,
+      "following": false,
+      "friends_count": 4361,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1029600409554309120,
+      "id_str": "1029600409554309120",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 321,
+      "location": "California, USA",
+      "name": "UnplannedMovie",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029600409554309120/1554093308",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1042279030781706240/9-5WzJmm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042279030781706240/9-5WzJmm_normal.jpg",
+      "profile_link_color": "0190B3",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "UnplannedMovie",
+      "statuses_count": 1179,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/bMXQrouB4n",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 61882786,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105181,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42870,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

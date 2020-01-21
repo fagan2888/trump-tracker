@@ -1,0 +1,348 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 18 20:59:13 +0000 2019",
+  "display_text_range": [
+    0,
+    40
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/newscomauhq/st\u2026",
+        "expanded_url": "https://twitter.com/newscomauhq/status/1129713937795076096",
+        "indices": [
+          41,
+          64
+        ],
+        "url": "https://t.co/IKxDrQmHfV"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 46188,
+  "favorited": false,
+  "full_text": "Congratulations to Scott on a GREAT WIN! https://t.co/IKxDrQmHfV",
+  "geo": null,
+  "id": 1129853974247550977,
+  "id_str": "1129853974247550977",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 18 11:42:46 +0000 2019",
+    "display_text_range": [
+      0,
+      186
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "text": "BREAKING"
+        },
+        {
+          "indices": [
+            169,
+            176
+          ],
+          "text": "Auspol"
+        },
+        {
+          "indices": [
+            177,
+            186
+          ],
+          "text": "Ausvotes"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YcjVAjxcvc",
+          "expanded_url": "https://twitter.com/newscomauHQ/status/1129713937795076096/video/1",
+          "id": 1129713822036447232,
+          "id_str": "1129713822036447232",
+          "indices": [
+            187,
+            210
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129713822036447232/pu/img/XFTyn17gr3NfXS_5.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129713822036447232/pu/img/XFTyn17gr3NfXS_5.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YcjVAjxcvc"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2Hy1JZ5",
+          "expanded_url": "http://bit.ly/2Hy1JZ5",
+          "indices": [
+            145,
+            168
+          ],
+          "url": "https://t.co/LntybQ1CQ9"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/YcjVAjxcvc",
+          "expanded_url": "https://twitter.com/newscomauHQ/status/1129713937795076096/video/1",
+          "id": 1129713822036447232,
+          "id_str": "1129713822036447232",
+          "indices": [
+            187,
+            210
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129713822036447232/pu/img/XFTyn17gr3NfXS_5.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129713822036447232/pu/img/XFTyn17gr3NfXS_5.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/YcjVAjxcvc",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 10010,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1129713822036447232/pu/pl/Ml49lW7lVtXcOGSg.m3u8?tag=9"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1129713822036447232/pu/vid/720x720/R1U86EAu-1ftyHKJ.mp4?tag=9"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1129713822036447232/pu/vid/320x320/sfwq1Glyas9tbdUv.mp4?tag=9"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1129713822036447232/pu/vid/480x480/idsuxVmZikS9WSQD.mp4?tag=9"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5010,
+    "favorited": false,
+    "full_text": "#BREAKING: Scott Morrison has swept to victory in a sensational federal election result that defied the polls and cements the Coalition\u2019s power. https://t.co/LntybQ1CQ9 #Auspol #Ausvotes https://t.co/YcjVAjxcvc",
+    "geo": null,
+    "id": 1129713937795076096,
+    "id_str": "1129713937795076096",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1949,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jun 27 02:03:07 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Australia's number one news site. Bringing you the latest breaking news from Australia and around the world.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "news.com.au",
+              "expanded_url": "http://www.news.com.au",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/2imUDGKnpC"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1458,
+      "follow_request_sent": false,
+      "followers_count": 502064,
+      "following": false,
+      "friends_count": 4297,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 15250661,
+      "id_str": "15250661",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3429,
+      "location": "Australia",
+      "name": "news.com.au",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15250661/1554159644",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098007143330902016/NxA76ZiP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098007143330902016/NxA76ZiP_normal.jpg",
+      "profile_link_color": "0A6395",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EDEDED",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "newscomauHQ",
+      "statuses_count": 213234,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/2imUDGKnpC",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1129713937795076096,
+  "quoted_status_id_str": "1129713937795076096",
+  "quoted_status_permalink": {
+    "display": "twitter.com/newscomauhq/st\u2026",
+    "expanded": "https://twitter.com/newscomauhq/status/1129713937795076096",
+    "url": "https://t.co/IKxDrQmHfV"
+  },
+  "retweet_count": 10570,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60341835,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 103212,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41929,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 19 12:29:38 +0000 2019",
+  "display_text_range": [
+    0,
+    131
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/FoywJXN4zi",
+        "expanded_url": "https://twitter.com/ZTPetrizzo/status/1184900224151670784/video/1",
+        "id": 1184900100587511809,
+        "id_str": "1184900100587511809",
+        "indices": [
+          108,
+          131
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184900100587511809/pu/img/nwzeQtNvo-r6hMsT.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184900100587511809/pu/img/nwzeQtNvo-r6hMsT.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1184900224151670784,
+        "source_status_id_str": "1184900224151670784",
+        "source_user_id": 835309132509024260,
+        "source_user_id_str": "835309132509024260",
+        "type": "photo",
+        "url": "https://t.co/FoywJXN4zi"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 835309132509024260,
+        "id_str": "835309132509024260",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Zachary Petrizzo",
+        "screen_name": "ZTPetrizzo"
+      },
+      {
+        "id": 23600262,
+        "id_str": "23600262",
+        "indices": [
+          63,
+          77
+        ],
+        "name": "Eleanor Holmes Norton",
+        "screen_name": "EleanorNorton"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Feb 25 02:03:11 +0000 2017",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "covering politics & the internet. gmu undergrad. grateful for another day. tips: zpetrizz@gmu.edu",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "twitter.com/ZTPetrizzo",
+                    "expanded_url": "https://twitter.com/ZTPetrizzo",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/Cem5UxXBvP"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 5118,
+            "follow_request_sent": false,
+            "followers_count": 4603,
+            "following": false,
+            "friends_count": 3280,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 835309132509024260,
+            "id_str": "835309132509024260",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 12,
+            "location": "Washington, DC",
+            "name": "Zachary Petrizzo",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/835309132509024260/1571491506",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1181776802848612352/JYDKKu_7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181776802848612352/JYDKKu_7_normal.jpg",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ZTPetrizzo",
+            "statuses_count": 234,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/Cem5UxXBvP",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/FoywJXN4zi",
+        "expanded_url": "https://twitter.com/ZTPetrizzo/status/1184900224151670784/video/1",
+        "id": 1184900100587511809,
+        "id_str": "1184900100587511809",
+        "indices": [
+          108,
+          131
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184900100587511809/pu/img/nwzeQtNvo-r6hMsT.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184900100587511809/pu/img/nwzeQtNvo-r6hMsT.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1184900224151670784,
+        "source_status_id_str": "1184900224151670784",
+        "source_user_id": 835309132509024260,
+        "source_user_id_str": "835309132509024260",
+        "type": "video",
+        "url": "https://t.co/FoywJXN4zi",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 45002,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1184900100587511809/pu/vid/1280x720/06vfCy7kUJC0TPjQ.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1184900100587511809/pu/pl/jP3eXcXLfonhXCx4.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1184900100587511809/pu/vid/640x360/y_7RzoCsmEjTUEwF.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1184900100587511809/pu/vid/480x270/GsagoLZJQhqQJ2b0.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ZTPetrizzo: One pro-Trump demonstrator just began hounding @EleanorNorton over the impeachment inquiry: https://t.co/FoywJXN4zi",
+  "geo": null,
+  "id": 1185533464700956672,
+  "id_str": "1185533464700956672",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 6438,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 17 18:33:22 +0000 2019",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FoywJXN4zi",
+          "expanded_url": "https://twitter.com/ZTPetrizzo/status/1184900224151670784/video/1",
+          "id": 1184900100587511809,
+          "id_str": "1184900100587511809",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184900100587511809/pu/img/nwzeQtNvo-r6hMsT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184900100587511809/pu/img/nwzeQtNvo-r6hMsT.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FoywJXN4zi"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 23600262,
+          "id_str": "23600262",
+          "indices": [
+            47,
+            61
+          ],
+          "name": "Eleanor Holmes Norton",
+          "screen_name": "EleanorNorton"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/FoywJXN4zi",
+          "expanded_url": "https://twitter.com/ZTPetrizzo/status/1184900224151670784/video/1",
+          "id": 1184900100587511809,
+          "id_str": "1184900100587511809",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184900100587511809/pu/img/nwzeQtNvo-r6hMsT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184900100587511809/pu/img/nwzeQtNvo-r6hMsT.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/FoywJXN4zi",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 45002,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1184900100587511809/pu/vid/1280x720/06vfCy7kUJC0TPjQ.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1184900100587511809/pu/pl/jP3eXcXLfonhXCx4.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1184900100587511809/pu/vid/640x360/y_7RzoCsmEjTUEwF.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1184900100587511809/pu/vid/480x270/GsagoLZJQhqQJ2b0.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 20221,
+    "favorited": false,
+    "full_text": "One pro-Trump demonstrator just began hounding @EleanorNorton over the impeachment inquiry: https://t.co/FoywJXN4zi",
+    "geo": null,
+    "id": 1184900224151670784,
+    "id_str": "1184900224151670784",
+    "in_reply_to_screen_name": "ZTPetrizzo",
+    "in_reply_to_status_id": 1184897290881978368,
+    "in_reply_to_status_id_str": "1184897290881978368",
+    "in_reply_to_user_id": 835309132509024260,
+    "in_reply_to_user_id_str": "835309132509024260",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6438,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Feb 25 02:03:11 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "covering politics & the internet. gmu undergrad. grateful for another day. tips: zpetrizz@gmu.edu",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "twitter.com/ZTPetrizzo",
+              "expanded_url": "https://twitter.com/ZTPetrizzo",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Cem5UxXBvP"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5118,
+      "follow_request_sent": false,
+      "followers_count": 4603,
+      "following": false,
+      "friends_count": 3280,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 835309132509024260,
+      "id_str": "835309132509024260",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 12,
+      "location": "Washington, DC",
+      "name": "Zachary Petrizzo",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/835309132509024260/1571491506",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1181776802848612352/JYDKKu_7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181776802848612352/JYDKKu_7_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "ZTPetrizzo",
+      "statuses_count": 234,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Cem5UxXBvP",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 66002850,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110070,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45355,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

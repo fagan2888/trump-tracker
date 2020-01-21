@@ -1,0 +1,480 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 06 12:59:31 +0000 2019",
+  "display_text_range": [
+    0,
+    124
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/greggjarrett/s\u2026",
+        "expanded_url": "https://twitter.com/greggjarrett/status/1180285260396994560",
+        "indices": [
+          101,
+          124
+        ],
+        "url": "https://t.co/RVdUQJM39v"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 17800215,
+        "id_str": "17800215",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Jason Chaffetz",
+        "screen_name": "jasoninthehouse"
+      },
+      {
+        "id": 21536398,
+        "id_str": "21536398",
+        "indices": [
+          29,
+          42
+        ],
+        "name": "Gregg Jarrett",
+        "screen_name": "GreggJarrett"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @jasoninthehouse: Worthy. @GreggJarrett has done amazing research.  I suggest you pick up a copy. https://t.co/RVdUQJM39v",
+  "geo": null,
+  "id": 1180829942998802432,
+  "id_str": "1180829942998802432",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1180285260396994560,
+  "quoted_status_id_str": "1180285260396994560",
+  "quoted_status_permalink": {
+    "display": "twitter.com/greggjarrett/s\u2026",
+    "expanded": "https://twitter.com/greggjarrett/status/1180285260396994560",
+    "url": "https://t.co/RVdUQJM39v"
+  },
+  "retweet_count": 4545,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 05 14:05:17 +0000 2019",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/greggjarrett/s\u2026",
+          "expanded_url": "https://twitter.com/greggjarrett/status/1180285260396994560",
+          "indices": [
+            80,
+            103
+          ],
+          "url": "https://t.co/RVdUQJM39v"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 21536398,
+          "id_str": "21536398",
+          "indices": [
+            8,
+            21
+          ],
+          "name": "Gregg Jarrett",
+          "screen_name": "GreggJarrett"
+        }
+      ]
+    },
+    "favorite_count": 15533,
+    "favorited": false,
+    "full_text": "Worthy. @GreggJarrett has done amazing research.  I suggest you pick up a copy. https://t.co/RVdUQJM39v",
+    "geo": null,
+    "id": 1180484104128626688,
+    "id_str": "1180484104128626688",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Oct 05 00:55:09 +0000 2019",
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/jbLhTsy0ZO",
+            "expanded_url": "https://twitter.com/GreggJarrett/status/1180285260396994560/video/1",
+            "id": 1180284004467122176,
+            "id_str": "1180284004467122176",
+            "indices": [
+              127,
+              150
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1180284004467122176/pu/img/wNAzEGH7_SumQ4jm.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1180284004467122176/pu/img/wNAzEGH7_SumQ4jm.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/jbLhTsy0ZO"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "amzn.to/2MiWn6F",
+            "expanded_url": "https://amzn.to/2MiWn6F",
+            "indices": [
+              103,
+              126
+            ],
+            "url": "https://t.co/BLXVtDKC5W"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/jbLhTsy0ZO",
+            "expanded_url": "https://twitter.com/GreggJarrett/status/1180285260396994560/video/1",
+            "id": 1180284004467122176,
+            "id_str": "1180284004467122176",
+            "indices": [
+              127,
+              150
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1180284004467122176/pu/img/wNAzEGH7_SumQ4jm.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1180284004467122176/pu/img/wNAzEGH7_SumQ4jm.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/jbLhTsy0ZO",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 15057,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1180284004467122176/pu/pl/32jd-49LM_Gkhnqy.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1180284004467122176/pu/vid/480x480/hEaEc5PYoSgCCICn.mp4?tag=10"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1180284004467122176/pu/vid/320x320/7KWpauG8B1ZT2gFL.mp4?tag=10"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1180284004467122176/pu/vid/720x720/r1KQ7kVUVYgEMjYM.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 29153,
+      "favorited": false,
+      "full_text": "Witch Hunt: The Story of the Greatest Mass Delusion in American Political History - get your copy now! https://t.co/BLXVtDKC5W https://t.co/jbLhTsy0ZO",
+      "geo": null,
+      "id": 1180285260396994560,
+      "id_str": "1180285260396994560",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 9519,
+      "retweeted": false,
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 22 01:59:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Legal and political analyst for Fox News Channel. Author of THE RUSSIA HOAX and WITCH HUNT, available for pre-order now: https://t.co/ubSNZAlnqV.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/WitchHuntbook",
+                "expanded_url": "http://bit.ly/WitchHuntbook",
+                "indices": [
+                  121,
+                  144
+                ],
+                "url": "https://t.co/ubSNZAlnqV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thegreggjarrett.com",
+                "expanded_url": "https://thegreggjarrett.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/bCa80T64zi"
+              }
+            ]
+          }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 415817,
+        "following": false,
+        "friends_count": 112,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 21536398,
+        "id_str": "21536398",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1584,
+        "location": "New York",
+        "name": "Gregg Jarrett",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21536398/1566419985",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024332491967160321/AZAsCMuO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024332491967160321/AZAsCMuO_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "ED322C",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GreggJarrett",
+        "statuses_count": 811,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/bCa80T64zi",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1180285260396994560,
+    "quoted_status_id_str": "1180285260396994560",
+    "quoted_status_permalink": {
+      "display": "twitter.com/greggjarrett/s\u2026",
+      "expanded": "https://twitter.com/greggjarrett/status/1180285260396994560",
+      "url": "https://t.co/RVdUQJM39v"
+    },
+    "retweet_count": 4545,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 02 04:59:53 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Fox News Contributor. Author of Power Grab and The Deep State. Former Chairman, Oversight & Gov't Reform U.S. House of Reps. Husband, Father, Grandfather.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JasonChaffetz.com",
+              "expanded_url": "http://www.JasonChaffetz.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9jphFxdbsM"
+            }
+          ]
+        }
+      },
+      "favourites_count": 826,
+      "follow_request_sent": false,
+      "followers_count": 518088,
+      "following": false,
+      "friends_count": 1479,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 17800215,
+      "id_str": "17800215",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4141,
+      "location": "Utah, USA",
+      "name": "Jason Chaffetz",
+      "notifications": false,
+      "profile_background_color": "2513AD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17800215/1562011863",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1145976448605442048/fTIm1RXc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145976448605442048/fTIm1RXc_normal.jpg",
+      "profile_link_color": "0D0DA8",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jasoninthehouse",
+      "statuses_count": 11051,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9jphFxdbsM",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65310225,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109426,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44917,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

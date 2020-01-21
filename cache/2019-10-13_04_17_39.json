@@ -1,0 +1,544 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 13 04:17:39 +0000 2019",
+  "display_text_range": [
+    0,
+    39
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/KeCSTIVms0",
+        "expanded_url": "https://twitter.com/som3thingwicked/status/1182722701322051584/video/1",
+        "id": 1182722491057344512,
+        "id_str": "1182722491057344512",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182722491057344512/pu/img/XI9uRbePZSWzejx8.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182722491057344512/pu/img/XI9uRbePZSWzejx8.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1182722701322051584,
+        "source_status_id_str": "1182722701322051584",
+        "source_user_id": 41144411,
+        "source_user_id_str": "41144411",
+        "type": "photo",
+        "url": "https://t.co/KeCSTIVms0"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 19 16:03:13 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I MAKE MEMES \u2014 If the frozen head of Ted Williams could see our woke, snowflake society, it would demand to be thawed and cremated",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/c/SOMETHiNGWiC\u2026",
+                    "expanded_url": "https://www.youtube.com/c/SOMETHiNGWiCK%C3%8BD",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/3YXwZ2lbMu"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 14914,
+            "follow_request_sent": false,
+            "followers_count": 22196,
+            "following": false,
+            "friends_count": 124,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 41144411,
+            "id_str": "41144411",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 123,
+            "location": "Island of Misfit Toys",
+            "name": "SOMETHiNG WiCK\u00cbD",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41144411/1551761816",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1137221496336715776/8LuwuM7Z_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137221496336715776/8LuwuM7Z_normal.png",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "som3thingwicked",
+            "statuses_count": 9179,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/3YXwZ2lbMu",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/KeCSTIVms0",
+        "expanded_url": "https://twitter.com/som3thingwicked/status/1182722701322051584/video/1",
+        "id": 1182722491057344512,
+        "id_str": "1182722491057344512",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182722491057344512/pu/img/XI9uRbePZSWzejx8.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182722491057344512/pu/img/XI9uRbePZSWzejx8.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1182722701322051584,
+        "source_status_id_str": "1182722701322051584",
+        "source_user_id": 41144411,
+        "source_user_id_str": "41144411",
+        "type": "video",
+        "url": "https://t.co/KeCSTIVms0",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 38038,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1182722491057344512/pu/vid/640x360/vYXk-B0eY57Slpc0.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1182722491057344512/pu/vid/480x270/ISpiXnJUtH0Xg_7D.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1182722491057344512/pu/vid/1280x720/AVOmf2Qexx3Cplbn.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1182722491057344512/pu/pl/cPtuclyBqO3Mdc6f.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: https://t.co/KeCSTIVms0",
+  "geo": null,
+  "id": 1183235322773233664,
+  "id_str": "1183235322773233664",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 4751,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 12 21:37:09 +0000 2019",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KeCSTIVms0",
+          "expanded_url": "https://twitter.com/som3thingwicked/status/1182722701322051584/video/1",
+          "id": 1182722491057344512,
+          "id_str": "1182722491057344512",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182722491057344512/pu/img/XI9uRbePZSWzejx8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182722491057344512/pu/img/XI9uRbePZSWzejx8.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1182722701322051584,
+          "source_status_id_str": "1182722701322051584",
+          "source_user_id": 41144411,
+          "source_user_id_str": "41144411",
+          "type": "photo",
+          "url": "https://t.co/KeCSTIVms0"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Tue May 19 16:03:13 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "I MAKE MEMES \u2014 If the frozen head of Ted Williams could see our woke, snowflake society, it would demand to be thawed and cremated",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com/c/SOMETHiNGWiC\u2026",
+                      "expanded_url": "https://www.youtube.com/c/SOMETHiNGWiCK%C3%8BD",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/3YXwZ2lbMu"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 14914,
+              "follow_request_sent": false,
+              "followers_count": 22196,
+              "following": false,
+              "friends_count": 124,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 41144411,
+              "id_str": "41144411",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 123,
+              "location": "Island of Misfit Toys",
+              "name": "SOMETHiNG WiCK\u00cbD",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/41144411/1551761816",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1137221496336715776/8LuwuM7Z_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137221496336715776/8LuwuM7Z_normal.png",
+              "profile_link_color": "3B94D9",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "som3thingwicked",
+              "statuses_count": 9179,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/3YXwZ2lbMu",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/KeCSTIVms0",
+          "expanded_url": "https://twitter.com/som3thingwicked/status/1182722701322051584/video/1",
+          "id": 1182722491057344512,
+          "id_str": "1182722491057344512",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182722491057344512/pu/img/XI9uRbePZSWzejx8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182722491057344512/pu/img/XI9uRbePZSWzejx8.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1182722701322051584,
+          "source_status_id_str": "1182722701322051584",
+          "source_user_id": 41144411,
+          "source_user_id_str": "41144411",
+          "type": "video",
+          "url": "https://t.co/KeCSTIVms0",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 38038,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1182722491057344512/pu/vid/640x360/vYXk-B0eY57Slpc0.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1182722491057344512/pu/vid/480x270/ISpiXnJUtH0Xg_7D.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1182722491057344512/pu/vid/1280x720/AVOmf2Qexx3Cplbn.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1182722491057344512/pu/pl/cPtuclyBqO3Mdc6f.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12589,
+    "favorited": false,
+    "full_text": "https://t.co/KeCSTIVms0",
+    "geo": null,
+    "id": 1183134536923860992,
+    "id_str": "1183134536923860992",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4751,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "MAKING AMERICA GREAT AGAIN!\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8Personal Twitter Handle",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2940,
+      "follow_request_sent": false,
+      "followers_count": 568541,
+      "following": false,
+      "friends_count": 733,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3594,
+      "location": "Washington, DC\u2708\ufe0fNew York",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1570943860",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10589,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65658870,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109779,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45147,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jun 26 10:40:12 +0000 2019",
+  "display_text_range": [
+    0,
+    161
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/mariabartiromo\u2026",
+        "expanded_url": "https://twitter.com/mariabartiromo/status/1143711081531150341",
+        "indices": [
+          162,
+          185
+        ],
+        "url": "https://t.co/0sFBVmjR7f"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1367531,
+        "id_str": "1367531",
+        "indices": [
+          5,
+          13
+        ],
+        "name": "Fox News",
+        "screen_name": "FoxNews"
+      },
+      {
+        "id": 15513604,
+        "id_str": "15513604",
+        "indices": [
+          110,
+          124
+        ],
+        "name": "FOX & friends",
+        "screen_name": "foxandfriends"
+      },
+      {
+        "id": 208155240,
+        "id_str": "208155240",
+        "indices": [
+          129,
+          144
+        ],
+        "name": "Maria Bartiromo",
+        "screen_name": "MariaBartiromo"
+      }
+    ]
+  },
+  "favorite_count": 36793,
+  "favorited": false,
+  "full_text": "Wow, @FoxNews did great in the ratings. CNN is dead as a door nail\n(no credibility), and MSNBC is dying fast. @foxandfriends and @MariaBartiromo are doing great! https://t.co/0sFBVmjR7f",
+  "geo": null,
+  "id": 1143831318951866368,
+  "id_str": "1143831318951866368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 26 02:42:25 +0000 2019",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Dzi2tf5blu",
+          "expanded_url": "https://twitter.com/MariaBartiromo/status/1143711081531150341/photo/1",
+          "id": 1143711075399020544,
+          "id_str": "1143711075399020544",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/D99HKdbWsAAQcbl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D99HKdbWsAAQcbl.jpg",
+          "sizes": {
+            "large": {
+              "h": 1334,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 382
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Dzi2tf5blu"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2412738884,
+          "id_str": "2412738884",
+          "indices": [
+            10,
+            24
+          ],
+          "name": "SundayMorningFutures",
+          "screen_name": "SundayFutures"
+        },
+        {
+          "id": 1367531,
+          "id_str": "1367531",
+          "indices": [
+            27,
+            35
+          ],
+          "name": "Fox News",
+          "screen_name": "FoxNews"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Dzi2tf5blu",
+          "expanded_url": "https://twitter.com/MariaBartiromo/status/1143711081531150341/photo/1",
+          "id": 1143711075399020544,
+          "id_str": "1143711075399020544",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/D99HKdbWsAAQcbl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D99HKdbWsAAQcbl.jpg",
+          "sizes": {
+            "large": {
+              "h": 1334,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 382
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Dzi2tf5blu"
+        }
+      ]
+    },
+    "favorite_count": 4129,
+    "favorited": false,
+    "full_text": "Congrats \u2066@SundayFutures\u2069 \u2066@FoxNews\u2069 great show Sunday https://t.co/Dzi2tf5blu",
+    "geo": null,
+    "id": 1143711081531150341,
+    "id_str": "1143711081531150341",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1036,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 26 18:58:26 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Anchor, Global Markets Editor Mornings with Maria @MorningsMaria 6-9 AM et M-F on @FoxBusiness & @SundayFutures 10:00 AM et Sundays @FoxNews 2-time Emmy winner",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "MariaBartiromo.com",
+              "expanded_url": "http://www.MariaBartiromo.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/P2XOPgzZZ9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16442,
+      "follow_request_sent": false,
+      "followers_count": 490986,
+      "following": false,
+      "friends_count": 1356,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 208155240,
+      "id_str": "208155240",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4481,
+      "location": "New York, NY",
+      "name": "Maria Bartiromo",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/208155240/1530113997",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/836620572259864576/2R_lcdhT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/836620572259864576/2R_lcdhT_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MariaBartiromo",
+      "statuses_count": 27311,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/P2XOPgzZZ9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1143711081531150341,
+  "quoted_status_id_str": "1143711081531150341",
+  "quoted_status_permalink": {
+    "display": "twitter.com/mariabartiromo\u2026",
+    "expanded": "https://twitter.com/mariabartiromo/status/1143711081531150341",
+    "url": "https://t.co/0sFBVmjR7f"
+  },
+  "retweet_count": 8902,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61411871,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104634,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42579,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

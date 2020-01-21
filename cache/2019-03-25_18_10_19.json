@@ -1,0 +1,235 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 25 18:10:19 +0000 2019",
+  "display_text_range": [
+    0,
+    234
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/gWp6nwRwsY",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1110242521400123394/video/1",
+        "id": 1110242236669849604,
+        "id_str": "1110242236669849604",
+        "indices": [
+          235,
+          258
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110242236669849604/pu/img/Yog_6_guHXD443Yi.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110242236669849604/pu/img/Yog_6_guHXD443Yi.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/gWp6nwRwsY"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "whitehouse.gov/presidential-a\u2026",
+        "expanded_url": "https://www.whitehouse.gov/presidential-actions/proclamation-recognizing-golan-heights-part-state-israel/",
+        "indices": [
+          211,
+          234
+        ],
+        "url": "https://t.co/yAAyR2Hxe4"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 17061263,
+        "id_str": "17061263",
+        "indices": [
+          55,
+          65
+        ],
+        "name": "Benjamin Netanyahu",
+        "screen_name": "netanyahu"
+      },
+      {
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "indices": [
+          88,
+          99
+        ],
+        "name": "The White House",
+        "screen_name": "WhiteHouse"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/gWp6nwRwsY",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1110242521400123394/video/1",
+        "id": 1110242236669849604,
+        "id_str": "1110242236669849604",
+        "indices": [
+          235,
+          258
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110242236669849604/pu/img/Yog_6_guHXD443Yi.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110242236669849604/pu/img/Yog_6_guHXD443Yi.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/gWp6nwRwsY",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 32383,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1110242236669849604/pu/vid/1280x720/TvLNWVjCllEm3nCj.mp4?tag=8"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1110242236669849604/pu/pl/Wf4t-HwCeeBzG6X9.m3u8?tag=8"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1110242236669849604/pu/vid/320x180/8S52leCyX-j-AHrv.mp4?tag=8"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1110242236669849604/pu/vid/640x360/MKIh9PrDTNUQftpf.mp4?tag=8"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 105652,
+  "favorited": false,
+  "full_text": "Today, it was my great honor to welcome Prime Minister @Netanyahu of Israel back to the @WhiteHouse where I signed a Presidential Proclamation recognizing Israel\u2019s sovereignty over the Golan Heights. Read more: https://t.co/yAAyR2Hxe4 https://t.co/gWp6nwRwsY",
+  "geo": null,
+  "id": 1110242521400123394,
+  "id_str": "1110242521400123394",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 23903,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59337220,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101452,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41023,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

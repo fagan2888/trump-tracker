@@ -1,0 +1,315 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 04 20:57:35 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 4205133682,
+        "id_str": "4205133682",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Rep. Guy Reschenthaler",
+        "screen_name": "GReschenthaler"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GReschenthaler: I had hoped that my colleagues across the aisle would want to hear all the facts before they undo the 2016 election, bu\u2026",
+  "geo": null,
+  "id": 1202331135436443648,
+  "id_str": "1202331135436443648",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8318,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 04 18:51:55 +0000 2019",
+    "display_text_range": [
+      0,
+      219
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/mQEC9Pm7VZ",
+          "expanded_url": "https://twitter.com/GReschenthaler/status/1202299511600754688/video/1",
+          "features": {},
+          "id": 1202299443535581184,
+          "id_str": "1202299443535581184",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202299443535581184/pu/img/ra4tNT1hatLVJBi4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202299443535581184/pu/img/ra4tNT1hatLVJBi4.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mQEC9Pm7VZ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/mQEC9Pm7VZ",
+          "expanded_url": "https://twitter.com/GReschenthaler/status/1202299511600754688/video/1",
+          "features": {},
+          "id": 1202299443535581184,
+          "id_str": "1202299443535581184",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202299443535581184/pu/img/ra4tNT1hatLVJBi4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202299443535581184/pu/img/ra4tNT1hatLVJBi4.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/mQEC9Pm7VZ",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 25326,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1202299443535581184/pu/vid/640x360/SmIj1Xv8-O4RNyGN.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1202299443535581184/pu/vid/480x270/kT3HKiTpe_aermBn.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1202299443535581184/pu/pl/jiZ8StDmtewH7jaN.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1202299443535581184/pu/vid/1280x720/tVRL2mAkXy5tIy9i.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 22824,
+    "favorited": false,
+    "full_text": "I had hoped that my colleagues across the aisle would want to hear all the facts before they undo the 2016 election, but that sadly is not the case. What are Chairman Schiff, the Democrats, and the whistleblower hiding? https://t.co/mQEC9Pm7VZ",
+    "geo": null,
+    "id": 1202299511600754688,
+    "id_str": "1202299511600754688",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8318,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Nov 16 22:15:01 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Representing the people of PA-14 in the U.S. House of Representatives.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "reschenthaler.house.gov",
+              "expanded_url": "https://reschenthaler.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/BBptULmIUQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 10556,
+      "following": false,
+      "friends_count": 284,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 4205133682,
+      "id_str": "4205133682",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 249,
+      "location": "",
+      "name": "Rep. Guy Reschenthaler",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4205133682/1546622428",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/666382454689632258/edpSumxq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/666382454689632258/edpSumxq_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GReschenthaler",
+      "statuses_count": 1317,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/BBptULmIUQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67268195,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111017,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46637,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

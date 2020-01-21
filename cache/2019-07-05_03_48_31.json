@@ -1,0 +1,340 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 05 03:48:31 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 23448741,
+        "id_str": "23448741",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Regnery Publishing",
+        "screen_name": "Regnery"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Regnery: WATCH our first sneak peak of \"Justice on Trial: The Kavanaugh Confirmation and the Future of the Supreme Court\" by @MZHemingw\u2026",
+  "geo": null,
+  "id": 1146989206851465217,
+  "id_str": "1146989206851465217",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1522,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 03 23:03:33 +0000 2019",
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DqPrXtmCcy",
+          "expanded_url": "https://twitter.com/Regnery/status/1146555102884487170/video/1",
+          "id": 1146554917051666432,
+          "id_str": "1146554917051666432",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146554917051666432/pu/img/LeKof7wNnzOHtu2v.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146554917051666432/pu/img/LeKof7wNnzOHtu2v.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DqPrXtmCcy"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "amzn.to/2Nwsrrw",
+          "expanded_url": "https://amzn.to/2Nwsrrw",
+          "indices": [
+            186,
+            209
+          ],
+          "url": "https://t.co/Obbj7Aov7Q"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 18005085,
+          "id_str": "18005085",
+          "indices": [
+            116,
+            128
+          ],
+          "name": "Mollie",
+          "screen_name": "MZHemingway"
+        },
+        {
+          "id": 133736900,
+          "id_str": "133736900",
+          "indices": [
+            133,
+            145
+          ],
+          "name": "Carrie Severino",
+          "screen_name": "JCNSeverino"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/DqPrXtmCcy",
+          "expanded_url": "https://twitter.com/Regnery/status/1146555102884487170/video/1",
+          "id": 1146554917051666432,
+          "id_str": "1146554917051666432",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146554917051666432/pu/img/LeKof7wNnzOHtu2v.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146554917051666432/pu/img/LeKof7wNnzOHtu2v.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/DqPrXtmCcy",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 77077,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1146554917051666432/pu/vid/1280x720/_uahBA8plfOqJlz5.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1146554917051666432/pu/vid/480x270/igaNO4npVrJ_ayHg.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1146554917051666432/pu/pl/SmwTqIZ-3zAOxM0S.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1146554917051666432/pu/vid/640x360/gxHrEewOt46csn9j.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5357,
+    "favorited": false,
+    "full_text": "WATCH our first sneak peak of \"Justice on Trial: The Kavanaugh Confirmation and the Future of the Supreme Court\" by @MZHemingway and @JCNSeverino, out TUESDAY, July 9. Pre-order it now: https://t.co/Obbj7Aov7Q https://t.co/DqPrXtmCcy",
+    "geo": null,
+    "id": 1146555102884487170,
+    "id_str": "1146555102884487170",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1522,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 09 15:37:18 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Publishing great books since 1947. Follow for updates on exciting new releases and sneak peeks at upcoming titles | DMs open for questions and press inquiries",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "regnery.com",
+              "expanded_url": "http://www.regnery.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9HqkR5XKQT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2159,
+      "follow_request_sent": false,
+      "followers_count": 6789,
+      "following": false,
+      "friends_count": 1616,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 23448741,
+      "id_str": "23448741",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 255,
+      "location": "Washington, D.C.",
+      "name": "Regnery Publishing",
+      "notifications": false,
+      "profile_background_color": "4E9DF2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23448741/1555602374",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1078327060911833088/cI2nPYu7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078327060911833088/cI2nPYu7_normal.jpg",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "F2E195",
+      "profile_sidebar_fill_color": "FFF7CC",
+      "profile_text_color": "0C3E53",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Regnery",
+      "statuses_count": 12092,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9HqkR5XKQT",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61701596,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104984,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42694,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

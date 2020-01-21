@@ -1,0 +1,499 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 12 00:25:23 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          118,
+          126
+        ],
+        "text": "FoxNews"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39349894,
+        "id_str": "39349894",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Eric Trump",
+        "screen_name": "EricTrump"
+      },
+      {
+        "id": 50769180,
+        "id_str": "50769180",
+        "indices": [
+          32,
+          46
+        ],
+        "name": "Laura Ingraham",
+        "screen_name": "IngrahamAngle"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @EricTrump: I will be on the @IngrahamAngle at 10pmET!!! I have no doubt it will be quite the show tonight! \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 #FoxNews https://t.co\u2026",
+  "geo": null,
+  "id": 1204920143907872768,
+  "id_str": "1204920143907872768",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4694,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 12 00:07:08 +0000 2019",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            103,
+            111
+          ],
+          "text": "FoxNews"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YV4r46BrnX",
+          "expanded_url": "https://twitter.com/EricTrump/status/1204915552612945920/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 318,
+                  "y": 296
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 615,
+                  "y": 287
+                },
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 452,
+                  "y": 221
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 318,
+                  "y": 296
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 615,
+                  "y": 287
+                },
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 452,
+                  "y": 221
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 318,
+                  "y": 296
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 615,
+                  "y": 287
+                },
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 452,
+                  "y": 221
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 51,
+                  "w": 51,
+                  "x": 211,
+                  "y": 196
+                },
+                {
+                  "h": 57,
+                  "w": 57,
+                  "x": 408,
+                  "y": 190
+                },
+                {
+                  "h": 81,
+                  "w": 81,
+                  "x": 300,
+                  "y": 146
+                }
+              ]
+            }
+          },
+          "id": 1204915486816964617,
+          "id_str": "1204915486816964617",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELi4QFgXkAkUlsk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELi4QFgXkAkUlsk.jpg",
+          "sizes": {
+            "large": {
+              "h": 713,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 713,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 473,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YV4r46BrnX"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 50769180,
+          "id_str": "50769180",
+          "indices": [
+            17,
+            31
+          ],
+          "name": "Laura Ingraham",
+          "screen_name": "IngrahamAngle"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YV4r46BrnX",
+          "expanded_url": "https://twitter.com/EricTrump/status/1204915552612945920/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 318,
+                  "y": 296
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 615,
+                  "y": 287
+                },
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 452,
+                  "y": 221
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 318,
+                  "y": 296
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 615,
+                  "y": 287
+                },
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 452,
+                  "y": 221
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 318,
+                  "y": 296
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 615,
+                  "y": 287
+                },
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 452,
+                  "y": 221
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 51,
+                  "w": 51,
+                  "x": 211,
+                  "y": 196
+                },
+                {
+                  "h": 57,
+                  "w": 57,
+                  "x": 408,
+                  "y": 190
+                },
+                {
+                  "h": 81,
+                  "w": 81,
+                  "x": 300,
+                  "y": 146
+                }
+              ]
+            }
+          },
+          "id": 1204915486816964617,
+          "id_str": "1204915486816964617",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELi4QFgXkAkUlsk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELi4QFgXkAkUlsk.jpg",
+          "sizes": {
+            "large": {
+              "h": 713,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 713,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 473,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YV4r46BrnX"
+        }
+      ]
+    },
+    "favorite_count": 19333,
+    "favorited": false,
+    "full_text": "I will be on the @IngrahamAngle at 10pmET!!! I have no doubt it will be quite the show tonight! \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 #FoxNews https://t.co/YV4r46BrnX",
+    "geo": null,
+    "id": 1204915552612945920,
+    "id_str": "1204915552612945920",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4694,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:42:30 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Research Hospital. #MakeAmericaGreatAgain",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Trump.com",
+              "expanded_url": "http://www.Trump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uwwNiWyamR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10741,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 2886359,
+      "following": false,
+      "friends_count": 868,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 39349894,
+      "id_str": "39349894",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6571,
+      "location": "",
+      "name": "Eric Trump",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39349894/1516709628",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/974045997268529152/R0CuVYHM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/974045997268529152/R0CuVYHM_normal.jpg",
+      "profile_link_color": "116AB8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "616161",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "EricTrump",
+      "statuses_count": 5974,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uwwNiWyamR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67448885,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111273,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46961,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

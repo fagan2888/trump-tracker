@@ -1,0 +1,207 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 26 17:23:31 +0000 2018",
+  "display_text_range": [
+    0,
+    279
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/UFjwjjUkLd",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1055872564386398209/video/1",
+        "id": 1055866238902034433,
+        "id_str": "1055866238902034433",
+        "indices": [
+          280,
+          303
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1055866238902034433/img/XPOJZM9uO4ErBc2Z.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1055866238902034433/img/XPOJZM9uO4ErBc2Z.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/UFjwjjUkLd"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/UFjwjjUkLd",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1055872564386398209/video/1",
+        "id": 1055866238902034433,
+        "id_str": "1055866238902034433",
+        "indices": [
+          280,
+          303
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1055866238902034433/img/XPOJZM9uO4ErBc2Z.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1055866238902034433/img/XPOJZM9uO4ErBc2Z.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/UFjwjjUkLd",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 152662,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1055866238902034433/vid/640x360/1YbGBK-aEKFpu4Ip.mp4?tag=8"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1055866238902034433/vid/320x180/MEOVIcMBT1A6QoYq.mp4?tag=8"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1055866238902034433/vid/1280x720/904WDyW_MIQftt3B.mp4?tag=8"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1055866238902034433/pl/76_zloD_BgGJbMZe.m3u8?tag=8"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 45934,
+  "favorited": false,
+  "full_text": "I would like to begin today\u2019s remarks by providing an update on the packages and devices that have been mailed to high-profile figures throughout our Country, and a media org. I am pleased to inform you that law enforcement has apprehended the suspect and taken him into custody. https://t.co/UFjwjjUkLd",
+  "geo": null,
+  "id": 1055872564386398209,
+  "id_str": "1055872564386398209",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 11771,
+  "retweeted": false,
+  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 55360213,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 95217,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1540264974",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39431,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

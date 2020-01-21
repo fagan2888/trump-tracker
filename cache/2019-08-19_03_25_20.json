@@ -1,0 +1,320 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 19 03:25:20 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 202952121,
+        "id_str": "202952121",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Oliver McGee PhD MBA",
+        "screen_name": "OliverMcGee"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          73,
+          89
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @OliverMcGee: Wow. Throwback to when Senator Barack Obama agreed with @realDonaldTrump on immigration! RT this so your friends see this!\u2026",
+  "geo": null,
+  "id": 1163290824815329281,
+  "id_str": "1163290824815329281",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 80743,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 07 00:52:23 +0000 2018",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/W8216TwO52",
+          "expanded_url": "https://twitter.com/OliverMcGee/status/949805882401067008/video/1",
+          "id": 949805286990098437,
+          "id_str": "949805286990098437",
+          "indices": [
+            123,
+            146
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949805286990098437/pu/img/NP92XcK0Uf4M4S2x.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949805286990098437/pu/img/NP92XcK0Uf4M4S2x.jpg",
+          "sizes": {
+            "large": {
+              "h": 224,
+              "resize": "fit",
+              "w": 400
+            },
+            "medium": {
+              "h": 224,
+              "resize": "fit",
+              "w": 400
+            },
+            "small": {
+              "h": 224,
+              "resize": "fit",
+              "w": 400
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/W8216TwO52"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            56,
+            72
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/W8216TwO52",
+          "expanded_url": "https://twitter.com/OliverMcGee/status/949805882401067008/video/1",
+          "id": 949805286990098437,
+          "id_str": "949805286990098437",
+          "indices": [
+            123,
+            146
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949805286990098437/pu/img/NP92XcK0Uf4M4S2x.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949805286990098437/pu/img/NP92XcK0Uf4M4S2x.jpg",
+          "sizes": {
+            "large": {
+              "h": 224,
+              "resize": "fit",
+              "w": 400
+            },
+            "medium": {
+              "h": 224,
+              "resize": "fit",
+              "w": 400
+            },
+            "small": {
+              "h": 224,
+              "resize": "fit",
+              "w": 400
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/W8216TwO52",
+          "video_info": {
+            "aspect_ratio": [
+              25,
+              14
+            ],
+            "duration_millis": 40747,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/949805286990098437/pu/pl/NQ561i55YNvd5sut.m3u8"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/949805286990098437/pu/vid/320x180/0SjDUB2vEJJzU_14.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 74152,
+    "favorited": false,
+    "full_text": "Wow. Throwback to when Senator Barack Obama agreed with @realDonaldTrump on immigration! RT this so your friends see this! https://t.co/W8216TwO52",
+    "geo": null,
+    "id": 949805882401067008,
+    "id_str": "949805882401067008",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 80743,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Oct 15 05:20:45 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "FMR Sr Advisor @WhiteHouse, FMR US Dep Asst Secretary\ud83c\uddfa\ud83c\uddf8#MAGA|Guest @SkyNews @BBCWorld @LBC\ud83c\uddec\ud83c\udde7|@FoxNews|@MSNBC|@CNN|@CGTNOfficial\ud83c\udde8\ud83c\uddf3|BookMe ogmcgee@yahoo.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "OliverMcGee.org",
+              "expanded_url": "http://www.OliverMcGee.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8g76FMYmJB"
+            }
+          ]
+        }
+      },
+      "favourites_count": 536057,
+      "follow_request_sent": false,
+      "followers_count": 193926,
+      "following": false,
+      "friends_count": 147815,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 202952121,
+      "id_str": "202952121",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1236,
+      "location": "Washington, DC, USA",
+      "name": "Oliver McGee PhD MBA",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/202952121/1461301545",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2963669853/52457122be447a2bf80f30fd63ed5768_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2963669853/52457122be447a2bf80f30fd63ed5768_normal.jpeg",
+      "profile_link_color": "0009B3",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "OliverMcGee",
+      "statuses_count": 14401,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8g76FMYmJB",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63244998,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107033,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43599,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 10 12:45:04 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: In August, the African American unemployment rate fell to a historic low of 5.5 %. \nAfrican American women are benefiting\u2026",
+  "geo": null,
+  "id": 1171404220781793282,
+  "id_str": "1171404220781793282",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6130,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 09 18:45:52 +0000 2019",
+    "display_text_range": [
+      0,
+      227
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wau63GZ4Fz",
+          "expanded_url": "https://twitter.com/IvankaTrump/status/1171132630072463362/photo/1",
+          "id": 1171132625454583808,
+          "id_str": "1171132625454583808",
+          "indices": [
+            228,
+            251
+          ],
+          "media_url": "http://pbs.twimg.com/media/EECy6v0XUAAvAMj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EECy6v0XUAAvAMj.jpg",
+          "sizes": {
+            "large": {
+              "h": 315,
+              "resize": "fit",
+              "w": 553
+            },
+            "medium": {
+              "h": 315,
+              "resize": "fit",
+              "w": 553
+            },
+            "small": {
+              "h": 315,
+              "resize": "fit",
+              "w": 553
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wau63GZ4Fz"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wau63GZ4Fz",
+          "expanded_url": "https://twitter.com/IvankaTrump/status/1171132630072463362/photo/1",
+          "id": 1171132625454583808,
+          "id_str": "1171132625454583808",
+          "indices": [
+            228,
+            251
+          ],
+          "media_url": "http://pbs.twimg.com/media/EECy6v0XUAAvAMj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EECy6v0XUAAvAMj.jpg",
+          "sizes": {
+            "large": {
+              "h": 315,
+              "resize": "fit",
+              "w": 553
+            },
+            "medium": {
+              "h": 315,
+              "resize": "fit",
+              "w": 553
+            },
+            "small": {
+              "h": 315,
+              "resize": "fit",
+              "w": 553
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wau63GZ4Fz"
+        }
+      ]
+    },
+    "favorite_count": 21363,
+    "favorited": false,
+    "full_text": "In August, the African American unemployment rate fell to a historic low of 5.5 %. \nAfrican American women are benefiting most with the adult (20+) female African American unemployment rate falling to a new series low of 4.4 %. https://t.co/wau63GZ4Fz",
+    "geo": null,
+    "id": 1171132630072463362,
+    "id_str": "1171132630072463362",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6130,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2074,
+      "follow_request_sent": false,
+      "followers_count": 6947837,
+      "following": false,
+      "friends_count": 1404,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 21433,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 15837,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 64173246,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108345,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44202,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

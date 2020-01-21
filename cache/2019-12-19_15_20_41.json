@@ -1,0 +1,344 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 15:20:41 +0000 2019",
+  "display_text_range": [
+    0,
+    47
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/peterdegiglio/\u2026",
+        "expanded_url": "https://twitter.com/peterdegiglio/status/1207283478863269899",
+        "indices": [
+          24,
+          47
+        ],
+        "url": "https://t.co/0GowZdEs3n"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 455869849,
+        "id_str": "455869849",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "James Freeman",
+        "screen_name": "FreemanWSJ"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FreemanWSJ: Thanks! https://t.co/0GowZdEs3n",
+  "geo": null,
+  "id": 1207682168119549957,
+  "id_str": "1207682168119549957",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1207283478863269899,
+  "quoted_status_id_str": "1207283478863269899",
+  "quoted_status_permalink": {
+    "display": "twitter.com/peterdegiglio/\u2026",
+    "expanded": "https://twitter.com/peterdegiglio/status/1207283478863269899",
+    "url": "https://t.co/0GowZdEs3n"
+  },
+  "retweet_count": 3627,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 18 13:32:55 +0000 2019",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/peterdegiglio/\u2026",
+          "expanded_url": "https://twitter.com/peterdegiglio/status/1207283478863269899",
+          "indices": [
+            8,
+            31
+          ],
+          "url": "https://t.co/0GowZdEs3n"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 12938,
+    "favorited": false,
+    "full_text": "Thanks! https://t.co/0GowZdEs3n",
+    "geo": null,
+    "id": 1207292660974833669,
+    "id_str": "1207292660974833669",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Dec 18 12:56:26 +0000 2019",
+      "display_text_range": [
+        0,
+        85
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "wsj.com/articles/obama\u2026",
+            "expanded_url": "https://www.wsj.com/articles/obamas-fbi-and-the-press-11576534979",
+            "indices": [
+              62,
+              85
+            ],
+            "url": "https://t.co/rJqoC8nwZG"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 455869849,
+            "id_str": "455869849",
+            "indices": [
+              23,
+              34
+            ],
+            "name": "James Freeman",
+            "screen_name": "FreemanWSJ"
+          }
+        ]
+      },
+      "favorite_count": 889,
+      "favorited": false,
+      "full_text": "Another great piece by @FreemanWSJ\n\nObama\u2019s FBI and the Press https://t.co/rJqoC8nwZG",
+      "geo": null,
+      "id": 1207283478863269899,
+      "id_str": "1207283478863269899",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 641,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Mon May 05 10:45:02 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Book publishing consultant Virtual CFO/COO; News Junkie; Class Clown.If Edward Gibbon were alive today he'd already be working on Volume I. #ReadPastTheHeadline",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 7349,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 206,
+        "following": false,
+        "friends_count": 159,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2478173624,
+        "id_str": "2478173624",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "New York, USA",
+        "name": "Peter DeGiglio",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2478173624/1478203902",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463269594426118144/2Qu7DPCC_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463269594426118144/2Qu7DPCC_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PeterDeGiglio",
+        "statuses_count": 8248,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1207283478863269899,
+    "quoted_status_id_str": "1207283478863269899",
+    "quoted_status_permalink": {
+      "display": "twitter.com/peterdegiglio/\u2026",
+      "expanded": "https://twitter.com/peterdegiglio/status/1207283478863269899",
+      "url": "https://t.co/0GowZdEs3n"
+    },
+    "retweet_count": 3627,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 05 16:19:16 +0000 2012",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Co-author, \"Borrowed Time: Two Centuries of Booms, Busts and Bailouts at Citi.\u201d Asst. editor, WSJ edit page, FOX News contributor.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "harperbusiness.com/borrowedtime",
+              "expanded_url": "http://harperbusiness.com/borrowedtime",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RtVtfw2rxF"
+            }
+          ]
+        }
+      },
+      "favourites_count": 393,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 13196,
+      "following": false,
+      "friends_count": 1159,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 455869849,
+      "id_str": "455869849",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 236,
+      "location": "New York",
+      "name": "James Freeman",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/455869849/1536615334",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/852513282111950848/ENnppvfL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/852513282111950848/ENnppvfL_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FreemanWSJ",
+      "statuses_count": 3981,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/RtVtfw2rxF",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

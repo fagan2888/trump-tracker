@@ -1,0 +1,326 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 12 12:45:38 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 816652616625168388,
+        "id_str": "816652616625168388",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Rep Andy Biggs",
+        "screen_name": "RepAndyBiggsAZ"
+      },
+      {
+        "id": 818948638890217473,
+        "id_str": "818948638890217473",
+        "indices": [
+          21,
+          34
+        ],
+        "name": "Rep. Matt Gaetz",
+        "screen_name": "RepMattGaetz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepAndyBiggsAZ: .@RepMattGaetz shows how partisan the Democrats' lead investigator, Mr. Goldman, is a partisan hack.\n\nThere is NOTHING\u2026",
+  "geo": null,
+  "id": 1205106433177661440,
+  "id_str": "1205106433177661440",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6428,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 09 21:49:50 +0000 2019",
+    "display_text_range": [
+      0,
+      285
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/lgWkaEh5H1",
+          "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1204156221521113088/video/1",
+          "features": {},
+          "id": 1204154601961873408,
+          "id_str": "1204154601961873408",
+          "indices": [
+            286,
+            309
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1204154601961873408/img/kbn49J33Q34GVBzt.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1204154601961873408/img/kbn49J33Q34GVBzt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lgWkaEh5H1"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 818948638890217473,
+          "id_str": "818948638890217473",
+          "indices": [
+            1,
+            14
+          ],
+          "name": "Rep. Matt Gaetz",
+          "screen_name": "RepMattGaetz"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/lgWkaEh5H1",
+          "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1204156221521113088/video/1",
+          "features": {},
+          "id": 1204154601961873408,
+          "id_str": "1204154601961873408",
+          "indices": [
+            286,
+            309
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1204154601961873408/img/kbn49J33Q34GVBzt.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1204154601961873408/img/kbn49J33Q34GVBzt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/lgWkaEh5H1",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 188622,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1204154601961873408/vid/1280x720/LmtI-5VJgQGsQBHw.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1204154601961873408/vid/640x360/aYbB1Jtf6D-wlszJ.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1204154601961873408/pl/FRiQEEztI2bJ8QdJ.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1204154601961873408/vid/480x270/dPfj0Q6uSfSQ-q5W.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 18527,
+    "favorited": false,
+    "full_text": ".@RepMattGaetz shows how partisan the Democrats' lead investigator, Mr. Goldman, is a partisan hack.\n\nThere is NOTHING fair or unbiased about the Democrats' partisan &amp; vindictive impeachment sham. They are ALL trying to do their parts to impeach &amp; remove their political rival. https://t.co/lgWkaEh5H1",
+    "geo": null,
+    "id": 1204156221521113088,
+    "id_str": "1204156221521113088",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6428,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Representing Arizona's Fighting Fifth.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 6397,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 110816,
+      "following": false,
+      "friends_count": 1574,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 816652616625168388,
+      "id_str": "816652616625168388",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 908,
+      "location": "Arizona, USA",
+      "name": "Rep Andy Biggs",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1558381518",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1176647112550993920/rETjTe_z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176647112550993920/rETjTe_z_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepAndyBiggsAZ",
+      "statuses_count": 8992,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67491776,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47085,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

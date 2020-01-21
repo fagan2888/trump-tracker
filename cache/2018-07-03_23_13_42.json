@@ -1,0 +1,417 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jul 03 23:13:42 +0000 2018",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818876014390603776,
+        "id_str": "818876014390603776",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Melania Trump",
+        "screen_name": "FLOTUS"
+      },
+      {
+        "id": 456053754,
+        "id_str": "456053754",
+        "indices": [
+          39,
+          50
+        ],
+        "name": "Walter Reed Bethesda",
+        "screen_name": "WRBethesda"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FLOTUS: I had a wonderful visit to @WRBethesda today.  Thank you to the many dedicated service members &amp; medical staff who take such go\u2026",
+  "geo": null,
+  "id": 1014286089371217920,
+  "id_str": "1014286089371217920",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 18767,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 03 19:13:27 +0000 2018",
+    "display_text_range": [
+      0,
+      173
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iPjxyRhY4H",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1014225626759335936/photo/1",
+          "id": 1014225617884246017,
+          "id_str": "1014225617884246017",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhNA02wXcAEe63F.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhNA02wXcAEe63F.jpg",
+          "sizes": {
+            "large": {
+              "h": 673,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 673,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 572,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iPjxyRhY4H"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 456053754,
+          "id_str": "456053754",
+          "indices": [
+            27,
+            38
+          ],
+          "name": "Walter Reed Bethesda",
+          "screen_name": "WRBethesda"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iPjxyRhY4H",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1014225626759335936/photo/1",
+          "id": 1014225617884246017,
+          "id_str": "1014225617884246017",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhNA02wXcAEe63F.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhNA02wXcAEe63F.jpg",
+          "sizes": {
+            "large": {
+              "h": 673,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 673,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 572,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iPjxyRhY4H"
+        },
+        {
+          "display_url": "pic.twitter.com/iPjxyRhY4H",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1014225626759335936/photo/1",
+          "id": 1014225617896771584,
+          "id_str": "1014225617896771584",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhNA02zWkAAZfhD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhNA02zWkAAZfhD.jpg",
+          "sizes": {
+            "large": {
+              "h": 534,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 534,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iPjxyRhY4H"
+        },
+        {
+          "display_url": "pic.twitter.com/iPjxyRhY4H",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1014225626759335936/photo/1",
+          "id": 1014225617884205057,
+          "id_str": "1014225617884205057",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhNA02wW0AEX1k2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhNA02wW0AEX1k2.jpg",
+          "sizes": {
+            "large": {
+              "h": 639,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 639,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 639,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iPjxyRhY4H"
+        },
+        {
+          "display_url": "pic.twitter.com/iPjxyRhY4H",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1014225626759335936/photo/1",
+          "id": 1014225617888464897,
+          "id_str": "1014225617888464897",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhNA02xX0AEKvta.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhNA02xX0AEKvta.jpg",
+          "sizes": {
+            "large": {
+              "h": 533,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 533,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iPjxyRhY4H"
+        }
+      ]
+    },
+    "favorite_count": 99614,
+    "favorited": false,
+    "full_text": "I had a wonderful visit to @WRBethesda today.  Thank you to the many dedicated service members &amp; medical staff who take such good care of our men &amp; women in uniform. https://t.co/iPjxyRhY4H",
+    "geo": null,
+    "id": 1014225626759335936,
+    "id_str": "1014225626759335936",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 18767,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 17:43:50 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This account is run by the Office of First Lady Melania Trump. Tweets may be archived. More at https://t.co/eVVzoBb3Zr",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                95,
+                118
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BeBest.gov",
+              "expanded_url": "http://www.BeBest.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9zG6ZvKVLm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 10642865,
+      "following": false,
+      "friends_count": 6,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 818876014390603776,
+      "id_str": "818876014390603776",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 6205,
+      "location": "Washington, D.C.",
+      "name": "Melania Trump",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818876014390603776/1484852402",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FLOTUS",
+      "statuses_count": 329,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9zG6ZvKVLm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 53070847,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 90402,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1530156698",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38175,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

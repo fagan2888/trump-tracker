@@ -1,0 +1,409 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 24 01:18:27 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      },
+      {
+        "id": 757832485,
+        "id_str": "757832485",
+        "indices": [
+          45,
+          52
+        ],
+        "name": "Elizabeth Harrington",
+        "screen_name": "LizRNC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: A friendly reminder from @LizRNC that the Main Stream Media who suffer from Trump Detangment Syndrome made this clown a\u2026",
+  "geo": null,
+  "id": 1131731151771590663,
+  "id_str": "1131731151771590663",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10139,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 24 01:13:55 +0000 2019",
+    "display_text_range": [
+      0,
+      189
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/X9xeyNw5Bi",
+          "expanded_url": "https://twitter.com/FreeBeacon/status/1116769674623115265/video/1",
+          "id": 1116769610001526784,
+          "id_str": "1116769610001526784",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116769610001526784/pu/img/_gxM7VDoP_f23ahO.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116769610001526784/pu/img/_gxM7VDoP_f23ahO.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1116769674623115265,
+          "source_status_id_str": "1116769674623115265",
+          "source_user_id": 455764741,
+          "source_user_id_str": "455764741",
+          "type": "photo",
+          "url": "https://t.co/X9xeyNw5Bi"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 757832485,
+          "id_str": "757832485",
+          "indices": [
+            25,
+            32
+          ],
+          "name": "Elizabeth Harrington",
+          "screen_name": "LizRNC"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Jan 05 13:54:57 +0000 2012",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "News about freedom. https://t.co/CxHKcNeFBF",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "facebook.com/FreeBeacon",
+                      "expanded_url": "https://www.facebook.com/FreeBeacon",
+                      "indices": [
+                        20,
+                        43
+                      ],
+                      "url": "https://t.co/CxHKcNeFBF"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "FreeBeacon.com",
+                      "expanded_url": "http://FreeBeacon.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/gUiXGLJeif"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 3531,
+              "follow_request_sent": false,
+              "followers_count": 104320,
+              "following": false,
+              "friends_count": 3883,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 455764741,
+              "id_str": "455764741",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 2486,
+              "location": "United States",
+              "name": "Free Beacon",
+              "notifications": false,
+              "profile_background_color": "FFFFFF",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/455764741/1516650741",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/955529012545294337/WKcvd8IW_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/955529012545294337/WKcvd8IW_normal.jpg",
+              "profile_link_color": "EB3301",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "E6E6E6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "FreeBeacon",
+              "statuses_count": 135757,
+              "time_zone": null,
+              "translator_type": "regular",
+              "url": "https://t.co/gUiXGLJeif",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/X9xeyNw5Bi",
+          "expanded_url": "https://twitter.com/FreeBeacon/status/1116769674623115265/video/1",
+          "id": 1116769610001526784,
+          "id_str": "1116769610001526784",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116769610001526784/pu/img/_gxM7VDoP_f23ahO.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116769610001526784/pu/img/_gxM7VDoP_f23ahO.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1116769674623115265,
+          "source_status_id_str": "1116769674623115265",
+          "source_user_id": 455764741,
+          "source_user_id_str": "455764741",
+          "type": "video",
+          "url": "https://t.co/X9xeyNw5Bi",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 113071,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1116769610001526784/pu/vid/320x180/eaj7w99w9Og8jtZM.mp4?tag=8"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1116769610001526784/pu/pl/8KqL6agJ4zC0Sond.m3u8?tag=8"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1116769610001526784/pu/vid/1280x720/9JUCe8s9beSx1sCe.mp4?tag=8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1116769610001526784/pu/vid/640x360/s_QwIok-u-L8eTca.mp4?tag=8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 30294,
+    "favorited": false,
+    "full_text": "A friendly reminder from @LizRNC that the Main Stream Media who suffer from Trump Detangment Syndrome made this clown a contender for President of the United States. https://t.co/X9xeyNw5Bi",
+    "geo": null,
+    "id": 1131730009775906816,
+    "id_str": "1131730009775906816",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10139,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "TrumpStore.com",
+              "expanded_url": "http://TrumpStore.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/2qPo57KgoO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 12022,
+      "follow_request_sent": false,
+      "followers_count": 3566928,
+      "following": false,
+      "friends_count": 1326,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 10725,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1471620140",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 28308,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/2qPo57KgoO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60501074,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42042,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 09 11:54:32 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2750127259,
+        "id_str": "2750127259",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Lee Zeldin",
+        "screen_name": "RepLeeZeldin"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepLeeZeldin: It appears Ambassador Yovanovitch did not accurately answer this question I asked her during her \u201cimpeachment inquiry\u201d de\u2026",
+  "geo": null,
+  "id": 1193134775818694658,
+  "id_str": "1193134775818694658",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1192617974164668416,
+  "quoted_status_id_str": "1192617974164668416",
+  "quoted_status_permalink": {
+    "display": "twitter.com/RealSaavedra/s\u2026",
+    "expanded": "https://twitter.com/RealSaavedra/status/1192617974164668416",
+    "url": "https://t.co/2Ju420Pkpb"
+  },
+  "retweet_count": 9105,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 08 02:51:47 +0000 2019",
+    "display_text_range": [
+      0,
+      165
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WACsyksMzW",
+          "expanded_url": "https://twitter.com/RepLeeZeldin/status/1192635800300740609/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1192635796458737664,
+          "id_str": "1192635796458737664",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/media/EI0X8CJWkAA6nio.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EI0X8CJWkAA6nio.jpg",
+          "sizes": {
+            "large": {
+              "h": 860,
+              "resize": "fit",
+              "w": 592
+            },
+            "medium": {
+              "h": 860,
+              "resize": "fit",
+              "w": 592
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 468
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WACsyksMzW"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/RealSaavedra/s\u2026",
+          "expanded_url": "https://twitter.com/RealSaavedra/status/1192617974164668416",
+          "indices": [
+            142,
+            165
+          ],
+          "url": "https://t.co/2Ju420Pkpb"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WACsyksMzW",
+          "expanded_url": "https://twitter.com/RepLeeZeldin/status/1192635800300740609/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1192635796458737664,
+          "id_str": "1192635796458737664",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/media/EI0X8CJWkAA6nio.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EI0X8CJWkAA6nio.jpg",
+          "sizes": {
+            "large": {
+              "h": 860,
+              "resize": "fit",
+              "w": 592
+            },
+            "medium": {
+              "h": 860,
+              "resize": "fit",
+              "w": 592
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 468
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WACsyksMzW"
+        },
+        {
+          "display_url": "pic.twitter.com/WACsyksMzW",
+          "expanded_url": "https://twitter.com/RepLeeZeldin/status/1192635800300740609/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1192635796454617088,
+          "id_str": "1192635796454617088",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/media/EI0X8CIXsAAYR_s.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EI0X8CIXsAAYR_s.jpg",
+          "sizes": {
+            "large": {
+              "h": 573,
+              "resize": "fit",
+              "w": 596
+            },
+            "medium": {
+              "h": 573,
+              "resize": "fit",
+              "w": 596
+            },
+            "small": {
+              "h": 573,
+              "resize": "fit",
+              "w": 596
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WACsyksMzW"
+        }
+      ]
+    },
+    "favorite_count": 19622,
+    "favorited": false,
+    "full_text": "It appears Ambassador Yovanovitch did not accurately answer this question I asked her during her \u201cimpeachment inquiry\u201d deposition under oath. https://t.co/2Ju420Pkpb https://t.co/WACsyksMzW",
+    "geo": null,
+    "id": 1192635800300740609,
+    "id_str": "1192635800300740609",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Nov 08 01:40:57 +0000 2019",
+      "display_text_range": [
+        0,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EBTh6GgXOZ",
+            "expanded_url": "https://twitter.com/RealSaavedra/status/1192617974164668416/video/1",
+            "features": {},
+            "id": 1192617764126515200,
+            "id_str": "1192617764126515200",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192617764126515200/pu/img/Px7azX5i5dviEVBW.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192617764126515200/pu/img/Px7azX5i5dviEVBW.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/EBTh6GgXOZ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/EBTh6GgXOZ",
+            "expanded_url": "https://twitter.com/RealSaavedra/status/1192617974164668416/video/1",
+            "features": {},
+            "id": 1192617764126515200,
+            "id_str": "1192617764126515200",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192617764126515200/pu/img/Px7azX5i5dviEVBW.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192617764126515200/pu/img/Px7azX5i5dviEVBW.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/EBTh6GgXOZ",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 132032,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1192617764126515200/pu/vid/480x270/hFxKiv5nZlVhZ2Uh.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1192617764126515200/pu/vid/640x360/Uf2AWOSt37PNsKms.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1192617764126515200/pu/pl/nSOqHsJ5MPiC7OX2.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1192617764126515200/pu/vid/1280x720/6oj7VHccRA4cVyCI.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 18610,
+      "favorited": false,
+      "full_text": "Tucker Carlson reports that it appears as though Obama's Ambassador to Ukraine, Marie Yovanovitch, perjured herself under oath, according to new email evidence https://t.co/EBTh6GgXOZ",
+      "geo": null,
+      "id": 1192617974164668416,
+      "id_str": "1192617974164668416",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 9783,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 23 03:20:58 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Reporter at @realDailyWire. Retweets \u2260 endorsement. rsaavedra@dailywire.com",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 10357,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 313000,
+        "following": false,
+        "friends_count": 313,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 812135885328236551,
+        "id_str": "812135885328236551",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1975,
+        "location": "USA",
+        "name": "Ryan Saavedra",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/812135885328236551/1572666692",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190456901089275904/W_nfkQsF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190456901089275904/W_nfkQsF_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RealSaavedra",
+        "statuses_count": 39250,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1192617974164668416,
+    "quoted_status_id_str": "1192617974164668416",
+    "quoted_status_permalink": {
+      "display": "twitter.com/RealSaavedra/s\u2026",
+      "expanded": "https://twitter.com/RealSaavedra/status/1192617974164668416",
+      "url": "https://t.co/2Ju420Pkpb"
+    },
+    "retweet_count": 9105,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Aug 20 19:25:47 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Proudly representing New York's First Congressional District. Ranking Member of @HouseForeignGOP Subcommittee on Oversight & Investigations.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "zeldin.house.gov",
+              "expanded_url": "http://zeldin.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Kj9kXazM0U"
+            }
+          ]
+        }
+      },
+      "favourites_count": 27,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 136389,
+      "following": false,
+      "friends_count": 1870,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2750127259,
+      "id_str": "2750127259",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1155,
+      "location": "",
+      "name": "Lee Zeldin",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2750127259/1522445343",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/866759502867161088/ZGcdQunZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/866759502867161088/ZGcdQunZ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepLeeZeldin",
+      "statuses_count": 2622,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Kj9kXazM0U",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66684379,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110582,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45984,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

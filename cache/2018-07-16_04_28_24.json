@@ -1,0 +1,339 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 16 04:28:24 +0000 2018",
+  "display_text_range": [
+    0,
+    143
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          25,
+          33
+        ],
+        "text": "Finland"
+      },
+      {
+        "indices": [
+          38,
+          51
+        ],
+        "text": "helsinki2018"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 988573326376427520,
+        "id_str": "988573326376427520",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Secretary Pompeo",
+        "screen_name": "SecPompeo"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          58,
+          64
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SecPompeo: Landed in #Finland for #helsinki2018 where @POTUS &amp; Prez Putin are set to discuss US/Russian relations. POTUS meeting is in\u2026",
+  "geo": null,
+  "id": 1018713940522622977,
+  "id_str": "1018713940522622977",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3414,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 15 19:32:42 +0000 2018",
+    "display_text_range": [
+      0,
+      285
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            10,
+            18
+          ],
+          "text": "Finland"
+        },
+        {
+          "indices": [
+            23,
+            36
+          ],
+          "text": "helsinki2018"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ZdNN6fHPTi",
+          "expanded_url": "https://twitter.com/SecPompeo/status/1018579127517843456/photo/1",
+          "id": 1018579096429711360,
+          "id_str": "1018579096429711360",
+          "indices": [
+            286,
+            309
+          ],
+          "media_url": "http://pbs.twimg.com/media/DiK4SqJU0AAAuxN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DiK4SqJU0AAAuxN.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZdNN6fHPTi"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            43,
+            49
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 9624742,
+          "id_str": "9624742",
+          "indices": [
+            275,
+            285
+          ],
+          "name": "Department of State",
+          "screen_name": "StateDept"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ZdNN6fHPTi",
+          "expanded_url": "https://twitter.com/SecPompeo/status/1018579127517843456/photo/1",
+          "id": 1018579096429711360,
+          "id_str": "1018579096429711360",
+          "indices": [
+            286,
+            309
+          ],
+          "media_url": "http://pbs.twimg.com/media/DiK4SqJU0AAAuxN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DiK4SqJU0AAAuxN.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZdNN6fHPTi"
+        }
+      ]
+    },
+    "favorite_count": 11456,
+    "favorited": false,
+    "full_text": "Landed in #Finland for #helsinki2018 where @POTUS &amp; Prez Putin are set to discuss US/Russian relations. POTUS meeting is in the interest of US national security. It\u2019s critical that the leaders of the US &amp; Russia engage on important matters between our two countries. @StateDept https://t.co/ZdNN6fHPTi",
+    "geo": null,
+    "id": 1018579127517843456,
+    "id_str": "1018579127517843456",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3414,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Apr 24 00:20:22 +0000 2018",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "70th U.S. Secretary of @StateDept, working alongside the world\u2019s finest diplomatic corps. Husband, father, Army veteran, and proud Kansan.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "state.gov",
+              "expanded_url": "http://www.state.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eFqP1DyLiJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 245299,
+      "following": false,
+      "friends_count": 34,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 988573326376427520,
+      "id_str": "988573326376427520",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1260,
+      "location": "",
+      "name": "Secretary Pompeo",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/988573326376427520/1525190402",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1014454396522934273/w_96hmja_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014454396522934273/w_96hmja_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SecPompeo",
+      "statuses_count": 222,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eFqP1DyLiJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 53153569,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 90531,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1530156698",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38202,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

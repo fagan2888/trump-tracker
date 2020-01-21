@@ -1,0 +1,568 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 10 13:20:59 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2891210047,
+        "id_str": "2891210047",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Sen. Dan Sullivan",
+        "screen_name": "SenDanSullivan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenDanSullivan: Glad to meet today with my new colleague in the Senate\u2014Kelly Loeffler, from the state of Georgia. As I learned today, S\u2026",
+  "geo": null,
+  "id": 1215624579995066369,
+  "id_str": "1215624579995066369",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2773,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 09 20:32:28 +0000 2020",
+    "display_text_range": [
+      0,
+      266
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1z1ryY89DA",
+          "expanded_url": "https://twitter.com/SenDanSullivan/status/1215370778943918084/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 59,
+                  "w": 59,
+                  "x": 0,
+                  "y": 784
+                },
+                {
+                  "h": 158,
+                  "w": 158,
+                  "x": 1600,
+                  "y": 828
+                },
+                {
+                  "h": 257,
+                  "w": 257,
+                  "x": 1133,
+                  "y": 235
+                },
+                {
+                  "h": 312,
+                  "w": 312,
+                  "x": 496,
+                  "y": 256
+                },
+                {
+                  "h": 308,
+                  "w": 308,
+                  "x": 1059,
+                  "y": 420
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 0,
+                  "y": 527
+                },
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 1075,
+                  "y": 556
+                },
+                {
+                  "h": 172,
+                  "w": 172,
+                  "x": 761,
+                  "y": 157
+                },
+                {
+                  "h": 209,
+                  "w": 209,
+                  "x": 333,
+                  "y": 172
+                },
+                {
+                  "h": 207,
+                  "w": 207,
+                  "x": 711,
+                  "y": 282
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 59,
+                  "w": 59,
+                  "x": 0,
+                  "y": 784
+                },
+                {
+                  "h": 158,
+                  "w": 158,
+                  "x": 1600,
+                  "y": 828
+                },
+                {
+                  "h": 257,
+                  "w": 257,
+                  "x": 1133,
+                  "y": 235
+                },
+                {
+                  "h": 312,
+                  "w": 312,
+                  "x": 496,
+                  "y": 256
+                },
+                {
+                  "h": 308,
+                  "w": 308,
+                  "x": 1059,
+                  "y": 420
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 22,
+                  "w": 22,
+                  "x": 0,
+                  "y": 298
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 609,
+                  "y": 315
+                },
+                {
+                  "h": 97,
+                  "w": 97,
+                  "x": 431,
+                  "y": 89
+                },
+                {
+                  "h": 118,
+                  "w": 118,
+                  "x": 188,
+                  "y": 97
+                },
+                {
+                  "h": 117,
+                  "w": 117,
+                  "x": 403,
+                  "y": 160
+                }
+              ]
+            }
+          },
+          "id": 1215370772115591170,
+          "id_str": "1215370772115591170",
+          "indices": [
+            267,
+            290
+          ],
+          "media_url": "http://pbs.twimg.com/media/EN3dRyZXkAIzouI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EN3dRyZXkAIzouI.jpg",
+          "sizes": {
+            "large": {
+              "h": 1785,
+              "resize": "fit",
+              "w": 1785
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1z1ryY89DA"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1200451909406121984,
+          "id_str": "1200451909406121984",
+          "indices": [
+            249,
+            265
+          ],
+          "name": "Senator Kelly Loeffler",
+          "screen_name": "SenatorLoeffler"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1z1ryY89DA",
+          "expanded_url": "https://twitter.com/SenDanSullivan/status/1215370778943918084/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 59,
+                  "w": 59,
+                  "x": 0,
+                  "y": 784
+                },
+                {
+                  "h": 158,
+                  "w": 158,
+                  "x": 1600,
+                  "y": 828
+                },
+                {
+                  "h": 257,
+                  "w": 257,
+                  "x": 1133,
+                  "y": 235
+                },
+                {
+                  "h": 312,
+                  "w": 312,
+                  "x": 496,
+                  "y": 256
+                },
+                {
+                  "h": 308,
+                  "w": 308,
+                  "x": 1059,
+                  "y": 420
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 0,
+                  "y": 527
+                },
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 1075,
+                  "y": 556
+                },
+                {
+                  "h": 172,
+                  "w": 172,
+                  "x": 761,
+                  "y": 157
+                },
+                {
+                  "h": 209,
+                  "w": 209,
+                  "x": 333,
+                  "y": 172
+                },
+                {
+                  "h": 207,
+                  "w": 207,
+                  "x": 711,
+                  "y": 282
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 59,
+                  "w": 59,
+                  "x": 0,
+                  "y": 784
+                },
+                {
+                  "h": 158,
+                  "w": 158,
+                  "x": 1600,
+                  "y": 828
+                },
+                {
+                  "h": 257,
+                  "w": 257,
+                  "x": 1133,
+                  "y": 235
+                },
+                {
+                  "h": 312,
+                  "w": 312,
+                  "x": 496,
+                  "y": 256
+                },
+                {
+                  "h": 308,
+                  "w": 308,
+                  "x": 1059,
+                  "y": 420
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 22,
+                  "w": 22,
+                  "x": 0,
+                  "y": 298
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 609,
+                  "y": 315
+                },
+                {
+                  "h": 97,
+                  "w": 97,
+                  "x": 431,
+                  "y": 89
+                },
+                {
+                  "h": 118,
+                  "w": 118,
+                  "x": 188,
+                  "y": 97
+                },
+                {
+                  "h": 117,
+                  "w": 117,
+                  "x": 403,
+                  "y": 160
+                }
+              ]
+            }
+          },
+          "id": 1215370772115591170,
+          "id_str": "1215370772115591170",
+          "indices": [
+            267,
+            290
+          ],
+          "media_url": "http://pbs.twimg.com/media/EN3dRyZXkAIzouI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EN3dRyZXkAIzouI.jpg",
+          "sizes": {
+            "large": {
+              "h": 1785,
+              "resize": "fit",
+              "w": 1785
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1z1ryY89DA"
+        }
+      ]
+    },
+    "favorite_count": 11518,
+    "favorited": false,
+    "full_text": "Glad to meet today with my new colleague in the Senate\u2014Kelly Loeffler, from the state of Georgia. As I learned today, Senator Loeffler has a few family connections to Alaska, and she\u2019s also run the Anchorage Mayor\u2019s Marathon. Welcome to the Senate, @SenatorLoeffler! https://t.co/1z1ryY89DA",
+    "geo": null,
+    "id": 1215370778943918084,
+    "id_str": "1215370778943918084",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2773,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Nov 05 21:25:42 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Official twitter account for U.S. Senator Dan Sullivan.  Proudly serving the state of Alaska.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "sullivan.senate.gov",
+              "expanded_url": "http://www.sullivan.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/9uIoLCChCm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 239,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 41642,
+      "following": false,
+      "friends_count": 698,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2891210047,
+      "id_str": "2891210047",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1020,
+      "location": "",
+      "name": "Sen. Dan Sullivan",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/553674509639618560/XOdVwVGN_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/553674509639618560/XOdVwVGN_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenDanSullivan",
+      "statuses_count": 2799,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/9uIoLCChCm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70645362,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113128,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47812,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

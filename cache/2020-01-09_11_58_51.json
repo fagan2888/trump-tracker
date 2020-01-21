@@ -1,0 +1,242 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jan 09 11:58:51 +0000 2020",
+  "display_text_range": [
+    0,
+    6
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/lindseygrahams\u2026",
+        "expanded_url": "https://twitter.com/lindseygrahamsc/status/1214207553971924996",
+        "indices": [
+          7,
+          30
+        ],
+        "url": "https://t.co/9QByhxRluS"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 51391,
+  "favorited": false,
+  "full_text": "Great! https://t.co/9QByhxRluS",
+  "geo": null,
+  "id": 1215241520804253698,
+  "id_str": "1215241520804253698",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 06 15:30:14 +0000 2020",
+    "display_text_range": [
+      0,
+      167
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "foxnews.com/politics/ted-c\u2026",
+          "expanded_url": "https://www.foxnews.com/politics/ted-cruz-senate-resolution-praising-soleimani-mission",
+          "indices": [
+            144,
+            167
+          ],
+          "url": "https://t.co/TCDaBqkVB9"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 23022687,
+          "id_str": "23022687",
+          "indices": [
+            28,
+            36
+          ],
+          "name": "Ted Cruz",
+          "screen_name": "tedcruz"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            74,
+            90
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 54440,
+    "favorited": false,
+    "full_text": "I very much support Senator @tedcruz's resolution in support of President @realDonaldTrump's decision to take out Iranian General Soleimani.  \n\nhttps://t.co/TCDaBqkVB9",
+    "geo": null,
+    "id": 1214207553971924996,
+    "id_str": "1214207553971924996",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13849,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 09 22:21:03 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter feed for United States Senator Lindsey Graham.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lindseygraham.com",
+              "expanded_url": "http://www.lindseygraham.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bM2rOxm6ub"
+            }
+          ]
+        }
+      },
+      "favourites_count": 69,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1378536,
+      "following": false,
+      "friends_count": 2157,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 432895323,
+      "id_str": "432895323",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6217,
+      "location": "South Carolina",
+      "name": "Lindsey Graham",
+      "notifications": false,
+      "profile_background_color": "033C82",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/432895323/1560907973",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045473448783466496/XnZoIj-Q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045473448783466496/XnZoIj-Q_normal.jpg",
+      "profile_link_color": "20285C",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EBEBEB",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "LindseyGrahamSC",
+      "statuses_count": 10561,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/bM2rOxm6ub",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1214207553971924996,
+  "quoted_status_id_str": "1214207553971924996",
+  "quoted_status_permalink": {
+    "display": "twitter.com/lindseygrahams\u2026",
+    "expanded": "https://twitter.com/lindseygrahamsc/status/1214207553971924996",
+    "url": "https://t.co/9QByhxRluS"
+  },
+  "retweet_count": 10634,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70558641,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113115,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47772,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

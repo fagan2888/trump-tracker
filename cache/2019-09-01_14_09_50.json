@@ -1,0 +1,432 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 01 14:09:50 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1058807868,
+        "id_str": "1058807868",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Ron DeSantis",
+        "screen_name": "GovRonDeSantis"
+      },
+      {
+        "id": 161329769,
+        "id_str": "161329769",
+        "indices": [
+          31,
+          39
+        ],
+        "name": "USACE HQ",
+        "screen_name": "USACEHQ"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GovRonDeSantis: Thank you, @USACEHQ. \n\nOur administration continues to work around the clock with all of our federal and local partners\u2026",
+  "geo": null,
+  "id": 1168164061374242816,
+  "id_str": "1168164061374242816",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1167864872404537344,
+  "quoted_status_id_str": "1167864872404537344",
+  "quoted_status_permalink": {
+    "display": "twitter.com/USACEHQ/status\u2026",
+    "expanded": "https://twitter.com/USACEHQ/status/1167864872404537344",
+    "url": "https://t.co/H5IcsoEcMY"
+  },
+  "retweet_count": 3230,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 31 18:53:00 +0000 2019",
+    "display_text_range": [
+      0,
+      172
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            164,
+            171
+          ],
+          "text": "Dorian"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/USACEHQ/status\u2026",
+          "expanded_url": "https://twitter.com/USACEHQ/status/1167864872404537344",
+          "indices": [
+            173,
+            196
+          ],
+          "url": "https://t.co/H5IcsoEcMY"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 161329769,
+          "id_str": "161329769",
+          "indices": [
+            11,
+            19
+          ],
+          "name": "USACE HQ",
+          "screen_name": "USACEHQ"
+        }
+      ]
+    },
+    "favorite_count": 12197,
+    "favorited": false,
+    "full_text": "Thank you, @USACEHQ. \n\nOur administration continues to work around the clock with all of our federal and local partners to ensure Florida is prepared for Hurricane #Dorian. https://t.co/H5IcsoEcMY",
+    "geo": null,
+    "id": 1167872933970100226,
+    "id_str": "1167872933970100226",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Aug 31 18:20:58 +0000 2019",
+      "display_text_range": [
+        0,
+        286
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              89,
+              96
+            ],
+            "text": "Dorian"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ym5AEhxEt8",
+            "expanded_url": "https://twitter.com/USACEHQ/status/1167864872404537344/photo/1",
+            "id": 1167864869820874752,
+            "id_str": "1167864869820874752",
+            "indices": [
+              287,
+              310
+            ],
+            "media_url": "http://pbs.twimg.com/media/EDUW6VdUwAApKey.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EDUW6VdUwAApKey.jpg",
+            "sizes": {
+              "large": {
+                "h": 1512,
+                "resize": "fit",
+                "w": 2016
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ym5AEhxEt8"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1058807868,
+            "id_str": "1058807868",
+            "indices": [
+              201,
+              216
+            ],
+            "name": "Ron DeSantis",
+            "screen_name": "GovRonDeSantis"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ym5AEhxEt8",
+            "expanded_url": "https://twitter.com/USACEHQ/status/1167864872404537344/photo/1",
+            "id": 1167864869820874752,
+            "id_str": "1167864869820874752",
+            "indices": [
+              287,
+              310
+            ],
+            "media_url": "http://pbs.twimg.com/media/EDUW6VdUwAApKey.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EDUW6VdUwAApKey.jpg",
+            "sizes": {
+              "large": {
+                "h": 1512,
+                "resize": "fit",
+                "w": 2016
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ym5AEhxEt8"
+          }
+        ]
+      },
+      "favorite_count": 223,
+      "favorited": false,
+      "full_text": "USACE remains committed to working w/ local, state &amp; federal partners in response to #Dorian. Today, MG Scott Spellmon, USACE Deputy Commanding General for Civil &amp; Emergency Operations, met w/ @GovRonDeSantis to discuss continued support to the State of Florida. \ud83d\udcf7: CPT R. Hearn https://t.co/Ym5AEhxEt8",
+      "geo": null,
+      "id": 1167864872404537344,
+      "id_str": "1167864872404537344",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 103,
+      "retweeted": false,
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 30 15:32:47 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Welcome to the official Twitter page for the U.S. Army Corps of Engineers Headquarters. Following does not equal endorsement.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "usace.army.mil",
+                "expanded_url": "http://www.usace.army.mil",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/GLsXOvGGxb"
+              }
+            ]
+          }
+        },
+        "favourites_count": 228,
+        "follow_request_sent": false,
+        "followers_count": 32685,
+        "following": false,
+        "friends_count": 3517,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 161329769,
+        "id_str": "161329769",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 876,
+        "location": "Washington, DC",
+        "name": "USACE HQ",
+        "notifications": false,
+        "profile_background_color": "F5F0F0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/161329769/1474547494",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/884502807570788354/uGPNpIoZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/884502807570788354/uGPNpIoZ_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "USACEHQ",
+        "statuses_count": 26996,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/GLsXOvGGxb",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1167864872404537344,
+    "quoted_status_id_str": "1167864872404537344",
+    "quoted_status_permalink": {
+      "display": "twitter.com/USACEHQ/status\u2026",
+      "expanded": "https://twitter.com/USACEHQ/status/1167864872404537344",
+      "url": "https://t.co/H5IcsoEcMY"
+    },
+    "retweet_count": 3230,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 03 21:20:17 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "46th Governor of the great state of Florida.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 37,
+      "follow_request_sent": false,
+      "followers_count": 347188,
+      "following": false,
+      "friends_count": 1339,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1058807868,
+      "id_str": "1058807868",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1645,
+      "location": "",
+      "name": "Ron DeSantis",
+      "notifications": false,
+      "profile_background_color": "B31616",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058807868/1560169684",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1138060146662354946/6jR-b4Yy_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138060146662354946/6jR-b4Yy_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GovRonDeSantis",
+      "statuses_count": 3145,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63833084,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108023,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43972,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

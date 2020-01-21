@@ -1,0 +1,361 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 03 20:51:34 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          56,
+          62
+        ],
+        "text": "Trump"
+      },
+      {
+        "indices": [
+          114,
+          122
+        ],
+        "text": "America"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1322420269,
+        "id_str": "1322420269",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "i24NEWS English",
+        "screen_name": "i24NEWS_EN"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @i24NEWS_EN: There is nothing racist about President #Trump's suggesting that those who regularly spew hate at #America might spend thei\u2026",
+  "geo": null,
+  "id": 1157755915283718145,
+  "id_str": "1157755915283718145",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6690,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 03 02:14:56 +0000 2019",
+    "display_text_range": [
+      0,
+      248
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            46
+          ],
+          "text": "Trump"
+        },
+        {
+          "indices": [
+            98,
+            106
+          ],
+          "text": "America"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/oZQzCwqUTp",
+          "expanded_url": "https://twitter.com/i24NEWS_EN/status/1157474902036930561/video/1",
+          "id": 1157474746134618112,
+          "id_str": "1157474746134618112",
+          "indices": [
+            249,
+            272
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBAtSNBXoAEsaSN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBAtSNBXoAEsaSN.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/oZQzCwqUTp"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2471692340,
+          "id_str": "2471692340",
+          "indices": [
+            211,
+            224
+          ],
+          "name": "Dr.Darrell Scott",
+          "screen_name": "PastorDScott"
+        },
+        {
+          "id": 347871494,
+          "id_str": "347871494",
+          "indices": [
+            231,
+            247
+          ],
+          "name": "Eric Landskroner",
+          "screen_name": "ericlandskroner"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "embeddable": true,
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/oZQzCwqUTp",
+          "expanded_url": "https://twitter.com/i24NEWS_EN/status/1157474902036930561/video/1",
+          "id": 1157474746134618112,
+          "id_str": "1157474746134618112",
+          "indices": [
+            249,
+            272
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBAtSNBXoAEsaSN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBAtSNBXoAEsaSN.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/oZQzCwqUTp",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 74800,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1157474746134618112/vid/1280x720/f0SIu6-vqba6Qmy2.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1157474746134618112/vid/480x270/aI_uDE-QPoT-uvsS.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1157474746134618112/pl/HN9XV-RvHfRybPsm.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1157474746134618112/vid/640x360/T7ecsoXLzRGRqJid.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 21166,
+    "favorited": false,
+    "full_text": "There is nothing racist about President #Trump's suggesting that those who regularly spew hate at #America might spend their time more productively elsewhere \u2013 especially as the quotes are taken out of context, @PastorDScott tells @ericlandskroner: https://t.co/oZQzCwqUTp",
+    "geo": null,
+    "id": 1157474902036930561,
+    "id_str": "1157474902036930561",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6690,
+    "retweeted": false,
+    "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Apr 02 12:43:33 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Global news broadcasting live from around the world bringing you the day\u2019s biggest stories from the U.S., Europe, and the Middle East.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "i24news.tv/en/",
+              "expanded_url": "http://www.i24news.tv/en/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wwJoCm0HJ1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3122,
+      "follow_request_sent": false,
+      "followers_count": 46289,
+      "following": false,
+      "friends_count": 63,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1322420269,
+      "id_str": "1322420269",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1350,
+      "location": "Jaffa Port",
+      "name": "i24NEWS English",
+      "notifications": false,
+      "profile_background_color": "283470",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1322420269/1479309695",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/823200304493723650/19itBAk7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/823200304493723650/19itBAk7_normal.jpg",
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "i24NEWS_EN",
+      "statuses_count": 84820,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wwJoCm0HJ1",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 62634029,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106232,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43313,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

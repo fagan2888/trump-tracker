@@ -1,0 +1,297 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 18 22:51:42 +0000 2018",
+  "display_text_range": [
+    0,
+    54
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/karlazabs/stat\u2026",
+        "expanded_url": "https://twitter.com/karlazabs/status/1052589131732267009",
+        "indices": [
+          55,
+          78
+        ],
+        "url": "https://t.co/wf7sE0DHFT"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 52989,
+  "favorited": false,
+  "full_text": "Thank you Mexico, we look forward to working with you! https://t.co/wf7sE0DHFT",
+  "geo": null,
+  "id": 1053056054295113728,
+  "id_str": "1053056054295113728",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 17 15:56:19 +0000 2018",
+    "display_text_range": [
+      0,
+      157
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/UyneeXlPnu",
+          "expanded_url": "https://twitter.com/karlazabs/status/1052589131732267009/video/1",
+          "id": 1052589061389479936,
+          "id_str": "1052589061389479936",
+          "indices": [
+            158,
+            181
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052589061389479936/pu/img/VYrfmus0CmryU37G.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052589061389479936/pu/img/VYrfmus0CmryU37G.jpg",
+          "sizes": {
+            "large": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/UyneeXlPnu"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/UyneeXlPnu",
+          "expanded_url": "https://twitter.com/karlazabs/status/1052589131732267009/video/1",
+          "id": 1052589061389479936,
+          "id_str": "1052589061389479936",
+          "indices": [
+            158,
+            181
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052589061389479936/pu/img/VYrfmus0CmryU37G.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052589061389479936/pu/img/VYrfmus0CmryU37G.jpg",
+          "sizes": {
+            "large": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/UyneeXlPnu",
+          "video_info": {
+            "aspect_ratio": [
+              20,
+              11
+            ],
+            "duration_millis": 8086,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1052589061389479936/pu/vid/326x180/K-vKe3M8nzb_odYD.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1052589061389479936/pu/vid/640x352/_9ZmOGasWqOzQ20g.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1052589061389479936/pu/pl/qywtBPLqx35FyPfp.m3u8?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 4401,
+    "favorited": false,
+    "full_text": "MIGRANT CARAVAN: Two federal police-filled planes w/anti-riot gear landed near the Mexico/Guatemala border this morn (vid source: Policia Federal de Mexico). https://t.co/UyneeXlPnu",
+    "geo": null,
+    "id": 1052589131732267009,
+    "id_str": "1052589131732267009",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1978,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 08 02:06:13 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mexico Bureau Chief and Latin America Correspondent at BuzzFeed News, karla.z@buzzfeed.com",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1092,
+      "follow_request_sent": false,
+      "followers_count": 7150,
+      "following": false,
+      "friends_count": 938,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16177182,
+      "id_str": "16177182",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 386,
+      "location": "",
+      "name": "KarlaZabs",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/553269238622724097/AqSLWgqt_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/553269238622724097/AqSLWgqt_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "karlazabs",
+      "statuses_count": 3852,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1052589131732267009,
+  "quoted_status_id_str": "1052589131732267009",
+  "quoted_status_permalink": {
+    "display": "twitter.com/karlazabs/stat\u2026",
+    "expanded": "https://twitter.com/karlazabs/status/1052589131732267009",
+    "url": "https://t.co/wf7sE0DHFT"
+  },
+  "retweet_count": 15804,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 26,
+    "follow_request_sent": false,
+    "followers_count": 55218756,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94951,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539493274",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39343,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 17 03:20:48 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18166778,
+        "id_str": "18166778",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Rep. Jim Jordan",
+        "screen_name": "Jim_Jordan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Jim_Jordan: Ukrainian leaders have repeatedly rejected that there was any kind of pushing or pressure.\n\nBut the mainstream press would\u2026",
+  "geo": null,
+  "id": 1218010254685982722,
+  "id_str": "1218010254685982722",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1217846724884037632,
+  "quoted_status_id_str": "1217846724884037632",
+  "quoted_status_permalink": {
+    "display": "twitter.com/thehill/status\u2026",
+    "expanded": "https://twitter.com/thehill/status/1217846724884037632",
+    "url": "https://t.co/fUYCmVUHJF"
+  },
+  "retweet_count": 18347,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 16 20:46:33 +0000 2020",
+    "display_text_range": [
+      0,
+      190
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/thehill/status\u2026",
+          "expanded_url": "https://twitter.com/thehill/status/1217846724884037632",
+          "indices": [
+            191,
+            214
+          ],
+          "url": "https://t.co/fUYCmVUHJF"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 48679,
+    "favorited": false,
+    "full_text": "Ukrainian leaders have repeatedly rejected that there was any kind of pushing or pressure.\n\nBut the mainstream press would rather run with ridiculous allegations from a man under indictment. https://t.co/fUYCmVUHJF",
+    "geo": null,
+    "id": 1217911035887222785,
+    "id_str": "1217911035887222785",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Jan 16 16:31:00 +0000 2020",
+      "display_text_range": [
+        0,
+        154
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/bRUm3mleqN",
+            "expanded_url": "https://twitter.com/thehill/status/1217846724884037632/video/1",
+            "features": {},
+            "id": 1217833550692655104,
+            "id_str": "1217833550692655104",
+            "indices": [
+              155,
+              178
+            ],
+            "media_url": "http://pbs.twimg.com/media/EOadyJCWsAc3Vql.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EOadyJCWsAc3Vql.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/bRUm3mleqN"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": true,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/bRUm3mleqN",
+            "expanded_url": "https://twitter.com/thehill/status/1217846724884037632/video/1",
+            "features": {},
+            "id": 1217833550692655104,
+            "id_str": "1217833550692655104",
+            "indices": [
+              155,
+              178
+            ],
+            "media_url": "http://pbs.twimg.com/media/EOadyJCWsAc3Vql.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EOadyJCWsAc3Vql.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/bRUm3mleqN",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 79846,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1217833550692655104/vid/640x360/drbe8z3v0cAznp28.mp4?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1217833550692655104/vid/480x270/BwxQ0VSL5R49hrg5.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1217833550692655104/vid/1280x720/skFKXYB5y0EaKKxk.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1217833550692655104/pl/zOBcyofAorKiN0Jx.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 4220,
+      "favorited": false,
+      "full_text": "Vadym Prystaiko, Foreign Minister of Ukraine: \"Frankly, I have not spoken with [Lev Parnas], and again, frankly, I don\u2019t trust any word he is now saying.\" https://t.co/bRUm3mleqN",
+      "geo": null,
+      "id": 1217846724884037632,
+      "id_str": "1217846724884037632",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2435,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thehill.com",
+                "expanded_url": "http://www.thehill.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/t414UtTRv4"
+              }
+            ]
+          }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 3515430,
+        "following": false,
+        "friends_count": 259,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1917731,
+        "id_str": "1917731",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 26858,
+        "location": "Washington, DC",
+        "name": "The Hill",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+        "profile_link_color": "FF0021",
+        "profile_sidebar_border_color": "ADADAA",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thehill",
+        "statuses_count": 680295,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/t414UtTRv4",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1217846724884037632,
+    "quoted_status_id_str": "1217846724884037632",
+    "quoted_status_permalink": {
+      "display": "twitter.com/thehill/status\u2026",
+      "expanded": "https://twitter.com/thehill/status/1217846724884037632",
+      "url": "https://t.co/fUYCmVUHJF"
+    },
+    "retweet_count": 18347,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 16 17:20:24 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Proudly serving Ohio's beautiful fourth district. Ranking Member on @GOPoversight. Fighting to #DoWhatWeSaid",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jordan.house.gov",
+              "expanded_url": "http://jordan.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wd2j7YpRZm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1621,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1063649,
+      "following": false,
+      "friends_count": 4347,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18166778,
+      "id_str": "18166778",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4590,
+      "location": "Washington, D.C. ",
+      "name": "Rep. Jim Jordan",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18166778/1406042839",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+      "profile_link_color": "4F90DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "BA0D1F",
+      "profile_text_color": "01050D",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Jim_Jordan",
+      "statuses_count": 3788,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wd2j7YpRZm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71146089,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113466,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47937,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

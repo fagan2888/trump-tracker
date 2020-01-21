@@ -1,0 +1,306 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Mar 02 13:31:45 +0000 2019",
+  "display_text_range": [
+    0,
+    103
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/trump/status/1\u2026",
+        "expanded_url": "https://twitter.com/trump/status/1100526297653174274",
+        "indices": [
+          104,
+          127
+        ],
+        "url": "https://t.co/3xTzzJH6Iq"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 52822,
+  "favorited": false,
+  "full_text": "Very proud of perhaps the greatest golf course anywhere in the world. Also, furthers U.K. relationship! https://t.co/3xTzzJH6Iq",
+  "geo": null,
+  "id": 1101837499230498816,
+  "id_str": "1101837499230498816",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 26 22:41:30 +0000 2019",
+    "display_text_range": [
+      0,
+      167
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/U5xalvyzG2",
+          "expanded_url": "https://twitter.com/Trump/status/1100526297653174274/photo/1",
+          "id": 1100526038336131072,
+          "id_str": "1100526038336131072",
+          "indices": [
+            168,
+            191
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0Xamd0X0AA9oZS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0Xamd0X0AA9oZS.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 971
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 971
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 550
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/U5xalvyzG2"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "TrumpGolfScotland.com",
+          "expanded_url": "http://TrumpGolfScotland.com",
+          "indices": [
+            144,
+            167
+          ],
+          "url": "https://t.co/I4IOm9R060"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1140041857,
+          "id_str": "1140041857",
+          "indices": [
+            28,
+            42
+          ],
+          "name": "Trump International, Scotland",
+          "screen_name": "TrumpScotland"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/U5xalvyzG2",
+          "expanded_url": "https://twitter.com/Trump/status/1100526297653174274/photo/1",
+          "id": 1100526038336131072,
+          "id_str": "1100526038336131072",
+          "indices": [
+            168,
+            191
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0Xamd0X0AA9oZS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0Xamd0X0AA9oZS.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 971
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 971
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 550
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/U5xalvyzG2"
+        }
+      ]
+    },
+    "favorite_count": 2072,
+    "favorited": false,
+    "full_text": "\"The landscape framework of @TrumpScotland comes close to an ideal. There is nothing missing &amp; there are no weak holes.\" Dr. Martin Hawtree https://t.co/I4IOm9R060 https://t.co/U5xalvyzG2",
+    "geo": null,
+    "id": 1100526297653174274,
+    "id_str": "1100526297653174274",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 447,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 13 16:51:54 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Trump.com",
+              "expanded_url": "http://Trump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L8emHxB2qH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5855,
+      "follow_request_sent": false,
+      "followers_count": 355266,
+      "following": false,
+      "friends_count": 50,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 720293443260456960,
+      "id_str": "720293443260456960",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1298,
+      "location": "New York, NY",
+      "name": "The Trump Organization",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
+      "profile_link_color": "B6B6B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Trump",
+      "statuses_count": 652,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/L8emHxB2qH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1100526297653174274,
+  "quoted_status_id_str": "1100526297653174274",
+  "quoted_status_permalink": {
+    "display": "twitter.com/trump/status/1\u2026",
+    "expanded": "https://twitter.com/trump/status/1100526297653174274",
+    "url": "https://t.co/3xTzzJH6Iq"
+  },
+  "retweet_count": 9931,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 58780000,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 100878,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40717,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

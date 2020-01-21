@@ -1,0 +1,530 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 20 19:25:18 +0000 2019",
+  "display_text_range": [
+    0,
+    119
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          76,
+          95
+        ],
+        "text": "impeachmenthearing"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/cRmM4c7IWN",
+        "expanded_url": "https://twitter.com/RepMattGaetz/status/1197214510077100033/video/1",
+        "features": {},
+        "id": 1197213934811582464,
+        "id_str": "1197213934811582464",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1197213934811582464/img/6Hk4b3narRVKDYBp.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1197213934811582464/img/6Hk4b3narRVKDYBp.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1197214510077100033,
+        "source_status_id_str": "1197214510077100033",
+        "source_user_id": 818948638890217473,
+        "source_user_id_str": "818948638890217473",
+        "type": "photo",
+        "url": "https://t.co/cRmM4c7IWN"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818948638890217473,
+        "id_str": "818948638890217473",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Rep. Matt Gaetz",
+        "screen_name": "RepMattGaetz"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "call_to_actions": {
+            "visit_site": {
+              "url": "https://gaetz.house.gov"
+            }
+          },
+          "description": "Sondland says he never heard anything bad about the Ukraine call.",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "can_media_tag": true,
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "Gaetz.house.gov",
+                    "expanded_url": "http://Gaetz.house.gov",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/GcjK1dZCtR"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 542,
+            "follow_request_sent": false,
+            "followed_by": false,
+            "followers_count": 455037,
+            "following": false,
+            "friends_count": 907,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 818948638890217473,
+            "id_str": "818948638890217473",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1897,
+            "location": "",
+            "name": "Rep. Matt Gaetz",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1546465602",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+            "profile_link_color": "BB1A2A",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "RepMattGaetz",
+            "statuses_count": 4514,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/GcjK1dZCtR",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": "\"It was a good call.\""
+        },
+        "display_url": "pic.twitter.com/cRmM4c7IWN",
+        "expanded_url": "https://twitter.com/RepMattGaetz/status/1197214510077100033/video/1",
+        "features": {},
+        "id": 1197213934811582464,
+        "id_str": "1197213934811582464",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1197213934811582464/img/6Hk4b3narRVKDYBp.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1197213934811582464/img/6Hk4b3narRVKDYBp.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1197214510077100033,
+        "source_status_id_str": "1197214510077100033",
+        "source_user_id": 818948638890217473,
+        "source_user_id_str": "818948638890217473",
+        "type": "video",
+        "url": "https://t.co/cRmM4c7IWN",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 10777,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1197213934811582464/vid/1280x720/ieARB5tVpOX4ivpf.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1197213934811582464/vid/480x270/OrMDOFRpKT4HqV4K.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1197213934811582464/vid/640x360/d0XjEoy6INUi0tGd.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1197213934811582464/pl/LbZG55ysxA-wZaW0.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepMattGaetz: \u201cAll I heard about the call, is that it was a good call.\u201d #impeachmenthearing https://t.co/cRmM4c7IWN",
+  "geo": null,
+  "id": 1197234479808409600,
+  "id_str": "1197234479808409600",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 7652,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 20 18:05:57 +0000 2019",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            58,
+            77
+          ],
+          "text": "impeachmenthearing"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cRmM4c7IWN",
+          "expanded_url": "https://twitter.com/RepMattGaetz/status/1197214510077100033/video/1",
+          "features": {},
+          "id": 1197213934811582464,
+          "id_str": "1197213934811582464",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1197213934811582464/img/6Hk4b3narRVKDYBp.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1197213934811582464/img/6Hk4b3narRVKDYBp.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/cRmM4c7IWN"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://gaetz.house.gov"
+              }
+            },
+            "description": "Sondland says he never heard anything bad about the Ukraine call.",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "\"It was a good call.\""
+          },
+          "display_url": "pic.twitter.com/cRmM4c7IWN",
+          "expanded_url": "https://twitter.com/RepMattGaetz/status/1197214510077100033/video/1",
+          "features": {},
+          "id": 1197213934811582464,
+          "id_str": "1197213934811582464",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1197213934811582464/img/6Hk4b3narRVKDYBp.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1197213934811582464/img/6Hk4b3narRVKDYBp.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/cRmM4c7IWN",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 10777,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1197213934811582464/vid/1280x720/ieARB5tVpOX4ivpf.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1197213934811582464/vid/480x270/OrMDOFRpKT4HqV4K.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1197213934811582464/vid/640x360/d0XjEoy6INUi0tGd.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1197213934811582464/pl/LbZG55ysxA-wZaW0.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 24435,
+    "favorited": false,
+    "full_text": "\u201cAll I heard about the call, is that it was a good call.\u201d #impeachmenthearing https://t.co/cRmM4c7IWN",
+    "geo": null,
+    "id": 1197214510077100033,
+    "id_str": "1197214510077100033",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7652,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Gaetz.house.gov",
+              "expanded_url": "http://Gaetz.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GcjK1dZCtR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 542,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 455037,
+      "following": false,
+      "friends_count": 907,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 818948638890217473,
+      "id_str": "818948638890217473",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1897,
+      "location": "",
+      "name": "Rep. Matt Gaetz",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1546465602",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+      "profile_link_color": "BB1A2A",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RepMattGaetz",
+      "statuses_count": 4514,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/GcjK1dZCtR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66913842,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110793,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46324,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

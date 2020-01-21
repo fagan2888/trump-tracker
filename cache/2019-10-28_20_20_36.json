@@ -1,0 +1,405 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 28 20:20:36 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          127,
+          139
+        ],
+        "text": "impeachment"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22508473,
+        "id_str": "22508473",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Oversight Committee Republicans",
+        "screen_name": "GOPoversight"
+      },
+      {
+        "id": 18166778,
+        "id_str": "18166778",
+        "indices": [
+          51,
+          62
+        ],
+        "name": "Rep. Jim Jordan",
+        "screen_name": "Jim_Jordan"
+      },
+      {
+        "id": 963480595,
+        "id_str": "963480595",
+        "indices": [
+          69,
+          84
+        ],
+        "name": "Mark Meadows",
+        "screen_name": "RepMarkMeadows"
+      },
+      {
+        "id": 29501253,
+        "id_str": "29501253",
+        "indices": [
+          110,
+          124
+        ],
+        "name": "Adam Schiff",
+        "screen_name": "RepAdamSchiff"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPoversight: \u2022 No quid pro quo\n\u2022 No pressure\n\n@Jim_Jordan &amp; @RepMarkMeadows agree that it's time for @RepAdamSchiff's #impeachment cha\u2026",
+  "geo": null,
+  "id": 1188913475960991744,
+  "id_str": "1188913475960991744",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11394,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 28 17:41:59 +0000 2019",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            109,
+            121
+          ],
+          "text": "impeachment"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/a954JV0liX",
+          "expanded_url": "https://twitter.com/GOPoversight/status/1188873561580232705/video/1",
+          "features": {},
+          "id": 1188872193192681479,
+          "id_str": "1188872193192681479",
+          "indices": [
+            138,
+            161
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1188872193192681479/img/bgAyxY6K2bOOuf0C.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1188872193192681479/img/bgAyxY6K2bOOuf0C.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/a954JV0liX"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 18166778,
+          "id_str": "18166778",
+          "indices": [
+            33,
+            44
+          ],
+          "name": "Rep. Jim Jordan",
+          "screen_name": "Jim_Jordan"
+        },
+        {
+          "id": 963480595,
+          "id_str": "963480595",
+          "indices": [
+            51,
+            66
+          ],
+          "name": "Mark Meadows",
+          "screen_name": "RepMarkMeadows"
+        },
+        {
+          "id": 29501253,
+          "id_str": "29501253",
+          "indices": [
+            92,
+            106
+          ],
+          "name": "Adam Schiff",
+          "screen_name": "RepAdamSchiff"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/a954JV0liX",
+          "expanded_url": "https://twitter.com/GOPoversight/status/1188873561580232705/video/1",
+          "features": {},
+          "id": 1188872193192681479,
+          "id_str": "1188872193192681479",
+          "indices": [
+            138,
+            161
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1188872193192681479/img/bgAyxY6K2bOOuf0C.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1188872193192681479/img/bgAyxY6K2bOOuf0C.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/a954JV0liX",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 90524,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1188872193192681479/vid/640x360/F4I4Q6JzDTSIUOL1.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1188872193192681479/vid/1280x720/lQ37-GgQByClxtqB.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1188872193192681479/pl/f3ndI3TCZPEnxKPS.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1188872193192681479/vid/480x270/s1ZwHjIZqsDKMi4x.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 35418,
+    "favorited": false,
+    "full_text": "\u2022 No quid pro quo\n\u2022 No pressure\n\n@Jim_Jordan &amp; @RepMarkMeadows agree that it's time for @RepAdamSchiff's #impeachment charade to end. https://t.co/a954JV0liX",
+    "geo": null,
+    "id": 1188873561580232705,
+    "id_str": "1188873561580232705",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11394,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 02 17:30:34 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "House Oversight Committee Republicans | Est. 1814 | Ranking Member @Jim_Jordan | https://t.co/ylzBTwEGzE",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/gopoversight",
+              "expanded_url": "http://instagram.com/gopoversight",
+              "indices": [
+                81,
+                104
+              ],
+              "url": "https://t.co/ylzBTwEGzE"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "republicans-oversight.house.gov",
+              "expanded_url": "http://republicans-oversight.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/udvm5PQnVL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 210,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 83858,
+      "following": false,
+      "friends_count": 12972,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 22508473,
+      "id_str": "22508473",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1483,
+      "location": "Washington D.C.",
+      "name": "Oversight Committee Republicans",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22508473/1547162412",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1101154310069649408/pqzIuZxV_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101154310069649408/pqzIuZxV_normal.png",
+      "profile_link_color": "134766",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GOPoversight",
+      "statuses_count": 10259,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/udvm5PQnVL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66369765,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45634,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

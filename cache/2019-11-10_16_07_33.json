@@ -1,0 +1,355 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 10 16:07:33 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          104,
+          125
+        ],
+        "text": "HappyBirthdayMarines"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 66369181,
+        "id_str": "66369181",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Department of Defense \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "DeptofDefense"
+      },
+      {
+        "id": 10126672,
+        "id_str": "10126672",
+        "indices": [
+          97,
+          102
+        ],
+        "name": "U.S. Marines",
+        "screen_name": "USMC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DeptofDefense: Happy 244th birthday \ud83c\udf82 to the most powerful fighting force on the planet, the @USMC!\n#HappyBirthdayMarines https://t.co/\u2026",
+  "geo": null,
+  "id": 1193560837656662016,
+  "id_str": "1193560837656662016",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 12582,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 10 11:00:00 +0000 2019",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            85,
+            106
+          ],
+          "text": "HappyBirthdayMarines"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/7yFA1jQn7Q",
+          "expanded_url": "https://twitter.com/DeptofDefense/status/1193483440894533634/video/1",
+          "features": {},
+          "id": 1192855946474786816,
+          "id_str": "1192855946474786816",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/EI3hkEmWwAIa0Yf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EI3hkEmWwAIa0Yf.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/7yFA1jQn7Q"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 10126672,
+          "id_str": "10126672",
+          "indices": [
+            78,
+            83
+          ],
+          "name": "U.S. Marines",
+          "screen_name": "USMC"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/7yFA1jQn7Q",
+          "expanded_url": "https://twitter.com/DeptofDefense/status/1193483440894533634/video/1",
+          "features": {},
+          "id": 1192855946474786816,
+          "id_str": "1192855946474786816",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/EI3hkEmWwAIa0Yf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EI3hkEmWwAIa0Yf.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/7yFA1jQn7Q",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 110127,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1192855946474786816/vid/480x270/M9bPZapddIjk2RIc.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1192855946474786816/vid/640x360/O-pyCwUHhbVlwi49.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1192855946474786816/vid/1280x720/buTlrrPjLlut5BF-.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1192855946474786816/pl/ovBI4BE7Rge6_1a0.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 39512,
+    "favorited": false,
+    "full_text": "Happy 244th birthday \ud83c\udf82 to the most powerful fighting force on the planet, the @USMC!\n#HappyBirthdayMarines https://t.co/7yFA1jQn7Q",
+    "geo": null,
+    "id": 1193483440894533634,
+    "id_str": "1193483440894533634",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12582,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 17 14:43:00 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official account of the U.S. Department of Defense. Following, RTs, links, and likes \u2260 endorsement. #KnowYourMil",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "defense.gov",
+              "expanded_url": "http://www.defense.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nx8Zxh4nEZ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3963,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 5923507,
+      "following": false,
+      "friends_count": 461,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 66369181,
+      "id_str": "66369181",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 14083,
+      "location": "The Pentagon, Washington, D.C.",
+      "name": "Department of Defense \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "003875",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/66369181/1572349588",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/992451978054729734/CGtMu6Ji_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/992451978054729734/CGtMu6Ji_normal.jpg",
+      "profile_link_color": "355D92",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DEDEDE",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DeptofDefense",
+      "statuses_count": 27126,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/nx8Zxh4nEZ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66711791,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110612,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46004,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

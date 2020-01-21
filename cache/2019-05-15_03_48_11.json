@@ -1,0 +1,379 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed May 15 03:48:11 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39349894,
+        "id_str": "39349894",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Eric Trump",
+        "screen_name": "EricTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @EricTrump: Spare me? First you have never created a job in your life. Second, our great city has gone to shit under your leadership. Cr\u2026",
+  "geo": null,
+  "id": 1128507341903728642,
+  "id_str": "1128507341903728642",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1128075456601907200,
+  "quoted_status_id_str": "1128075456601907200",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nycmayor/statu\u2026",
+    "expanded": "https://twitter.com/nycmayor/status/1128075456601907200",
+    "url": "https://t.co/3Fn1glQJEa"
+  },
+  "retweet_count": 19009,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 14 18:35:31 +0000 2019",
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/nycmayor/statu\u2026",
+          "expanded_url": "https://twitter.com/nycmayor/status/1128075456601907200",
+          "indices": [
+            277,
+            300
+          ],
+          "url": "https://t.co/3Fn1glQJEa"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 64778,
+    "favorited": false,
+    "full_text": "Spare me? First you have never created a job in your life. Second, our great city has gone to shit under your leadership. Crime is up, the men &amp; women of the NYPD detest you, homelessness is rampant, our streets are dirty and people are leaving our city in record numbers. https://t.co/3Fn1glQJEa",
+    "geo": null,
+    "id": 1128368258615320578,
+    "id_str": "1128368258615320578",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -73.729693,
+              40.752486
+            ],
+            [
+              -73.688783,
+              40.752486
+            ],
+            [
+              -73.688783,
+              40.782774
+            ],
+            [
+              -73.729693,
+              40.782774
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Lake Success, NY",
+      "id": "f3d6bfeecd27dfce",
+      "name": "Lake Success",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/f3d6bfeecd27dfce.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon May 13 23:12:02 +0000 2019",
+      "display_text_range": [
+        0,
+        200
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/erictrump/stat\u2026",
+            "expanded_url": "https://twitter.com/erictrump/status/1128045131041574913",
+            "indices": [
+              201,
+              224
+            ],
+            "url": "https://t.co/NZdqbWQF7T"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 4386,
+      "favorited": false,
+      "full_text": "Spare me. You and your dad have spent decades evading taxes and stiffing your workers.\n \nNYC\u2019s Green New Deal is one law the Trumps won\u2019t get away with breaking. \n\nFix your buildings or pay the price. https://t.co/NZdqbWQF7T",
+      "geo": null,
+      "id": 1128075456601907200,
+      "id_str": "1128075456601907200",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 1128045131041574913,
+      "quoted_status_id_str": "1128045131041574913",
+      "quoted_status_permalink": {
+        "display": "twitter.com/erictrump/stat\u2026",
+        "expanded": "https://twitter.com/erictrump/status/1128045131041574913",
+        "url": "https://t.co/NZdqbWQF7T"
+      },
+      "retweet_count": 1021,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 31 22:10:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fighting every day to make New York the fairest big city in America. (https://t.co/N0igPl3T7S)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyc.gov/socialmediapol\u2026",
+                "expanded_url": "http://nyc.gov/socialmediapolicy",
+                "indices": [
+                  70,
+                  93
+                ],
+                "url": "https://t.co/N0igPl3T7S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyc.gov/democracy",
+                "expanded_url": "http://nyc.gov/democracy",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Dj0cSqmC3U"
+              }
+            ]
+          }
+        },
+        "favourites_count": 422,
+        "follow_request_sent": false,
+        "followers_count": 1318114,
+        "following": false,
+        "friends_count": 1382,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19834403,
+        "id_str": "19834403",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4238,
+        "location": "New York, NY",
+        "name": "Mayor Bill de Blasio",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19834403/1557330724",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091318907527405568/nYTeUNgU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091318907527405568/nYTeUNgU_normal.jpg",
+        "profile_link_color": "1860DB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "NYCMayor",
+        "statuses_count": 14360,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Dj0cSqmC3U",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1128075456601907200,
+    "quoted_status_id_str": "1128075456601907200",
+    "quoted_status_permalink": {
+      "display": "twitter.com/nycmayor/statu\u2026",
+      "expanded": "https://twitter.com/nycmayor/status/1128075456601907200",
+      "url": "https://t.co/3Fn1glQJEa"
+    },
+    "retweet_count": 19009,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:42:30 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Research Hospital. #MakeAmericaGreatAgain",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Trump.com",
+              "expanded_url": "http://www.Trump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uwwNiWyamR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9383,
+      "follow_request_sent": false,
+      "followers_count": 2471733,
+      "following": false,
+      "friends_count": 782,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 39349894,
+      "id_str": "39349894",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 6115,
+      "location": "",
+      "name": "Eric Trump",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39349894/1516709628",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/974045997268529152/R0CuVYHM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/974045997268529152/R0CuVYHM_normal.jpg",
+      "profile_link_color": "116AB8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "616161",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "EricTrump",
+      "statuses_count": 5707,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uwwNiWyamR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60244945,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 103044,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41881,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

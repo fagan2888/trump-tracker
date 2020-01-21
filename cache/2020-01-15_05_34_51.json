@@ -1,0 +1,677 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 15 05:34:51 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          118,
+          135
+        ],
+        "text": "DemocraticDebate"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 27895304,
+        "id_str": "27895304",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Tana Goertz Text EMPOWER to 88022 \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "heytana"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          87,
+          103
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @heytana: \"Look! Up in the sky! It's a bird! It's a plane! \ud83e\udd85\u2708\ufe0f\ud83c\uddfa\ud83c\uddf8 no it\u2019s a massive .@realDonaldTrump banner at the #DemocraticDebate #KA\u2026",
+  "geo": null,
+  "id": 1217319213934829568,
+  "id_str": "1217319213934829568",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1745,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 14 17:11:44 +0000 2020",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            105,
+            122
+          ],
+          "text": "DemocraticDebate"
+        },
+        {
+          "indices": [
+            123,
+            127
+          ],
+          "text": "KAG"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hTY90xTel1",
+          "expanded_url": "https://twitter.com/heytana/status/1217132202355544066/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "Team Trump (Text FIRST to 88022)",
+                  "screen_name": "TeamTrump",
+                  "type": "user",
+                  "user_id": "729676086632656900"
+                },
+                {
+                  "name": "GOP",
+                  "screen_name": "GOP",
+                  "type": "user",
+                  "user_id": "11134252"
+                },
+                {
+                  "name": "Students For Trump",
+                  "screen_name": "TrumpStudents",
+                  "type": "user",
+                  "user_id": "3981225735"
+                },
+                {
+                  "name": "Tana Goertz Text EMPOWER to 88022 \ud83c\uddfa\ud83c\uddf8",
+                  "screen_name": "heytana",
+                  "type": "user",
+                  "user_id": "27895304"
+                },
+                {
+                  "name": "Donald Trump Jr.",
+                  "screen_name": "DonaldJTrumpJr",
+                  "type": "user",
+                  "user_id": "39344374"
+                },
+                {
+                  "name": "Ivanka Trump",
+                  "screen_name": "IvankaTrump",
+                  "type": "user",
+                  "user_id": "52544275"
+                },
+                {
+                  "name": "Lara Trump",
+                  "screen_name": "LaraLeaTrump",
+                  "type": "user",
+                  "user_id": "75541946"
+                },
+                {
+                  "name": "Eric Trump",
+                  "screen_name": "EricTrump",
+                  "type": "user",
+                  "user_id": "39349894"
+                },
+                {
+                  "name": "Young Republican National Federation",
+                  "screen_name": "yrnf",
+                  "type": "user",
+                  "user_id": "18592146"
+                },
+                {
+                  "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+                  "screen_name": "Scavino45",
+                  "type": "user",
+                  "user_id": "823367015830323201"
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 570,
+                  "y": 204
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 319,
+                  "y": 140
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 316,
+                  "y": 65
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 570,
+                  "y": 204
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 319,
+                  "y": 140
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 316,
+                  "y": 65
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 570,
+                  "y": 204
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 319,
+                  "y": 140
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 316,
+                  "y": 65
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 430,
+                  "y": 154
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 241,
+                  "y": 105
+                },
+                {
+                  "h": 57,
+                  "w": 57,
+                  "x": 238,
+                  "y": 49
+                }
+              ]
+            }
+          },
+          "id": 1217132196382814208,
+          "id_str": "1217132196382814208",
+          "indices": [
+            128,
+            151
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOQfSLIWsAABMr7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOQfSLIWsAABMr7.jpg",
+          "sizes": {
+            "large": {
+              "h": 321,
+              "resize": "fit",
+              "w": 900
+            },
+            "medium": {
+              "h": 321,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 243,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hTY90xTel1"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            74,
+            90
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hTY90xTel1",
+          "expanded_url": "https://twitter.com/heytana/status/1217132202355544066/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "Team Trump (Text FIRST to 88022)",
+                  "screen_name": "TeamTrump",
+                  "type": "user",
+                  "user_id": "729676086632656900"
+                },
+                {
+                  "name": "GOP",
+                  "screen_name": "GOP",
+                  "type": "user",
+                  "user_id": "11134252"
+                },
+                {
+                  "name": "Students For Trump",
+                  "screen_name": "TrumpStudents",
+                  "type": "user",
+                  "user_id": "3981225735"
+                },
+                {
+                  "name": "Tana Goertz Text EMPOWER to 88022 \ud83c\uddfa\ud83c\uddf8",
+                  "screen_name": "heytana",
+                  "type": "user",
+                  "user_id": "27895304"
+                },
+                {
+                  "name": "Donald Trump Jr.",
+                  "screen_name": "DonaldJTrumpJr",
+                  "type": "user",
+                  "user_id": "39344374"
+                },
+                {
+                  "name": "Ivanka Trump",
+                  "screen_name": "IvankaTrump",
+                  "type": "user",
+                  "user_id": "52544275"
+                },
+                {
+                  "name": "Lara Trump",
+                  "screen_name": "LaraLeaTrump",
+                  "type": "user",
+                  "user_id": "75541946"
+                },
+                {
+                  "name": "Eric Trump",
+                  "screen_name": "EricTrump",
+                  "type": "user",
+                  "user_id": "39349894"
+                },
+                {
+                  "name": "Young Republican National Federation",
+                  "screen_name": "yrnf",
+                  "type": "user",
+                  "user_id": "18592146"
+                },
+                {
+                  "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+                  "screen_name": "Scavino45",
+                  "type": "user",
+                  "user_id": "823367015830323201"
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 570,
+                  "y": 204
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 319,
+                  "y": 140
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 316,
+                  "y": 65
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 570,
+                  "y": 204
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 319,
+                  "y": 140
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 316,
+                  "y": 65
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 570,
+                  "y": 204
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 319,
+                  "y": 140
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 316,
+                  "y": 65
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 430,
+                  "y": 154
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 241,
+                  "y": 105
+                },
+                {
+                  "h": 57,
+                  "w": 57,
+                  "x": 238,
+                  "y": 49
+                }
+              ]
+            }
+          },
+          "id": 1217132196382814208,
+          "id_str": "1217132196382814208",
+          "indices": [
+            128,
+            151
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOQfSLIWsAABMr7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOQfSLIWsAABMr7.jpg",
+          "sizes": {
+            "large": {
+              "h": 321,
+              "resize": "fit",
+              "w": 900
+            },
+            "medium": {
+              "h": 321,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 243,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hTY90xTel1"
+        }
+      ]
+    },
+    "favorite_count": 6034,
+    "favorited": false,
+    "full_text": "\"Look! Up in the sky! It's a bird! It's a plane! \ud83e\udd85\u2708\ufe0f\ud83c\uddfa\ud83c\uddf8 no it\u2019s a massive .@realDonaldTrump banner at the #DemocraticDebate #KAG https://t.co/hTY90xTel1",
+    "geo": null,
+    "id": 1217132202355544066,
+    "id_str": "1217132202355544066",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -93.65490674972534,
+              41.60175690552735
+            ],
+            [
+              -93.65490674972534,
+              41.60175690552735
+            ],
+            [
+              -93.65490674972534,
+              41.60175690552735
+            ],
+            [
+              -93.65490674972534,
+              41.60175690552735
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Drake University",
+      "id": "107bf1d71a141001",
+      "name": "Drake University",
+      "place_type": "poi",
+      "url": "https://api.twitter.com/1.1/geo/id/107bf1d71a141001.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1745,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Mar 31 15:41:25 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Speaker-Senior Advisor to @realdonaldtrump @TeamTrump #MAGA2020 \ud83c\uddfa\ud83c\uddf8 #KAG #WomenforTrump \ud83d\udc60Wife to @KurtisGertzKCCI\u2602 https://t.co/WYHFjTX0TZ",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/heytana",
+              "expanded_url": "http://instagram.com/heytana",
+              "indices": [
+                114,
+                137
+              ],
+              "url": "https://t.co/WYHFjTX0TZ"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "heytana.com",
+              "expanded_url": "http://www.heytana.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OHR1RcTHGB"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10168,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 39484,
+      "following": false,
+      "friends_count": 2324,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 27895304,
+      "id_str": "27895304",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 371,
+      "location": "Iowa",
+      "name": "Tana Goertz Text EMPOWER to 88022 \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/27895304/1573226367",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/927645346569883648/veOp2ii8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/927645346569883648/veOp2ii8_normal.jpg",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E3C710",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "heytana",
+      "statuses_count": 9599,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/OHR1RcTHGB",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70972856,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113364,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47898,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

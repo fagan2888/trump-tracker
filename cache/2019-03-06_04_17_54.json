@@ -1,0 +1,390 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 06 04:17:54 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          41,
+          45
+        ],
+        "text": "CNN"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15757578,
+        "id_str": "15757578",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Jim Hanson",
+        "screen_name": "Uncle_Jimbo"
+      },
+      {
+        "id": 408816873,
+        "id_str": "408816873",
+        "indices": [
+          18,
+          30
+        ],
+        "name": "(((Jerry Nadler)))",
+        "screen_name": "JerryNadler"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          83,
+          99
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Uncle_Jimbo: .@JerryNadler admits on #CNN they have no proof of Obstruction by @realDonaldTrump it's just his \"personal opinion\"\n\nMeet\u2026",
+  "geo": null,
+  "id": 1103147670649094144,
+  "id_str": "1103147670649094144",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9856,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 05 13:23:16 +0000 2019",
+    "display_text_range": [
+      0,
+      189
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            24,
+            28
+          ],
+          "text": "CNN"
+        },
+        {
+          "indices": [
+            130,
+            140
+          ],
+          "text": "WitchHunt"
+        },
+        {
+          "indices": [
+            158,
+            168
+          ],
+          "text": "WitchHunt"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zJURMcuMHo",
+          "expanded_url": "https://twitter.com/Uncle_Jimbo/status/1102922529084239872/video/1",
+          "id": 1102922479604060160,
+          "id_str": "1102922479604060160",
+          "indices": [
+            190,
+            213
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102922479604060160/pu/img/ORjk99n99NfdqA5H.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102922479604060160/pu/img/ORjk99n99NfdqA5H.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zJURMcuMHo"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 408816873,
+          "id_str": "408816873",
+          "indices": [
+            1,
+            13
+          ],
+          "name": "(((Jerry Nadler)))",
+          "screen_name": "JerryNadler"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            66,
+            82
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 39344374,
+          "id_str": "39344374",
+          "indices": [
+            174,
+            189
+          ],
+          "name": "Donald Trump Jr.",
+          "screen_name": "DonaldJTrumpJr"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/zJURMcuMHo",
+          "expanded_url": "https://twitter.com/Uncle_Jimbo/status/1102922529084239872/video/1",
+          "id": 1102922479604060160,
+          "id_str": "1102922479604060160",
+          "indices": [
+            190,
+            213
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102922479604060160/pu/img/ORjk99n99NfdqA5H.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102922479604060160/pu/img/ORjk99n99NfdqA5H.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/zJURMcuMHo",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 14915,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1102922479604060160/pu/vid/1280x720/wEFqZtH68XjcFNB1.mp4?tag=6"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1102922479604060160/pu/vid/640x360/oO3jLEUtlgCJRTkG.mp4?tag=6"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1102922479604060160/pu/vid/320x180/tytpoKa-97tqqIKz.mp4?tag=6"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1102922479604060160/pu/pl/ckn0Qmf4UEX8L2DV.m3u8?tag=6"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 21469,
+    "favorited": false,
+    "full_text": ".@JerryNadler admits on #CNN they have no proof of Obstruction by @realDonaldTrump it's just his \"personal opinion\"\n\nMeet the new #WitchHunt \nSame as the old #WitchHunt \n\ncc @DonaldJTrumpJr https://t.co/zJURMcuMHo",
+    "geo": null,
+    "id": 1102922529084239872,
+    "id_str": "1102922529084239872",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9856,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Aug 07 00:59:34 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President, Security Studies Group & Former Army Special Forces Weapons \"Jim is the voice of reason\"",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "securitystudies.org",
+              "expanded_url": "http://securitystudies.org/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uiP82tZwrg"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5323,
+      "follow_request_sent": false,
+      "followers_count": 60540,
+      "following": false,
+      "friends_count": 7875,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 15757578,
+      "id_str": "15757578",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 834,
+      "location": "Arlington, VA",
+      "name": "Jim Hanson",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15757578/1406075564",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1012391234126663680/RW_SJdI8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012391234126663680/RW_SJdI8_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Uncle_Jimbo",
+      "statuses_count": 82766,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uiP82tZwrg",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 58831299,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 100964,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40761,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

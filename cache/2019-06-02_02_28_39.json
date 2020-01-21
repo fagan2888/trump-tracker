@@ -1,0 +1,296 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jun 02 02:28:39 +0000 2019",
+  "display_text_range": [
+    0,
+    203
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/wvuhoops/statu\u2026",
+        "expanded_url": "https://twitter.com/wvuhoops/status/1133381610915737601",
+        "indices": [
+          204,
+          227
+        ],
+        "url": "https://t.co/3kNEpteYfW"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 234374703,
+        "id_str": "234374703",
+        "indices": [
+          188,
+          203
+        ],
+        "name": "Senator Joe Manchin",
+        "screen_name": "Sen_JoeManchin"
+      }
+    ]
+  },
+  "favorite_count": 23436,
+  "favorited": false,
+  "full_text": "The Great Jerry West will be receiving our Nation\u2019s highest civilian honor, The Presidential Medal of Freedom, for his outstanding career, both on and off the court. Happy Birthday Jerry! @Sen_JoeManchin https://t.co/3kNEpteYfW",
+  "geo": null,
+  "id": 1135010309381533701,
+  "id_str": "1135010309381533701",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 28 14:36:47 +0000 2019",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DGzysBynPf",
+          "expanded_url": "https://twitter.com/WVUhoops/status/1133381610915737601/photo/1",
+          "id": 1133381584445419520,
+          "id_str": "1133381584445419520",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7qUi8_WsAAaGkk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7qUi8_WsAAaGkk.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1588
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 931
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 527
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DGzysBynPf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DGzysBynPf",
+          "expanded_url": "https://twitter.com/WVUhoops/status/1133381610915737601/photo/1",
+          "id": 1133381584445419520,
+          "id_str": "1133381584445419520",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7qUi8_WsAAaGkk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7qUi8_WsAAaGkk.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1588
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 931
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 527
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DGzysBynPf"
+        }
+      ]
+    },
+    "favorite_count": 2373,
+    "favorited": false,
+    "full_text": "Happy Birthday to #44 Jerry West!! https://t.co/DGzysBynPf",
+    "geo": null,
+    "id": 1133381610915737601,
+    "id_str": "1133381610915737601",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 437,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Sep 26 18:25:27 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter account of West Virginia University Men\u2019s Basketball | #HailWV | #PressVirginia",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WVUMensBasketball.com",
+              "expanded_url": "http://WVUMensBasketball.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9Z7dtBiKsU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 471,
+      "follow_request_sent": false,
+      "followers_count": 318453,
+      "following": false,
+      "friends_count": 66,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 847878318,
+      "id_str": "847878318",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 444,
+      "location": "Morgantown, WV",
+      "name": "WVU Basketball",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/847878318/1555179761",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1117131027418365958/jwO5kb_P_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117131027418365958/jwO5kb_P_normal.png",
+      "profile_link_color": "002E5F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WVUhoops",
+      "statuses_count": 11682,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9Z7dtBiKsU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1133381610915737601,
+  "quoted_status_id_str": "1133381610915737601",
+  "quoted_status_permalink": {
+    "display": "twitter.com/wvuhoops/statu\u2026",
+    "expanded": "https://twitter.com/wvuhoops/status/1133381610915737601",
+    "url": "https://t.co/3kNEpteYfW"
+  },
+  "retweet_count": 5146,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60741231,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103708,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559318619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42171,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 31 12:06:46 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 225921757,
+        "id_str": "225921757",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Sen. James Lankford",
+        "screen_name": "SenatorLankford"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenatorLankford: As I travel around the state, a lot of people ask about securing the US-Mexico border &amp; what Congress can do to fix th\u2026",
+  "geo": null,
+  "id": 1167770704579911681,
+  "id_str": "1167770704579911681",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2609,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 21 19:20:55 +0000 2019",
+    "display_text_range": [
+      0,
+      275
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3xHZZz3bfY",
+          "expanded_url": "https://twitter.com/SenatorLankford/status/1164256083038412801/video/1",
+          "id": 1164219492433633283,
+          "id_str": "1164219492433633283",
+          "indices": [
+            276,
+            299
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1164219492433633283/img/6mkPy70b0A4KVyJl.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1164219492433633283/img/6mkPy70b0A4KVyJl.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3xHZZz3bfY"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2856787757,
+          "id_str": "2856787757",
+          "indices": [
+            200,
+            213
+          ],
+          "name": "Joni Ernst",
+          "screen_name": "SenJoniErnst"
+        },
+        {
+          "id": 1017500185356853248,
+          "id_str": "1017500185356853248",
+          "indices": [
+            220,
+            235
+          ],
+          "name": "U.S. Senator Bill Cassidy, M.D.",
+          "screen_name": "SenBillCassidy"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/3xHZZz3bfY",
+          "expanded_url": "https://twitter.com/SenatorLankford/status/1164256083038412801/video/1",
+          "id": 1164219492433633283,
+          "id_str": "1164219492433633283",
+          "indices": [
+            276,
+            299
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1164219492433633283/img/6mkPy70b0A4KVyJl.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1164219492433633283/img/6mkPy70b0A4KVyJl.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/3xHZZz3bfY",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 168085,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1164219492433633283/pl/kWBhtS_2-U9y7fD-.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1164219492433633283/vid/480x270/x84bpR6vm3TquhGS.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1164219492433633283/vid/1280x720/gxBxFiiJH7wXqAnm.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1164219492433633283/vid/640x360/ZmuFfoPtKVcZ0YWh.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 8704,
+    "favorited": false,
+    "full_text": "As I travel around the state, a lot of people ask about securing the US-Mexico border &amp; what Congress can do to fix the broken immigration process. Last month, I visited the US-Mexico border with @SenJoniErnst &amp; @SenBillCassidy to see firsthand what needs to be done. https://t.co/3xHZZz3bfY",
+    "geo": null,
+    "id": 1164256083038412801,
+    "id_str": "1164256083038412801",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2609,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Dec 12 20:33:07 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Serving the State of Oklahoma in the United States Senate",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lankford.senate.gov",
+              "expanded_url": "http://lankford.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/TAadQSsJTA"
+            }
+          ]
+        }
+      },
+      "favourites_count": 479,
+      "follow_request_sent": false,
+      "followers_count": 76601,
+      "following": false,
+      "friends_count": 490,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 225921757,
+      "id_str": "225921757",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1852,
+      "location": "Oklahoma and Washington, DC",
+      "name": "Sen. James Lankford",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/225921757/1517262353",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1095760398282838017/a_8BwNFx_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095760398282838017/a_8BwNFx_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SenatorLankford",
+      "statuses_count": 6444,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/TAadQSsJTA",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63788709,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107986,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43935,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

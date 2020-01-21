@@ -1,0 +1,290 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 14 18:44:30 +0000 2019",
+  "display_text_range": [
+    0,
+    85
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          17,
+          30
+        ],
+        "text": "ArmyNavyGame"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/tWnDNRFyO1",
+        "expanded_url": "https://twitter.com/CBSSportsNet/status/1205902193062072322/video/1",
+        "features": {},
+        "id": 1205902069489516544,
+        "id_str": "1205902069489516544",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/media/ELw5pkMUUAE1jPc.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ELw5pkMUUAE1jPc.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1205902193062072322,
+        "source_status_id_str": "1205902193062072322",
+        "source_user_id": 44457290,
+        "source_user_id_str": "44457290",
+        "type": "photo",
+        "url": "https://t.co/tWnDNRFyO1"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "Powered by SnappyTV",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "can_media_tag": true,
+            "contributors_enabled": false,
+            "created_at": "Wed Jun 03 21:05:48 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "24-hour home of CBS Sports. DIRECTV channel 221, Dish Network channel 158 or check your local TV listings.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "cbssportsnetwork.com/channelfinder",
+                    "expanded_url": "http://www.cbssportsnetwork.com/channelfinder",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/LOGxBZN29l"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 120,
+            "follow_request_sent": false,
+            "followed_by": false,
+            "followers_count": 112083,
+            "following": false,
+            "friends_count": 347,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 44457290,
+            "id_str": "44457290",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1506,
+            "location": "",
+            "name": "CBS Sports Network",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/44457290/1454306355",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/914938790787125248/aDe8EkHk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/914938790787125248/aDe8EkHk_normal.jpg",
+            "profile_link_color": "033963",
+            "profile_sidebar_border_color": "160EF0",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "CC3333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "CBSSportsNet",
+            "statuses_count": 40125,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/LOGxBZN29l",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": "Video"
+        },
+        "display_url": "pic.twitter.com/tWnDNRFyO1",
+        "expanded_url": "https://twitter.com/CBSSportsNet/status/1205902193062072322/video/1",
+        "features": {},
+        "id": 1205902069489516544,
+        "id_str": "1205902069489516544",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/media/ELw5pkMUUAE1jPc.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ELw5pkMUUAE1jPc.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1205902193062072322,
+        "source_status_id_str": "1205902193062072322",
+        "source_user_id": 44457290,
+        "source_user_id_str": "44457290",
+        "type": "video",
+        "url": "https://t.co/tWnDNRFyO1",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 140634,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1205902069489516544/pl/HHq6ncSXeCwwv0Hb.m3u8?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1205902069489516544/vid/640x360/6SXBnDhZMxDpDLN_.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1205902069489516544/vid/1280x720/zSs4LCX89HtG66XT.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1205902069489516544/vid/480x270/dgR2jS_0_dLWrtT4.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 55217,
+  "favorited": false,
+  "full_text": "On my way to the #ArmyNavyGame in Philadelphia, Pennsylvania! https://t.co/tWnDNRFyO1",
+  "geo": null,
+  "id": 1205921522973462528,
+  "id_str": "1205921522973462528",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 11500,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67564787,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111455,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47133,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

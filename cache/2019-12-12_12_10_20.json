@@ -1,0 +1,374 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 12 12:10:20 +0000 2019",
+  "display_text_range": [
+    0,
+    118
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/gopchairwoman/\u2026",
+        "expanded_url": "https://twitter.com/gopchairwoman/status/1204787517402353664",
+        "indices": [
+          95,
+          118
+        ],
+        "url": "https://t.co/hj9plf0GMC"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: The News Media in our Country is FAKE and in many cases, totally CORRUPT! https://t.co/hj9plf0GMC",
+  "geo": null,
+  "id": 1205097551646593029,
+  "id_str": "1205097551646593029",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1204787517402353664,
+  "quoted_status_id_str": "1204787517402353664",
+  "quoted_status_permalink": {
+    "display": "twitter.com/gopchairwoman/\u2026",
+    "expanded": "https://twitter.com/gopchairwoman/status/1204787517402353664",
+    "url": "https://t.co/hj9plf0GMC"
+  },
+  "retweet_count": 21445,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 11 19:06:39 +0000 2019",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/gopchairwoman/\u2026",
+          "expanded_url": "https://twitter.com/gopchairwoman/status/1204787517402353664",
+          "indices": [
+            74,
+            97
+          ],
+          "url": "https://t.co/hj9plf0GMC"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 67401,
+    "favorited": false,
+    "full_text": "The News Media in our Country is FAKE and in many cases, totally CORRUPT! https://t.co/hj9plf0GMC",
+    "geo": null,
+    "id": 1204839933430644736,
+    "id_str": "1204839933430644736",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Dec 11 15:38:22 +0000 2019",
+      "display_text_range": [
+        0,
+        234
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/SteveGuest/sta\u2026",
+            "expanded_url": "https://twitter.com/SteveGuest/status/1204780316101152768?s=20",
+            "indices": [
+              211,
+              234
+            ],
+            "url": "https://t.co/AdVYf8RHzV"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 432895323,
+            "id_str": "432895323",
+            "indices": [
+              77,
+              93
+            ],
+            "name": "Lindsey Graham",
+            "screen_name": "LindseyGrahamSC"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              145,
+              161
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "favorite_count": 14842,
+      "favorited": false,
+      "full_text": "CNN aired everything Schiff &amp; Nadler had to say. Why aren\u2019t they showing @LindseyGrahamSC? Is it because the facts of how the FBI mistreated @realDonaldTrump contradict their coverage over the last 3 years? https://t.co/AdVYf8RHzV",
+      "geo": null,
+      "id": 1204787517402353664,
+      "id_str": "1204787517402353664",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 1204780316101152768,
+      "quoted_status_id_str": "1204780316101152768",
+      "quoted_status_permalink": {
+        "display": "twitter.com/SteveGuest/sta\u2026",
+        "expanded": "https://twitter.com/SteveGuest/status/1204780316101152768?s=20",
+        "url": "https://t.co/AdVYf8RHzV"
+      },
+      "retweet_count": 7212,
+      "retweeted": false,
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@GOP Chairwoman | Wife, mother of two",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goo.gl/CYmMU2",
+                "expanded_url": "https://goo.gl/CYmMU2",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/PURDnkBdAH"
+              }
+            ]
+          }
+        },
+        "favourites_count": 6368,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 435438,
+        "following": false,
+        "friends_count": 2605,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2296,
+        "location": "",
+        "name": "Ronna McDaniel",
+        "notifications": false,
+        "profile_background_color": "7087EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+        "profile_link_color": "00759D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "5C554E",
+        "profile_text_color": "EADDB5",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GOPChairwoman",
+        "statuses_count": 12567,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/PURDnkBdAH",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1204787517402353664,
+    "quoted_status_id_str": "1204787517402353664",
+    "quoted_status_permalink": {
+      "display": "twitter.com/gopchairwoman/\u2026",
+      "expanded": "https://twitter.com/gopchairwoman/status/1204787517402353664",
+      "url": "https://t.co/hj9plf0GMC"
+    },
+    "retweet_count": 21445,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 67491776,
+      "following": true,
+      "friends_count": 48,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 111356,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 47085,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67491776,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47085,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

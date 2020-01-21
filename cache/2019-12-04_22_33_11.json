@@ -1,0 +1,338 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 04 22:33:11 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818948638890217473,
+        "id_str": "818948638890217473",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Rep. Matt Gaetz",
+        "screen_name": "RepMattGaetz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepMattGaetz: \"To all of the witnesses: if you have personal knowledge of a single material fact in the Schiff report, please raise you\u2026",
+  "geo": null,
+  "id": 1202355192387137536,
+  "id_str": "1202355192387137536",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10549,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 04 21:33:53 +0000 2019",
+    "display_text_range": [
+      0,
+      181
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            142,
+            161
+          ],
+          "text": "ImpeachmentHearing"
+        },
+        {
+          "indices": [
+            162,
+            181
+          ],
+          "text": "ImpeachingHearings"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KPfpX6NcUg",
+          "expanded_url": "https://twitter.com/RepMattGaetz/status/1202340270743969792/video/1",
+          "features": {},
+          "id": 1202338676367396864,
+          "id_str": "1202338676367396864",
+          "indices": [
+            182,
+            205
+          ],
+          "media_url": "http://pbs.twimg.com/media/EK-RKyAWoAAMmLo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EK-RKyAWoAAMmLo.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/KPfpX6NcUg"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "watch_now": {
+                "url": "https://youtu.be/i-whuCh505w"
+              }
+            },
+            "description": "Let the record reflect no witnesses raised their hands. ",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Personal Knowledge"
+          },
+          "display_url": "pic.twitter.com/KPfpX6NcUg",
+          "expanded_url": "https://twitter.com/RepMattGaetz/status/1202340270743969792/video/1",
+          "features": {},
+          "id": 1202338676367396864,
+          "id_str": "1202338676367396864",
+          "indices": [
+            182,
+            205
+          ],
+          "media_url": "http://pbs.twimg.com/media/EK-RKyAWoAAMmLo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EK-RKyAWoAAMmLo.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/KPfpX6NcUg",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 54755,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1202338676367396864/vid/640x360/aH_jKIGwdCJU0lcA.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1202338676367396864/pl/w0R1lkKBB75aT0qH.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1202338676367396864/vid/480x270/cis6IGIXgHJ2ggiT.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1202338676367396864/vid/1280x720/CulV6BGAv9k2fWjd.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 29537,
+    "favorited": false,
+    "full_text": "\"To all of the witnesses: if you have personal knowledge of a single material fact in the Schiff report, please raise your hand.\"\n\n*silence*\n\n#ImpeachmentHearing #ImpeachingHearings https://t.co/KPfpX6NcUg",
+    "geo": null,
+    "id": 1202340270743969792,
+    "id_str": "1202340270743969792",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10549,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Gaetz.house.gov",
+              "expanded_url": "http://Gaetz.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GcjK1dZCtR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 550,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 479664,
+      "following": false,
+      "friends_count": 909,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 818948638890217473,
+      "id_str": "818948638890217473",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1959,
+      "location": "",
+      "name": "Rep. Matt Gaetz",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1546465602",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+      "profile_link_color": "BB1A2A",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RepMattGaetz",
+      "statuses_count": 4599,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/GcjK1dZCtR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67268195,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111017,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46637,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

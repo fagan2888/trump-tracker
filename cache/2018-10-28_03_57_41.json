@@ -1,0 +1,355 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 28 03:57:41 +0000 2018",
+  "display_text_range": [
+    0,
+    17
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/dineshdsouza/s\u2026",
+        "expanded_url": "https://twitter.com/dineshdsouza/status/1056315102327201793",
+        "indices": [
+          18,
+          41
+        ],
+        "url": "https://t.co/ZmSA4v5fKi"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 20599,
+  "favorited": false,
+  "full_text": "Very interesting! https://t.co/ZmSA4v5fKi",
+  "geo": null,
+  "id": 1056394547637485574,
+  "id_str": "1056394547637485574",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 27 22:42:00 +0000 2018",
+    "display_text_range": [
+      0,
+      205
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/HBu7762BWN",
+          "expanded_url": "https://twitter.com/DineshDSouza/status/1056315102327201793/video/1",
+          "id": 1055143627146563586,
+          "id_str": "1055143627146563586",
+          "indices": [
+            206,
+            229
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqSf8SjXcAI5zmC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqSf8SjXcAI5zmC.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/HBu7762BWN"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "dineshdsouza.com/nratv",
+          "expanded_url": "http://dineshdsouza.com/nratv",
+          "indices": [
+            182,
+            205
+          ],
+          "url": "https://t.co/vjNxDuv8G0"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 17564591,
+          "id_str": "17564591",
+          "indices": [
+            150,
+            156
+          ],
+          "name": "NRATV",
+          "screen_name": "NRATV"
+        },
+        {
+          "id": 7702542,
+          "id_str": "7702542",
+          "indices": [
+            172,
+            180
+          ],
+          "name": "Dana Loesch",
+          "screen_name": "DLoesch"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "watch_now": {
+                "url": "http://deathofanationmovie.com"
+              }
+            },
+            "description": "Lincoln saved America from the Democrats for the first time. Can Trump\u2014and we\u2014come together and save America again?",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Why did D'Souza choose to compare Trump to Lincoln?"
+          },
+          "display_url": "pic.twitter.com/HBu7762BWN",
+          "expanded_url": "https://twitter.com/DineshDSouza/status/1056315102327201793/video/1",
+          "id": 1055143627146563586,
+          "id_str": "1055143627146563586",
+          "indices": [
+            206,
+            229
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqSf8SjXcAI5zmC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqSf8SjXcAI5zmC.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/HBu7762BWN",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 88255,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1055143627146563586/pl/77WchTWa7rbRaH66.m3u8?tag=8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1055143627146563586/vid/640x360/PkfleW89s5lecnpH.mp4?tag=8"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1055143627146563586/vid/320x180/41_YFAVtqBMJ-7MP.mp4?tag=8"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1055143627146563586/vid/1280x720/KxpWRzeLUU6eRP8R.mp4?tag=8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 7606,
+    "favorited": false,
+    "full_text": "When Lincoln, an outsider and a Republican, won the election of 1860, all hell broke loose and Democrats went berserk. Sound familiar?\n\nCatch my full @NRATV interview with @DLoesch: https://t.co/vjNxDuv8G0 https://t.co/HBu7762BWN",
+    "geo": null,
+    "id": 1056315102327201793,
+    "id_str": "1056315102327201793",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3493,
+    "retweeted": false,
+    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 22 22:32:41 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Can Trump\u2014and we\u2014save America from the Democrats a second time? \"Death of a Nation\" is available for pre-order now on DVD/Blu-ray/Digital HD!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "deathofanationmovie.com",
+              "expanded_url": "https://deathofanationmovie.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fMqu1zYBOH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 652,
+      "follow_request_sent": false,
+      "followers_count": 1050938,
+      "following": false,
+      "friends_count": 5572,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 91882544,
+      "id_str": "91882544",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 5826,
+      "location": "United States",
+      "name": "Dinesh D'Souza",
+      "notifications": false,
+      "profile_background_color": "252929",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/91882544/1539283292",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/890967538292711424/8puyFbiI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/890967538292711424/8puyFbiI_normal.jpg",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DineshDSouza",
+      "statuses_count": 36037,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/fMqu1zYBOH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1056315102327201793,
+  "quoted_status_id_str": "1056315102327201793",
+  "quoted_status_permalink": {
+    "display": "twitter.com/dineshdsouza/s\u2026",
+    "expanded": "https://twitter.com/dineshdsouza/status/1056315102327201793",
+    "url": "https://t.co/ZmSA4v5fKi"
+  },
+  "retweet_count": 6946,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 55381144,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 95261,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1540264974",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39448,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

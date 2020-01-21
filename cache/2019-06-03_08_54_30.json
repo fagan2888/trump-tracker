@@ -1,0 +1,345 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jun 03 08:54:30 +0000 2019",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/usainuk/status\u2026",
+        "expanded_url": "https://twitter.com/usainuk/status/1135468913364471809",
+        "indices": [
+          16,
+          39
+        ],
+        "url": "https://t.co/hm6RXLeWpp"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 74067,
+  "favorited": false,
+  "full_text": "Thank you! \ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7 https://t.co/hm6RXLeWpp",
+  "geo": null,
+  "id": 1135469796437495808,
+  "id_str": "1135469796437495808",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 03 08:50:59 +0000 2019",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            55,
+            68
+          ],
+          "text": "USStateVisit"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/u0cF1Y8b5v",
+          "expanded_url": "https://twitter.com/USAinUK/status/1135468913364471809/video/1",
+          "id": 1135468839540580352,
+          "id_str": "1135468839540580352",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135468839540580352/pu/img/8R0DoaFjJYEFgCw-.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135468839540580352/pu/img/8R0DoaFjJYEFgCw-.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/u0cF1Y8b5v"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            18,
+            34
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 818876014390603776,
+          "id_str": "818876014390603776",
+          "indices": [
+            41,
+            48
+          ],
+          "name": "Melania Trump",
+          "screen_name": "FLOTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/u0cF1Y8b5v",
+          "expanded_url": "https://twitter.com/USAinUK/status/1135468913364471809/video/1",
+          "id": 1135468839540580352,
+          "id_str": "1135468839540580352",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135468839540580352/pu/img/8R0DoaFjJYEFgCw-.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135468839540580352/pu/img/8R0DoaFjJYEFgCw-.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/u0cF1Y8b5v",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 48382,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1135468839540580352/pu/pl/aqum81z9q4UCQn3T.m3u8?tag=9"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1135468839540580352/pu/vid/1280x720/GsOrtDeX9piSBnBX.mp4?tag=9"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1135468839540580352/pu/vid/320x180/u0EW4eB-hiGGxOwp.mp4?tag=9"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1135468839540580352/pu/vid/640x360/Cox8uv4uNKr8xW6r.mp4?tag=9"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 17026,
+    "favorited": false,
+    "full_text": "Welcome to the UK @realDonaldTrump &amp; @FLOTUS! \ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7 #USStateVisit https://t.co/u0cF1Y8b5v",
+    "geo": null,
+    "id": 1135468913364471809,
+    "id_str": "1135468913364471809",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4194,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed May 21 14:25:16 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Embassy of the United States of America, London. A mini USA \ud83c\uddfa\ud83c\uddf8 in the UK \ud83c\uddec\ud83c\udde7",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/usa_in_uk",
+              "expanded_url": "https://Instagram.com/usa_in_uk",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/aINaTMh6WX"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7082,
+      "follow_request_sent": false,
+      "followers_count": 62080,
+      "following": false,
+      "friends_count": 1831,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 14856951,
+      "id_str": "14856951",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1367,
+      "location": "U.S. Embassy London, UK",
+      "name": "U.S. Embassy London",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14856951/1559573686",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1110496665067286528/k7vTQ7hU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110496665067286528/k7vTQ7hU_normal.jpg",
+      "profile_link_color": "0004FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USAinUK",
+      "statuses_count": 30075,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/aINaTMh6WX",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1135468913364471809,
+  "quoted_status_id_str": "1135468913364471809",
+  "quoted_status_permalink": {
+    "display": "twitter.com/usainuk/status\u2026",
+    "expanded": "https://twitter.com/usainuk/status/1135468913364471809",
+    "url": "https://t.co/hm6RXLeWpp"
+  },
+  "retweet_count": 14197,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60809879,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103825,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559318619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42202,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

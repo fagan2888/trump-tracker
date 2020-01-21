@@ -1,0 +1,333 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 18 12:11:50 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18247062,
+        "id_str": "18247062",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Judicial Watch \ud83d\udd0e",
+        "screen_name": "JudicialWatch"
+      },
+      {
+        "id": 18266688,
+        "id_str": "18266688",
+        "indices": [
+          32,
+          42
+        ],
+        "name": "Tom Fitton",
+        "screen_name": "TomFitton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JudicialWatch: JW President @TomFitton discusses Clinton\u2019s memo: \"She signed a memo saying \u2018due to recent targeting of personal email a\u2026",
+  "geo": null,
+  "id": 1118849614952710146,
+  "id_str": "1118849614952710146",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11161,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 18 12:00:00 +0000 2019",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ymlfUrdnw8",
+          "expanded_url": "https://twitter.com/JudicialWatch/status/1118846640729800705/video/1",
+          "id": 1117905630449291265,
+          "id_str": "1117905630449291265",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4aCAp9WkAAlx7p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4aCAp9WkAAlx7p.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ymlfUrdnw8"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 18266688,
+          "id_str": "18266688",
+          "indices": [
+            13,
+            23
+          ],
+          "name": "Tom Fitton",
+          "screen_name": "TomFitton"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/ymlfUrdnw8",
+          "expanded_url": "https://twitter.com/JudicialWatch/status/1118846640729800705/video/1",
+          "id": 1117905630449291265,
+          "id_str": "1117905630449291265",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4aCAp9WkAAlx7p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4aCAp9WkAAlx7p.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ymlfUrdnw8",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 598733,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1117905630449291265/vid/320x180/Xk5Up1SungceV1Az.mp4?tag=11"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1117905630449291265/vid/1280x720/4Cd6xPYDKBwS6ims.mp4?tag=11"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1117905630449291265/vid/640x360/33o7yTBxKhvLR5I3.mp4?tag=11"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1117905630449291265/pl/E7j7TxJLyauqZ7fY.m3u8?tag=11"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 30683,
+    "favorited": false,
+    "full_text": "JW President @TomFitton discusses Clinton\u2019s memo: \"She signed a memo saying \u2018due to recent targeting of personal email accounts by online adversaries, State employees should avoid conducting official department business from personal accounts\u2019 while she used personal accounts.\u201d https://t.co/ymlfUrdnw8",
+    "geo": null,
+    "id": 1118846640729800705,
+    "id_str": "1118846640729800705",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11161,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 19 18:04:57 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government. Follow us on FB & Instagram: judicialwatch",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "judicialwatch.org",
+              "expanded_url": "http://www.judicialwatch.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JPjqvKy5es"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1376,
+      "follow_request_sent": false,
+      "followers_count": 1066353,
+      "following": false,
+      "friends_count": 1968,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18247062,
+      "id_str": "18247062",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 5073,
+      "location": "Washington, DC",
+      "name": "Judicial Watch \ud83d\udd0e",
+      "notifications": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18247062/1555347255",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1117833446578061314/PLsTrGYS_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117833446578061314/PLsTrGYS_normal.png",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "30353B",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JudicialWatch",
+      "statuses_count": 59591,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JPjqvKy5es",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 59772230,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101992,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41302,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

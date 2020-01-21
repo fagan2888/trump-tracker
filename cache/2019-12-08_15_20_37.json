@@ -1,0 +1,336 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 08 15:20:37 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1209936918,
+        "id_str": "1209936918",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "One America News",
+        "screen_name": "OANN"
+      },
+      {
+        "id": 2438831503,
+        "id_str": "2438831503",
+        "indices": [
+          73,
+          84
+        ],
+        "name": "Chanel Rion OAN",
+        "screen_name": "ChanelRion"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @OANN: In the next for edition of One America News Investigates, join @ChanelRion as she interviews several witnesses who debunk Adam Sc\u2026",
+  "geo": null,
+  "id": 1203695884996939777,
+  "id_str": "1203695884996939777",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7737,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 04 21:39:40 +0000 2019",
+    "display_text_range": [
+      0,
+      287
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iq4wP4BhKt",
+          "expanded_url": "https://twitter.com/OANN/status/1202341726850957312/video/1",
+          "features": {},
+          "id": 1202341639315804161,
+          "id_str": "1202341639315804161",
+          "indices": [
+            288,
+            311
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202341639315804161/pu/img/G0uwhvEC0SqRXScM.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202341639315804161/pu/img/G0uwhvEC0SqRXScM.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iq4wP4BhKt"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2438831503,
+          "id_str": "2438831503",
+          "indices": [
+            63,
+            74
+          ],
+          "name": "Chanel Rion OAN",
+          "screen_name": "ChanelRion"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/iq4wP4BhKt",
+          "expanded_url": "https://twitter.com/OANN/status/1202341726850957312/video/1",
+          "features": {},
+          "id": 1202341639315804161,
+          "id_str": "1202341639315804161",
+          "indices": [
+            288,
+            311
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202341639315804161/pu/img/G0uwhvEC0SqRXScM.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202341639315804161/pu/img/G0uwhvEC0SqRXScM.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/iq4wP4BhKt",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 30063,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1202341639315804161/pu/vid/640x360/WR409YIgWjWsvSgy.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1202341639315804161/pu/pl/K-JqiKYuxcGI0DB8.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1202341639315804161/pu/vid/480x270/4b3e5d-G-ng9VESJ.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1202341639315804161/pu/vid/1280x720/2hS1z1lYSAQ1-RYJ.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 18033,
+    "favorited": false,
+    "full_text": "In the next for edition of One America News Investigates, join @ChanelRion as she interviews several witnesses who debunk Adam Schiff's baseless impeachment case against President Trump.\n\nTune in Sat., Dec. 7th &amp; Sun., Dec. 8th at 10AM EST / 7AM PST &amp; again at 5PM EST / 2PM PST! https://t.co/iq4wP4BhKt",
+    "geo": null,
+    "id": 1202341726850957312,
+    "id_str": "1202341726850957312",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7737,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 22 22:24:39 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Your nation. Your news. #OANN",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "oann.com",
+              "expanded_url": "http://oann.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/pWqf41e3no"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2523,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 481534,
+      "following": false,
+      "friends_count": 77,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1209936918,
+      "id_str": "1209936918",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2943,
+      "location": "",
+      "name": "One America News",
+      "notifications": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209936918/1448043588",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/579744264751448064/DH0xDrdO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/579744264751448064/DH0xDrdO_normal.jpg",
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "OANN",
+      "statuses_count": 110784,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/pWqf41e3no",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67353829,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111108,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46828,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

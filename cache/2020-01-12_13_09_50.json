@@ -1,0 +1,439 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jan 12 13:09:50 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 968650362,
+        "id_str": "968650362",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Tom Cotton",
+        "screen_name": "SenTomCotton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenTomCotton: The American left and media cover relentlessly for Iran\u2019s murderous regime. They claim that staged mass rallies mean the\u2026",
+  "geo": null,
+  "id": 1216346548352831488,
+  "id_str": "1216346548352831488",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1216070113545334785,
+  "quoted_status_id_str": "1216070113545334785",
+  "quoted_status_permalink": {
+    "display": "twitter.com/alirezanader/s\u2026",
+    "expanded": "https://twitter.com/alirezanader/status/1216070113545334785",
+    "url": "https://t.co/mmPQb7xASY"
+  },
+  "retweet_count": 9615,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 11 21:05:03 +0000 2020",
+    "display_text_range": [
+      0,
+      233
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/alirezanader/s\u2026",
+          "expanded_url": "https://twitter.com/alirezanader/status/1216070113545334785",
+          "indices": [
+            234,
+            257
+          ],
+          "url": "https://t.co/mmPQb7xASY"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 28433,
+    "favorited": false,
+    "full_text": "The American left and media cover relentlessly for Iran\u2019s murderous regime. They claim that staged mass rallies mean the Iranian people are in mourning for Soleimani, and that it\u2019s America\u2019s fault Iran shot down an civilian airliner. https://t.co/mmPQb7xASY",
+    "geo": null,
+    "id": 1216103751829938176,
+    "id_str": "1216103751829938176",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Jan 11 18:51:23 +0000 2020",
+      "display_text_range": [
+        0,
+        92
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              86,
+              91
+            ],
+            "text": "Iran"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/f5af5mgXZ7",
+            "expanded_url": "https://twitter.com/AlirezaNader/status/1216070113545334785/video/1",
+            "features": {},
+            "id": 1216070056460931072,
+            "id_str": "1216070056460931072",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216070056460931072/pu/img/ObpcHZIj5OFA_a3-.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216070056460931072/pu/img/ObpcHZIj5OFA_a3-.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/f5af5mgXZ7"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/f5af5mgXZ7",
+            "expanded_url": "https://twitter.com/AlirezaNader/status/1216070113545334785/video/1",
+            "features": {},
+            "id": 1216070056460931072,
+            "id_str": "1216070056460931072",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216070056460931072/pu/img/ObpcHZIj5OFA_a3-.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216070056460931072/pu/img/ObpcHZIj5OFA_a3-.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/f5af5mgXZ7",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 29182,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1216070056460931072/pu/vid/480x270/w7Jzc2a4WCcY308j.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1216070056460931072/pu/pl/Hn3a0lnjo8HhuXtz.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1216070056460931072/pu/vid/640x360/3RKL3XXNW-mrb56F.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 3919,
+      "favorited": false,
+      "full_text": "\u201cSoleimani is a murderer, his leader a traitor.\u201d \nAnti regime demonstrations, Tehran, #Iran. https://t.co/f5af5mgXZ7",
+      "geo": null,
+      "id": 1216070113545334785,
+      "id_str": "1216070113545334785",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1836,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 10 20:39:42 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Senior Fellow at FDD. X RAND analyst. Nonpartisan. RT # end. \u201cNo one really knows why they are alive until they know what they'd die for.\u201d -Martin Luther King",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fdd.org/team/alireza-n\u2026",
+                "expanded_url": "https://www.fdd.org/team/alireza-nader/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/zEiM1icz9R"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2312,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 21707,
+        "following": false,
+        "friends_count": 1186,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 488772327,
+        "id_str": "488772327",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 469,
+        "location": "Washington, DC",
+        "name": "Alireza Nader",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/488772327/1575047972",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1210593235669864448/6P1LjRTC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210593235669864448/6P1LjRTC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AlirezaNader",
+        "statuses_count": 13691,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zEiM1icz9R",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1216070113545334785,
+    "quoted_status_id_str": "1216070113545334785",
+    "quoted_status_permalink": {
+      "display": "twitter.com/alirezanader/s\u2026",
+      "expanded": "https://twitter.com/alirezanader/status/1216070113545334785",
+      "url": "https://t.co/mmPQb7xASY"
+    },
+    "retweet_count": 9615,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat Nov 24 19:33:10 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "U.S. Senator proudly serving the state of Arkansas.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cotton.senate.gov",
+              "expanded_url": "http://cotton.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/gR93LLUqRV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 179076,
+      "following": false,
+      "friends_count": 352,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 968650362,
+      "id_str": "968650362",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2498,
+      "location": "",
+      "name": "Tom Cotton",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/968650362/1366831169",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/568884049058357248/M-VeVL9u_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/568884049058357248/M-VeVL9u_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenTomCotton",
+      "statuses_count": 8851,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/gR93LLUqRV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70836734,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113263,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47854,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

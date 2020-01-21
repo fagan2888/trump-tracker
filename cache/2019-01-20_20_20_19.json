@@ -1,0 +1,328 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jan 20 20:20:19 +0000 2019",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/davidlimbaugh/\u2026",
+        "expanded_url": "https://twitter.com/davidlimbaugh/status/1086744177348673539?s=21",
+        "indices": [
+          29,
+          52
+        ],
+        "url": "https://t.co/DnD5JlkdFb"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ronna McDaniel",
+        "screen_name": "GOPChairwoman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPChairwoman: Spot on. \nhttps://t.co/DnD5JlkdFb",
+  "geo": null,
+  "id": 1087082414734741505,
+  "id_str": "1087082414734741505",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1086744177348673539,
+  "quoted_status_id_str": "1086744177348673539",
+  "quoted_status_permalink": {
+    "display": "twitter.com/davidlimbaugh/\u2026",
+    "expanded": "https://twitter.com/davidlimbaugh/status/1086744177348673539?s=21",
+    "url": "https://t.co/DnD5JlkdFb"
+  },
+  "retweet_count": 9039,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 20 01:50:00 +0000 2019",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/davidlimbaugh/\u2026",
+          "expanded_url": "https://twitter.com/davidlimbaugh/status/1086744177348673539?s=21",
+          "indices": [
+            10,
+            33
+          ],
+          "url": "https://t.co/DnD5JlkdFb"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 32825,
+    "favorited": false,
+    "full_text": "Spot on. \nhttps://t.co/DnD5JlkdFb",
+    "geo": null,
+    "id": 1086802994673401857,
+    "id_str": "1086802994673401857",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Jan 19 21:56:17 +0000 2019",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 10294,
+      "favorited": false,
+      "full_text": "President Trump has now systematically built a irrefutable case that Democrats have no interest in compromise. None. Zero. Not a hint of it.",
+      "geo": null,
+      "id": 1086744177348673539,
+      "id_str": "1086744177348673539",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 4025,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 16 21:34:34 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A lawyer, columnist, and author.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidlimbaugh.com",
+                "expanded_url": "http://davidlimbaugh.com/",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/z49mGwxEmR"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4339,
+        "follow_request_sent": false,
+        "followers_count": 247151,
+        "following": false,
+        "friends_count": 2862,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 179245596,
+        "id_str": "179245596",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3571,
+        "location": "",
+        "name": "David Limbaugh",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2570040697/bnbr5p86kg4a4t1e9wa9_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2570040697/bnbr5p86kg4a4t1e9wa9_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DavidLimbaugh",
+        "statuses_count": 99693,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/z49mGwxEmR",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1086744177348673539,
+    "quoted_status_id_str": "1086744177348673539",
+    "quoted_status_permalink": {
+      "display": "twitter.com/davidlimbaugh/\u2026",
+      "expanded": "https://twitter.com/davidlimbaugh/status/1086744177348673539?s=21",
+      "url": "https://t.co/DnD5JlkdFb"
+    },
+    "retweet_count": 9039,
+    "retweeted": false,
+    "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5339,
+      "follow_request_sent": false,
+      "followers_count": 184249,
+      "following": false,
+      "friends_count": 2619,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1546,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057996163444432898/nRBl8_Wo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057996163444432898/nRBl8_Wo_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 9566,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 57531659,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 99187,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1543104015",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40349,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

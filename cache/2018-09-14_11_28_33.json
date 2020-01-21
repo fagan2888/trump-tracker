@@ -1,0 +1,465 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Sep 14 11:28:33 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 17019836,
+        "id_str": "17019836",
+        "indices": [
+          3,
+          9
+        ],
+        "name": "NCDOT",
+        "screen_name": "NCDOT"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NCDOT: We cannot share this enough: In case of flooding, MOVE TO HIGHER GROUND. And DO NOT DRIVE into standing or flooded water. If you\u2026",
+  "geo": null,
+  "id": 1040562944424194048,
+  "id_str": "1040562944424194048",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1040463978101702658,
+  "quoted_status_id_str": "1040463978101702658",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NCEmergency/st\u2026",
+    "expanded": "https://twitter.com/NCEmergency/status/1040463978101702658",
+    "url": "https://t.co/u9heKVOFQ7"
+  },
+  "retweet_count": 3043,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 14 05:03:39 +0000 2018",
+    "display_text_range": [
+      0,
+      229
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            212,
+            223
+          ],
+          "text": "FlorenceNC"
+        },
+        {
+          "indices": [
+            224,
+            229
+          ],
+          "text": "ncwx"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/NCEmergency/st\u2026",
+          "expanded_url": "https://twitter.com/NCEmergency/status/1040463978101702658",
+          "indices": [
+            230,
+            253
+          ],
+          "url": "https://t.co/u9heKVOFQ7"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 10790,
+    "favorited": false,
+    "full_text": "We cannot share this enough: In case of flooding, MOVE TO HIGHER GROUND. And DO NOT DRIVE into standing or flooded water. If you have to be out, remember these life-saving tips. Don't put yourself in harm's way. #FlorenceNC #ncwx https://t.co/u9heKVOFQ7",
+    "geo": null,
+    "id": 1040466080286826501,
+    "id_str": "1040466080286826501",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Sep 14 04:55:17 +0000 2018",
+      "display_text_range": [
+        0,
+        233
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              94,
+              112
+            ],
+            "text": "HurricaneFlorence"
+          },
+          {
+            "indices": [
+              216,
+              227
+            ],
+            "text": "FlorenceNC"
+          },
+          {
+            "indices": [
+              228,
+              233
+            ],
+            "text": "ncwx"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/eaLglHfd1i",
+            "expanded_url": "https://twitter.com/NCEmergency/status/1040463978101702658/video/1",
+            "id": 1040461368565088256,
+            "id_str": "1040461368565088256",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1040461368565088256/pu/img/8HtBUJVvKiuNud3W.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1040461368565088256/pu/img/8HtBUJVvKiuNud3W.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/eaLglHfd1i"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/eaLglHfd1i",
+            "expanded_url": "https://twitter.com/NCEmergency/status/1040463978101702658/video/1",
+            "id": 1040461368565088256,
+            "id_str": "1040461368565088256",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1040461368565088256/pu/img/8HtBUJVvKiuNud3W.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1040461368565088256/pu/img/8HtBUJVvKiuNud3W.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/eaLglHfd1i",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 30564,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1040461368565088256/pu/pl/Z2OLtkHjDuUwbhOe.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1040461368565088256/pu/vid/1280x720/x05-4PeoClL3GcYO.mp4?tag=5"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1040461368565088256/pu/vid/640x360/4ySIzHd565pPgNmG.mp4?tag=5"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1040461368565088256/pu/vid/320x180/bAKbA3wDIP_FS-ou.mp4?tag=5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 276,
+      "favorited": false,
+      "full_text": "Flash flood warnings and flooded roadways are being seen this morning from the heavy rains of #HurricaneFlorence. Never drive on roads covered by water, or around barricades placed in roadways. Floodwaters can kill! #FlorenceNC #ncwx https://t.co/eaLglHfd1i",
+      "geo": null,
+      "id": 1040463978101702658,
+      "id_str": "1040463978101702658",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 220,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 30 18:37:14 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Helping North Carolinians prepare for, respond to and recover from disasters and emergencies.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "readync.org",
+                "expanded_url": "http://www.readync.org",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/UhuuTC84nj"
+              }
+            ]
+          }
+        },
+        "favourites_count": 78,
+        "follow_request_sent": false,
+        "followers_count": 43980,
+        "following": false,
+        "friends_count": 211,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 172832752,
+        "id_str": "172832752",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1080,
+        "location": "Raleigh NC",
+        "name": "NC Emergency Managem",
+        "notifications": false,
+        "profile_background_color": "071082",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/172832752/1507829589",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/918529324344578050/CRFPkAnU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/918529324344578050/CRFPkAnU_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NCEmergency",
+        "statuses_count": 6255,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/UhuuTC84nj",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1040463978101702658,
+    "quoted_status_id_str": "1040463978101702658",
+    "quoted_status_permalink": {
+      "display": "twitter.com/NCEmergency/st\u2026",
+      "expanded": "https://twitter.com/NCEmergency/status/1040463978101702658",
+      "url": "https://t.co/u9heKVOFQ7"
+    },
+    "retweet_count": 3043,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 28 12:25:56 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter feed of the N.C. Department of Transportation.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ncdot.gov",
+              "expanded_url": "http://www.ncdot.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/VENII9yghK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3035,
+      "follow_request_sent": false,
+      "followers_count": 47140,
+      "following": false,
+      "friends_count": 3218,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 17019836,
+      "id_str": "17019836",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1062,
+      "location": "North Carolina",
+      "name": "NCDOT",
+      "notifications": false,
+      "profile_background_color": "DAE7E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17019836/1536680648",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/825004183417925633/_55-zMbf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/825004183417925633/_55-zMbf_normal.jpg",
+      "profile_link_color": "32768F",
+      "profile_sidebar_border_color": "F0A01F",
+      "profile_sidebar_fill_color": "D0E0F5",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NCDOT",
+      "statuses_count": 25163,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/VENII9yghK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54450780,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93646,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38955,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

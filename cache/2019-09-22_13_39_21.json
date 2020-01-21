@@ -1,0 +1,285 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 22 13:39:21 +0000 2019",
+  "display_text_range": [
+    0,
+    20
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/sen_joemanchin\u2026",
+        "expanded_url": "https://twitter.com/sen_joemanchin/status/1175364800655740930",
+        "indices": [
+          21,
+          44
+        ],
+        "url": "https://t.co/zVxBruUYF8"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 29924,
+  "favorited": false,
+  "full_text": "I go along with Joe! https://t.co/zVxBruUYF8",
+  "geo": null,
+  "id": 1175766536293736449,
+  "id_str": "1175766536293736449",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 21 11:03:00 +0000 2019",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VqRoyLb4kz",
+          "expanded_url": "https://twitter.com/Sen_JoeManchin/status/1175364800655740930/photo/1",
+          "id": 1175152995073482752,
+          "id_str": "1175152995073482752",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/EE77bDwXYAA9FTT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EE77bDwXYAA9FTT.jpg",
+          "sizes": {
+            "large": {
+              "h": 2016,
+              "resize": "fit",
+              "w": 1512
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VqRoyLb4kz"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VqRoyLb4kz",
+          "expanded_url": "https://twitter.com/Sen_JoeManchin/status/1175364800655740930/photo/1",
+          "id": 1175152995073482752,
+          "id_str": "1175152995073482752",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/EE77bDwXYAA9FTT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EE77bDwXYAA9FTT.jpg",
+          "sizes": {
+            "large": {
+              "h": 2016,
+              "resize": "fit",
+              "w": 1512
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VqRoyLb4kz"
+        }
+      ]
+    },
+    "favorite_count": 3708,
+    "favorited": false,
+    "full_text": "Wishing everyone in Mason County a happy Mothman Festival today! https://t.co/VqRoyLb4kz",
+    "geo": null,
+    "id": 1175364800655740930,
+    "id_str": "1175364800655740930",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 679,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 05 14:13:33 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "U.S. Senator for #WV. Ranking member @EnergyDems. Please do not hesitate to contact me to share your commonsense ideas, concerns or if you need assistance.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "manchin.senate.gov",
+              "expanded_url": "http://manchin.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/KZ8ptSeHhI"
+            }
+          ]
+        }
+      },
+      "favourites_count": 194,
+      "follow_request_sent": false,
+      "followers_count": 182368,
+      "following": false,
+      "friends_count": 741,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 234374703,
+      "id_str": "234374703",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2523,
+      "location": "West Virginia, USA",
+      "name": "Senator Joe Manchin",
+      "notifications": false,
+      "profile_background_color": "EDEDED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/234374703/1428611282",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907719517266219008/am4POdPf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/907719517266219008/am4POdPf_normal.jpg",
+      "profile_link_color": "006BB3",
+      "profile_sidebar_border_color": "D1D1D1",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Sen_JoeManchin",
+      "statuses_count": 6306,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/KZ8ptSeHhI",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1175364800655740930,
+  "quoted_status_id_str": "1175364800655740930",
+  "quoted_status_permalink": {
+    "display": "twitter.com/sen_joemanchin\u2026",
+    "expanded": "https://twitter.com/sen_joemanchin/status/1175364800655740930",
+    "url": "https://t.co/zVxBruUYF8"
+  },
+  "retweet_count": 5876,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 64646686,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108755,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

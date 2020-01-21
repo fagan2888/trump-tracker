@@ -1,0 +1,487 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jun 30 10:21:00 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 867990237804249099,
+        "id_str": "867990237804249099",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "\ub300\ud55c\ubbfc\uad6d \uccad\uc640\ub300",
+        "screen_name": "TheBlueHouseKR"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          20,
+          36
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 444465942,
+        "id_str": "444465942",
+        "indices": [
+          37,
+          50
+        ],
+        "name": "\ubb38\uc7ac\uc778",
+        "screen_name": "moonriver365"
+      },
+      {
+        "id": 134679265,
+        "id_str": "134679265",
+        "indices": [
+          51,
+          63
+        ],
+        "name": "\ub300\ud55c\ubbfc\uad6d \uc815\ubd80",
+        "screen_name": "hellopolicy"
+      },
+      {
+        "id": 157128221,
+        "id_str": "157128221",
+        "indices": [
+          64,
+          72
+        ],
+        "name": "\uc678\uad50\ubd80",
+        "screen_name": "mofa_kr"
+      },
+      {
+        "id": 988573326376427520,
+        "id_str": "988573326376427520",
+        "indices": [
+          73,
+          83
+        ],
+        "name": "Secretary Pompeo",
+        "screen_name": "SecPompeo"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TheBlueHouseKR: @realDonaldTrump @moonriver365 @hellopolicy @mofa_kr @SecPompeo \uc624\uc6b8\ub81b \ucd08\uc18c\uc5d0\uc11c \ube0c\ub9ac\ud551\uc744 \ubc1b\uace0 \ubd81\uce21\uc744 \ubc14\ub77c\ubcf4\uba70 \ub300\ud654\ud558\ub294 \ud55c.\ubbf8 \uc815\uc0c1\uc758 \ubaa8\uc2b5. \uc624\uc6b8\ub81b \ucd08\uc18c\ub294 \ud55c\uad6d\uc804\uc7c1\u2026",
+  "geo": null,
+  "id": 1145276038919835649,
+  "id_str": "1145276038919835649",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "ko",
+  "place": null,
+  "retweet_count": 7441,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 30 07:14:35 +0000 2019",
+    "display_text_range": [
+      64,
+      189
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xaGkJVBntf",
+          "expanded_url": "https://twitter.com/TheBlueHouseKR/status/1145229124954251264/photo/1",
+          "id": 1145229101612982277,
+          "id_str": "1145229101612982277",
+          "indices": [
+            190,
+            213
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-SrzNwU4AUgsBo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-SrzNwU4AUgsBo.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xaGkJVBntf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 444465942,
+          "id_str": "444465942",
+          "indices": [
+            17,
+            30
+          ],
+          "name": "\ubb38\uc7ac\uc778",
+          "screen_name": "moonriver365"
+        },
+        {
+          "id": 134679265,
+          "id_str": "134679265",
+          "indices": [
+            31,
+            43
+          ],
+          "name": "\ub300\ud55c\ubbfc\uad6d \uc815\ubd80",
+          "screen_name": "hellopolicy"
+        },
+        {
+          "id": 157128221,
+          "id_str": "157128221",
+          "indices": [
+            44,
+            52
+          ],
+          "name": "\uc678\uad50\ubd80",
+          "screen_name": "mofa_kr"
+        },
+        {
+          "id": 988573326376427520,
+          "id_str": "988573326376427520",
+          "indices": [
+            53,
+            63
+          ],
+          "name": "Secretary Pompeo",
+          "screen_name": "SecPompeo"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xaGkJVBntf",
+          "expanded_url": "https://twitter.com/TheBlueHouseKR/status/1145229124954251264/photo/1",
+          "id": 1145229101612982277,
+          "id_str": "1145229101612982277",
+          "indices": [
+            190,
+            213
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-SrzNwU4AUgsBo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-SrzNwU4AUgsBo.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xaGkJVBntf"
+        },
+        {
+          "display_url": "pic.twitter.com/xaGkJVBntf",
+          "expanded_url": "https://twitter.com/TheBlueHouseKR/status/1145229124954251264/photo/1",
+          "id": 1145229101596151808,
+          "id_str": "1145229101596151808",
+          "indices": [
+            190,
+            213
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-SrzNsUEAAyqQu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-SrzNsUEAAyqQu.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xaGkJVBntf"
+        },
+        {
+          "display_url": "pic.twitter.com/xaGkJVBntf",
+          "expanded_url": "https://twitter.com/TheBlueHouseKR/status/1145229124954251264/photo/1",
+          "id": 1145229101592018944,
+          "id_str": "1145229101592018944",
+          "indices": [
+            190,
+            213
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-SrzNrVAAAvC9K.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-SrzNrVAAAvC9K.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xaGkJVBntf"
+        },
+        {
+          "display_url": "pic.twitter.com/xaGkJVBntf",
+          "expanded_url": "https://twitter.com/TheBlueHouseKR/status/1145229124954251264/photo/1",
+          "id": 1145229101617143808,
+          "id_str": "1145229101617143808",
+          "indices": [
+            190,
+            213
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-SrzNxUYAALr8A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-SrzNxUYAALr8A.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xaGkJVBntf"
+        }
+      ]
+    },
+    "favorite_count": 24605,
+    "favorited": false,
+    "full_text": "@realDonaldTrump @moonriver365 @hellopolicy @mofa_kr @SecPompeo \uc624\uc6b8\ub81b \ucd08\uc18c\uc5d0\uc11c \ube0c\ub9ac\ud551\uc744 \ubc1b\uace0 \ubd81\uce21\uc744 \ubc14\ub77c\ubcf4\uba70 \ub300\ud654\ud558\ub294 \ud55c.\ubbf8 \uc815\uc0c1\uc758 \ubaa8\uc2b5. \uc624\uc6b8\ub81b \ucd08\uc18c\ub294 \ud55c\uad6d\uc804\uc7c1 \ucc38\uc804\uc6a9\uc0ac\uc778 \uc870\uc149 \uc624\uc6b8\ub81b\uc758 \ud76c\uc0dd\uc815\uc2e0\uc744 \uae30\ub9ac\uba70 \uc774\ub984\ubd99\uc5ec\uc9c4 \uacf3\uc73c\ub85c \uad70\uc0ac\ubd84\uacc4\uc120\uc5d0\uc11c \ubd88\uacfc 25m\ubc16\uc5d0 \ub5a8\uc5b4\uc9c0\uc9c0 \uc54a\uc740 \ucd5c\uc804\ubc29 \ucd08\uc18c\uc785\ub2c8\ub2e4. https://t.co/xaGkJVBntf",
+    "geo": null,
+    "id": 1145229124954251264,
+    "id_str": "1145229124954251264",
+    "in_reply_to_screen_name": "TheBlueHouseKR",
+    "in_reply_to_status_id": 1145227591785172994,
+    "in_reply_to_status_id_str": "1145227591785172994",
+    "in_reply_to_user_id": 867990237804249099,
+    "in_reply_to_user_id_str": "867990237804249099",
+    "is_quote_status": false,
+    "lang": "ko",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7441,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri May 26 06:26:13 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "\ub300\ud55c\ubbfc\uad6d \uccad\uc640\ub300\uc758 \uacf5\uc2dd \ud2b8\uc704\ud130\uc785\ub2c8\ub2e4. Office of the President, the Republic of Korea \uad6d\ubbfc\uc758 \ub098\ub77c, \uc815\uc758\ub85c\uc6b4 \ub300\ud55c\ubbfc\uad6d\uc744 \ud568\uaed8 \ub9cc\ub4e4\uaca0\uc2b5\ub2c8\ub2e4. #\uccad\uc640\ub300 #\uce5c\uc808\ud55c\uccad\uc640\ub300 #\uc18c\ud1b5 @moonriver365 @TheBlueHouseENG",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "president.go.kr",
+              "expanded_url": "http://www.president.go.kr/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9OTbCZBZGD"
+            }
+          ]
+        }
+      },
+      "favourites_count": 14,
+      "follow_request_sent": false,
+      "followers_count": 413173,
+      "following": false,
+      "friends_count": 32666,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 867990237804249099,
+      "id_str": "867990237804249099",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 731,
+      "location": "\ub300\ud55c\ubbfc\uad6d",
+      "name": "\ub300\ud55c\ubbfc\uad6d \uccad\uc640\ub300",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/867990237804249099/1527811453",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TheBlueHouseKR",
+      "statuses_count": 5607,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9OTbCZBZGD",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61583025,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104854,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42602,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

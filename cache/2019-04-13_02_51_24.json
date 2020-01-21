@@ -1,0 +1,439 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 13 02:51:24 +0000 2019",
+  "display_text_range": [
+    0,
+    96
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/foramerica/sta\u2026",
+        "expanded_url": "https://twitter.com/foramerica/status/1116498204835631104",
+        "indices": [
+          73,
+          96
+        ],
+        "url": "https://t.co/CrtK7j3wpZ"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 695054484083470336,
+        "id_str": "695054484083470336",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Erielle Davidson",
+        "screen_name": "politicalelle"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @politicalelle: How is this woman walking the halls of Congress. How. https://t.co/CrtK7j3wpZ",
+  "geo": null,
+  "id": 1116896641775296513,
+  "id_str": "1116896641775296513",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1116498204835631104,
+  "quoted_status_id_str": "1116498204835631104",
+  "quoted_status_permalink": {
+    "display": "twitter.com/foramerica/sta\u2026",
+    "expanded": "https://twitter.com/foramerica/status/1116498204835631104",
+    "url": "https://t.co/CrtK7j3wpZ"
+  },
+  "retweet_count": 7931,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 12 17:37:40 +0000 2019",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/foramerica/sta\u2026",
+          "expanded_url": "https://twitter.com/foramerica/status/1116498204835631104",
+          "indices": [
+            54,
+            77
+          ],
+          "url": "https://t.co/CrtK7j3wpZ"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 25104,
+    "favorited": false,
+    "full_text": "How is this woman walking the halls of Congress. How. https://t.co/CrtK7j3wpZ",
+    "geo": null,
+    "id": 1116757289245872128,
+    "id_str": "1116757289245872128",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Apr 12 00:28:10 +0000 2019",
+      "display_text_range": [
+        0,
+        186
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YyyuddzGMi",
+            "expanded_url": "https://twitter.com/ForAmerica/status/1116498204835631104/video/1",
+            "id": 1116498147495284739,
+            "id_str": "1116498147495284739",
+            "indices": [
+              187,
+              210
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116498147495284739/pu/img/zndg6Whd8wpSOGJS.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116498147495284739/pu/img/zndg6Whd8wpSOGJS.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YyyuddzGMi"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/YyyuddzGMi",
+            "expanded_url": "https://twitter.com/ForAmerica/status/1116498204835631104/video/1",
+            "id": 1116498147495284739,
+            "id_str": "1116498147495284739",
+            "indices": [
+              187,
+              210
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116498147495284739/pu/img/zndg6Whd8wpSOGJS.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116498147495284739/pu/img/zndg6Whd8wpSOGJS.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/YyyuddzGMi",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 62818,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1116498147495284739/pu/pl/CPFeXujeFzyBfWZj.m3u8?tag=8"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1116498147495284739/pu/vid/1280x720/4e0WRmp3qA9HiIX1.mp4?tag=8"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1116498147495284739/pu/vid/640x360/K9KPxF8CBk5JyaZp.mp4?tag=8"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1116498147495284739/pu/vid/320x180/6_vUGsvUddnPnTSs.mp4?tag=8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 4541,
+      "favorited": false,
+      "full_text": "What kind of sick monster would find comedy in the words Al-Qaeda and Hezbollah and compare those two terrorist organizations to America and the U.S. Army? \n\nRep. Ilhan Omar. That\u2019s who. https://t.co/YyyuddzGMi",
+      "geo": null,
+      "id": 1116498204835631104,
+      "id_str": "1116498204835631104",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2554,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 15 03:37:38 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Our mission is to reinvigorate the public with the principles of American exceptionalism: freedom, prosperity and virtue. President: @DavidBozell",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ForAmerica.org",
+                "expanded_url": "http://www.ForAmerica.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/eNqseG9D3i"
+              }
+            ]
+          }
+        },
+        "favourites_count": 6443,
+        "follow_request_sent": false,
+        "followers_count": 138627,
+        "following": false,
+        "friends_count": 492,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 190905427,
+        "id_str": "190905427",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1759,
+        "location": "United States",
+        "name": "ForAmerica",
+        "notifications": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/190905427/1513790754",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/753997028233850880/PuDdKGw__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/753997028233850880/PuDdKGw__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ForAmerica",
+        "statuses_count": 30916,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/eNqseG9D3i",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1116498204835631104,
+    "quoted_status_id_str": "1116498204835631104",
+    "quoted_status_permalink": {
+      "display": "twitter.com/foramerica/sta\u2026",
+      "expanded": "https://twitter.com/foramerica/status/1116498204835631104",
+      "url": "https://t.co/CrtK7j3wpZ"
+    },
+    "retweet_count": 7931,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 04 01:21:17 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "senior contributor @FDRLST | editor @brightemail |@ClaremontInst alum | @HooverInst alum | @Middlebury alum | @fedsoc rep| conservative | pro-@Israel jew | \ud83e\udd8b",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thefederalist.com/author/erielle\u2026",
+              "expanded_url": "http://thefederalist.com/author/erielledavidson/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rJOrAD7vSD"
+            }
+          ]
+        }
+      },
+      "favourites_count": 40422,
+      "follow_request_sent": false,
+      "followers_count": 84875,
+      "following": false,
+      "friends_count": 1668,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 695054484083470336,
+      "id_str": "695054484083470336",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 632,
+      "location": "New England to SF to DC",
+      "name": "Erielle Davidson",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/695054484083470336/1550675121",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1107459250807365633/CwSuikJa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107459250807365633/CwSuikJa_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "politicalelle",
+      "statuses_count": 10582,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/rJOrAD7vSD",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 59650548,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101777,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41227,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

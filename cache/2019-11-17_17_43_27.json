@@ -1,0 +1,394 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 17 17:43:27 +0000 2019",
+  "display_text_range": [
+    0,
+    158
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/nro/status/119\u2026",
+        "expanded_url": "https://twitter.com/nro/status/1195613380167516160",
+        "indices": [
+          159,
+          182
+        ],
+        "url": "https://t.co/5kspoUPhIX"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 35384,
+  "favorited": false,
+  "full_text": "Paul Krugman has called me wrong from day one. People at the Failing New York Times are very angry at him for having \u201cmissed\u201d by soooo much. Paul, match over! https://t.co/5kspoUPhIX",
+  "geo": null,
+  "id": 1196121686728466434,
+  "id_str": "1196121686728466434",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 16 08:03:37 +0000 2019",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/OUttGnPZCf",
+          "expanded_url": "https://twitter.com/NRO/status/1195613380167516160/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 369,
+                  "w": 369,
+                  "x": 412,
+                  "y": 91
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 369,
+                  "w": 369,
+                  "x": 412,
+                  "y": 91
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 369,
+                  "w": 369,
+                  "x": 412,
+                  "y": 91
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 245,
+                  "w": 245,
+                  "x": 273,
+                  "y": 60
+                }
+              ]
+            }
+          },
+          "id": 1195613378565283840,
+          "id_str": "1195613378565283840",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJesCH4WoAAVPsA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJesCH4WoAAVPsA.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/OUttGnPZCf"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "natl.io/vcRl27",
+          "expanded_url": "http://natl.io/vcRl27",
+          "indices": [
+            43,
+            66
+          ],
+          "url": "https://t.co/dHG90NaEWC"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 15302774,
+          "id_str": "15302774",
+          "indices": [
+            71,
+            85
+          ],
+          "name": "David Harsanyi",
+          "screen_name": "davidharsanyi"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/OUttGnPZCf",
+          "expanded_url": "https://twitter.com/NRO/status/1195613380167516160/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 369,
+                  "w": 369,
+                  "x": 412,
+                  "y": 91
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 369,
+                  "w": 369,
+                  "x": 412,
+                  "y": 91
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 369,
+                  "w": 369,
+                  "x": 412,
+                  "y": 91
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 245,
+                  "w": 245,
+                  "x": 273,
+                  "y": 60
+                }
+              ]
+            }
+          },
+          "id": 1195613378565283840,
+          "id_str": "1195613378565283840",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJesCH4WoAAVPsA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJesCH4WoAAVPsA.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/OUttGnPZCf"
+        }
+      ]
+    },
+    "favorite_count": 818,
+    "favorited": false,
+    "full_text": "Paul Krugman: Always Wrong, Never in Doubt https://t.co/dHG90NaEWC via @davidharsanyi https://t.co/OUttGnPZCf",
+    "geo": null,
+    "id": 1195613380167516160,
+    "id_str": "1195613380167516160",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 348,
+    "retweeted": false,
+    "source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 23 22:20:49 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Standing athwart history, yelling Stop. A magazine founded by the late William F. Buckley Jr. Snapchat & Instagram: NationalReview",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "NationalReview.com",
+              "expanded_url": "http://www.NationalReview.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/s00ora6By7"
+            }
+          ]
+        }
+      },
+      "favourites_count": 673,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 334642,
+      "following": false,
+      "friends_count": 1426,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 19417492,
+      "id_str": "19417492",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6405,
+      "location": "New York",
+      "name": "National Review",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19417492/1534869061",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/471722478822100992/slV_OilN_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/471722478822100992/slV_OilN_normal.jpeg",
+      "profile_link_color": "5785FA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "77A3BA",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NRO",
+      "statuses_count": 100929,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/s00ora6By7",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1195613380167516160,
+  "quoted_status_id_str": "1195613380167516160",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nro/status/119\u2026",
+    "expanded": "https://twitter.com/nro/status/1195613380167516160",
+    "url": "https://t.co/5kspoUPhIX"
+  },
+  "retweet_count": 9916,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66871838,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110763,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46249,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jul 30 16:28:23 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "bit.ly/2ZkGq57",
+        "expanded_url": "https://bit.ly/2ZkGq57",
+        "indices": [
+          94,
+          117
+        ],
+        "url": "https://t.co/1lAyMij6IW"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 15754281,
+        "id_str": "15754281",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "USA TODAY",
+        "screen_name": "USATODAY"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USATODAY: Mitch McConnell argues Dem's 'Moscow Mitch' moniker is 'modern-day McCarthyism' https://t.co/1lAyMij6IW https://t.co/1YWXdl3b\u2026",
+  "geo": null,
+  "id": 1156240128538492928,
+  "id_str": "1156240128538492928",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 5005,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 30 11:27:32 +0000 2019",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1YWXdl3bj8",
+          "expanded_url": "https://twitter.com/USATODAY/status/1156164419912552448/video/1",
+          "id": 1156162071094091776,
+          "id_str": "1156162071094091776",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EAuDl34WsAExc4q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EAuDl34WsAExc4q.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1YWXdl3bj8"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2ZkGq57",
+          "expanded_url": "https://bit.ly/2ZkGq57",
+          "indices": [
+            80,
+            103
+          ],
+          "url": "https://t.co/1lAyMij6IW"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.usatoday.com/story/news/politics/2019/07/29/mcconnell-lashes-out-following-accusations-being-russian-sympathizer/1862588001/"
+              }
+            },
+            "description": "Senate Majority Leader Mitch McConnell took to the Senate floor to fight back some who have labeled him \"Moscow Mitch.\"",
+            "embeddable": true,
+            "monetizable": true,
+            "title": "Mitch McConnell calls 'Moscow Mitch' moniker 'McCarthyism'"
+          },
+          "display_url": "pic.twitter.com/1YWXdl3bj8",
+          "expanded_url": "https://twitter.com/USATODAY/status/1156164419912552448/video/1",
+          "id": 1156162071094091776,
+          "id_str": "1156162071094091776",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EAuDl34WsAExc4q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EAuDl34WsAExc4q.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/1YWXdl3bj8",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 65332,
+            "variants": [
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1156162071094091776/vid/720x720/a7l-_EZGGPFHl5O0.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1156162071094091776/vid/480x480/PoysFKI6aAK37zs-.mp4?tag=13"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1156162071094091776/vid/320x320/-LzrcBpOltJv-uLb.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1156162071094091776/pl/j-Hi7K9m2gvasshF.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16542,
+    "favorited": false,
+    "full_text": "Mitch McConnell argues Dem's 'Moscow Mitch' moniker is 'modern-day McCarthyism' https://t.co/1lAyMij6IW https://t.co/1YWXdl3bj8",
+    "geo": null,
+    "id": 1156164419912552448,
+    "id_str": "1156164419912552448",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5005,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Aug 06 19:55:31 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The latest news and most interesting stories from USA TODAY. News that's meant to be shared.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "usatoday.com",
+              "expanded_url": "http://www.usatoday.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/7xDl0vVHSt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2024,
+      "follow_request_sent": false,
+      "followers_count": 3841992,
+      "following": false,
+      "friends_count": 607,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 15754281,
+      "id_str": "15754281",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 33470,
+      "location": "USA TODAY HQ, McLean, Va.",
+      "name": "USA TODAY",
+      "notifications": false,
+      "profile_background_color": "0092D0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15754281/1509370165",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__normal.jpg",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "USATODAY",
+      "statuses_count": 292115,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/7xDl0vVHSt",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 62454966,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106017,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43251,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

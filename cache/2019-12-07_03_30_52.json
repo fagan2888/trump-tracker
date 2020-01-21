@@ -1,0 +1,416 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 07 03:30:52 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 19553409,
+        "id_str": "19553409",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Rasmussen Reports",
+        "screen_name": "Rasmussen_Poll"
+      },
+      {
+        "id": 1194770389634895873,
+        "id_str": "1194770389634895873",
+        "indices": [
+          28,
+          42
+        ],
+        "name": "Bongino Report",
+        "screen_name": "BonginoReport"
+      },
+      {
+        "id": 18929234,
+        "id_str": "18929234",
+        "indices": [
+          47,
+          60
+        ],
+        "name": "Citizen Free Press",
+        "screen_name": "TheDailyBail"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Rasmussen_Poll: Day 2 - @BonginoReport vs. @TheDailyBail\n\nDecision: Bongino Report is workin' the refs and, yeah, we bought it. But nev\u2026",
+  "geo": null,
+  "id": 1203154885849559041,
+  "id_str": "1203154885849559041",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2210,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 06 12:11:16 +0000 2019",
+    "display_text_range": [
+      0,
+      160
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ahx1hNLGXO",
+          "expanded_url": "https://twitter.com/Rasmussen_Poll/status/1202923456838455298/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 313,
+                  "w": 313,
+                  "x": 866,
+                  "y": 28
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 244,
+                  "w": 244,
+                  "x": 676,
+                  "y": 21
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 313,
+                  "w": 313,
+                  "x": 866,
+                  "y": 28
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 138,
+                  "w": 138,
+                  "x": 383,
+                  "y": 12
+                }
+              ]
+            }
+          },
+          "id": 1202923452186935298,
+          "id_str": "1202923452186935298",
+          "indices": [
+            161,
+            184
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELGkgaOWwAIy0Fr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELGkgaOWwAIy0Fr.jpg",
+          "sizes": {
+            "large": {
+              "h": 526,
+              "resize": "fit",
+              "w": 1537
+            },
+            "medium": {
+              "h": 411,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 233,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ahx1hNLGXO"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bonginoreport.com",
+          "expanded_url": "https://bonginoreport.com/",
+          "indices": [
+            137,
+            160
+          ],
+          "url": "https://t.co/O3tQy5wxV2"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1194770389634895873,
+          "id_str": "1194770389634895873",
+          "indices": [
+            8,
+            22
+          ],
+          "name": "Bongino Report",
+          "screen_name": "BonginoReport"
+        },
+        {
+          "id": 18929234,
+          "id_str": "18929234",
+          "indices": [
+            27,
+            40
+          ],
+          "name": "Citizen Free Press",
+          "screen_name": "TheDailyBail"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ahx1hNLGXO",
+          "expanded_url": "https://twitter.com/Rasmussen_Poll/status/1202923456838455298/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 313,
+                  "w": 313,
+                  "x": 866,
+                  "y": 28
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 244,
+                  "w": 244,
+                  "x": 676,
+                  "y": 21
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 313,
+                  "w": 313,
+                  "x": 866,
+                  "y": 28
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 138,
+                  "w": 138,
+                  "x": 383,
+                  "y": 12
+                }
+              ]
+            }
+          },
+          "id": 1202923452186935298,
+          "id_str": "1202923452186935298",
+          "indices": [
+            161,
+            184
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELGkgaOWwAIy0Fr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELGkgaOWwAIy0Fr.jpg",
+          "sizes": {
+            "large": {
+              "h": 526,
+              "resize": "fit",
+              "w": 1537
+            },
+            "medium": {
+              "h": 411,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 233,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ahx1hNLGXO"
+        }
+      ]
+    },
+    "favorite_count": 6874,
+    "favorited": false,
+    "full_text": "Day 2 - @BonginoReport vs. @TheDailyBail\n\nDecision: Bongino Report is workin' the refs and, yeah, we bought it. But never again, Dan...\n\nhttps://t.co/O3tQy5wxV2 https://t.co/Ahx1hNLGXO",
+    "geo": null,
+    "id": 1202923456838455298,
+    "id_str": "1202923456838455298",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2210,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 26 19:59:05 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Rasmussen Reports is an independent electronic media company specializing in the collection and publication of public opinion polling information. Since 2003.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "rasmussenreports.com",
+              "expanded_url": "http://www.rasmussenreports.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/VBD9YCb5bl"
+            }
+          ]
+        }
+      },
+      "favourites_count": 209,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 276394,
+      "following": false,
+      "friends_count": 301,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 19553409,
+      "id_str": "19553409",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6803,
+      "location": "Asbury Park, NJ",
+      "name": "Rasmussen Reports",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000334788905/f63021e894ea715e22cd219528d46c2f_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000334788905/f63021e894ea715e22cd219528d46c2f_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Rasmussen_Poll",
+      "statuses_count": 26478,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/VBD9YCb5bl",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67309429,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111079,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46700,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 29 11:58:54 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 816652616625168388,
+        "id_str": "816652616625168388",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Rep Andy Biggs",
+        "screen_name": "RepAndyBiggsAZ"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          107,
+          113
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          114,
+          130
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepAndyBiggsAZ: Democrats have undermined the fairness of this unauthorized impeachment inquisition of @POTUS @realDonaldTrump with the\u2026",
+  "geo": null,
+  "id": 1189149606099243008,
+  "id_str": "1189149606099243008",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6663,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 28 15:31:24 +0000 2019",
+    "display_text_range": [
+      0,
+      269
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rioTXJhVXg",
+          "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1188840696012296197/video/1",
+          "features": {},
+          "id": 1188840079680253952,
+          "id_str": "1188840079680253952",
+          "indices": [
+            270,
+            293
+          ],
+          "media_url": "http://pbs.twimg.com/media/EH-b_6MXUAEYys_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EH-b_6MXUAEYys_.jpg",
+          "sizes": {
+            "large": {
+              "h": 268,
+              "resize": "fit",
+              "w": 476
+            },
+            "medium": {
+              "h": 268,
+              "resize": "fit",
+              "w": 476
+            },
+            "small": {
+              "h": 268,
+              "resize": "fit",
+              "w": 476
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rioTXJhVXg"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            87,
+            93
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            94,
+            110
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/rioTXJhVXg",
+          "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1188840696012296197/video/1",
+          "features": {},
+          "id": 1188840079680253952,
+          "id_str": "1188840079680253952",
+          "indices": [
+            270,
+            293
+          ],
+          "media_url": "http://pbs.twimg.com/media/EH-b_6MXUAEYys_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EH-b_6MXUAEYys_.jpg",
+          "sizes": {
+            "large": {
+              "h": 268,
+              "resize": "fit",
+              "w": 476
+            },
+            "medium": {
+              "h": 268,
+              "resize": "fit",
+              "w": 476
+            },
+            "small": {
+              "h": 268,
+              "resize": "fit",
+              "w": 476
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/rioTXJhVXg",
+          "video_info": {
+            "aspect_ratio": [
+              119,
+              67
+            ],
+            "duration_millis": 263300,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1188840079680253952/vid/476x268/tXc4kAN5thK4G_5v.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1188840079680253952/pl/RMbVpnpXaWk2_swf.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 21115,
+    "favorited": false,
+    "full_text": "Democrats have undermined the fairness of this unauthorized impeachment inquisition of @POTUS @realDonaldTrump with their secret hearings, leaks of selective testimony, &amp; lack of due process. They're only fixated on their insatiable desire to impeach the President. https://t.co/rioTXJhVXg",
+    "geo": null,
+    "id": 1188840696012296197,
+    "id_str": "1188840696012296197",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6663,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Representing Arizona's Fighting Fifth.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 4968,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 70530,
+      "following": false,
+      "friends_count": 1547,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 816652616625168388,
+      "id_str": "816652616625168388",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 784,
+      "location": "Arizona, USA",
+      "name": "Rep Andy Biggs",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1558381518",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1176647112550993920/rETjTe_z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176647112550993920/rETjTe_z_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepAndyBiggsAZ",
+      "statuses_count": 7100,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66369765,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45634,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

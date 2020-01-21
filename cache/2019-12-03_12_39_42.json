@@ -1,0 +1,481 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Dec 03 12:39:42 +0000 2019",
+  "display_text_range": [
+    0,
+    83
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/JudgeJeanine/s\u2026",
+        "expanded_url": "https://twitter.com/JudgeJeanine/status/1200961966380109824",
+        "indices": [
+          60,
+          83
+        ],
+        "url": "https://t.co/XXIj69B81h"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 54412900,
+        "id_str": "54412900",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Devin Nunes",
+        "screen_name": "DevinNunes"
+      },
+      {
+        "id": 29458079,
+        "id_str": "29458079",
+        "indices": [
+          46,
+          59
+        ],
+        "name": "Jeanine Pirro",
+        "screen_name": "JudgeJeanine"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DevinNunes: Great as always to be on with @JudgeJeanine https://t.co/XXIj69B81h",
+  "geo": null,
+  "id": 1201843448858501120,
+  "id_str": "1201843448858501120",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1200961966380109824,
+  "quoted_status_id_str": "1200961966380109824",
+  "quoted_status_permalink": {
+    "display": "twitter.com/JudgeJeanine/s\u2026",
+    "expanded": "https://twitter.com/JudgeJeanine/status/1200961966380109824",
+    "url": "https://t.co/XXIj69B81h"
+  },
+  "retweet_count": 8389,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 03:18:44 +0000 2019",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/JudgeJeanine/s\u2026",
+          "expanded_url": "https://twitter.com/JudgeJeanine/status/1200961966380109824",
+          "indices": [
+            44,
+            67
+          ],
+          "url": "https://t.co/XXIj69B81h"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 29458079,
+          "id_str": "29458079",
+          "indices": [
+            30,
+            43
+          ],
+          "name": "Jeanine Pirro",
+          "screen_name": "JudgeJeanine"
+        }
+      ]
+    },
+    "favorite_count": 29781,
+    "favorited": false,
+    "full_text": "Great as always to be on with @JudgeJeanine https://t.co/XXIj69B81h",
+    "geo": null,
+    "id": 1200977504002961408,
+    "id_str": "1200977504002961408",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 01 02:17:00 +0000 2019",
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rzVrucYZj2",
+            "expanded_url": "https://twitter.com/JudgeJeanine/status/1200961966380109824/video/1",
+            "features": {},
+            "id": 1199817290604318720,
+            "id_str": "1199817290604318720",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1199817290604318720/img/9mSD6cilSiZ3LNZK.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1199817290604318720/img/9mSD6cilSiZ3LNZK.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rzVrucYZj2"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 54412900,
+            "id_str": "54412900",
+            "indices": [
+              12,
+              23
+            ],
+            "name": "Devin Nunes",
+            "screen_name": "DevinNunes"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/rzVrucYZj2",
+            "expanded_url": "https://twitter.com/JudgeJeanine/status/1200961966380109824/video/1",
+            "features": {},
+            "id": 1199817290604318720,
+            "id_str": "1199817290604318720",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1199817290604318720/img/9mSD6cilSiZ3LNZK.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1199817290604318720/img/9mSD6cilSiZ3LNZK.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/rzVrucYZj2",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 392492,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1199817290604318720/vid/640x360/7jHgm8wg9ph2w-61.mp4?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1199817290604318720/vid/480x270/ALpDT-i5ZJs8HXAG.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1199817290604318720/vid/1280x720/USkufD0AEUklW6Eq.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1199817290604318720/pl/isazqrBYFxWCfrz8.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 14835,
+      "favorited": false,
+      "full_text": "Congressman @DevinNunes reacts to the latest in the battle with Democrats over the impeachment inquiry. Check this out. https://t.co/rzVrucYZj2",
+      "geo": null,
+      "id": 1200961966380109824,
+      "id_str": "1200961966380109824",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5326,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 07 14:27:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Judge Pirro is a highly respected District Attorney, Judge, author & renowned champion of the underdog. She hosts the Fox News show, Justice with Judge Jeanine.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/radicalsresist\u2026",
+                "expanded_url": "http://bit.ly/radicalsresistance",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/tpWA70DIe0"
+              }
+            ]
+          }
+        },
+        "favourites_count": 235,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 1752202,
+        "following": false,
+        "friends_count": 463,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 29458079,
+        "id_str": "29458079",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4980,
+        "location": "New York, NY",
+        "name": "Jeanine Pirro",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29458079/1566940261",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850023968484368386/jBcIv7W1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850023968484368386/jBcIv7W1_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "187CAB",
+        "profile_sidebar_fill_color": "92CEE0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "JudgeJeanine",
+        "statuses_count": 16976,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/tpWA70DIe0",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1200961966380109824,
+    "quoted_status_id_str": "1200961966380109824",
+    "quoted_status_permalink": {
+      "display": "twitter.com/JudgeJeanine/s\u2026",
+      "expanded": "https://twitter.com/JudgeJeanine/status/1200961966380109824",
+      "url": "https://t.co/XXIj69B81h"
+    },
+    "retweet_count": 8389,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jul 07 02:04:34 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "RTs do not equal endorsement.  This is my personal Twitter account.  If you have questions about my official activities please visit my website.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nunes.house.gov",
+              "expanded_url": "http://www.nunes.house.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/nNrwohsqWS"
+            }
+          ]
+        }
+      },
+      "favourites_count": 211,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 740477,
+      "following": false,
+      "friends_count": 668,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 54412900,
+      "id_str": "54412900",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2952,
+      "location": "",
+      "name": "Devin Nunes",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738510058183593985/whpmEX7p_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738510058183593985/whpmEX7p_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DevinNunes",
+      "statuses_count": 2518,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/nNrwohsqWS",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67268195,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111017,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46637,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 31 15:18:00 +0000 2019",
+  "display_text_range": [
+    0,
+    98
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/VRiU5VYSJX",
+        "expanded_url": "https://twitter.com/NWS/status/1167816784419930112/photo/1",
+        "id": 1167816780779327488,
+        "id_str": "1167816780779327488",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/EDTrLL0XkAAO20w.png",
+        "media_url_https": "https://pbs.twimg.com/media/EDTrLL0XkAAO20w.png",
+        "sizes": {
+          "large": {
+            "h": 681,
+            "resize": "fit",
+            "w": 897
+          },
+          "medium": {
+            "h": 681,
+            "resize": "fit",
+            "w": 897
+          },
+          "small": {
+            "h": 516,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1167816784419930112,
+        "source_status_id_str": "1167816784419930112",
+        "source_user_id": 454313925,
+        "source_user_id_str": "454313925",
+        "type": "photo",
+        "url": "https://t.co/VRiU5VYSJX"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 454313925,
+        "id_str": "454313925",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "National Weather Service",
+        "screen_name": "NWS"
+      },
+      {
+        "id": 3308352436,
+        "id_str": "3308352436",
+        "indices": [
+          67,
+          74
+        ],
+        "name": "National Hurricane Center",
+        "screen_name": "NWSNHC"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/VRiU5VYSJX",
+        "expanded_url": "https://twitter.com/NWS/status/1167816784419930112/photo/1",
+        "id": 1167816780779327488,
+        "id_str": "1167816780779327488",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/EDTrLL0XkAAO20w.png",
+        "media_url_https": "https://pbs.twimg.com/media/EDTrLL0XkAAO20w.png",
+        "sizes": {
+          "large": {
+            "h": 681,
+            "resize": "fit",
+            "w": 897
+          },
+          "medium": {
+            "h": 681,
+            "resize": "fit",
+            "w": 897
+          },
+          "small": {
+            "h": 516,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1167816784419930112,
+        "source_status_id_str": "1167816784419930112",
+        "source_user_id": 454313925,
+        "source_user_id_str": "454313925",
+        "type": "photo",
+        "url": "https://t.co/VRiU5VYSJX"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NWS: Here are the latest Key Messages on Hurricane Dorian from @NWSNHC https://t.co/VRiU5VYSJX",
+  "geo": null,
+  "id": 1167818828530769920,
+  "id_str": "1167818828530769920",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 4270,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 31 15:09:53 +0000 2019",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VRiU5VYSJX",
+          "expanded_url": "https://twitter.com/NWS/status/1167816784419930112/photo/1",
+          "id": 1167816780779327488,
+          "id_str": "1167816780779327488",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDTrLL0XkAAO20w.png",
+          "media_url_https": "https://pbs.twimg.com/media/EDTrLL0XkAAO20w.png",
+          "sizes": {
+            "large": {
+              "h": 681,
+              "resize": "fit",
+              "w": 897
+            },
+            "medium": {
+              "h": 681,
+              "resize": "fit",
+              "w": 897
+            },
+            "small": {
+              "h": 516,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VRiU5VYSJX"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 3308352436,
+          "id_str": "3308352436",
+          "indices": [
+            58,
+            65
+          ],
+          "name": "National Hurricane Center",
+          "screen_name": "NWSNHC"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VRiU5VYSJX",
+          "expanded_url": "https://twitter.com/NWS/status/1167816784419930112/photo/1",
+          "id": 1167816780779327488,
+          "id_str": "1167816780779327488",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDTrLL0XkAAO20w.png",
+          "media_url_https": "https://pbs.twimg.com/media/EDTrLL0XkAAO20w.png",
+          "sizes": {
+            "large": {
+              "h": 681,
+              "resize": "fit",
+              "w": 897
+            },
+            "medium": {
+              "h": 681,
+              "resize": "fit",
+              "w": 897
+            },
+            "small": {
+              "h": 516,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VRiU5VYSJX"
+        }
+      ]
+    },
+    "favorite_count": 12971,
+    "favorited": false,
+    "full_text": "Here are the latest Key Messages on Hurricane Dorian from @NWSNHC https://t.co/VRiU5VYSJX",
+    "geo": null,
+    "id": 1167816784419930112,
+    "id_str": "1167816784419930112",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4270,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 03 21:24:25 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account for NOAA's National Weather Service. Details: http://t.co/mRyGMdRYT3",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "weather.gov/twitter",
+              "expanded_url": "http://weather.gov/twitter",
+              "indices": [
+                71,
+                93
+              ],
+              "url": "http://t.co/mRyGMdRYT3"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "weather.gov",
+              "expanded_url": "http://www.weather.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/UDExAKE2TP"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2927,
+      "follow_request_sent": false,
+      "followers_count": 2806393,
+      "following": false,
+      "friends_count": 309,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 454313925,
+      "id_str": "454313925",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8786,
+      "location": "United States",
+      "name": "National Weather Service",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/454313925/1559332869",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/842835019613831170/vvWHIDxE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/842835019613831170/vvWHIDxE_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NWS",
+      "statuses_count": 23079,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/UDExAKE2TP",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63788709,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107986,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43935,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

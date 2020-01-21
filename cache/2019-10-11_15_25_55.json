@@ -1,0 +1,366 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 11 15:25:55 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      },
+      {
+        "id": 326912209,
+        "id_str": "326912209",
+        "indices": [
+          27,
+          35
+        ],
+        "name": "Udacity",
+        "screen_name": "udacity"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: Thank you @Udacity for Pledging to providing 100,000 retraining scholarships over the next 5 yrs in\u2b07\n\u25aa\ufe0fArtificial intellig\u2026",
+  "geo": null,
+  "id": 1182678724598206465,
+  "id_str": "1182678724598206465",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1182315806530490368,
+  "quoted_status_id_str": "1182315806530490368",
+  "quoted_status_permalink": {
+    "display": "twitter.com/sebastianthrun\u2026",
+    "expanded": "https://twitter.com/sebastianthrun/status/1182315806530490368",
+    "url": "https://t.co/8GP9Qn2u4C"
+  },
+  "retweet_count": 4732,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 11 15:18:37 +0000 2019",
+    "display_text_range": [
+      0,
+      269
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            245,
+            269
+          ],
+          "text": "PledgetoAmericasWorkers"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/sebastianthrun\u2026",
+          "expanded_url": "https://twitter.com/sebastianthrun/status/1182315806530490368",
+          "indices": [
+            270,
+            293
+          ],
+          "url": "https://t.co/8GP9Qn2u4C"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 326912209,
+          "id_str": "326912209",
+          "indices": [
+            10,
+            18
+          ],
+          "name": "Udacity",
+          "screen_name": "udacity"
+        }
+      ]
+    },
+    "favorite_count": 17968,
+    "favorited": false,
+    "full_text": "Thank you @Udacity for Pledging to providing 100,000 retraining scholarships over the next 5 yrs in\u2b07\n\u25aa\ufe0fArtificial intelligence\n\u25aa\ufe0fMachine learning\n\u25aa\ufe0fData science\n\u25aa\ufe0fProgramming\n\u25aa\ufe0fCloud computing\n\u25aa\ufe0fAutonomous systems\n\u25aa\ufe0fDigital business &amp; more!\n#PledgetoAmericasWorkers https://t.co/8GP9Qn2u4C",
+    "geo": null,
+    "id": 1182676885483991040,
+    "id_str": "1182676885483991040",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Oct 10 15:23:49 +0000 2019",
+      "display_text_range": [
+        0,
+        238
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/2nDqCgc",
+            "expanded_url": "http://bit.ly/2nDqCgc",
+            "indices": [
+              215,
+              238
+            ],
+            "url": "https://t.co/6xGJ16Y9y2"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 326912209,
+            "id_str": "326912209",
+            "indices": [
+              23,
+              31
+            ],
+            "name": "Udacity",
+            "screen_name": "udacity"
+          },
+          {
+            "id": 822215673812119553,
+            "id_str": "822215673812119553",
+            "indices": [
+              47,
+              58
+            ],
+            "name": "The White House",
+            "screen_name": "WhiteHouse"
+          }
+        ]
+      },
+      "favorite_count": 456,
+      "favorited": false,
+      "full_text": "Proud to announce that @Udacity has signed the @WhiteHouse  Pledge to America\u2019s workers and will fund 100,000 scholarships to empower America\u2019s workers with the tech skills they need to future-proof their careers!  https://t.co/6xGJ16Y9y2",
+      "geo": null,
+      "id": 1182315806530490368,
+      "id_str": "1182315806530490368",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 192,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 15 22:24:13 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder, President Udacity.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "udacity.com",
+                "expanded_url": "http://udacity.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rlrjbh9s51"
+              }
+            ]
+          }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 71655,
+        "following": false,
+        "friends_count": 9,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 318063815,
+        "id_str": "318063815",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2145,
+        "location": "Mountain View, CA",
+        "name": "Sebastian Thrun",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/318063815/1505968489",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459372432806014977/ftbXtMDO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459372432806014977/ftbXtMDO_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SebastianThrun",
+        "statuses_count": 768,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/rlrjbh9s51",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1182315806530490368,
+    "quoted_status_id_str": "1182315806530490368",
+    "quoted_status_permalink": {
+      "display": "twitter.com/sebastianthrun\u2026",
+      "expanded": "https://twitter.com/sebastianthrun/status/1182315806530490368",
+      "url": "https://t.co/8GP9Qn2u4C"
+    },
+    "retweet_count": 4732,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2105,
+      "follow_request_sent": false,
+      "followers_count": 7092766,
+      "following": false,
+      "friends_count": 1407,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 21513,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 15957,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65611493,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109762,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45125,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

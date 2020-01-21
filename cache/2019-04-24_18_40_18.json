@@ -1,0 +1,369 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Apr 24 18:40:18 +0000 2019",
+  "display_text_range": [
+    0,
+    160
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          147,
+          160
+        ],
+        "text": "RxSummit2019"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/rxsummit/statu\u2026",
+        "expanded_url": "https://twitter.com/rxsummit/status/1121110722749112321",
+        "indices": [
+          161,
+          184
+        ],
+        "url": "https://t.co/FqpHhaafkD"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 57615,
+  "favorited": false,
+  "full_text": "As ONE UNITED NATION, we will work, we will pray, and we will fight for the day when every family across our land can live in a DRUG FREE AMERICA! #RxSummit2019 https://t.co/FqpHhaafkD",
+  "geo": null,
+  "id": 1121121705970286592,
+  "id_str": "1121121705970286592",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 24 17:56:40 +0000 2019",
+    "display_text_range": [
+      0,
+      241
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            61,
+            74
+          ],
+          "text": "RxSummit2019"
+        },
+        {
+          "indices": [
+            156,
+            172
+          ],
+          "text": "Thisiswhywemeet"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/IafCNQylBt",
+          "expanded_url": "https://twitter.com/RxSummit/status/1121110722749112321/photo/1",
+          "id": 1121110702494711809,
+          "id_str": "1121110702494711809",
+          "indices": [
+            242,
+            265
+          ],
+          "media_url": "http://pbs.twimg.com/media/D478PngWAAEJg-B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D478PngWAAEJg-B.jpg",
+          "sizes": {
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/IafCNQylBt"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            173,
+            189
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 818876014390603776,
+          "id_str": "818876014390603776",
+          "indices": [
+            190,
+            197
+          ],
+          "name": "Melania Trump",
+          "screen_name": "FLOTUS"
+        },
+        {
+          "id": 550401754,
+          "id_str": "550401754",
+          "indices": [
+            198,
+            211
+          ],
+          "name": "Hal Rogers",
+          "screen_name": "RepHalRogers"
+        },
+        {
+          "id": 1329108505,
+          "id_str": "1329108505",
+          "indices": [
+            212,
+            223
+          ],
+          "name": "Nancy Hale",
+          "screen_name": "nihale1956"
+        },
+        {
+          "id": 89011649,
+          "id_str": "89011649",
+          "indices": [
+            224,
+            232
+          ],
+          "name": "Operation UNITE",
+          "screen_name": "uniteky"
+        },
+        {
+          "id": 956283913835614208,
+          "id_str": "956283913835614208",
+          "indices": [
+            233,
+            241
+          ],
+          "name": "Secretary Alex Azar",
+          "screen_name": "SecAzar"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/IafCNQylBt",
+          "expanded_url": "https://twitter.com/RxSummit/status/1121110722749112321/photo/1",
+          "id": 1121110702494711809,
+          "id_str": "1121110702494711809",
+          "indices": [
+            242,
+            265
+          ],
+          "media_url": "http://pbs.twimg.com/media/D478PngWAAEJg-B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D478PngWAAEJg-B.jpg",
+          "sizes": {
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/IafCNQylBt"
+        }
+      ]
+    },
+    "favorite_count": 832,
+    "favorited": false,
+    "full_text": "President Donald J. Trump thanks everyone in the room at the #RxSummit2019 and says his administration is doing all they can do to fight right by our side. #Thisiswhywemeet @realDonaldTrump @FLOTUS @RepHalRogers @nihale1956 @uniteky @SecAzar https://t.co/IafCNQylBt",
+    "geo": null,
+    "id": 1121110722749112321,
+    "id_str": "1121110722749112321",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 329,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 01 15:00:08 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "The largest annual gathering of stakeholders - from Federal to family - to discuss what's working in prevention and treatment. April 22-25, 2019. #RxSummit2019",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "rx-summit.com",
+              "expanded_url": "https://www.rx-summit.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fYnBYtRM7Q"
+            }
+          ]
+        }
+      },
+      "favourites_count": 696,
+      "follow_request_sent": false,
+      "followers_count": 3660,
+      "following": false,
+      "friends_count": 959,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 425872825,
+      "id_str": "425872825",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 59,
+      "location": "Atlanta, GA",
+      "name": "Rx Drug Abuse Summit",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/425872825/1523620371",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1115254746250608640/ik5fJWpc_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115254746250608640/ik5fJWpc_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RxSummit",
+      "statuses_count": 3028,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/fYnBYtRM7Q",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1121110722749112321,
+  "quoted_status_id_str": "1121110722749112321",
+  "quoted_status_permalink": {
+    "display": "twitter.com/rxsummit/statu\u2026",
+    "expanded": "https://twitter.com/rxsummit/status/1121110722749112321",
+    "url": "https://t.co/FqpHhaafkD"
+  },
+  "retweet_count": 14338,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59860930,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102134,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41419,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

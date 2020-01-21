@@ -1,0 +1,326 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 03 12:02:23 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          15,
+          20
+        ],
+        "text": "Iraq"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15649433,
+        "id_str": "15649433",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Travel - State Dept",
+        "screen_name": "TravelGov"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TravelGov: #Iraq: Due to heightened tensions in Iraq and the region, we urge U.S. citizens to depart Iraq immediately. Due to Iranian-b\u2026",
+  "geo": null,
+  "id": 1213068084996714496,
+  "id_str": "1213068084996714496",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 17364,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 03 08:17:30 +0000 2020",
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            5
+          ],
+          "text": "Iraq"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rdRce3Qr4a",
+          "expanded_url": "https://twitter.com/TravelGov/status/1213011491777060864/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1213011490107789312,
+          "id_str": "1213011490107789312",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENV7hgBXkAAQmW4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENV7hgBXkAAQmW4.jpg",
+          "sizes": {
+            "large": {
+              "h": 511,
+              "resize": "fit",
+              "w": 925
+            },
+            "medium": {
+              "h": 511,
+              "resize": "fit",
+              "w": 925
+            },
+            "small": {
+              "h": 376,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rdRce3Qr4a"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rdRce3Qr4a",
+          "expanded_url": "https://twitter.com/TravelGov/status/1213011491777060864/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1213011490107789312,
+          "id_str": "1213011490107789312",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENV7hgBXkAAQmW4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENV7hgBXkAAQmW4.jpg",
+          "sizes": {
+            "large": {
+              "h": 511,
+              "resize": "fit",
+              "w": 925
+            },
+            "medium": {
+              "h": 511,
+              "resize": "fit",
+              "w": 925
+            },
+            "small": {
+              "h": 376,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rdRce3Qr4a"
+        }
+      ]
+    },
+    "favorite_count": 34235,
+    "favorited": false,
+    "full_text": "#Iraq: Due to heightened tensions in Iraq and the region, we urge U.S. citizens to depart Iraq immediately. Due to Iranian-backed militia attacks at the U.S. Embassy compound, all consular operations are suspended. U.S. citizens should not approach the Embassy. https://t.co/rdRce3Qr4a",
+    "geo": null,
+    "id": 1213011491777060864,
+    "id_str": "1213011491777060864",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 17364,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jul 29 18:38:44 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter for U.S. Department of State Bureau of Consular Affairs. Currently on duty: Alyssa, Lori & Michelle.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "travel.state.gov",
+              "expanded_url": "http://travel.state.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/xJDfcCCRJw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2178,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 587042,
+      "following": false,
+      "friends_count": 570,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 15649433,
+      "id_str": "15649433",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8181,
+      "location": "Washington, DC, USA",
+      "name": "Travel - State Dept",
+      "notifications": false,
+      "profile_background_color": "083680",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15649433/1578083946",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1161276312545300482/IggimHZW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161276312545300482/IggimHZW_normal.jpg",
+      "profile_link_color": "4A8EBF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "BDB9BD",
+      "profile_text_color": "031414",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TravelGov",
+      "statuses_count": 20887,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/xJDfcCCRJw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 68612531,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 112182,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47691,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

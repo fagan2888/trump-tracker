@@ -1,0 +1,329 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 26 03:32:10 +0000 2019",
+  "display_text_range": [
+    0,
+    75
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/realsaavedra/s\u2026",
+        "expanded_url": "https://twitter.com/realsaavedra/status/1110352406880018432",
+        "indices": [
+          52,
+          75
+        ],
+        "url": "https://t.co/ypqkZgRkeR"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: Christmas came early this week. https://t.co/ypqkZgRkeR",
+  "geo": null,
+  "id": 1110383915485810689,
+  "id_str": "1110383915485810689",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1110352406880018432,
+  "quoted_status_id_str": "1110352406880018432",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realsaavedra/s\u2026",
+    "expanded": "https://twitter.com/realsaavedra/status/1110352406880018432",
+    "url": "https://t.co/ypqkZgRkeR"
+  },
+  "retweet_count": 10594,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 26 02:17:42 +0000 2019",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realsaavedra/s\u2026",
+          "expanded_url": "https://twitter.com/realsaavedra/status/1110352406880018432",
+          "indices": [
+            32,
+            55
+          ],
+          "url": "https://t.co/ypqkZgRkeR"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 42460,
+    "favorited": false,
+    "full_text": "Christmas came early this week. https://t.co/ypqkZgRkeR",
+    "geo": null,
+    "id": 1110365177365569536,
+    "id_str": "1110365177365569536",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Mar 26 01:26:57 +0000 2019",
+      "display_text_range": [
+        0,
+        152
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 27160,
+      "favorited": false,
+      "full_text": "BREAKING: The Pentagon has notified Congress that it has authorized the transfer of $1 billion to begin new wall construction along the US-Mexico border",
+      "geo": null,
+      "id": 1110352406880018432,
+      "id_str": "1110352406880018432",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 9766,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 23 03:20:58 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Reporter at @realDailyWire. Retweets \u2260 endorsement. rsaavedra@dailywire.com",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dailywire.com/authors/ryan-s\u2026",
+                "expanded_url": "http://www.dailywire.com/authors/ryan-saavedra",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OeFiLruANp"
+              }
+            ]
+          }
+        },
+        "favourites_count": 6124,
+        "follow_request_sent": false,
+        "followers_count": 202593,
+        "following": false,
+        "friends_count": 252,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 812135885328236551,
+        "id_str": "812135885328236551",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1473,
+        "location": "USA",
+        "name": "Ryan Saavedra",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/812135885328236551/1516447063",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RealSaavedra",
+        "statuses_count": 30086,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OeFiLruANp",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1110352406880018432,
+    "quoted_status_id_str": "1110352406880018432",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realsaavedra/s\u2026",
+      "expanded": "https://twitter.com/realsaavedra/status/1110352406880018432",
+      "url": "https://t.co/ypqkZgRkeR"
+    },
+    "retweet_count": 10594,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "TrumpStore.com",
+              "expanded_url": "http://TrumpStore.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/2qPo57KgoO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10904,
+      "follow_request_sent": false,
+      "followers_count": 3438669,
+      "following": false,
+      "friends_count": 1313,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10507,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1471620140",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 27219,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/2qPo57KgoO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59337220,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101452,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41023,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

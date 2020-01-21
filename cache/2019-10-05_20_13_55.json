@@ -1,0 +1,348 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 05 20:13:55 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 963480595,
+        "id_str": "963480595",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Mark Meadows",
+        "screen_name": "RepMarkMeadows"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepMarkMeadows: This is real reason why Washington Democrats are trying to impeach.\n\nIt's because the results keep coming. And they're\u2026",
+  "geo": null,
+  "id": 1180576872658280453,
+  "id_str": "1180576872658280453",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1180100505114161157,
+  "quoted_status_id_str": "1180100505114161157",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ABC/status/118\u2026",
+    "expanded": "https://twitter.com/ABC/status/1180100505114161157",
+    "url": "https://t.co/WQ5xQDep9U"
+  },
+  "retweet_count": 15131,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 04 14:25:09 +0000 2019",
+    "display_text_range": [
+      0,
+      159
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ABC/status/118\u2026",
+          "expanded_url": "https://twitter.com/ABC/status/1180100505114161157",
+          "indices": [
+            160,
+            183
+          ],
+          "url": "https://t.co/WQ5xQDep9U"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 42292,
+    "favorited": false,
+    "full_text": "This is real reason why Washington Democrats are trying to impeach.\n\nIt's because the results keep coming. And they're afraid Trump is going to get re-elected. https://t.co/WQ5xQDep9U",
+    "geo": null,
+    "id": 1180126716787924992,
+    "id_str": "1180126716787924992",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Oct 04 12:41:00 +0000 2019",
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "abcn.ws/2oOXjaM",
+            "expanded_url": "https://abcn.ws/2oOXjaM",
+            "indices": [
+              114,
+              137
+            ],
+            "url": "https://t.co/YrTTOuIIU5"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 4724,
+      "favorited": false,
+      "full_text": "NEW: U.S. unemployment rate fell in September to new five-decade low of 3.5%, while employers added 136,000 jobs. https://t.co/YrTTOuIIU5",
+      "geo": null,
+      "id": 1180100505114161157,
+      "id_str": "1180100505114161157",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1879,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/abcnews",
+                "expanded_url": "http://instagram.com/abcnews",
+                "indices": [
+                  77,
+                  100
+                ],
+                "url": "https://t.co/PKeobr4xt0"
+              },
+              {
+                "display_url": "abcn.ws/tips",
+                "expanded_url": "https://abcn.ws/tips",
+                "indices": [
+                  107,
+                  130
+                ],
+                "url": "https://t.co/2ICEX6CuXd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "abcnews.go.com",
+                "expanded_url": "https://abcnews.go.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/B4vihbwCGa"
+              }
+            ]
+          }
+        },
+        "favourites_count": 35,
+        "follow_request_sent": false,
+        "followers_count": 14587110,
+        "following": false,
+        "friends_count": 539,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28785486,
+        "id_str": "28785486",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 57089,
+        "location": "New York City / Worldwide",
+        "name": "ABC News",
+        "notifications": false,
+        "profile_background_color": "6E8EB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+        "profile_link_color": "336699",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ABC",
+        "statuses_count": 269394,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/B4vihbwCGa",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1180100505114161157,
+    "quoted_status_id_str": "1180100505114161157",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ABC/status/118\u2026",
+      "expanded": "https://twitter.com/ABC/status/1180100505114161157",
+      "url": "https://t.co/WQ5xQDep9U"
+    },
+    "retweet_count": 15131,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Nov 22 02:20:50 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Businessman, husband, and father proudly representing North Carolina's 11th Congressional District. Chairman of @freedomcaucus.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "meadows.house.gov",
+              "expanded_url": "http://meadows.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/awcfuLCQk1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 411,
+      "follow_request_sent": false,
+      "followers_count": 390525,
+      "following": false,
+      "friends_count": 960,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 963480595,
+      "id_str": "963480595",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2514,
+      "location": "Jackson County, NC",
+      "name": "Mark Meadows",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/963480595/1392915093",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/827624420923539456/rcp86XAS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/827624420923539456/rcp86XAS_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepMarkMeadows",
+      "statuses_count": 3004,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/awcfuLCQk1",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65275651,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44875,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

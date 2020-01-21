@@ -1,0 +1,525 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Nov 19 18:46:07 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/GjAETob5jm",
+        "expanded_url": "https://twitter.com/SteveScalise/status/1196856947288477703/video/1",
+        "features": {},
+        "id": 1196852493730353152,
+        "id_str": "1196852493730353152",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1196852493730353152/img/yy5Uy4Q0Y1wU52mi.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1196852493730353152/img/yy5Uy4Q0Y1wU52mi.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1278
+          },
+          "medium": {
+            "h": 676,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1196856947288477703,
+        "source_status_id_str": "1196856947288477703",
+        "source_user_id": 1209417007,
+        "source_user_id_str": "1209417007",
+        "type": "photo",
+        "url": "https://t.co/GjAETob5jm"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1209417007,
+        "id_str": "1209417007",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Steve Scalise",
+        "screen_name": "SteveScalise"
+      },
+      {
+        "id": 2962813893,
+        "id_str": "2962813893",
+        "indices": [
+          42,
+          54
+        ],
+        "name": "Rep. Elise Stefanik",
+        "screen_name": "RepStefanik"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "can_media_tag": true,
+            "contributors_enabled": false,
+            "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "republicanwhip.gov",
+                    "expanded_url": "http://republicanwhip.gov",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/vKBoGD7Spm"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1543,
+            "follow_request_sent": false,
+            "followed_by": false,
+            "followers_count": 360854,
+            "following": false,
+            "friends_count": 1293,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1209417007,
+            "id_str": "1209417007",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 2354,
+            "location": "Jefferson, LA",
+            "name": "Steve Scalise",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+            "profile_link_color": "021F59",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "SteveScalise",
+            "statuses_count": 10287,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/vKBoGD7Spm",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/GjAETob5jm",
+        "expanded_url": "https://twitter.com/SteveScalise/status/1196856947288477703/video/1",
+        "features": {},
+        "id": 1196852493730353152,
+        "id_str": "1196852493730353152",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1196852493730353152/img/yy5Uy4Q0Y1wU52mi.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1196852493730353152/img/yy5Uy4Q0Y1wU52mi.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1278
+          },
+          "medium": {
+            "h": 676,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1196856947288477703,
+        "source_status_id_str": "1196856947288477703",
+        "source_user_id": 1209417007,
+        "source_user_id_str": "1209417007",
+        "type": "video",
+        "url": "https://t.co/GjAETob5jm",
+        "video_info": {
+          "aspect_ratio": [
+            71,
+            40
+          ],
+          "duration_millis": 41371,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1196852493730353152/vid/1278x720/zH4TRgMFfvtSloLB.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1196852493730353152/vid/478x270/SvkcSEohJcp4YR6b.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1196852493730353152/pl/v-cb1sKC5sfBuHQ2.m3u8?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1196852493730353152/vid/638x360/-p9fTe8GkfqDrjuo.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SteveScalise: Important reminder from @RepStefanik: The President sets U.S. foreign policy, not unelected staff. https://t.co/GjAETob5jm",
+  "geo": null,
+  "id": 1196862231008481281,
+  "id_str": "1196862231008481281",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 10495,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 19 18:25:07 +0000 2019",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GjAETob5jm",
+          "expanded_url": "https://twitter.com/SteveScalise/status/1196856947288477703/video/1",
+          "features": {},
+          "id": 1196852493730353152,
+          "id_str": "1196852493730353152",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1196852493730353152/img/yy5Uy4Q0Y1wU52mi.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1196852493730353152/img/yy5Uy4Q0Y1wU52mi.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1278
+            },
+            "medium": {
+              "h": 676,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GjAETob5jm"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2962813893,
+          "id_str": "2962813893",
+          "indices": [
+            24,
+            36
+          ],
+          "name": "Rep. Elise Stefanik",
+          "screen_name": "RepStefanik"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/GjAETob5jm",
+          "expanded_url": "https://twitter.com/SteveScalise/status/1196856947288477703/video/1",
+          "features": {},
+          "id": 1196852493730353152,
+          "id_str": "1196852493730353152",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1196852493730353152/img/yy5Uy4Q0Y1wU52mi.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1196852493730353152/img/yy5Uy4Q0Y1wU52mi.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1278
+            },
+            "medium": {
+              "h": 676,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/GjAETob5jm",
+          "video_info": {
+            "aspect_ratio": [
+              71,
+              40
+            ],
+            "duration_millis": 41371,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1196852493730353152/vid/1278x720/zH4TRgMFfvtSloLB.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1196852493730353152/vid/478x270/SvkcSEohJcp4YR6b.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1196852493730353152/pl/v-cb1sKC5sfBuHQ2.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1196852493730353152/vid/638x360/-p9fTe8GkfqDrjuo.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 28958,
+    "favorited": false,
+    "full_text": "Important reminder from @RepStefanik: The President sets U.S. foreign policy, not unelected staff. https://t.co/GjAETob5jm",
+    "geo": null,
+    "id": 1196856947288477703,
+    "id_str": "1196856947288477703",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10495,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "republicanwhip.gov",
+              "expanded_url": "http://republicanwhip.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vKBoGD7Spm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1543,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 360854,
+      "following": false,
+      "friends_count": 1293,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1209417007,
+      "id_str": "1209417007",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2354,
+      "location": "Jefferson, LA",
+      "name": "Steve Scalise",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+      "profile_link_color": "021F59",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SteveScalise",
+      "statuses_count": 10287,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/vKBoGD7Spm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66888539,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110767,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46291,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

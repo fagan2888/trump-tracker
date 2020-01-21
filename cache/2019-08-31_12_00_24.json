@@ -1,0 +1,367 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 31 12:00:24 +0000 2019",
+  "display_text_range": [
+    0,
+    33
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/grassleypress/\u2026",
+        "expanded_url": "https://twitter.com/grassleypress/status/1166466886558769152",
+        "indices": [
+          34,
+          57
+        ],
+        "url": "https://t.co/S814IXvHc4"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 24370,
+  "favorited": false,
+  "full_text": "An amazing guy, respected by all! https://t.co/S814IXvHc4",
+  "geo": null,
+  "id": 1167769103240765440,
+  "id_str": "1167769103240765440",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 27 21:45:52 +0000 2019",
+    "display_text_range": [
+      0,
+      246
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            41,
+            58
+          ],
+          "text": "99CountyMeetings"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/OrHBoRuuUx",
+          "expanded_url": "https://twitter.com/GrassleyPress/status/1166466886558769152/video/1",
+          "id": 1166466634338451456,
+          "id_str": "1166466634338451456",
+          "indices": [
+            247,
+            270
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1166466634338451456/img/Yr_qOvVeFSWa_mn0.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1166466634338451456/img/Yr_qOvVeFSWa_mn0.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/OrHBoRuuUx"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 10615232,
+          "id_str": "10615232",
+          "indices": [
+            5,
+            19
+          ],
+          "name": "ChuckGrassley",
+          "screen_name": "ChuckGrassley"
+        },
+        {
+          "id": 10615232,
+          "id_str": "10615232",
+          "indices": [
+            232,
+            246
+          ],
+          "name": "ChuckGrassley",
+          "screen_name": "ChuckGrassley"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/OrHBoRuuUx",
+          "expanded_url": "https://twitter.com/GrassleyPress/status/1166466886558769152/video/1",
+          "id": 1166466634338451456,
+          "id_str": "1166466634338451456",
+          "indices": [
+            247,
+            270
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1166466634338451456/img/Yr_qOvVeFSWa_mn0.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1166466634338451456/img/Yr_qOvVeFSWa_mn0.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/OrHBoRuuUx",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 66066,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1166466634338451456/pl/cWztXmPgjMKtC_Vo.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1166466634338451456/vid/480x270/n0vBXQ4OfzUsXUbd.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1166466634338451456/vid/1280x720/7xnfD6vsWjdKaflv.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1166466634338451456/vid/640x360/B3PeE_kvfJT7V69T.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 1323,
+    "favorited": false,
+    "full_text": "Sen. @ChuckGrassley completed his annual #99CountyMeetings for the 39th consecutive year today in Spencer. \"I appreciate the opportunity to hold these meetings, answer questions and listen to comments on any subject from Iowans.\" - @ChuckGrassley https://t.co/OrHBoRuuUx",
+    "geo": null,
+    "id": 1166466886558769152,
+    "id_str": "1166466886558769152",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 385,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri May 06 15:35:48 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Press office of U.S. Sen. @ChuckGrassley of Iowa, chairman of @SenFinance. \n\nhttps://t.co/gJ38GEvJTG https://t.co/KIUX7xfIlJ",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "fb.com/grassley",
+              "expanded_url": "http://fb.com/grassley",
+              "indices": [
+                77,
+                100
+              ],
+              "url": "https://t.co/gJ38GEvJTG"
+            },
+            {
+              "display_url": "instagram.com/senatorchuckgr\u2026",
+              "expanded_url": "http://instagram.com/senatorchuckgrassley",
+              "indices": [
+                101,
+                124
+              ],
+              "url": "https://t.co/KIUX7xfIlJ"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "grassley.senate.gov",
+              "expanded_url": "http://www.grassley.senate.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dHu02o9OBK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 24,
+      "follow_request_sent": false,
+      "followers_count": 17171,
+      "following": false,
+      "friends_count": 4333,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 294126378,
+      "id_str": "294126378",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 579,
+      "location": "",
+      "name": "Sen. Grassley Press",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/294126378/1536343715",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1038116269541806081/h3crOhla_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038116269541806081/h3crOhla_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GrassleyPress",
+      "statuses_count": 8931,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dHu02o9OBK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1166466886558769152,
+  "quoted_status_id_str": "1166466886558769152",
+  "quoted_status_permalink": {
+    "display": "twitter.com/grassleypress/\u2026",
+    "expanded": "https://twitter.com/grassleypress/status/1166466886558769152",
+    "url": "https://t.co/S814IXvHc4"
+  },
+  "retweet_count": 5469,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63788709,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107986,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43935,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

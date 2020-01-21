@@ -1,0 +1,350 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 31 11:54:21 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 7270292,
+        "id_str": "7270292",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Jim Inhofe",
+        "screen_name": "JimInhofe"
+      },
+      {
+        "id": 22536055,
+        "id_str": "22536055",
+        "indices": [
+          21,
+          33
+        ],
+        "name": "American Airlines",
+        "screen_name": "AmericanAir"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JimInhofe: Proud @AmericanAir announced they're bringing more than 400 jobs to Tulsa. As a pilot myself, I know how vital maintenance t\u2026",
+  "geo": null,
+  "id": 1167767578854473728,
+  "id_str": "1167767578854473728",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1166819704054386689,
+  "quoted_status_id_str": "1166819704054386689",
+  "quoted_status_permalink": {
+    "display": "twitter.com/InhofePress/st\u2026",
+    "expanded": "https://twitter.com/InhofePress/status/1166819704054386689",
+    "url": "https://t.co/z85rLqqe0k"
+  },
+  "retweet_count": 2579,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 28 21:09:08 +0000 2019",
+    "display_text_range": [
+      0,
+      283
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/InhofePress/st\u2026",
+          "expanded_url": "https://twitter.com/InhofePress/status/1166819704054386689",
+          "indices": [
+            284,
+            307
+          ],
+          "url": "https://t.co/z85rLqqe0k"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 22536055,
+          "id_str": "22536055",
+          "indices": [
+            6,
+            18
+          ],
+          "name": "American Airlines",
+          "screen_name": "AmericanAir"
+        }
+      ]
+    },
+    "favorite_count": 10917,
+    "favorited": false,
+    "full_text": "Proud @AmericanAir announced they're bringing more than 400 jobs to Tulsa. As a pilot myself, I know how vital maintenance technicians are to supporting the future of the entire aviation industry, which is why I work hard advocating for their protection &amp; betterment in Congress. https://t.co/z85rLqqe0k",
+    "geo": null,
+    "id": 1166820031281451010,
+    "id_str": "1166820031281451010",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Aug 28 21:07:50 +0000 2019",
+      "display_text_range": [
+        0,
+        117
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "inhofe.senate.gov/newsroom/press\u2026",
+            "expanded_url": "https://www.inhofe.senate.gov/newsroom/press-releases/inhofe-applauds-american-airlines-for-growing-tulsa-workforce-bringing-400-new-jobs",
+            "indices": [
+              94,
+              117
+            ],
+            "url": "https://t.co/pMtq7XKnsb"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 87,
+      "favorited": false,
+      "full_text": "NEWS: Inhofe Applauds American Airlines for Growing Tulsa Workforce, Bringing 400 New Jobs \u27a1\ufe0f https://t.co/pMtq7XKnsb",
+      "geo": null,
+      "id": 1166819704054386689,
+      "id_str": "1166819704054386689",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 35,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 10 21:12:51 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Press Office of U.S. Senator @JimInhofe (R-Okla.)",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inhofe.senate.gov",
+                "expanded_url": "http://inhofe.senate.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/LTm3F6noR4"
+              }
+            ]
+          }
+        },
+        "favourites_count": 25,
+        "follow_request_sent": false,
+        "followers_count": 15524,
+        "following": false,
+        "friends_count": 1326,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20546536,
+        "id_str": "20546536",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1060,
+        "location": "Washington, D.C.",
+        "name": "Inhofe Press Office",
+        "notifications": false,
+        "profile_background_color": "F0EDF3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20546536/1412886218",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3095762272/f240385c55677aec82058399ac3b8e6a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3095762272/f240385c55677aec82058399ac3b8e6a_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "191957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "InhofePress",
+        "statuses_count": 6299,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/LTm3F6noR4",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1166819704054386689,
+    "quoted_status_id_str": "1166819704054386689",
+    "quoted_status_permalink": {
+      "display": "twitter.com/InhofePress/st\u2026",
+      "expanded": "https://twitter.com/InhofePress/status/1166819704054386689",
+      "url": "https://t.co/z85rLqqe0k"
+    },
+    "retweet_count": 2579,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 05 14:39:13 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "United States Senator from the great state of Oklahoma.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Inhofe.senate.gov",
+              "expanded_url": "http://www.Inhofe.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/MsjJPG2F5l"
+            }
+          ]
+        }
+      },
+      "favourites_count": 93,
+      "follow_request_sent": false,
+      "followers_count": 53254,
+      "following": false,
+      "friends_count": 348,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 7270292,
+      "id_str": "7270292",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2193,
+      "location": "Oklahoma",
+      "name": "Jim Inhofe",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7270292/1418070273",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847193851496411136/d1spdzhn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847193851496411136/d1spdzhn_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JimInhofe",
+      "statuses_count": 2109,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/MsjJPG2F5l",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63788709,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107986,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43935,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

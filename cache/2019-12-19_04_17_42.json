@@ -1,0 +1,443 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 04:17:42 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 41417564,
+        "id_str": "41417564",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Rep. Lloyd Smucker",
+        "screen_name": "RepSmucker"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          72,
+          88
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepSmucker: I voted NO on both articles of impeachment. \n\nTomorrow, @realDonaldTrump will still be President, and when we ring in the 2\u2026",
+  "geo": null,
+  "id": 1207515324834168834,
+  "id_str": "1207515324834168834",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 12306,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 19 02:02:50 +0000 2019",
+    "display_text_range": [
+      0,
+      197
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            181,
+            197
+          ],
+          "text": "IMPEACHMENTVOTE"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0z7HUfPpBJ",
+          "expanded_url": "https://twitter.com/RepSmucker/status/1207481382118797312/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 420,
+                  "w": 420,
+                  "x": 590,
+                  "y": 818
+                },
+                {
+                  "h": 452,
+                  "w": 452,
+                  "x": 546,
+                  "y": 342
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 246,
+                  "w": 246,
+                  "x": 345,
+                  "y": 479
+                },
+                {
+                  "h": 264,
+                  "w": 264,
+                  "x": 319,
+                  "y": 200
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 420,
+                  "w": 420,
+                  "x": 590,
+                  "y": 818
+                },
+                {
+                  "h": 452,
+                  "w": 452,
+                  "x": 546,
+                  "y": 342
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 139,
+                  "w": 139,
+                  "x": 195,
+                  "y": 271
+                },
+                {
+                  "h": 150,
+                  "w": 150,
+                  "x": 181,
+                  "y": 113
+                }
+              ]
+            }
+          },
+          "id": 1207481374288044033,
+          "id_str": "1207481374288044033",
+          "indices": [
+            198,
+            221
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMHV6ZNW4AEV1K2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMHV6ZNW4AEV1K2.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0z7HUfPpBJ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            56,
+            72
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0z7HUfPpBJ",
+          "expanded_url": "https://twitter.com/RepSmucker/status/1207481382118797312/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 420,
+                  "w": 420,
+                  "x": 590,
+                  "y": 818
+                },
+                {
+                  "h": 452,
+                  "w": 452,
+                  "x": 546,
+                  "y": 342
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 246,
+                  "w": 246,
+                  "x": 345,
+                  "y": 479
+                },
+                {
+                  "h": 264,
+                  "w": 264,
+                  "x": 319,
+                  "y": 200
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 420,
+                  "w": 420,
+                  "x": 590,
+                  "y": 818
+                },
+                {
+                  "h": 452,
+                  "w": 452,
+                  "x": 546,
+                  "y": 342
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 139,
+                  "w": 139,
+                  "x": 195,
+                  "y": 271
+                },
+                {
+                  "h": 150,
+                  "w": 150,
+                  "x": 181,
+                  "y": 113
+                }
+              ]
+            }
+          },
+          "id": 1207481374288044033,
+          "id_str": "1207481374288044033",
+          "indices": [
+            198,
+            221
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMHV6ZNW4AEV1K2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMHV6ZNW4AEV1K2.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0z7HUfPpBJ"
+        }
+      ]
+    },
+    "favorite_count": 58452,
+    "favorited": false,
+    "full_text": "I voted NO on both articles of impeachment. \n\nTomorrow, @realDonaldTrump will still be President, and when we ring in the 2020 New year \u2014 Donald J. Trump will still be President. \n\n#IMPEACHMENTVOTE https://t.co/0z7HUfPpBJ",
+    "geo": null,
+    "id": 1207481382118797312,
+    "id_str": "1207481382118797312",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12306,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed May 20 18:31:13 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Representing the people of #PA11 in the U.S. House of Representatives. Husband & father.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "smucker.house.gov",
+              "expanded_url": "http://smucker.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/YKMSx3njz4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 425,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 12076,
+      "following": false,
+      "friends_count": 262,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 41417564,
+      "id_str": "41417564",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 538,
+      "location": "Lancaster, PA",
+      "name": "Rep. Lloyd Smucker",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/41417564/1499786206",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1173066425939955714/ZE3rxVzt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173066425939955714/ZE3rxVzt_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RepSmucker",
+      "statuses_count": 4095,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/YKMSx3njz4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

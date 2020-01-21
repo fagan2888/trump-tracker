@@ -1,0 +1,593 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 28 04:47:07 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 734168909553766405,
+        "id_str": "734168909553766405",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "AnnaLovesTrump\u2764\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "AnnaApp91838450"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AnnaApp91838450: Good Night America\u2764\nPatriots,BadazzFollowers,\nMAGA RunAway's Fight\nFor God,Justice,President\nTrump!Never Support Fake\u2026",
+  "geo": null,
+  "id": 1210784216759197696,
+  "id_str": "1210784216759197696",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8656,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 28 02:53:06 +0000 2019",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/eOPDf3Qs6X",
+          "expanded_url": "https://twitter.com/AnnaApp91838450/status/1210755523919765505/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 937,
+                  "y": 775
+                },
+                {
+                  "h": 111,
+                  "w": 111,
+                  "x": 960,
+                  "y": 60
+                },
+                {
+                  "h": 115,
+                  "w": 115,
+                  "x": 585,
+                  "y": 83
+                },
+                {
+                  "h": 115,
+                  "w": 115,
+                  "x": 1304,
+                  "y": 105
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 205,
+                  "y": 142
+                },
+                {
+                  "h": 111,
+                  "w": 111,
+                  "x": 964,
+                  "y": 146
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 561,
+                  "y": 464
+                },
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 575,
+                  "y": 35
+                },
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 350,
+                  "y": 49
+                },
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 782,
+                  "y": 62
+                },
+                {
+                  "h": 79,
+                  "w": 79,
+                  "x": 122,
+                  "y": 85
+                },
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 578,
+                  "y": 87
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 937,
+                  "y": 775
+                },
+                {
+                  "h": 111,
+                  "w": 111,
+                  "x": 960,
+                  "y": 60
+                },
+                {
+                  "h": 115,
+                  "w": 115,
+                  "x": 585,
+                  "y": 83
+                },
+                {
+                  "h": 115,
+                  "w": 115,
+                  "x": 1304,
+                  "y": 105
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 205,
+                  "y": 142
+                },
+                {
+                  "h": 111,
+                  "w": 111,
+                  "x": 964,
+                  "y": 146
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 318,
+                  "y": 263
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 326,
+                  "y": 20
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 198,
+                  "y": 28
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 443,
+                  "y": 35
+                },
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 69,
+                  "y": 48
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 327,
+                  "y": 49
+                }
+              ]
+            }
+          },
+          "id": 1210755515736702978,
+          "id_str": "1210755515736702978",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EM13uglUwAI93NI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EM13uglUwAI93NI.jpg",
+          "sizes": {
+            "large": {
+              "h": 2000,
+              "resize": "fit",
+              "w": 1644
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 986
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 559
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eOPDf3Qs6X"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/eOPDf3Qs6X",
+          "expanded_url": "https://twitter.com/AnnaApp91838450/status/1210755523919765505/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 937,
+                  "y": 775
+                },
+                {
+                  "h": 111,
+                  "w": 111,
+                  "x": 960,
+                  "y": 60
+                },
+                {
+                  "h": 115,
+                  "w": 115,
+                  "x": 585,
+                  "y": 83
+                },
+                {
+                  "h": 115,
+                  "w": 115,
+                  "x": 1304,
+                  "y": 105
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 205,
+                  "y": 142
+                },
+                {
+                  "h": 111,
+                  "w": 111,
+                  "x": 964,
+                  "y": 146
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 561,
+                  "y": 464
+                },
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 575,
+                  "y": 35
+                },
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 350,
+                  "y": 49
+                },
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 782,
+                  "y": 62
+                },
+                {
+                  "h": 79,
+                  "w": 79,
+                  "x": 122,
+                  "y": 85
+                },
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 578,
+                  "y": 87
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 937,
+                  "y": 775
+                },
+                {
+                  "h": 111,
+                  "w": 111,
+                  "x": 960,
+                  "y": 60
+                },
+                {
+                  "h": 115,
+                  "w": 115,
+                  "x": 585,
+                  "y": 83
+                },
+                {
+                  "h": 115,
+                  "w": 115,
+                  "x": 1304,
+                  "y": 105
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 205,
+                  "y": 142
+                },
+                {
+                  "h": 111,
+                  "w": 111,
+                  "x": 964,
+                  "y": 146
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 318,
+                  "y": 263
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 326,
+                  "y": 20
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 198,
+                  "y": 28
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 443,
+                  "y": 35
+                },
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 69,
+                  "y": 48
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 327,
+                  "y": 49
+                }
+              ]
+            }
+          },
+          "id": 1210755515736702978,
+          "id_str": "1210755515736702978",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EM13uglUwAI93NI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EM13uglUwAI93NI.jpg",
+          "sizes": {
+            "large": {
+              "h": 2000,
+              "resize": "fit",
+              "w": 1644
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 986
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 559
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eOPDf3Qs6X"
+        }
+      ]
+    },
+    "favorite_count": 21935,
+    "favorited": false,
+    "full_text": "Good Night America\u2764\nPatriots,BadazzFollowers,\nMAGA RunAway's Fight\nFor God,Justice,President\nTrump!Never Support Fake\nLying Media,Corrupt Hate\nUSA Democrats\ud83d\udcafTrying\nTo Destroy Constitution,\nTake Our Guns,Make\ud83c\uddfa\ud83c\uddf8\nA Socialist Country!\nALWAYS &amp; FOREVER\nPATRIOTS\ud83d\ude4f\nVOTING TRUMP2020\ud83c\uddfa\ud83c\uddf8 https://t.co/eOPDf3Qs6X",
+    "geo": null,
+    "id": 1210755523919765505,
+    "id_str": "1210755523919765505",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8656,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat May 21 23:48:03 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Best Military/BackBlue\nLove\ud83c\uddfa\ud83c\uddf8Trump2020\ud83d\udcaf\nALWAYS & FOREVER PATRIOT\nApplejaxs\ud83d\udcafMAGA,ProLife\ud83d\udc63\nFight For God,USA,Justice\nRUNAWAY\ud83d\ude4f",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 326093,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 95143,
+      "following": false,
+      "friends_count": 59338,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 734168909553766405,
+      "id_str": "734168909553766405",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 83,
+      "location": "New Orleans, LA",
+      "name": "AnnaLovesTrump\u2764\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/734168909553766405/1567106760",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1210314596529188865/Hj2FkkGK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210314596529188865/Hj2FkkGK_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AnnaApp91838450",
+      "statuses_count": 373152,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 68014452,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111815,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47581,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

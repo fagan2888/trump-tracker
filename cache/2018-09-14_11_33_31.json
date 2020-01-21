@@ -1,0 +1,474 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Sep 14 11:33:31 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          55,
+          64
+        ],
+        "text": "Florence"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16669075,
+        "id_str": "16669075",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "FEMA",
+        "screen_name": "fema"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @fema: If you're in a mandatory evacuation zone for #Florence, your window of time to leave is closing rapidly. Here are the zones for S\u2026",
+  "geo": null,
+  "id": 1040564197120204801,
+  "id_str": "1040564197120204801",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1040206070357155840,
+  "quoted_status_id_str": "1040206070357155840",
+  "quoted_status_permalink": {
+    "display": "twitter.com/SCEMD/status/1\u2026",
+    "expanded": "https://twitter.com/SCEMD/status/1040206070357155840",
+    "url": "https://t.co/rFbWeHDLgI"
+  },
+  "retweet_count": 2969,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 13 12:58:54 +0000 2018",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            45,
+            54
+          ],
+          "text": "Florence"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/SCEMD/status/1\u2026",
+          "expanded_url": "https://twitter.com/SCEMD/status/1040206070357155840",
+          "indices": [
+            144,
+            167
+          ],
+          "url": "https://t.co/rFbWeHDLgI"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 11307,
+    "favorited": false,
+    "full_text": "If you're in a mandatory evacuation zone for #Florence, your window of time to leave is closing rapidly. Here are the zones for South Carolina: https://t.co/rFbWeHDLgI",
+    "geo": null,
+    "id": 1040223296313348096,
+    "id_str": "1040223296313348096",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Sep 13 11:50:27 +0000 2018",
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              26,
+              37
+            ],
+            "text": "evacuation"
+          },
+          {
+            "indices": [
+              229,
+              247
+            ],
+            "text": "HurricaneFlorence"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/75SfGtWivf",
+            "expanded_url": "https://twitter.com/SCEMD/status/1040206070357155840/photo/1",
+            "id": 1040206059779121158,
+            "id_str": "1040206059779121158",
+            "indices": [
+              272,
+              295
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dm-N5m5X4AY-f6s.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dm-N5m5X4AY-f6s.jpg",
+            "sizes": {
+              "large": {
+                "h": 1422,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 833,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 472,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/75SfGtWivf"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "scemd.org",
+            "expanded_url": "http://scemd.org",
+            "indices": [
+              248,
+              271
+            ],
+            "url": "https://t.co/J3bs5wRCmq"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/75SfGtWivf",
+            "expanded_url": "https://twitter.com/SCEMD/status/1040206070357155840/photo/1",
+            "id": 1040206059779121158,
+            "id_str": "1040206059779121158",
+            "indices": [
+              272,
+              295
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dm-N5m5X4AY-f6s.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dm-N5m5X4AY-f6s.jpg",
+            "sizes": {
+              "large": {
+                "h": 1422,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 833,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 472,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/75SfGtWivf"
+          },
+          {
+            "display_url": "pic.twitter.com/75SfGtWivf",
+            "expanded_url": "https://twitter.com/SCEMD/status/1040206070357155840/photo/1",
+            "id": 1040206059779092487,
+            "id_str": "1040206059779092487",
+            "indices": [
+              272,
+              295
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dm-N5m5XcAcsAqP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dm-N5m5XcAcsAqP.jpg",
+            "sizes": {
+              "large": {
+                "h": 1416,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 830,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 470,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/75SfGtWivf"
+          }
+        ]
+      },
+      "favorite_count": 599,
+      "favorited": false,
+      "full_text": "IMPORTANT NOTE: Mandatory #evacuation still in effect for the following zones. Public safety agencies will begin moving staff &amp; equipment to safe locations. Residents have just a few hours to safely leave areas vulnerable to #HurricaneFlorence https://t.co/J3bs5wRCmq https://t.co/75SfGtWivf",
+      "geo": null,
+      "id": 1040206070357155840,
+      "id_str": "1040206070357155840",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 314,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 15 13:37:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official information from the South Carolina Emergency Management Division. #sctweets #smem #scwx #KnowYourZone #TwitterAlerts #scflood #SCEmergency",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "scemd.org",
+                "expanded_url": "http://www.scemd.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/bByTd219pZ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4416,
+        "follow_request_sent": false,
+        "followers_count": 45639,
+        "following": false,
+        "friends_count": 1239,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 57017317,
+        "id_str": "57017317",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1140,
+        "location": "South Carolina",
+        "name": "SCEMD",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57017317/1508149879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002128407478534144/Je1gKMT8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002128407478534144/Je1gKMT8_normal.jpg",
+        "profile_link_color": "0F1BFF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "BEBFC2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SCEMD",
+        "statuses_count": 6358,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/bByTd219pZ",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1040206070357155840,
+    "quoted_status_id_str": "1040206070357155840",
+    "quoted_status_permalink": {
+      "display": "twitter.com/SCEMD/status/1\u2026",
+      "expanded": "https://twitter.com/SCEMD/status/1040206070357155840",
+      "url": "https://t.co/rFbWeHDLgI"
+    },
+    "retweet_count": 2969,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 09 16:54:20 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Our story of supporting citizens & first responders before, during, and after emergencies. For emergencies, call your local fire/EMS/police or 9-1-1.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fema.gov",
+              "expanded_url": "http://www.fema.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pJoesev0fm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3034,
+      "follow_request_sent": false,
+      "followers_count": 717760,
+      "following": false,
+      "friends_count": 678,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16669075,
+      "id_str": "16669075",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10745,
+      "location": "United States",
+      "name": "FEMA",
+      "notifications": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16669075/1530889653",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_link_color": "2A91B0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DCDCE0",
+      "profile_text_color": "65686E",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fema",
+      "statuses_count": 14622,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pJoesev0fm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54450780,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93646,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38955,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

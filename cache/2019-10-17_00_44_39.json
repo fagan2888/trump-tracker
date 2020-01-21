@@ -1,0 +1,281 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 17 00:44:39 +0000 2019",
+  "display_text_range": [
+    0,
+    119
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          85,
+          95
+        ],
+        "text": "TRUMP2020"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/fbtzlbroQi",
+        "expanded_url": "https://twitter.com/RSBNetwork/status/1184626139983167488/video/1",
+        "id": 1184625754467905536,
+        "id_str": "1184625754467905536",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184625754467905536/pu/img/XPsKzJ3wFYvV0AEI.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184625754467905536/pu/img/XPsKzJ3wFYvV0AEI.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1184626139983167488,
+        "source_status_id_str": "1184626139983167488",
+        "source_user_id": 4041824789,
+        "source_user_id_str": "4041824789",
+        "type": "photo",
+        "url": "https://t.co/fbtzlbroQi"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Oct 25 22:00:42 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Right Side Broadcasting Network, Auburn AL. #1 source for live political event coverage. RT's \u2260 Endorsement. CEO @JoeSeales",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "rsbn.tv",
+                    "expanded_url": "http://rsbn.tv",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/in8FJYRfkf"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 7884,
+            "follow_request_sent": false,
+            "followers_count": 86601,
+            "following": false,
+            "friends_count": 359,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 4041824789,
+            "id_str": "4041824789",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 694,
+            "location": "Auburn, AL",
+            "name": "RSBN \ud83c\uddfa\ud83c\uddf8",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4041824789/1569021270",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/749814591652302848/3dd6J8TR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/749814591652302848/3dd6J8TR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "RSBNetwork",
+            "statuses_count": 12322,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/in8FJYRfkf",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/fbtzlbroQi",
+        "expanded_url": "https://twitter.com/RSBNetwork/status/1184626139983167488/video/1",
+        "id": 1184625754467905536,
+        "id_str": "1184625754467905536",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184625754467905536/pu/img/XPsKzJ3wFYvV0AEI.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184625754467905536/pu/img/XPsKzJ3wFYvV0AEI.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1184626139983167488,
+        "source_status_id_str": "1184626139983167488",
+        "source_user_id": 4041824789,
+        "source_user_id_str": "4041824789",
+        "type": "video",
+        "url": "https://t.co/fbtzlbroQi",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 4500,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1184625754467905536/pu/vid/640x360/-m7xApCVNF5OdohK.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1184625754467905536/pu/vid/480x270/JcvtTG8wz408xGMa.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1184625754467905536/pu/vid/1280x720/CN4GfSH_nRdUgsmV.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1184625754467905536/pu/pl/qqBzMTLYo4hpcgnO.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 57900,
+  "favorited": false,
+  "full_text": "THANK YOU you Dallas, Texas. See you tomorrow night at the American Airlines Center! #TRUMP2020 https://t.co/fbtzlbroQi",
+  "geo": null,
+  "id": 1184631273454817280,
+  "id_str": "1184631273454817280",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 15679,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65866874,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109998,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45251,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

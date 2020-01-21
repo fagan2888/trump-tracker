@@ -1,0 +1,343 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 09 22:22:40 +0000 2018",
+  "display_text_range": [
+    0,
+    200
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          183,
+          200
+        ],
+        "text": "CenturyOfService"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/usarmy/status/\u2026",
+        "expanded_url": "https://twitter.com/usarmy/status/1016306232104275968",
+        "indices": [
+          201,
+          224
+        ],
+        "url": "https://t.co/hD42XseaTG"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 8775672,
+        "id_str": "8775672",
+        "indices": [
+          161,
+          168
+        ],
+        "name": "U.S. Army",
+        "screen_name": "USArmy"
+      }
+    ]
+  },
+  "favorite_count": 64730,
+  "favorited": false,
+  "full_text": "HAPPY 100TH BIRTHDAY to our amazing current and former Army Warrant Officers. Thank you for your century of service, as the indispensable guardians of our great @USArmy\u2019s technology! #CenturyOfService https://t.co/hD42XseaTG",
+  "geo": null,
+  "id": 1016447571563249666,
+  "id_str": "1016447571563249666",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 09 13:01:02 +0000 2018",
+    "display_text_range": [
+      0,
+      262
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            4,
+            11
+          ],
+          "text": "USArmy"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/kZnHdSiGDV",
+          "expanded_url": "https://twitter.com/USArmy/status/1016306232104275968/video/1",
+          "id": 1016305990512332800,
+          "id_str": "1016305990512332800",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1016305990512332800/pu/img/0PmbA-zB2IT8tB0D.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1016305990512332800/pu/img/0PmbA-zB2IT8tB0D.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/kZnHdSiGDV"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/kZnHdSiGDV",
+          "expanded_url": "https://twitter.com/USArmy/status/1016306232104275968/video/1",
+          "id": 1016305990512332800,
+          "id_str": "1016305990512332800",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1016305990512332800/pu/img/0PmbA-zB2IT8tB0D.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1016305990512332800/pu/img/0PmbA-zB2IT8tB0D.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/kZnHdSiGDV",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 30464,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1016305990512332800/pu/vid/320x180/6JNlepoXOL06ZKb7.mp4?tag=3"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1016305990512332800/pu/pl/I8JoEE5lNhW4wGg4.m3u8?tag=3"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1016305990512332800/pu/vid/1280x720/ZQK4zcBBFdVGojzV.mp4?tag=3"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1016305990512332800/pu/vid/640x360/d0h6P1vApJHFJAiE.mp4?tag=3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 3648,
+    "favorited": false,
+    "full_text": "The #USArmy would like to wish a happy 100th birthday to all the current and former warrant officers that have worn the uniform.\n\nAs the technical experts in the Army, warrant officers manage and maintain many of the Army\u2019s combat systems, vehicles and networks. https://t.co/kZnHdSiGDV",
+    "geo": null,
+    "id": 1016306232104275968,
+    "id_str": "1016306232104275968",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1169,
+    "retweeted": false,
+    "source": "<a href=\"https://manager.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 10 01:04:15 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter page of the United States Army.  (Following, RTs and links \u2260 endorsement)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "army.mil",
+              "expanded_url": "http://www.army.mil",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/UReztYpQzf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3652,
+      "follow_request_sent": false,
+      "followers_count": 1255237,
+      "following": false,
+      "friends_count": 551,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 8775672,
+      "id_str": "8775672",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 8568,
+      "location": "Washington, D.C.",
+      "name": "U.S. Army",
+      "notifications": false,
+      "profile_background_color": "4E4E4E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/8775672/1530530920",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/684036669515759616/BF3rskvn_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/684036669515759616/BF3rskvn_normal.png",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USArmy",
+      "statuses_count": 30954,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/UReztYpQzf",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1016306232104275968,
+  "quoted_status_id_str": "1016306232104275968",
+  "quoted_status_permalink": {
+    "display": "twitter.com/usarmy/status/\u2026",
+    "expanded": "https://twitter.com/usarmy/status/1016306232104275968",
+    "url": "https://t.co/hD42XseaTG"
+  },
+  "retweet_count": 14014,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 53070847,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 90402,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1530156698",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38175,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

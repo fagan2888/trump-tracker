@@ -1,0 +1,364 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 08 12:09:45 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          125,
+          136
+        ],
+        "text": "Newsmakers"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15675138,
+        "id_str": "15675138",
+        "indices": [
+          3,
+          9
+        ],
+        "name": "CSPAN",
+        "screen_name": "cspan"
+      },
+      {
+        "id": 18166778,
+        "id_str": "18166778",
+        "indices": [
+          16,
+          27
+        ],
+        "name": "Rep. Jim Jordan",
+        "screen_name": "Jim_Jordan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @cspan: Rep. @Jim_Jordan on President Trump's tax returns: \"There's no law that says they have to be public.\"\n\nWatch full #Newsmakers in\u2026",
+  "geo": null,
+  "id": 1115225213426442240,
+  "id_str": "1115225213426442240",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8436,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 05 23:52:00 +0000 2019",
+    "display_text_range": [
+      0,
+      188
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            114,
+            125
+          ],
+          "text": "Newsmakers"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0UMZGGm8qP",
+          "expanded_url": "https://twitter.com/cspan/status/1114314776434348033/video/1",
+          "id": 1114265970720301060,
+          "id_str": "1114265970720301060",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1114265970720301060/img/tUowy6fnUf3X6Pwf.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1114265970720301060/img/tUowy6fnUf3X6Pwf.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0UMZGGm8qP"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "cs.pn/2WN7Dvw",
+          "expanded_url": "https://cs.pn/2WN7Dvw",
+          "indices": [
+            165,
+            188
+          ],
+          "url": "https://t.co/RVEwl0ICJF"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 18166778,
+          "id_str": "18166778",
+          "indices": [
+            5,
+            16
+          ],
+          "name": "Rep. Jim Jordan",
+          "screen_name": "Jim_Jordan"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://cs.pn/2WN7Dvw"
+              }
+            },
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/0UMZGGm8qP",
+          "expanded_url": "https://twitter.com/cspan/status/1114314776434348033/video/1",
+          "id": 1114265970720301060,
+          "id_str": "1114265970720301060",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1114265970720301060/img/tUowy6fnUf3X6Pwf.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1114265970720301060/img/tUowy6fnUf3X6Pwf.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/0UMZGGm8qP",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 221588,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1114265970720301060/vid/320x180/dp45tzANW2Wsh6I1.mp4?tag=11"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1114265970720301060/vid/1280x720/5zN5S8dXOFr7QdCP.mp4?tag=11"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1114265970720301060/pl/5xYt9AvkEK7jcwM5.m3u8?tag=11"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1114265970720301060/vid/640x360/n1F6eCLzVeKFZluo.mp4?tag=11"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 28053,
+    "favorited": false,
+    "full_text": "Rep. @Jim_Jordan on President Trump's tax returns: \"There's no law that says they have to be public.\"\n\nWatch full #Newsmakers interview tonight at 10pm ET on C-SPAN https://t.co/RVEwl0ICJF https://t.co/0UMZGGm8qP",
+    "geo": null,
+    "id": 1114314776434348033,
+    "id_str": "1114314776434348033",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8436,
+    "retweeted": false,
+    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 31 14:29:10 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Capitol Hill. The White House. National Politics.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "c-span.org",
+              "expanded_url": "http://www.c-span.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L3A4afzX6T"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1404,
+      "follow_request_sent": false,
+      "followers_count": 1945216,
+      "following": false,
+      "friends_count": 8871,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 15675138,
+      "id_str": "15675138",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 13779,
+      "location": "Washington, D.C.",
+      "name": "CSPAN",
+      "notifications": false,
+      "profile_background_color": "04005F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1552903501",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+      "profile_link_color": "04007D",
+      "profile_sidebar_border_color": "00012B",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "cspan",
+      "statuses_count": 38892,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/L3A4afzX6T",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59600893,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101713,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41172,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

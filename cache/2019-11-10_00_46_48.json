@@ -1,0 +1,407 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 10 00:46:48 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 129571843,
+        "id_str": "129571843",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Kyle Morris",
+        "screen_name": "RealKyleMorris"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          59,
+          75
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RealKyleMorris: Alabama and LSU fans welcome President @realDonaldTrump and First Lady Melania Trump to Tuscaloosa, Alabama. \ud83c\uddfa\ud83c\uddf8 https:/\u2026",
+  "geo": null,
+  "id": 1193329124644753409,
+  "id_str": "1193329124644753409",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11212,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 09 21:00:30 +0000 2019",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1odLcOQJ9I",
+          "expanded_url": "https://twitter.com/SimoneEli_TV/status/1193269571572121600/video/1",
+          "features": {},
+          "id": 1193269481277206528,
+          "id_str": "1193269481277206528",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1193269481277206528/pu/img/d6JKoKfdgqZ5VxKm.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1193269481277206528/pu/img/d6JKoKfdgqZ5VxKm.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1193269571572121600,
+          "source_status_id_str": "1193269571572121600",
+          "source_user_id": 1446503713,
+          "source_user_id_str": "1446503713",
+          "type": "photo",
+          "url": "https://t.co/1odLcOQJ9I"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            39,
+            55
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Tue May 21 14:29:32 +0000 2013",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "\u271e God first | TV Sports Anchor @CBS_42 + Coach\u2019s Wife to @BartSessions \ud83c\udfc8 + Former @BGSUwbb baller \ud83c\udfc0 + Dog Mom \ud83d\udc36",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "cbs42.com",
+                      "expanded_url": "http://www.cbs42.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/fCdkmyvMRf"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 24697,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 14986,
+              "following": false,
+              "friends_count": 1051,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 1446503713,
+              "id_str": "1446503713",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 156,
+              "location": "Birmingham, AL",
+              "name": "Simone Eli",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446503713/1569641192",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1130666758556266499/BoWgVfoM_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130666758556266499/BoWgVfoM_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "SimoneEli_TV",
+              "statuses_count": 18477,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/fCdkmyvMRf",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/1odLcOQJ9I",
+          "expanded_url": "https://twitter.com/SimoneEli_TV/status/1193269571572121600/video/1",
+          "features": {},
+          "id": 1193269481277206528,
+          "id_str": "1193269481277206528",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1193269481277206528/pu/img/d6JKoKfdgqZ5VxKm.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1193269481277206528/pu/img/d6JKoKfdgqZ5VxKm.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1193269571572121600,
+          "source_status_id_str": "1193269571572121600",
+          "source_user_id": 1446503713,
+          "source_user_id_str": "1446503713",
+          "type": "video",
+          "url": "https://t.co/1odLcOQJ9I",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 22033,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1193269481277206528/pu/vid/480x270/DOcCTjti1l1u3WZg.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1193269481277206528/pu/pl/0dBfTr6-Ek58jKL_.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1193269481277206528/pu/vid/1280x720/M-_VTFgNL3KdA3yQ.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1193269481277206528/pu/vid/640x360/Yfk8LDZ7rxRhY1TU.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 46020,
+    "favorited": false,
+    "full_text": "Alabama and LSU fans welcome President @realDonaldTrump and First Lady Melania Trump to Tuscaloosa, Alabama. \ud83c\uddfa\ud83c\uddf8 https://t.co/1odLcOQJ9I",
+    "geo": null,
+    "id": 1193272171818299394,
+    "id_str": "1193272171818299394",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11212,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Apr 04 19:05:00 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Politics reporter for @BreitbartNews. Roll Tide! Opinions are my own. kmorris@breitbart.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "breitbart.com/author/kyle-mo\u2026",
+              "expanded_url": "https://www.breitbart.com/author/kyle-morris/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Dv3A8SgeEa"
+            }
+          ]
+        }
+      },
+      "favourites_count": 45079,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 114494,
+      "following": false,
+      "friends_count": 796,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 129571843,
+      "id_str": "129571843",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 456,
+      "location": "United States",
+      "name": "Kyle Morris",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/129571843/1560203766",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1115477443916255232/YqBsTKzs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115477443916255232/YqBsTKzs_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RealKyleMorris",
+      "statuses_count": 3542,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Dv3A8SgeEa",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66684379,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110582,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45984,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

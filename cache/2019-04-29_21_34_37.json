@@ -1,0 +1,443 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 29 21:34:37 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          114,
+          120
+        ],
+        "text": "SicEm"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21409003,
+        "id_str": "21409003",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Baylor Lady Bears",
+        "screen_name": "BaylorWBB"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          28,
+          44
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "indices": [
+          53,
+          64
+        ],
+        "name": "The White House",
+        "screen_name": "WhiteHouse"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BaylorWBB: Thank you to @realDonaldTrump and the @WhiteHouse staff for a great experience for the Lady Bears!\n#SicEm https://t.co/SR7no\u2026",
+  "geo": null,
+  "id": 1122977511355367426,
+  "id_str": "1122977511355367426",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7117,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 29 20:48:40 +0000 2019",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            99,
+            105
+          ],
+          "text": "SicEm"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SR7noDCphT",
+          "expanded_url": "https://twitter.com/BaylorWBB/status/1122965947327889408/photo/1",
+          "id": 1122965928390606852,
+          "id_str": "1122965928390606852",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/D5WTj-iWwAQuLuy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D5WTj-iWwAQuLuy.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SR7noDCphT"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            13,
+            29
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            38,
+            49
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SR7noDCphT",
+          "expanded_url": "https://twitter.com/BaylorWBB/status/1122965947327889408/photo/1",
+          "id": 1122965928390606852,
+          "id_str": "1122965928390606852",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/D5WTj-iWwAQuLuy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D5WTj-iWwAQuLuy.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SR7noDCphT"
+        },
+        {
+          "display_url": "pic.twitter.com/SR7noDCphT",
+          "expanded_url": "https://twitter.com/BaylorWBB/status/1122965947327889408/photo/1",
+          "id": 1122965928407379969,
+          "id_str": "1122965928407379969",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/D5WTj-mWsAENKoU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D5WTj-mWsAENKoU.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SR7noDCphT"
+        },
+        {
+          "display_url": "pic.twitter.com/SR7noDCphT",
+          "expanded_url": "https://twitter.com/BaylorWBB/status/1122965947327889408/photo/1",
+          "id": 1122965928415825921,
+          "id_str": "1122965928415825921",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/D5WTj-oXkAEBKoG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D5WTj-oXkAEBKoG.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SR7noDCphT"
+        },
+        {
+          "display_url": "pic.twitter.com/SR7noDCphT",
+          "expanded_url": "https://twitter.com/BaylorWBB/status/1122965947327889408/photo/1",
+          "id": 1122965928411578370,
+          "id_str": "1122965928411578370",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/D5WTj-nWwAIeFy-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D5WTj-nWwAIeFy-.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SR7noDCphT"
+        }
+      ]
+    },
+    "favorite_count": 29239,
+    "favorited": false,
+    "full_text": "Thank you to @realDonaldTrump and the @WhiteHouse staff for a great experience for the Lady Bears!\n#SicEm https://t.co/SR7noDCphT",
+    "geo": null,
+    "id": 1122965947327889408,
+    "id_str": "1122965947327889408",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7117,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 20 16:14:32 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter account for three-time NCAA Champion (2005, 2012, 2019) \ud83c\udfc6\ud83c\udfc6\ud83c\udfc6Baylor Lady Bears.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BaylorBears.com",
+              "expanded_url": "http://BaylorBears.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5liWyYyIIs"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1622,
+      "follow_request_sent": false,
+      "followers_count": 41253,
+      "following": false,
+      "friends_count": 97,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 21409003,
+      "id_str": "21409003",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 253,
+      "location": "",
+      "name": "Baylor Lady Bears",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21409003/1555337187",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1117791292623392768/DfO2I0HC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117791292623392768/DfO2I0HC_normal.jpg",
+      "profile_link_color": "003015",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FDBC30",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "BaylorWBB",
+      "statuses_count": 14024,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/5liWyYyIIs",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59926141,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102267,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41481,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

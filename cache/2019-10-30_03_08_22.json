@@ -1,0 +1,297 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 30 03:08:22 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1705202990,
+        "id_str": "1705202990",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Urban Meyer",
+        "screen_name": "CoachUrbanMeyer"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CoachUrbanMeyer: \ud83c\uddfa\ud83c\uddf8 God bless the incredible Men and Women who serve our country. God bless America. Justice served! https://t.co/2LmEC\u2026",
+  "geo": null,
+  "id": 1189378483627147264,
+  "id_str": "1189378483627147264",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2835,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 28 11:53:22 +0000 2019",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2LmECI38K3",
+          "expanded_url": "https://twitter.com/CoachUrbanMeyer/status/1188785828060913675/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1188785821903704065,
+          "id_str": "1188785821903704065",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/EH9qaBSXUAEg0_p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EH9qaBSXUAEg0_p.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1366
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 454
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2LmECI38K3"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2LmECI38K3",
+          "expanded_url": "https://twitter.com/CoachUrbanMeyer/status/1188785828060913675/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1188785821903704065,
+          "id_str": "1188785821903704065",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/EH9qaBSXUAEg0_p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EH9qaBSXUAEg0_p.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1366
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 454
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2LmECI38K3"
+        }
+      ]
+    },
+    "favorite_count": 16678,
+    "favorited": false,
+    "full_text": "\ud83c\uddfa\ud83c\uddf8 God bless the incredible Men and Women who serve our country. God bless America. Justice served! https://t.co/2LmECI38K3",
+    "geo": null,
+    "id": 1188785828060913675,
+    "id_str": "1188785828060913675",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2835,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Aug 27 17:27:34 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Go Bucks!",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 425,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1949757,
+      "following": false,
+      "friends_count": 239,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1705202990,
+      "id_str": "1705202990",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1324,
+      "location": "Columbus, OH",
+      "name": "Urban Meyer",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705202990/1446669859",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1074417472797884424/FyH2zhXg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074417472797884424/FyH2zhXg_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CoachUrbanMeyer",
+      "statuses_count": 3181,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66369765,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45634,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

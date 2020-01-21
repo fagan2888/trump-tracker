@@ -1,0 +1,366 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 17 13:19:37 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 11856032,
+        "id_str": "11856032",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "NBC Politics",
+        "screen_name": "NBCPolitics"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NBCPolitics: BREAKING: US Senate joins House in passing the new USMCA trade deal, a key initiative for President Trump that replaces th\u2026",
+  "geo": null,
+  "id": 1218160950399983616,
+  "id_str": "1218160950399983616",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4711,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 16 17:09:42 +0000 2020",
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GLHE7oZeDG",
+          "expanded_url": "https://twitter.com/NBCPolitics/status/1217856463961513984/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 705,
+                  "y": 65
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 440,
+                  "y": 40
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 705,
+                  "y": 65
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 249,
+                  "y": 23
+                }
+              ]
+            }
+          },
+          "id": 1217856461474291713,
+          "id_str": "1217856461474291713",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOax_82W4AEJYe6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOax_82W4AEJYe6.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GLHE7oZeDG"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GLHE7oZeDG",
+          "expanded_url": "https://twitter.com/NBCPolitics/status/1217856463961513984/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 705,
+                  "y": 65
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 440,
+                  "y": 40
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 705,
+                  "y": 65
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 249,
+                  "y": 23
+                }
+              ]
+            }
+          },
+          "id": 1217856461474291713,
+          "id_str": "1217856461474291713",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOax_82W4AEJYe6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOax_82W4AEJYe6.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GLHE7oZeDG"
+        }
+      ]
+    },
+    "favorite_count": 17689,
+    "favorited": false,
+    "full_text": "BREAKING: US Senate joins House in passing the new USMCA trade deal, a key initiative for President Trump that replaces the decades-old NAFTA trade deal; bill now heads to President Trump's desk for signature. https://t.co/GLHE7oZeDG",
+    "geo": null,
+    "id": 1217856463961513984,
+    "id_str": "1217856463961513984",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4711,
+    "retweeted": false,
+    "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 04 22:09:18 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Political news from the journalists across @NBCNews, @MSNBC, @TodayShow, @NBCNightlyNews, @MeetThePress, @NBCInvestigates and more.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "NBCPolitics.com",
+              "expanded_url": "http://www.NBCPolitics.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/aSm5RbuWs3"
+            }
+          ]
+        }
+      },
+      "favourites_count": 818,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 544300,
+      "following": false,
+      "friends_count": 235,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 11856032,
+      "id_str": "11856032",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6799,
+      "location": "",
+      "name": "NBC Politics",
+      "notifications": false,
+      "profile_background_color": "062131",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11856032/1574713459",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1108427382925471744/1np2ube6_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108427382925471744/1np2ube6_normal.png",
+      "profile_link_color": "5172A0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NBCPolitics",
+      "statuses_count": 62397,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/aSm5RbuWs3",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71146089,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113466,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47937,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

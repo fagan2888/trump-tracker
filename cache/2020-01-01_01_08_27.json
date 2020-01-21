@@ -1,0 +1,325 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 01 01:08:27 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 450941680,
+        "id_str": "450941680",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "This Week",
+        "screen_name": "ThisWeekABC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ThisWeekABC: Sen. Ron Johnson says charges against Pres. Trump are \"pretty thin gruel\" and Speaker Nancy Pelosi's decision to withhold\u2026",
+  "geo": null,
+  "id": 1212178740509380608,
+  "id_str": "1212178740509380608",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3727,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 22 14:08:30 +0000 2019",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bhA980e1k8",
+          "expanded_url": "https://twitter.com/ThisWeekABC/status/1208751168274489345/video/1",
+          "features": {},
+          "id": 1208750907455950848,
+          "id_str": "1208750907455950848",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1208750907455950848/img/LNzJVDGaBOiGF4-P.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1208750907455950848/img/LNzJVDGaBOiGF4-P.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bhA980e1k8"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "abcn.ws/2MlSXAR",
+          "expanded_url": "https://abcn.ws/2MlSXAR",
+          "indices": [
+            255,
+            278
+          ],
+          "url": "https://t.co/W4qEoBQicq"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/bhA980e1k8",
+          "expanded_url": "https://twitter.com/ThisWeekABC/status/1208751168274489345/video/1",
+          "features": {},
+          "id": 1208750907455950848,
+          "id_str": "1208750907455950848",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1208750907455950848/img/LNzJVDGaBOiGF4-P.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1208750907455950848/img/LNzJVDGaBOiGF4-P.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/bhA980e1k8",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 107940,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1208750907455950848/vid/480x270/nkWQo2h07GsLHa0m.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1208750907455950848/vid/1280x720/1xXM52mvsL7IDMrb.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1208750907455950848/pl/qi4B6VndztJz3tcz.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1208750907455950848/vid/640x360/td8unxTMEBjtcLMy.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 11179,
+    "favorited": false,
+    "full_text": "Sen. Ron Johnson says charges against Pres. Trump are \"pretty thin gruel\" and Speaker Nancy Pelosi's decision to withhold the articles of impeachment is \"bizarre.\"\n\n\"They had to rush to this impeachment vote and then all of a sudden she's sitting on it.\" https://t.co/W4qEoBQicq https://t.co/bhA980e1k8",
+    "geo": null,
+    "id": 1208751168274489345,
+    "id_str": "1208751168274489345",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3727,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 30 21:09:43 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter account of @ABC News' This Week, hosted by @GStephanopoulos.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "abcnews.com/ThisWeek",
+              "expanded_url": "http://abcnews.com/ThisWeek",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/ArwX6L8uo4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 82,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 183616,
+      "following": false,
+      "friends_count": 1143,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 450941680,
+      "id_str": "450941680",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2281,
+      "location": "",
+      "name": "This Week",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/450941680/1501252646",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/883070351298711553/Ervy92xV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/883070351298711553/Ervy92xV_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ThisWeekABC",
+      "statuses_count": 88318,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/ArwX6L8uo4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 68110358,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111904,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47640,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

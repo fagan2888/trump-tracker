@@ -1,0 +1,396 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 06 13:21:45 +0000 2019",
+  "display_text_range": [
+    0,
+    43
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/GOPChairwoman/\u2026",
+        "expanded_url": "https://twitter.com/GOPChairwoman/status/1180539962611163136",
+        "indices": [
+          44,
+          67
+        ],
+        "url": "https://t.co/Z5G5oEQOqs"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 54124,
+  "favorited": false,
+  "full_text": "The Do Nothing Democrats are being exposed! https://t.co/Z5G5oEQOqs",
+  "geo": null,
+  "id": 1180835536086470656,
+  "id_str": "1180835536086470656",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 05 17:47:15 +0000 2019",
+    "display_text_range": [
+      0,
+      230
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/vKOC76Inrl",
+          "expanded_url": "https://twitter.com/Rick_Gorka/status/1180253609986002944/video/1",
+          "id": 1180253535453220864,
+          "id_str": "1180253535453220864",
+          "indices": [
+            207,
+            230
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1180253535453220864/pu/img/gg_iSJ4sedq_MhC7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1180253535453220864/pu/img/gg_iSJ4sedq_MhC7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1180253609986002944,
+          "source_status_id_str": "1180253609986002944",
+          "source_user_id": 123358058,
+          "source_user_id_str": "123358058",
+          "type": "photo",
+          "url": "https://t.co/vKOC76Inrl"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            21,
+            37
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Mar 15 21:04:52 +0000 2010",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Seinfeld freak, long-suffering Cleveland Indians and Browns fan. Donald Trump for President and RNC Comms.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "linkedin.com/feed/",
+                      "expanded_url": "https://www.linkedin.com/feed/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/t4UzRRLcTe"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 1678,
+              "follow_request_sent": false,
+              "followers_count": 6293,
+              "following": false,
+              "friends_count": 999,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 123358058,
+              "id_str": "123358058",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 221,
+              "location": "",
+              "name": "Rick Gorka",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/123358058/1478095147",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/889523809555894272/NIckm4ht_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/889523809555894272/NIckm4ht_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "Rick_Gorka",
+              "statuses_count": 8566,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/t4UzRRLcTe",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/vKOC76Inrl",
+          "expanded_url": "https://twitter.com/Rick_Gorka/status/1180253609986002944/video/1",
+          "id": 1180253535453220864,
+          "id_str": "1180253535453220864",
+          "indices": [
+            207,
+            230
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1180253535453220864/pu/img/gg_iSJ4sedq_MhC7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1180253535453220864/pu/img/gg_iSJ4sedq_MhC7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1180253609986002944,
+          "source_status_id_str": "1180253609986002944",
+          "source_user_id": 123358058,
+          "source_user_id_str": "123358058",
+          "type": "video",
+          "url": "https://t.co/vKOC76Inrl",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 8298,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1180253535453220864/pu/vid/480x270/UmKjGjpM6ihDS5qX.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1180253535453220864/pu/pl/tHDRp6Kx2EUfc6hR.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1180253535453220864/pu/vid/640x360/pBrx5rvUVxo882nG.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1180253535453220864/pu/vid/1280x720/bf5tgb9OIujlMX8D.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 28767,
+    "favorited": false,
+    "full_text": "Thank you to all the @realDonaldTrump supporters who came out last night to \"welcome\" Nancy Pelosi to Greenville, South Carolina.\n \nTheir message to Pelosi: \u201cThe American people reject your radical agenda!\u201d\nhttps://t.co/vKOC76Inrl",
+    "geo": null,
+    "id": 1180539962611163136,
+    "id_str": "1180539962611163136",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10443,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6112,
+      "follow_request_sent": false,
+      "followers_count": 371863,
+      "following": false,
+      "friends_count": 2608,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2142,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1094021853272784896/kyyA04f8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094021853272784896/kyyA04f8_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 11815,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1180539962611163136,
+  "quoted_status_id_str": "1180539962611163136",
+  "quoted_status_permalink": {
+    "display": "twitter.com/GOPChairwoman/\u2026",
+    "expanded": "https://twitter.com/GOPChairwoman/status/1180539962611163136",
+    "url": "https://t.co/Z5G5oEQOqs"
+  },
+  "retweet_count": 15745,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65310225,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109426,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44917,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

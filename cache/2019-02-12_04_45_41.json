@@ -1,0 +1,402 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Feb 12 04:45:41 +0000 2019",
+  "display_text_range": [
+    0,
+    126
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          78,
+          85
+        ],
+        "text": "ElPaso"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/FipvNxp8di",
+        "expanded_url": "https://twitter.com/IngrahamAngle/status/1095179399471616000/photo/1",
+        "id": 1095179363379625984,
+        "id_str": "1095179363379625984",
+        "indices": [
+          103,
+          126
+        ],
+        "media_url": "http://pbs.twimg.com/media/DzLb1BeUwAAC5ez.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DzLb1BeUwAAC5ez.jpg",
+        "sizes": {
+          "large": {
+            "h": 1372,
+            "resize": "fit",
+            "w": 1830
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1095179399471616000,
+        "source_status_id_str": "1095179399471616000",
+        "source_user_id": 50769180,
+        "source_user_id_str": "50769180",
+        "type": "photo",
+        "url": "https://t.co/FipvNxp8di"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 50769180,
+        "id_str": "50769180",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Laura Ingraham",
+        "screen_name": "IngrahamAngle"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          86,
+          102
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/FipvNxp8di",
+        "expanded_url": "https://twitter.com/IngrahamAngle/status/1095179399471616000/photo/1",
+        "id": 1095179363379625984,
+        "id_str": "1095179363379625984",
+        "indices": [
+          103,
+          126
+        ],
+        "media_url": "http://pbs.twimg.com/media/DzLb1BeUwAAC5ez.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DzLb1BeUwAAC5ez.jpg",
+        "sizes": {
+          "large": {
+            "h": 1372,
+            "resize": "fit",
+            "w": 1830
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1095179399471616000,
+        "source_status_id_str": "1095179399471616000",
+        "source_user_id": 50769180,
+        "source_user_id_str": "50769180",
+        "type": "photo",
+        "url": "https://t.co/FipvNxp8di"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IngrahamAngle: It was 45 degrees outside and this was the overflow crowd. #ElPaso @realDonaldTrump https://t.co/FipvNxp8di",
+  "geo": null,
+  "id": 1095182128780795904,
+  "id_str": "1095182128780795904",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 5275,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 12 04:34:50 +0000 2019",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            59,
+            66
+          ],
+          "text": "ElPaso"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FipvNxp8di",
+          "expanded_url": "https://twitter.com/IngrahamAngle/status/1095179399471616000/photo/1",
+          "id": 1095179363379625984,
+          "id_str": "1095179363379625984",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/DzLb1BeUwAAC5ez.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DzLb1BeUwAAC5ez.jpg",
+          "sizes": {
+            "large": {
+              "h": 1372,
+              "resize": "fit",
+              "w": 1830
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FipvNxp8di"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            67,
+            83
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FipvNxp8di",
+          "expanded_url": "https://twitter.com/IngrahamAngle/status/1095179399471616000/photo/1",
+          "id": 1095179363379625984,
+          "id_str": "1095179363379625984",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/DzLb1BeUwAAC5ez.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DzLb1BeUwAAC5ez.jpg",
+          "sizes": {
+            "large": {
+              "h": 1372,
+              "resize": "fit",
+              "w": 1830
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FipvNxp8di"
+        }
+      ]
+    },
+    "favorite_count": 19495,
+    "favorited": false,
+    "full_text": "It was 45 degrees outside and this was the overflow crowd. #ElPaso @realDonaldTrump https://t.co/FipvNxp8di",
+    "geo": null,
+    "id": 1095179399471616000,
+    "id_str": "1095179399471616000",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5275,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 25 21:03:25 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mom, author, The Ingraham Angle 10p ET Fox News, podcast on @itunes & @podcastone.com, Retweets do not = Endorsements",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lauraingraham.com",
+              "expanded_url": "http://www.lauraingraham.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/lnkE5EsSNQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1591,
+      "follow_request_sent": false,
+      "followers_count": 2588698,
+      "following": false,
+      "friends_count": 355,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 50769180,
+      "id_str": "50769180",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 12305,
+      "location": "DC",
+      "name": "Laura Ingraham",
+      "notifications": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/50769180/1549051319",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/926303888365510656/IHt-GEhl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/926303888365510656/IHt-GEhl_normal.jpg",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IngrahamAngle",
+      "statuses_count": 37284,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/lnkE5EsSNQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 58180418,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 100076,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1549424843",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40531,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

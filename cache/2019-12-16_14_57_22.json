@@ -1,0 +1,406 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Dec 16 14:57:22 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25202268,
+        "id_str": "25202268",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Sara A. Carter",
+        "screen_name": "SaraCarterDC"
+      },
+      {
+        "id": 216881337,
+        "id_str": "216881337",
+        "indices": [
+          19,
+          28
+        ],
+        "name": "Senator Rand Paul",
+        "screen_name": "RandPaul"
+      },
+      {
+        "id": 14529929,
+        "id_str": "14529929",
+        "indices": [
+          32,
+          43
+        ],
+        "name": "Jake Tapper",
+        "screen_name": "jaketapper"
+      },
+      {
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          57,
+          61
+        ],
+        "name": "CNN",
+        "screen_name": "CNN"
+      },
+      {
+        "id": 939091,
+        "id_str": "939091",
+        "indices": [
+          111,
+          120
+        ],
+        "name": "Joe Biden",
+        "screen_name": "JoeBiden"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SaraCarterDC: .@RandPaul to @jaketapper:\n\n\"you guys [@CNN] are not being honest with the facts here...\" \n\n\"@JoeBiden used his office to\u2026",
+  "geo": null,
+  "id": 1206589138977341441,
+  "id_str": "1206589138977341441",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 20798,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 15 15:58:30 +0000 2019",
+    "display_text_range": [
+      0,
+      225
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/mKgkVQY36S",
+          "expanded_url": "https://twitter.com/SaraCarterDC/status/1206242133583257612/video/1",
+          "features": {},
+          "id": 1206241100165500929,
+          "id_str": "1206241100165500929",
+          "indices": [
+            226,
+            249
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206241100165500929/pu/img/YBpJiztYRAW-E29u.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206241100165500929/pu/img/YBpJiztYRAW-E29u.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mKgkVQY36S"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "saraacarter.com",
+          "expanded_url": "https://saraacarter.com",
+          "indices": [
+            202,
+            225
+          ],
+          "url": "https://t.co/cWChhALGS6"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 216881337,
+          "id_str": "216881337",
+          "indices": [
+            1,
+            10
+          ],
+          "name": "Senator Rand Paul",
+          "screen_name": "RandPaul"
+        },
+        {
+          "id": 14529929,
+          "id_str": "14529929",
+          "indices": [
+            14,
+            25
+          ],
+          "name": "Jake Tapper",
+          "screen_name": "jaketapper"
+        },
+        {
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            39,
+            43
+          ],
+          "name": "CNN",
+          "screen_name": "CNN"
+        },
+        {
+          "id": 939091,
+          "id_str": "939091",
+          "indices": [
+            93,
+            102
+          ],
+          "name": "Joe Biden",
+          "screen_name": "JoeBiden"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/mKgkVQY36S",
+          "expanded_url": "https://twitter.com/SaraCarterDC/status/1206242133583257612/video/1",
+          "features": {},
+          "id": 1206241100165500929,
+          "id_str": "1206241100165500929",
+          "indices": [
+            226,
+            249
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206241100165500929/pu/img/YBpJiztYRAW-E29u.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206241100165500929/pu/img/YBpJiztYRAW-E29u.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/mKgkVQY36S",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 117409,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1206241100165500929/pu/vid/480x270/n-7lx68_gCNmVBfE.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1206241100165500929/pu/vid/640x360/gTOuPgDiSiCgdMeD.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1206241100165500929/pu/vid/1280x720/U93S5v-YV2hvDM7H.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1206241100165500929/pu/pl/Fx4uiwpxsWia1cZ8.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 41032,
+    "favorited": false,
+    "full_text": ".@RandPaul to @jaketapper:\n\n\"you guys [@CNN] are not being honest with the facts here...\" \n\n\"@JoeBiden used his office to enrich his son\". There is nothing wrong to investigate that\n\n**Retweet**\n\nMore: https://t.co/cWChhALGS6 https://t.co/mKgkVQY36S",
+    "geo": null,
+    "id": 1206242133583257612,
+    "id_str": "1206242133583257612",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 20798,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 19 01:02:12 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@FoxNews Contributor, award winning National Security/War Correspondent. Host, The Sara Carter Podcast. @IWF Fellow. Taking back the story. Instagram: ScarterDC",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "saraacarter.com",
+              "expanded_url": "https://saraacarter.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/SZ0zbfRggH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 26434,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 913131,
+      "following": false,
+      "friends_count": 4727,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25202268,
+      "id_str": "25202268",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3674,
+      "location": "Washington, D.C.",
+      "name": "Sara A. Carter",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25202268/1548362448",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1107325511028613127/7SvT3rHh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107325511028613127/7SvT3rHh_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "0E0E0E",
+      "profile_text_color": "4A66C1",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SaraCarterDC",
+      "statuses_count": 26206,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/SZ0zbfRggH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67609789,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111513,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47210,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

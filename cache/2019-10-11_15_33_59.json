@@ -1,0 +1,433 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 11 15:33:59 +0000 2019",
+  "display_text_range": [
+    0,
+    71
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/statedept/stat\u2026",
+        "expanded_url": "https://twitter.com/statedept/status/1182121169568358400",
+        "indices": [
+          48,
+          71
+        ],
+        "url": "https://t.co/Ut3KvBfIMb"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: Tune in this morning at 9AM \u2b07\ufe0f https://t.co/Ut3KvBfIMb",
+  "geo": null,
+  "id": 1182680751856406529,
+  "id_str": "1182680751856406529",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1182121169568358400,
+  "quoted_status_id_str": "1182121169568358400",
+  "quoted_status_permalink": {
+    "display": "twitter.com/statedept/stat\u2026",
+    "expanded": "https://twitter.com/statedept/status/1182121169568358400",
+    "url": "https://t.co/Ut3KvBfIMb"
+  },
+  "retweet_count": 2864,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 11 11:33:02 +0000 2019",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/statedept/stat\u2026",
+          "expanded_url": "https://twitter.com/statedept/status/1182121169568358400",
+          "indices": [
+            31,
+            54
+          ],
+          "url": "https://t.co/Ut3KvBfIMb"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 13126,
+    "favorited": false,
+    "full_text": "Tune in this morning at 9AM \u2b07\ufe0f https://t.co/Ut3KvBfIMb",
+    "geo": null,
+    "id": 1182620114958594048,
+    "id_str": "1182620114958594048",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Oct 10 02:30:24 +0000 2019",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              117,
+              131
+            ],
+            "text": "WarsawProcess"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/abhknNG2Pk",
+            "expanded_url": "https://twitter.com/StateDept/status/1182121169568358400/photo/1",
+            "id": 1182121165566943232,
+            "id_str": "1182121165566943232",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/media/EGe879sWoAActu2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EGe879sWoAActu2.jpg",
+            "sizes": {
+              "large": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/abhknNG2Pk"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "state.gov",
+            "expanded_url": "http://state.gov",
+            "indices": [
+              222,
+              245
+            ],
+            "url": "https://t.co/58Uc9lIgDz"
+          },
+          {
+            "display_url": "go.usa.gov/xVeEa",
+            "expanded_url": "https://go.usa.gov/xVeEa",
+            "indices": [
+              256,
+              279
+            ],
+            "url": "https://t.co/vFC34NpXBc"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 52544275,
+            "id_str": "52544275",
+            "indices": [
+              40,
+              52
+            ],
+            "name": "Ivanka Trump",
+            "screen_name": "IvankaTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/abhknNG2Pk",
+            "expanded_url": "https://twitter.com/StateDept/status/1182121169568358400/photo/1",
+            "id": 1182121165566943232,
+            "id_str": "1182121165566943232",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/media/EGe879sWoAActu2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EGe879sWoAActu2.jpg",
+            "sizes": {
+              "large": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/abhknNG2Pk"
+          }
+        ]
+      },
+      "favorite_count": 302,
+      "favorited": false,
+      "full_text": "On October 11, Advisor to the President @IvankaTrump and U.S. Special Representative for Iran Brian Hook address the #WarsawProcess Human Rights Working Group, which will focus on women, peace, and security. Watch live on https://t.co/58Uc9lIgDz. Details: https://t.co/vFC34NpXBc https://t.co/abhknNG2Pk",
+      "geo": null,
+      "id": 1182121169568358400,
+      "id_str": "1182121169568358400",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 140,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 23 15:02:45 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Welcome to the official U.S. Department of State Twitter account. Follow @SecPompeo for more from the Secretary of State.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "state.gov",
+                "expanded_url": "http://www.state.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/eFqP1DyLiJ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 26,
+        "follow_request_sent": false,
+        "followers_count": 5444745,
+        "following": false,
+        "friends_count": 458,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 9624742,
+        "id_str": "9624742",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21554,
+        "location": "Washington, DC",
+        "name": "Department of State",
+        "notifications": false,
+        "profile_background_color": "184266",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9624742/1564172518",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/822487400492339200/z7Oakire_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/822487400492339200/z7Oakire_normal.jpg",
+        "profile_link_color": "3975AD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DEDACB",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "StateDept",
+        "statuses_count": 61746,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/eFqP1DyLiJ",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1182121169568358400,
+    "quoted_status_id_str": "1182121169568358400",
+    "quoted_status_permalink": {
+      "display": "twitter.com/statedept/stat\u2026",
+      "expanded": "https://twitter.com/statedept/status/1182121169568358400",
+      "url": "https://t.co/Ut3KvBfIMb"
+    },
+    "retweet_count": 2864,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2105,
+      "follow_request_sent": false,
+      "followers_count": 7092766,
+      "following": false,
+      "friends_count": 1407,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 21513,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 15957,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65611493,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109762,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45125,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

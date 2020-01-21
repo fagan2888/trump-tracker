@@ -1,0 +1,558 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 17 18:33:34 +0000 2019",
+  "display_text_range": [
+    0,
+    69
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/83Gu07l2cP",
+        "expanded_url": "https://twitter.com/EricTrump/status/1195495979090432001/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 70,
+                "w": 70,
+                "x": 573,
+                "y": 754
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 67,
+                "w": 67,
+                "x": 553,
+                "y": 728
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 70,
+                "w": 70,
+                "x": 573,
+                "y": 754
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 38,
+                "w": 38,
+                "x": 313,
+                "y": 412
+              }
+            ]
+          }
+        },
+        "id": 1195495975252582400,
+        "id_str": "1195495975252582400",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/EJdBQWdW4AAKdOv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EJdBQWdW4AAKdOv.jpg",
+        "sizes": {
+          "large": {
+            "h": 1238,
+            "resize": "fit",
+            "w": 1242
+          },
+          "medium": {
+            "h": 1196,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 678,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1195495979090432001,
+        "source_status_id_str": "1195495979090432001",
+        "source_user_id": 39349894,
+        "source_user_id_str": "39349894",
+        "type": "photo",
+        "url": "https://t.co/83Gu07l2cP"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39349894,
+        "id_str": "39349894",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Eric Trump",
+        "screen_name": "EricTrump"
+      },
+      {
+        "id": 2314391886,
+        "id_str": "2314391886",
+        "indices": [
+          37,
+          45
+        ],
+        "name": "Trump Washington DC",
+        "screen_name": "TrumpDC"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/83Gu07l2cP",
+        "expanded_url": "https://twitter.com/EricTrump/status/1195495979090432001/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 70,
+                "w": 70,
+                "x": 573,
+                "y": 754
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 67,
+                "w": 67,
+                "x": 553,
+                "y": 728
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 70,
+                "w": 70,
+                "x": 573,
+                "y": 754
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 38,
+                "w": 38,
+                "x": 313,
+                "y": 412
+              }
+            ]
+          }
+        },
+        "id": 1195495975252582400,
+        "id_str": "1195495975252582400",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/EJdBQWdW4AAKdOv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EJdBQWdW4AAKdOv.jpg",
+        "sizes": {
+          "large": {
+            "h": 1238,
+            "resize": "fit",
+            "w": 1242
+          },
+          "medium": {
+            "h": 1196,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 678,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1195495979090432001,
+        "source_status_id_str": "1195495979090432001",
+        "source_user_id": 39349894,
+        "source_user_id_str": "39349894",
+        "type": "photo",
+        "url": "https://t.co/83Gu07l2cP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @EricTrump: Trump Washington D.C! @TrumpDC https://t.co/83Gu07l2cP",
+  "geo": null,
+  "id": 1196134298325266437,
+  "id_str": "1196134298325266437",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 6189,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 16 00:17:07 +0000 2019",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/83Gu07l2cP",
+          "expanded_url": "https://twitter.com/EricTrump/status/1195495979090432001/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 573,
+                  "y": 754
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 67,
+                  "w": 67,
+                  "x": 553,
+                  "y": 728
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 573,
+                  "y": 754
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 313,
+                  "y": 412
+                }
+              ]
+            }
+          },
+          "id": 1195495975252582400,
+          "id_str": "1195495975252582400",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJdBQWdW4AAKdOv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJdBQWdW4AAKdOv.jpg",
+          "sizes": {
+            "large": {
+              "h": 1238,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 1196,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 678,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/83Gu07l2cP"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2314391886,
+          "id_str": "2314391886",
+          "indices": [
+            22,
+            30
+          ],
+          "name": "Trump Washington DC",
+          "screen_name": "TrumpDC"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/83Gu07l2cP",
+          "expanded_url": "https://twitter.com/EricTrump/status/1195495979090432001/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 573,
+                  "y": 754
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 67,
+                  "w": 67,
+                  "x": 553,
+                  "y": 728
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 573,
+                  "y": 754
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 313,
+                  "y": 412
+                }
+              ]
+            }
+          },
+          "id": 1195495975252582400,
+          "id_str": "1195495975252582400",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJdBQWdW4AAKdOv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJdBQWdW4AAKdOv.jpg",
+          "sizes": {
+            "large": {
+              "h": 1238,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 1196,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 678,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/83Gu07l2cP"
+        }
+      ]
+    },
+    "favorite_count": 26884,
+    "favorited": false,
+    "full_text": "Trump Washington D.C! @TrumpDC https://t.co/83Gu07l2cP",
+    "geo": null,
+    "id": 1195495979090432001,
+    "id_str": "1195495979090432001",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6189,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:42:30 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Research Hospital. #MakeAmericaGreatAgain",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Trump.com",
+              "expanded_url": "http://www.Trump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uwwNiWyamR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10498,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 2848456,
+      "following": false,
+      "friends_count": 859,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 39349894,
+      "id_str": "39349894",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6539,
+      "location": "",
+      "name": "Eric Trump",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39349894/1516709628",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/974045997268529152/R0CuVYHM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/974045997268529152/R0CuVYHM_normal.jpg",
+      "profile_link_color": "116AB8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "616161",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "EricTrump",
+      "statuses_count": 5920,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uwwNiWyamR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66871838,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110763,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46249,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

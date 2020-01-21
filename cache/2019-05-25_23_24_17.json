@@ -1,0 +1,440 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 25 23:24:17 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          121,
+          134
+        ],
+        "text": "POTUSinJapan"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 821610912469647362,
+        "id_str": "821610912469647362",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "\u30d3\u30eb\u30fb\u30cf\u30ac\u30c6\u30a3\u7c73\u56fd\u5927\u4f7f",
+        "screen_name": "USAmbJapan"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          17,
+          23
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USAmbJapan: .@POTUS kicks off historic state visit by discussing ways to deepen economic ties with business leaders. #POTUSinJapan #All\u2026",
+  "geo": null,
+  "id": 1132427197346713609,
+  "id_str": "1132427197346713609",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "ja",
+  "place": null,
+  "retweet_count": 5105,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 25 12:27:03 +0000 2019",
+    "display_text_range": [
+      0,
+      201
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            105,
+            118
+          ],
+          "text": "POTUSinJapan"
+        },
+        {
+          "indices": [
+            119,
+            128
+          ],
+          "text": "Alliance"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1DI0u2DjTQ",
+          "expanded_url": "https://twitter.com/USAmbJapan/status/1132261798625701890/photo/1",
+          "id": 1132261600054849536,
+          "id_str": "1132261600054849536",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7aZ7SAVsAAbCFZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7aZ7SAVsAAbCFZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1DI0u2DjTQ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            1,
+            7
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            138,
+            144
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1DI0u2DjTQ",
+          "expanded_url": "https://twitter.com/USAmbJapan/status/1132261798625701890/photo/1",
+          "id": 1132261600054849536,
+          "id_str": "1132261600054849536",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7aZ7SAVsAAbCFZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7aZ7SAVsAAbCFZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1DI0u2DjTQ"
+        },
+        {
+          "display_url": "pic.twitter.com/1DI0u2DjTQ",
+          "expanded_url": "https://twitter.com/USAmbJapan/status/1132261798625701890/photo/1",
+          "id": 1132261643134443520,
+          "id_str": "1132261643134443520",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7aZ9yfUIAAGnm6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7aZ9yfUIAAGnm6.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1DI0u2DjTQ"
+        },
+        {
+          "display_url": "pic.twitter.com/1DI0u2DjTQ",
+          "expanded_url": "https://twitter.com/USAmbJapan/status/1132261798625701890/photo/1",
+          "id": 1132261691616518144,
+          "id_str": "1132261691616518144",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7aaAnGV4AA_F5T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7aaAnGV4AA_F5T.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1DI0u2DjTQ"
+        },
+        {
+          "display_url": "pic.twitter.com/1DI0u2DjTQ",
+          "expanded_url": "https://twitter.com/USAmbJapan/status/1132261798625701890/photo/1",
+          "id": 1132261711593873411,
+          "id_str": "1132261711593873411",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7aaBxhUIAM_epQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7aaBxhUIAM_epQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1285,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 753,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 427,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1DI0u2DjTQ"
+        }
+      ]
+    },
+    "favorite_count": 18673,
+    "favorited": false,
+    "full_text": ".@POTUS kicks off historic state visit by discussing ways to deepen economic ties with business leaders. #POTUSinJapan #Alliance \n\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818 @POTUS \u306e\u4eca\u56de\u306e\u6b74\u53f2\u7684\u306a\u65e5\u672c\u8a2a\u554f\u306f\u3001\u65e5\u672c\u306e\u30d3\u30b8\u30cd\u30b9\u30ea\u30fc\u30c0\u30fc\u3089\u3068\u7d4c\u6e08\u95a2\u4fc2\u306e\u5f37\u5316\u306b\u3064\u3044\u3066\u306e\u610f\u898b\u4ea4\u63db\u304b\u3089\u59cb\u307e\u308a\u307e\u3057\u305f\u3002\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf5 https://t.co/1DI0u2DjTQ",
+    "geo": null,
+    "id": 1132261798625701890,
+    "id_str": "1132261798625701890",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "ja",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5105,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 18 06:51:21 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "\u30d3\u30eb\u30fb\u30cf\u30ac\u30c6\u30a3\u99d0\u65e5\u7c73\u56fd\u5927\u4f7f\u306e\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf5\u30c4\u30a4\u30fc\u30c8\u306f\u65e5\u7c73\u95a2\u4fc2\u304b\u3089\u5bb6\u65cf\u3068\u306e\u65e5\u672c\u518d\u767a\u898b\u307e\u3067\u3002Official Account for the U.S. Ambassador to Japan Bill Hagerty",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jp.usembassy.gov",
+              "expanded_url": "https://jp.usembassy.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MlzCBqFcmm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 77,
+      "follow_request_sent": false,
+      "followers_count": 19101,
+      "following": false,
+      "friends_count": 44,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 821610912469647362,
+      "id_str": "821610912469647362",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 321,
+      "location": "Tokyo-to, Japan",
+      "name": "\u30d3\u30eb\u30fb\u30cf\u30ac\u30c6\u30a3\u7c73\u56fd\u5927\u4f7f",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/821610912469647362/1534924814",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024196959236546560/h2ck-97Y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024196959236546560/h2ck-97Y_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USAmbJapan",
+      "statuses_count": 600,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/MlzCBqFcmm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60562870,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103460,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42076,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

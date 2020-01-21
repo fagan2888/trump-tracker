@@ -1,0 +1,278 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 10 12:50:56 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 594911608,
+        "id_str": "594911608",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "NHC_Surge",
+        "screen_name": "NHC_Surge"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NHC_Surge: A destructive and life-threatening storm surge event will occur along portions of the Florida Panhandle, Big Bend, and Natur\u2026",
+  "geo": null,
+  "id": 1050005763152904193,
+  "id_str": "1050005763152904193",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3736,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 09 21:17:37 +0000 2018",
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Koao5p4GIk",
+          "expanded_url": "https://twitter.com/NHC_Surge/status/1049770886943924224/photo/1",
+          "id": 1049770755293106177,
+          "id_str": "1049770755293106177",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpGI8KTW0AEdRMR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpGI8KTW0AEdRMR.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Koao5p4GIk"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Koao5p4GIk",
+          "expanded_url": "https://twitter.com/NHC_Surge/status/1049770886943924224/photo/1",
+          "id": 1049770755293106177,
+          "id_str": "1049770755293106177",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpGI8KTW0AEdRMR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpGI8KTW0AEdRMR.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Koao5p4GIk"
+        }
+      ]
+    },
+    "favorite_count": 11509,
+    "favorited": false,
+    "full_text": "A destructive and life-threatening storm surge event will occur along portions of the Florida Panhandle, Big Bend, and Nature Coast on Wednesday and Wed night. The worst storm surge is expected to be between Mexico Beach and Keaton Beach where 9-13' of inundation is possible. https://t.co/Koao5p4GIk",
+    "geo": null,
+    "id": 1049770886943924224,
+    "id_str": "1049770886943924224",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3736,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed May 30 21:05:49 +0000 2012",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Twitter account for the Storm Surge Unit at the National Hurricane Center",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nhc.noaa.gov/ssurge/ssurge_\u2026",
+              "expanded_url": "http://www.nhc.noaa.gov/ssurge/ssurge_overview.shtml",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/iThijerqel"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1,
+      "follow_request_sent": false,
+      "followers_count": 105444,
+      "following": false,
+      "friends_count": 70,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 594911608,
+      "id_str": "594911608",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1814,
+      "location": "Miami, FL",
+      "name": "NHC_Surge",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/594911608/1430923662",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2264249835/surgeLogoBlue_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2264249835/surgeLogoBlue_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NHC_Surge",
+      "statuses_count": 678,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/iThijerqel",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55028490,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39236,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

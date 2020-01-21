@@ -1,0 +1,384 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 03 10:39:12 +0000 2019",
+  "display_text_range": [
+    0,
+    75
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/zYEtoCqD0m",
+        "expanded_url": "https://twitter.com/JosephStanley82/status/1179705159133417472/photo/1",
+        "id": 1179705152913252352,
+        "id_str": "1179705152913252352",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/EF8nlhMXoAAFuCF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EF8nlhMXoAAFuCF.jpg",
+        "sizes": {
+          "large": {
+            "h": 652,
+            "resize": "fit",
+            "w": 800
+          },
+          "medium": {
+            "h": 652,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 554,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1179705159133417472,
+        "source_status_id_str": "1179705159133417472",
+        "source_user_id": 2379182562,
+        "source_user_id_str": "2379182562",
+        "type": "photo",
+        "url": "https://t.co/zYEtoCqD0m"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2379182562,
+        "id_str": "2379182562",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Joseph Stanley",
+        "screen_name": "JosephStanley82"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/zYEtoCqD0m",
+        "expanded_url": "https://twitter.com/JosephStanley82/status/1179705159133417472/photo/1",
+        "id": 1179705152913252352,
+        "id_str": "1179705152913252352",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/EF8nlhMXoAAFuCF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EF8nlhMXoAAFuCF.jpg",
+        "sizes": {
+          "large": {
+            "h": 652,
+            "resize": "fit",
+            "w": 800
+          },
+          "medium": {
+            "h": 652,
+            "resize": "fit",
+            "w": 800
+          },
+          "small": {
+            "h": 554,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1179705159133417472,
+        "source_status_id_str": "1179705159133417472",
+        "source_user_id": 2379182562,
+        "source_user_id_str": "2379182562",
+        "type": "photo",
+        "url": "https://t.co/zYEtoCqD0m"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JosephStanley82: Biden to trump - \"I am creepy\" https://t.co/zYEtoCqD0m",
+  "geo": null,
+  "id": 1179707468076781568,
+  "id_str": "1179707468076781568",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 7152,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 03 10:30:02 +0000 2019",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zYEtoCqD0m",
+          "expanded_url": "https://twitter.com/JosephStanley82/status/1179705159133417472/photo/1",
+          "id": 1179705152913252352,
+          "id_str": "1179705152913252352",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/EF8nlhMXoAAFuCF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EF8nlhMXoAAFuCF.jpg",
+          "sizes": {
+            "large": {
+              "h": 652,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 652,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 554,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zYEtoCqD0m"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zYEtoCqD0m",
+          "expanded_url": "https://twitter.com/JosephStanley82/status/1179705159133417472/photo/1",
+          "id": 1179705152913252352,
+          "id_str": "1179705152913252352",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/EF8nlhMXoAAFuCF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EF8nlhMXoAAFuCF.jpg",
+          "sizes": {
+            "large": {
+              "h": 652,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 652,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 554,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zYEtoCqD0m"
+        }
+      ]
+    },
+    "favorite_count": 23956,
+    "favorited": false,
+    "full_text": "Biden to trump - \"I am creepy\" https://t.co/zYEtoCqD0m",
+    "geo": null,
+    "id": 1179705159133417472,
+    "id_str": "1179705159133417472",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -77.266126,
+              38.755163
+            ],
+            [
+              -77.202928,
+              38.755163
+            ],
+            [
+              -77.202928,
+              38.821463
+            ],
+            [
+              -77.266126,
+              38.821463
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "West Springfield, VA",
+      "id": "33ff2516301663e7",
+      "name": "West Springfield",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/33ff2516301663e7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 7152,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 08 19:15:11 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Conservative, Christian, Pro Growth Limited Government, Proud Deplorable",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1045,
+      "follow_request_sent": false,
+      "followers_count": 1980,
+      "following": false,
+      "friends_count": 2317,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2379182562,
+      "id_str": "2379182562",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 124,
+      "location": "Washington DC",
+      "name": "Joseph Stanley",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/442380227725914114/ggFybkzc_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/442380227725914114/ggFybkzc_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JosephStanley82",
+      "statuses_count": 72148,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65243129,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109347,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44852,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

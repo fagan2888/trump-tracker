@@ -1,0 +1,1566 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 17 13:27:05 +0000 2020",
+  "display_text_range": [
+    0,
+    135
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/16cZvVSZdw",
+        "expanded_url": "https://twitter.com/Mike_Pence/status/1217975916678148096/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 66,
+                "w": 66,
+                "x": 518,
+                "y": 408
+              },
+              {
+                "h": 198,
+                "w": 198,
+                "x": 148,
+                "y": 660
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 38,
+                "w": 38,
+                "x": 303,
+                "y": 239
+              },
+              {
+                "h": 116,
+                "w": 116,
+                "x": 86,
+                "y": 386
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 66,
+                "w": 66,
+                "x": 518,
+                "y": 408
+              },
+              {
+                "h": 198,
+                "w": 198,
+                "x": 148,
+                "y": 660
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 21,
+                "w": 21,
+                "x": 171,
+                "y": 135
+              },
+              {
+                "h": 65,
+                "w": 65,
+                "x": 49,
+                "y": 219
+              }
+            ]
+          }
+        },
+        "id": 1217975892745453569,
+        "id_str": "1217975892745453569",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/EOcenxAVAAElOGL.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EOcenxAVAAElOGL.jpg",
+        "sizes": {
+          "large": {
+            "h": 1152,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1217975916678148096,
+        "source_status_id_str": "1217975916678148096",
+        "source_user_id": 22203756,
+        "source_user_id_str": "22203756",
+        "type": "photo",
+        "url": "https://t.co/16cZvVSZdw"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22203756,
+        "id_str": "22203756",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Mike Pence",
+        "screen_name": "Mike_Pence"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          32,
+          48
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/16cZvVSZdw",
+        "expanded_url": "https://twitter.com/Mike_Pence/status/1217975916678148096/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 66,
+                "w": 66,
+                "x": 518,
+                "y": 408
+              },
+              {
+                "h": 198,
+                "w": 198,
+                "x": 148,
+                "y": 660
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 38,
+                "w": 38,
+                "x": 303,
+                "y": 239
+              },
+              {
+                "h": 116,
+                "w": 116,
+                "x": 86,
+                "y": 386
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 66,
+                "w": 66,
+                "x": 518,
+                "y": 408
+              },
+              {
+                "h": 198,
+                "w": 198,
+                "x": 148,
+                "y": 660
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 21,
+                "w": 21,
+                "x": 171,
+                "y": 135
+              },
+              {
+                "h": 65,
+                "w": 65,
+                "x": 49,
+                "y": 219
+              }
+            ]
+          }
+        },
+        "id": 1217975892745453569,
+        "id_str": "1217975892745453569",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/EOcenxAVAAElOGL.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EOcenxAVAAElOGL.jpg",
+        "sizes": {
+          "large": {
+            "h": 1152,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1217975916678148096,
+        "source_status_id_str": "1217975916678148096",
+        "source_user_id": 22203756,
+        "source_user_id_str": "22203756",
+        "type": "photo",
+        "url": "https://t.co/16cZvVSZdw"
+      },
+      {
+        "display_url": "pic.twitter.com/16cZvVSZdw",
+        "expanded_url": "https://twitter.com/Mike_Pence/status/1217975916678148096/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 112,
+                "w": 112,
+                "x": 1056,
+                "y": 358
+              },
+              {
+                "h": 126,
+                "w": 126,
+                "x": 480,
+                "y": 200
+              },
+              {
+                "h": 132,
+                "w": 132,
+                "x": 1154,
+                "y": 352
+              },
+              {
+                "h": 178,
+                "w": 178,
+                "x": 1852,
+                "y": 244
+              },
+              {
+                "h": 204,
+                "w": 204,
+                "x": 516,
+                "y": 306
+              },
+              {
+                "h": 210,
+                "w": 210,
+                "x": 830,
+                "y": 178
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 65,
+                "w": 65,
+                "x": 618,
+                "y": 209
+              },
+              {
+                "h": 73,
+                "w": 73,
+                "x": 281,
+                "y": 117
+              },
+              {
+                "h": 77,
+                "w": 77,
+                "x": 676,
+                "y": 206
+              },
+              {
+                "h": 104,
+                "w": 104,
+                "x": 1085,
+                "y": 142
+              },
+              {
+                "h": 119,
+                "w": 119,
+                "x": 302,
+                "y": 179
+              },
+              {
+                "h": 123,
+                "w": 123,
+                "x": 486,
+                "y": 104
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 112,
+                "w": 112,
+                "x": 1056,
+                "y": 358
+              },
+              {
+                "h": 126,
+                "w": 126,
+                "x": 480,
+                "y": 200
+              },
+              {
+                "h": 132,
+                "w": 132,
+                "x": 1154,
+                "y": 352
+              },
+              {
+                "h": 178,
+                "w": 178,
+                "x": 1852,
+                "y": 244
+              },
+              {
+                "h": 204,
+                "w": 204,
+                "x": 516,
+                "y": 306
+              },
+              {
+                "h": 210,
+                "w": 210,
+                "x": 830,
+                "y": 178
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 350,
+                "y": 118
+              },
+              {
+                "h": 41,
+                "w": 41,
+                "x": 159,
+                "y": 66
+              },
+              {
+                "h": 43,
+                "w": 43,
+                "x": 383,
+                "y": 116
+              },
+              {
+                "h": 59,
+                "w": 59,
+                "x": 614,
+                "y": 81
+              },
+              {
+                "h": 67,
+                "w": 67,
+                "x": 171,
+                "y": 101
+              },
+              {
+                "h": 69,
+                "w": 69,
+                "x": 275,
+                "y": 59
+              }
+            ]
+          }
+        },
+        "id": 1217975892745474049,
+        "id_str": "1217975892745474049",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/EOcenxAVUAEngaS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EOcenxAVUAEngaS.jpg",
+        "sizes": {
+          "large": {
+            "h": 1152,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1217975916678148096,
+        "source_status_id_str": "1217975916678148096",
+        "source_user_id": 22203756,
+        "source_user_id_str": "22203756",
+        "type": "photo",
+        "url": "https://t.co/16cZvVSZdw"
+      },
+      {
+        "display_url": "pic.twitter.com/16cZvVSZdw",
+        "expanded_url": "https://twitter.com/Mike_Pence/status/1217975916678148096/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 82,
+                "w": 82,
+                "x": 538,
+                "y": 380
+              },
+              {
+                "h": 76,
+                "w": 76,
+                "x": 1752,
+                "y": 604
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 48,
+                "w": 48,
+                "x": 315,
+                "y": 222
+              },
+              {
+                "h": 44,
+                "w": 44,
+                "x": 1026,
+                "y": 353
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 82,
+                "w": 82,
+                "x": 538,
+                "y": 380
+              },
+              {
+                "h": 76,
+                "w": 76,
+                "x": 1752,
+                "y": 604
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 27,
+                "w": 27,
+                "x": 178,
+                "y": 126
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 581,
+                "y": 200
+              }
+            ]
+          }
+        },
+        "id": 1217975892741242880,
+        "id_str": "1217975892741242880",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/EOcenw_UwAAWkqu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EOcenw_UwAAWkqu.jpg",
+        "sizes": {
+          "large": {
+            "h": 1152,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1217975916678148096,
+        "source_status_id_str": "1217975916678148096",
+        "source_user_id": 22203756,
+        "source_user_id_str": "22203756",
+        "type": "photo",
+        "url": "https://t.co/16cZvVSZdw"
+      },
+      {
+        "display_url": "pic.twitter.com/16cZvVSZdw",
+        "expanded_url": "https://twitter.com/Mike_Pence/status/1217975916678148096/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 96,
+                "w": 96,
+                "x": 990,
+                "y": 566
+              },
+              {
+                "h": 128,
+                "w": 128,
+                "x": 774,
+                "y": 432
+              },
+              {
+                "h": 120,
+                "w": 120,
+                "x": 1468,
+                "y": 412
+              },
+              {
+                "h": 158,
+                "w": 158,
+                "x": 1554,
+                "y": 404
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 580,
+                "y": 331
+              },
+              {
+                "h": 75,
+                "w": 75,
+                "x": 453,
+                "y": 253
+              },
+              {
+                "h": 70,
+                "w": 70,
+                "x": 860,
+                "y": 241
+              },
+              {
+                "h": 92,
+                "w": 92,
+                "x": 910,
+                "y": 236
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 96,
+                "w": 96,
+                "x": 990,
+                "y": 566
+              },
+              {
+                "h": 128,
+                "w": 128,
+                "x": 774,
+                "y": 432
+              },
+              {
+                "h": 120,
+                "w": 120,
+                "x": 1468,
+                "y": 412
+              },
+              {
+                "h": 158,
+                "w": 158,
+                "x": 1554,
+                "y": 404
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 31,
+                "w": 31,
+                "x": 328,
+                "y": 187
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 256,
+                "y": 143
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 487,
+                "y": 136
+              },
+              {
+                "h": 52,
+                "w": 52,
+                "x": 515,
+                "y": 134
+              }
+            ]
+          }
+        },
+        "id": 1217975892753842176,
+        "id_str": "1217975892753842176",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/EOcenxCVAAA6zG4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EOcenxCVAAA6zG4.jpg",
+        "sizes": {
+          "large": {
+            "h": 1152,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1217975916678148096,
+        "source_status_id_str": "1217975916678148096",
+        "source_user_id": 22203756,
+        "source_user_id_str": "22203756",
+        "type": "photo",
+        "url": "https://t.co/16cZvVSZdw"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Mike_Pence: Under President @realDonaldTrump\u2019s leadership, the Hispanic unemployment rate hit a record LOW! https://t.co/16cZvVSZdw",
+  "geo": null,
+  "id": 1218162830282756096,
+  "id_str": "1218162830282756096",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 6505,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 17 01:04:22 +0000 2020",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/16cZvVSZdw",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1217975916678148096/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 518,
+                  "y": 408
+                },
+                {
+                  "h": 198,
+                  "w": 198,
+                  "x": 148,
+                  "y": 660
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 303,
+                  "y": 239
+                },
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 86,
+                  "y": 386
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 518,
+                  "y": 408
+                },
+                {
+                  "h": 198,
+                  "w": 198,
+                  "x": 148,
+                  "y": 660
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 21,
+                  "w": 21,
+                  "x": 171,
+                  "y": 135
+                },
+                {
+                  "h": 65,
+                  "w": 65,
+                  "x": 49,
+                  "y": 219
+                }
+              ]
+            }
+          },
+          "id": 1217975892745453569,
+          "id_str": "1217975892745453569",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOcenxAVAAElOGL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOcenxAVAAElOGL.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/16cZvVSZdw"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            16,
+            32
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/16cZvVSZdw",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1217975916678148096/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 518,
+                  "y": 408
+                },
+                {
+                  "h": 198,
+                  "w": 198,
+                  "x": 148,
+                  "y": 660
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 303,
+                  "y": 239
+                },
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 86,
+                  "y": 386
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 518,
+                  "y": 408
+                },
+                {
+                  "h": 198,
+                  "w": 198,
+                  "x": 148,
+                  "y": 660
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 21,
+                  "w": 21,
+                  "x": 171,
+                  "y": 135
+                },
+                {
+                  "h": 65,
+                  "w": 65,
+                  "x": 49,
+                  "y": 219
+                }
+              ]
+            }
+          },
+          "id": 1217975892745453569,
+          "id_str": "1217975892745453569",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOcenxAVAAElOGL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOcenxAVAAElOGL.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/16cZvVSZdw"
+        },
+        {
+          "display_url": "pic.twitter.com/16cZvVSZdw",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1217975916678148096/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 1056,
+                  "y": 358
+                },
+                {
+                  "h": 126,
+                  "w": 126,
+                  "x": 480,
+                  "y": 200
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 1154,
+                  "y": 352
+                },
+                {
+                  "h": 178,
+                  "w": 178,
+                  "x": 1852,
+                  "y": 244
+                },
+                {
+                  "h": 204,
+                  "w": 204,
+                  "x": 516,
+                  "y": 306
+                },
+                {
+                  "h": 210,
+                  "w": 210,
+                  "x": 830,
+                  "y": 178
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 65,
+                  "w": 65,
+                  "x": 618,
+                  "y": 209
+                },
+                {
+                  "h": 73,
+                  "w": 73,
+                  "x": 281,
+                  "y": 117
+                },
+                {
+                  "h": 77,
+                  "w": 77,
+                  "x": 676,
+                  "y": 206
+                },
+                {
+                  "h": 104,
+                  "w": 104,
+                  "x": 1085,
+                  "y": 142
+                },
+                {
+                  "h": 119,
+                  "w": 119,
+                  "x": 302,
+                  "y": 179
+                },
+                {
+                  "h": 123,
+                  "w": 123,
+                  "x": 486,
+                  "y": 104
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 1056,
+                  "y": 358
+                },
+                {
+                  "h": 126,
+                  "w": 126,
+                  "x": 480,
+                  "y": 200
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 1154,
+                  "y": 352
+                },
+                {
+                  "h": 178,
+                  "w": 178,
+                  "x": 1852,
+                  "y": 244
+                },
+                {
+                  "h": 204,
+                  "w": 204,
+                  "x": 516,
+                  "y": 306
+                },
+                {
+                  "h": 210,
+                  "w": 210,
+                  "x": 830,
+                  "y": 178
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 350,
+                  "y": 118
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 159,
+                  "y": 66
+                },
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 383,
+                  "y": 116
+                },
+                {
+                  "h": 59,
+                  "w": 59,
+                  "x": 614,
+                  "y": 81
+                },
+                {
+                  "h": 67,
+                  "w": 67,
+                  "x": 171,
+                  "y": 101
+                },
+                {
+                  "h": 69,
+                  "w": 69,
+                  "x": 275,
+                  "y": 59
+                }
+              ]
+            }
+          },
+          "id": 1217975892745474049,
+          "id_str": "1217975892745474049",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOcenxAVUAEngaS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOcenxAVUAEngaS.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/16cZvVSZdw"
+        },
+        {
+          "display_url": "pic.twitter.com/16cZvVSZdw",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1217975916678148096/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 538,
+                  "y": 380
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 1752,
+                  "y": 604
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 48,
+                  "w": 48,
+                  "x": 315,
+                  "y": 222
+                },
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 1026,
+                  "y": 353
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 538,
+                  "y": 380
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 1752,
+                  "y": 604
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 27,
+                  "w": 27,
+                  "x": 178,
+                  "y": 126
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 581,
+                  "y": 200
+                }
+              ]
+            }
+          },
+          "id": 1217975892741242880,
+          "id_str": "1217975892741242880",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOcenw_UwAAWkqu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOcenw_UwAAWkqu.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/16cZvVSZdw"
+        },
+        {
+          "display_url": "pic.twitter.com/16cZvVSZdw",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1217975916678148096/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 96,
+                  "w": 96,
+                  "x": 990,
+                  "y": 566
+                },
+                {
+                  "h": 128,
+                  "w": 128,
+                  "x": 774,
+                  "y": 432
+                },
+                {
+                  "h": 120,
+                  "w": 120,
+                  "x": 1468,
+                  "y": 412
+                },
+                {
+                  "h": 158,
+                  "w": 158,
+                  "x": 1554,
+                  "y": 404
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 56,
+                  "w": 56,
+                  "x": 580,
+                  "y": 331
+                },
+                {
+                  "h": 75,
+                  "w": 75,
+                  "x": 453,
+                  "y": 253
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 860,
+                  "y": 241
+                },
+                {
+                  "h": 92,
+                  "w": 92,
+                  "x": 910,
+                  "y": 236
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 96,
+                  "w": 96,
+                  "x": 990,
+                  "y": 566
+                },
+                {
+                  "h": 128,
+                  "w": 128,
+                  "x": 774,
+                  "y": 432
+                },
+                {
+                  "h": 120,
+                  "w": 120,
+                  "x": 1468,
+                  "y": 412
+                },
+                {
+                  "h": 158,
+                  "w": 158,
+                  "x": 1554,
+                  "y": 404
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 31,
+                  "w": 31,
+                  "x": 328,
+                  "y": 187
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 256,
+                  "y": 143
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 487,
+                  "y": 136
+                },
+                {
+                  "h": 52,
+                  "w": 52,
+                  "x": 515,
+                  "y": 134
+                }
+              ]
+            }
+          },
+          "id": 1217975892753842176,
+          "id_str": "1217975892753842176",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOcenxCVAAA6zG4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOcenxCVAAA6zG4.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/16cZvVSZdw"
+        }
+      ]
+    },
+    "favorite_count": 25588,
+    "favorited": false,
+    "full_text": "Under President @realDonaldTrump\u2019s leadership, the Hispanic unemployment rate hit a record LOW! https://t.co/16cZvVSZdw",
+    "geo": null,
+    "id": 1217975916678148096,
+    "id_str": "1217975916678148096",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6505,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 27 23:04:51 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Vice President of the United States",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hy4Wdz"
+            }
+          ]
+        }
+      },
+      "favourites_count": 716,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 4120985,
+      "following": false,
+      "friends_count": 30,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 22203756,
+      "id_str": "22203756",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8699,
+      "location": "",
+      "name": "Mike Pence",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22203756/1576029048",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D6D6D6",
+      "profile_text_color": "002248",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Mike_Pence",
+      "statuses_count": 7103,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hy4Wdz",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71146089,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113466,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47937,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

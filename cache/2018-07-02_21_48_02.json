@@ -1,0 +1,215 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 02 21:48:02 +0000 2018",
+  "display_text_range": [
+    0,
+    105
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Zn6ZLM0tzy",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1013902140409040897/video/1",
+        "id": 1013901834556076032,
+        "id_str": "1013901834556076032",
+        "indices": [
+          106,
+          129
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1013901834556076032/pu/img/Ow1J0fxpvlpc1rIe.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1013901834556076032/pu/img/Ow1J0fxpvlpc1rIe.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Zn6ZLM0tzy"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "indices": [
+          93,
+          104
+        ],
+        "name": "The White House",
+        "screen_name": "WhiteHouse"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/Zn6ZLM0tzy",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1013902140409040897/video/1",
+        "id": 1013901834556076032,
+        "id_str": "1013901834556076032",
+        "indices": [
+          106,
+          129
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1013901834556076032/pu/img/Ow1J0fxpvlpc1rIe.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1013901834556076032/pu/img/Ow1J0fxpvlpc1rIe.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/Zn6ZLM0tzy",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 19208,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1013901834556076032/pu/pl/WNKxi2yexMSZBT7l.m3u8?tag=3"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1013901834556076032/pu/vid/1280x720/ZtE2-mbKwPgM5vhU.mp4?tag=3"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1013901834556076032/pu/vid/640x360/YCG5_wPWf9zIu5Iw.mp4?tag=3"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1013901834556076032/pu/vid/320x180/kmBmyWUyPdQs8jO9.mp4?tag=3"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 68348,
+  "favorited": false,
+  "full_text": "Today, it was my great honor to welcome Prime Minister Mark Rutte of the Netherlands, to the @WhiteHouse! https://t.co/Zn6ZLM0tzy",
+  "geo": null,
+  "id": 1013902140409040897,
+  "id_str": "1013902140409040897",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 12259,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 53070847,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 90402,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1530156698",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38175,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

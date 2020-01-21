@@ -1,0 +1,388 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 11 23:55:42 +0000 2019",
+  "display_text_range": [
+    0,
+    189
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/lagop/status/1\u2026",
+        "expanded_url": "https://twitter.com/lagop/status/1182788342783598602",
+        "indices": [
+          190,
+          213
+        ],
+        "url": "https://t.co/V1rVXEEuso"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 19539739,
+        "id_str": "19539739",
+        "indices": [
+          183,
+          189
+        ],
+        "name": "LAGOP",
+        "screen_name": "LAGOP"
+      }
+    ]
+  },
+  "favorite_count": 34750,
+  "favorited": false,
+  "full_text": "Just landed in Louisiana! Vote against John Bel Edwards, he has the worst jobs record in the United States. Louisiana will do much better by electing a REPUBLICAN. See everyone soon! @LAGOP https://t.co/V1rVXEEuso",
+  "geo": null,
+  "id": 1182807013719531522,
+  "id_str": "1182807013719531522",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 11 22:41:30 +0000 2019",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            64,
+            79
+          ],
+          "text": "StopTheMadness"
+        },
+        {
+          "indices": [
+            80,
+            90
+          ],
+          "text": "GeauxVote"
+        },
+        {
+          "indices": [
+            91,
+            99
+          ],
+          "text": "FireJBE"
+        },
+        {
+          "indices": [
+            100,
+            110
+          ],
+          "text": "TeamTrump"
+        },
+        {
+          "indices": [
+            111,
+            115
+          ],
+          "text": "KAG"
+        },
+        {
+          "indices": [
+            116,
+            121
+          ],
+          "text": "MAGA"
+        },
+        {
+          "indices": [
+            122,
+            132
+          ],
+          "text": "LeadRight"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/mTCrayDRkG",
+          "expanded_url": "https://twitter.com/LAGOP/status/1182788342783598602/video/1",
+          "id": 1182788210352689152,
+          "id_str": "1182788210352689152",
+          "indices": [
+            133,
+            156
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182788210352689152/pu/img/otaz7lotL_XF8T3i.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182788210352689152/pu/img/otaz7lotL_XF8T3i.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mTCrayDRkG"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            43,
+            59
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/mTCrayDRkG",
+          "expanded_url": "https://twitter.com/LAGOP/status/1182788342783598602/video/1",
+          "id": 1182788210352689152,
+          "id_str": "1182788210352689152",
+          "indices": [
+            133,
+            156
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182788210352689152/pu/img/otaz7lotL_XF8T3i.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182788210352689152/pu/img/otaz7lotL_XF8T3i.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/mTCrayDRkG",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 8163,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1182788210352689152/pu/pl/9wNf8GM6S7AbOZPW.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1182788210352689152/pu/vid/480x270/zIK04awcYTuI3BqQ.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1182788210352689152/pu/vid/640x360/PskfURZcCAHyLU2C.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1182788210352689152/pu/vid/1280x720/Nx-jhmKV8-9bv1OU.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5473,
+    "favorited": false,
+    "full_text": "Getting warmed up here in Lake Charles for @realDonaldTrump...\n\n#StopTheMadness #GeauxVote #FireJBE #TeamTrump #KAG #MAGA #LeadRight https://t.co/mTCrayDRkG",
+    "geo": null,
+    "id": 1182788342783598602,
+    "id_str": "1182788342783598602",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2149,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 26 15:39:50 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Tweeter Machine of the Republican Party of Louisiana.\n\n#LAgov #LAlege #VoteRight #FireJBE",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lagop.com",
+              "expanded_url": "http://lagop.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RuqDJMJBf6"
+            }
+          ]
+        }
+      },
+      "favourites_count": 573,
+      "follow_request_sent": false,
+      "followers_count": 8676,
+      "following": false,
+      "friends_count": 2817,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 19539739,
+      "id_str": "19539739",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 242,
+      "location": "Baton Rouge, LA",
+      "name": "LAGOP",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19539739/1522345758",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/978773138447020032/on2vlKUS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/978773138447020032/on2vlKUS_normal.jpg",
+      "profile_link_color": "6C6F70",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EDEDED",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LAGOP",
+      "statuses_count": 6374,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/RuqDJMJBf6",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1182788342783598602,
+  "quoted_status_id_str": "1182788342783598602",
+  "quoted_status_permalink": {
+    "display": "twitter.com/lagop/status/1\u2026",
+    "expanded": "https://twitter.com/lagop/status/1182788342783598602",
+    "url": "https://t.co/V1rVXEEuso"
+  },
+  "retweet_count": 10327,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65611493,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109762,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45125,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

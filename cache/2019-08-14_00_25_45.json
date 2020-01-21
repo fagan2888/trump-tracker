@@ -1,0 +1,378 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Aug 14 00:25:45 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ronna McDaniel",
+        "screen_name": "GOPChairwoman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPChairwoman: If 2020 Democrats like Biden have their way, they\u2019d eliminate ALL fossil fuels.\n\nThey want to kill millions of American\u2026",
+  "geo": null,
+  "id": 1161433693254279168,
+  "id_str": "1161433693254279168",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5646,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 13 14:36:30 +0000 2019",
+    "display_text_range": [
+      0,
+      228
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/XIvRYoRIpf",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1156745793350643713/video/1",
+          "id": 1156745750891651073,
+          "id_str": "1156745750891651073",
+          "indices": [
+            205,
+            228
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156745750891651073/pu/img/CIXTHzFlRHVlPPE-.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156745750891651073/pu/img/CIXTHzFlRHVlPPE-.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1156745793350643713,
+          "source_status_id_str": "1156745793350643713",
+          "source_user_id": 1108472017144201216,
+          "source_user_id_str": "1108472017144201216",
+          "type": "photo",
+          "url": "https://t.co/XIvRYoRIpf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "donaldjtrump.com",
+                      "expanded_url": "https://www.donaldjtrump.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/mVHOxzYUNT"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 11,
+              "follow_request_sent": false,
+              "followers_count": 259278,
+              "following": false,
+              "friends_count": 111,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 1108472017144201216,
+              "id_str": "1108472017144201216",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1023,
+              "location": "MAGA Country",
+              "name": "Trump War Room",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1553284832",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+              "profile_link_color": "ABB8C2",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "TrumpWarRoom",
+              "statuses_count": 2084,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/mVHOxzYUNT",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/XIvRYoRIpf",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1156745793350643713/video/1",
+          "id": 1156745750891651073,
+          "id_str": "1156745750891651073",
+          "indices": [
+            205,
+            228
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156745750891651073/pu/img/CIXTHzFlRHVlPPE-.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156745750891651073/pu/img/CIXTHzFlRHVlPPE-.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1156745793350643713,
+          "source_status_id_str": "1156745793350643713",
+          "source_user_id": 1108472017144201216,
+          "source_user_id_str": "1108472017144201216",
+          "type": "video",
+          "url": "https://t.co/XIvRYoRIpf",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 34034,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1156745750891651073/pu/vid/640x360/GLH6UxgJ7npqqH5a.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1156745750891651073/pu/vid/480x270/8b7UrQYaQNs6_WUZ.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1156745750891651073/pu/vid/1280x720/S_Thtu6Fm7aEq_hZ.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1156745750891651073/pu/pl/iF7GXhcexCn_G3iW.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16200,
+    "favorited": false,
+    "full_text": "If 2020 Democrats like Biden have their way, they\u2019d eliminate ALL fossil fuels.\n\nThey want to kill millions of American jobs and enact a socialist $93 TRILLION \u201cGreen New Deal.\u201d\n\nWe can\u2019t let that happen.\nhttps://t.co/XIvRYoRIpf",
+    "geo": null,
+    "id": 1161285402042470400,
+    "id_str": "1161285402042470400",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5646,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5848,
+      "follow_request_sent": false,
+      "followers_count": 328642,
+      "following": false,
+      "friends_count": 2615,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2040,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1094021853272784896/kyyA04f8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094021853272784896/kyyA04f8_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 11270,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63069807,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106815,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43473,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

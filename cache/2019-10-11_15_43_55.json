@@ -1,0 +1,431 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 11 15:43:55 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20709978,
+        "id_str": "20709978",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "KRCG 13",
+        "screen_name": "KRCG13"
+      },
+      {
+        "id": 21269970,
+        "id_str": "21269970",
+        "indices": [
+          61,
+          70
+        ],
+        "name": "Senator Roy Blunt",
+        "screen_name": "RoyBlunt"
+      },
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          93,
+          105
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      },
+      {
+        "id": 44783853,
+        "id_str": "44783853",
+        "indices": [
+          108,
+          115
+        ],
+        "name": "HHS.gov",
+        "screen_name": "HHSGov"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KRCG13: In Kansas City today, Gov. Mike Parson, U.S. Sen @RoyBlunt, presidential advisor @IvankaTrump,  @HHSGov Secretary Alex Azar and\u2026",
+  "geo": null,
+  "id": 1182683255511945216,
+  "id_str": "1182683255511945216",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3122,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 10 20:58:03 +0000 2019",
+    "display_text_range": [
+      0,
+      259
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/J2HmAXzzuw",
+          "expanded_url": "https://twitter.com/KRCG13/status/1182399920369799188/photo/1",
+          "id": 1182399916171300870,
+          "id_str": "1182399916171300870",
+          "indices": [
+            260,
+            283
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGi6dYnXkAYnzky.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGi6dYnXkAYnzky.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/J2HmAXzzuw"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 21269970,
+          "id_str": "21269970",
+          "indices": [
+            49,
+            58
+          ],
+          "name": "Senator Roy Blunt",
+          "screen_name": "RoyBlunt"
+        },
+        {
+          "id": 52544275,
+          "id_str": "52544275",
+          "indices": [
+            81,
+            93
+          ],
+          "name": "Ivanka Trump",
+          "screen_name": "IvankaTrump"
+        },
+        {
+          "id": 44783853,
+          "id_str": "44783853",
+          "indices": [
+            96,
+            103
+          ],
+          "name": "HHS.gov",
+          "screen_name": "HHSGov"
+        },
+        {
+          "id": 1337539945,
+          "id_str": "1337539945",
+          "indices": [
+            128,
+            135
+          ],
+          "name": "ACF",
+          "screen_name": "ACFHHS"
+        },
+        {
+          "id": 1003672320781807616,
+          "id_str": "1003672320781807616",
+          "indices": [
+            247,
+            259
+          ],
+          "name": "Governor Mike Parson",
+          "screen_name": "GovParsonMO"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/J2HmAXzzuw",
+          "expanded_url": "https://twitter.com/KRCG13/status/1182399920369799188/photo/1",
+          "id": 1182399916171300870,
+          "id_str": "1182399916171300870",
+          "indices": [
+            260,
+            283
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGi6dYnXkAYnzky.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGi6dYnXkAYnzky.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/J2HmAXzzuw"
+        },
+        {
+          "display_url": "pic.twitter.com/J2HmAXzzuw",
+          "expanded_url": "https://twitter.com/KRCG13/status/1182399920369799188/photo/1",
+          "id": 1182399916162912268,
+          "id_str": "1182399916162912268",
+          "indices": [
+            260,
+            283
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGi6dYlXkAwV7fo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGi6dYlXkAwV7fo.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/J2HmAXzzuw"
+        },
+        {
+          "display_url": "pic.twitter.com/J2HmAXzzuw",
+          "expanded_url": "https://twitter.com/KRCG13/status/1182399920369799188/photo/1",
+          "id": 1182399916158717956,
+          "id_str": "1182399916158717956",
+          "indices": [
+            260,
+            283
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGi6dYkXkAQwxAW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGi6dYkXkAQwxAW.jpg",
+          "sizes": {
+            "large": {
+              "h": 758,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 758,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 537,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/J2HmAXzzuw"
+        }
+      ]
+    },
+    "favorite_count": 10777,
+    "favorited": false,
+    "full_text": "In Kansas City today, Gov. Mike Parson, U.S. Sen @RoyBlunt, presidential advisor @IvankaTrump,  @HHSGov Secretary Alex Azar and @ACFHHS Assistant Secretary Lynn Johnson held a discussion on improving access to child care for working families.\n\n\ud83d\udcf7: @GovParsonMO https://t.co/J2HmAXzzuw",
+    "geo": null,
+    "id": 1182399920369799188,
+    "id_str": "1182399920369799188",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3122,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 12 19:46:23 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mid-Missouri's News Leader. #LiveonKRCG13",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "krcgtv.com",
+              "expanded_url": "http://www.krcgtv.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ldj7xknmCH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 691,
+      "follow_request_sent": false,
+      "followers_count": 32637,
+      "following": false,
+      "friends_count": 2538,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 20709978,
+      "id_str": "20709978",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 499,
+      "location": "Columbia/Jefferson City, MO",
+      "name": "KRCG 13",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709978/1538429742",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/729788220943138816/KyWtNdZy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/729788220943138816/KyWtNdZy_normal.jpg",
+      "profile_link_color": "000033",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "999999",
+      "profile_text_color": "0000CC",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KRCG13",
+      "statuses_count": 65286,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/ldj7xknmCH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65611493,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109762,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45125,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

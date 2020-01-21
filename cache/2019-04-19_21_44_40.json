@@ -1,0 +1,373 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 19 21:44:40 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818948638890217473,
+        "id_str": "818948638890217473",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Rep. Matt Gaetz",
+        "screen_name": "RepMattGaetz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepMattGaetz: \u201cYou have guys that come through here that do this for a living\u2026they bring groups across, they bring drugs across.\u201d\n\nSher\u2026",
+  "geo": null,
+  "id": 1119356164343500801,
+  "id_str": "1119356164343500801",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8914,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 18 22:00:43 +0000 2019",
+    "display_text_range": [
+      0,
+      267
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PYMEDbenlS",
+          "expanded_url": "https://twitter.com/RepMattGaetz/status/1118997812333568001/video/1",
+          "id": 1118995550110568448,
+          "id_str": "1118995550110568448",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118995550110568448/pu/img/GRBrSHKoELJ0JjOE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118995550110568448/pu/img/GRBrSHKoELJ0JjOE.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PYMEDbenlS"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 299846995,
+          "id_str": "299846995",
+          "indices": [
+            140,
+            149
+          ],
+          "name": "Pinal County Sheriff\u2019s Office",
+          "screen_name": "PinalCSO"
+        },
+        {
+          "id": 816652616625168388,
+          "id_str": "816652616625168388",
+          "indices": [
+            238,
+            253
+          ],
+          "name": "Rep Andy Biggs",
+          "screen_name": "RepAndyBiggsAZ"
+        },
+        {
+          "id": 4102541472,
+          "id_str": "4102541472",
+          "indices": [
+            254,
+            267
+          ],
+          "name": "Mark Lamb",
+          "screen_name": "sherifflamb1"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/PYMEDbenlS",
+          "expanded_url": "https://twitter.com/RepMattGaetz/status/1118997812333568001/video/1",
+          "id": 1118995550110568448,
+          "id_str": "1118995550110568448",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118995550110568448/pu/img/GRBrSHKoELJ0JjOE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118995550110568448/pu/img/GRBrSHKoELJ0JjOE.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/PYMEDbenlS",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 129563,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1118995550110568448/pu/pl/_Ltd91jBq8V7z1P3.m3u8?tag=8"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1118995550110568448/pu/vid/1280x720/rLZs_6CGdvvoC7Ig.mp4?tag=8"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1118995550110568448/pu/vid/320x180/bqtJFoMhZHyKZ1uX.mp4?tag=8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1118995550110568448/pu/vid/640x360/_Fnk0hIfvlka-B4T.mp4?tag=8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 23561,
+    "favorited": false,
+    "full_text": "\u201cYou have guys that come through here that do this for a living\u2026they bring groups across, they bring drugs across.\u201d\n\nSheriff Mark Lamb from @PinalCSO showed us today how illegal immigrants and smugglers travel through the Arizona desert. @RepAndyBiggsAZ @sherifflamb1 https://t.co/PYMEDbenlS",
+    "geo": null,
+    "id": 1118997812333568001,
+    "id_str": "1118997812333568001",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -110.768802,
+              33.376086
+            ],
+            [
+              -110.744674,
+              33.376086
+            ],
+            [
+              -110.744674,
+              33.385944
+            ],
+            [
+              -110.768802,
+              33.385944
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Pinal, AZ",
+      "id": "00bea53976db7314",
+      "name": "Pinal",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/00bea53976db7314.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 8914,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Gaetz.house.gov",
+              "expanded_url": "http://Gaetz.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GcjK1dZCtR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 439,
+      "follow_request_sent": false,
+      "followers_count": 242715,
+      "following": false,
+      "friends_count": 847,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 818948638890217473,
+      "id_str": "818948638890217473",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1297,
+      "location": "",
+      "name": "Rep. Matt Gaetz",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1546465602",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+      "profile_link_color": "BB1A2A",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RepMattGaetz",
+      "statuses_count": 3223,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/GcjK1dZCtR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 59797196,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102027,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41315,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

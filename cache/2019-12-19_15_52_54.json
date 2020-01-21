@@ -1,0 +1,342 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 15:52:54 +0000 2019",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/rohll5/status/\u2026",
+        "expanded_url": "https://twitter.com/rohll5/status/1207640058276265984",
+        "indices": [
+          16,
+          39
+        ],
+        "url": "https://t.co/HcFHB61cPD"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 64144,
+  "favorited": false,
+  "full_text": "Thank you Rena! https://t.co/HcFHB61cPD",
+  "geo": null,
+  "id": 1207690276673900544,
+  "id_str": "1207690276673900544",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 19 12:33:21 +0000 2019",
+    "display_text_range": [
+      0,
+      255
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            209,
+            225
+          ],
+          "text": "IMPEACHMENTVOTE"
+        },
+        {
+          "indices": [
+            227,
+            239
+          ],
+          "text": "impeachment"
+        },
+        {
+          "indices": [
+            241,
+            255
+          ],
+          "text": "VoteTRUMP2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/HA2oRbygz2",
+          "expanded_url": "https://twitter.com/ROHLL5/status/1207640058276265984/video/1",
+          "features": {},
+          "id": 1207639983428964352,
+          "id_str": "1207639983428964352",
+          "indices": [
+            256,
+            279
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207639983428964352/pu/img/fMJod1ZskbZB20LU.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207639983428964352/pu/img/fMJod1ZskbZB20LU.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/HA2oRbygz2"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            35,
+            51
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/HA2oRbygz2",
+          "expanded_url": "https://twitter.com/ROHLL5/status/1207640058276265984/video/1",
+          "features": {},
+          "id": 1207639983428964352,
+          "id_str": "1207639983428964352",
+          "indices": [
+            256,
+            279
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207639983428964352/pu/img/fMJod1ZskbZB20LU.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207639983428964352/pu/img/fMJod1ZskbZB20LU.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/HA2oRbygz2",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 5133,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207639983428964352/pu/vid/320x320/o9jmCQQNsayx5dLZ.mp4?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207639983428964352/pu/vid/720x720/atD_qw2YbRW7RNif.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207639983428964352/pu/vid/480x480/LZoXA2xhpfWQGsnx.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1207639983428964352/pu/pl/HSrd5ei4jrflzDtF.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 10178,
+    "favorited": false,
+    "full_text": "Today, &amp; always we stand with .@realDonaldTrump \n\nThis impeachment is biggest scam in American history! \n\nThe Democrats Are disgraceful &amp; come November 2020 they will feel the almighty wrath of God! \n\n#IMPEACHMENTVOTE \n#impeachment \n#VoteTRUMP2020 https://t.co/HA2oRbygz2",
+    "geo": null,
+    "id": 1207640058276265984,
+    "id_str": "1207640058276265984",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4308,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri May 15 05:26:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "RETWEETED BY @realdonaldtrump Follow by\ud83d\udcaf @RudyGiuliani @DineshDSouza @cvpayne @waynedupreeshow @ericbolling @ScottBaio @w_Terrence #ScottBaiosArmy #Israel \ud83c\uddee\ud83c\uddf1",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 206467,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 88868,
+      "following": false,
+      "friends_count": 38556,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 40183366,
+      "id_str": "40183366",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 75,
+      "location": "United States",
+      "name": "Rena",
+      "notifications": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/40183366/1530639882",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1204886892900016128/q4w9U-I-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204886892900016128/q4w9U-I-_normal.jpg",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ROHLL5",
+      "statuses_count": 186630,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1207640058276265984,
+  "quoted_status_id_str": "1207640058276265984",
+  "quoted_status_permalink": {
+    "display": "twitter.com/rohll5/status/\u2026",
+    "expanded": "https://twitter.com/rohll5/status/1207640058276265984",
+    "url": "https://t.co/HcFHB61cPD"
+  },
+  "retweet_count": 16255,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

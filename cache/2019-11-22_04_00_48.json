@@ -1,0 +1,211 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Nov 22 04:00:48 +0000 2019",
+  "display_text_range": [
+    0,
+    35
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/sFT4qGqajO",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1197726598964928513/video/1",
+        "features": {},
+        "id": 1197724729366454273,
+        "id_str": "1197724729366454273",
+        "indices": [
+          36,
+          59
+        ],
+        "media_url": "http://pbs.twimg.com/media/EJ8t7MmXkAA6DyW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EJ8t7MmXkAA6DyW.jpg",
+        "sizes": {
+          "large": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "medium": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "small": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sFT4qGqajO"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/sFT4qGqajO",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1197726598964928513/video/1",
+        "features": {},
+        "id": 1197724729366454273,
+        "id_str": "1197724729366454273",
+        "indices": [
+          36,
+          59
+        ],
+        "media_url": "http://pbs.twimg.com/media/EJ8t7MmXkAA6DyW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EJ8t7MmXkAA6DyW.jpg",
+        "sizes": {
+          "large": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "medium": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "small": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/sFT4qGqajO",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 435535,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1197724729366454273/vid/640x360/8qBYBsNj62GSQ0nq.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1197724729366454273/vid/960x540/MJ2w46PgN3qQitcc.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1197724729366454273/vid/480x270/0gKAoot_rydSrZbn.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1197724729366454273/pl/nls9FBgDJvLboOBF.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 17981,
+  "favorited": false,
+  "full_text": "MARK LEVIN ON IMPEACHMENT HYSTERIA! https://t.co/sFT4qGqajO",
+  "geo": null,
+  "id": 1197726598964928513,
+  "id_str": "1197726598964928513",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 6923,
+  "retweeted": false,
+  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66937864,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110833,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46373,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

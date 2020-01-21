@@ -1,0 +1,505 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 08 23:02:07 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          12,
+          19
+        ],
+        "text": "UPDATE"
+      },
+      {
+        "indices": [
+          21,
+          28
+        ],
+        "text": "USNavy"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 54885400,
+        "id_str": "54885400",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "U.S. Navy",
+        "screen_name": "USNavy"
+      },
+      {
+        "id": 314149133,
+        "id_str": "314149133",
+        "indices": [
+          69,
+          78
+        ],
+        "name": "NAS Pensacola",
+        "screen_name": "NASPCOLA"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USNavy: #UPDATE: #USNavy releases names of the Sailors Killed in @NASPCOLA Shooting. \"We feel the loss profoundly and grieve with the f\u2026",
+  "geo": null,
+  "id": 1203812025639587841,
+  "id_str": "1203812025639587841",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4492,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 08 03:32:02 +0000 2019",
+    "display_text_range": [
+      0,
+      228
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            7
+          ],
+          "text": "UPDATE"
+        },
+        {
+          "indices": [
+            9,
+            16
+          ],
+          "text": "USNavy"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tQuSGtf3Wh",
+          "expanded_url": "https://twitter.com/USNavy/status/1203517564913106946/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 206,
+                  "w": 206,
+                  "x": 251,
+                  "y": 102
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 206,
+                  "w": 206,
+                  "x": 251,
+                  "y": 102
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 206,
+                  "w": 206,
+                  "x": 251,
+                  "y": 102
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 155,
+                  "w": 155,
+                  "x": 189,
+                  "y": 77
+                }
+              ]
+            }
+          },
+          "id": 1203517559762563072,
+          "id_str": "1203517559762563072",
+          "indices": [
+            229,
+            252
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELPA2BaXsAAMImK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELPA2BaXsAAMImK.jpg",
+          "sizes": {
+            "large": {
+              "h": 900,
+              "resize": "fit",
+              "w": 681
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 681
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 515
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tQuSGtf3Wh"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "navy.mil/submit/display\u2026",
+          "expanded_url": "https://www.navy.mil/submit/display.asp?story_id=111621&utm_source=twitter&utm_medium=social&utm_content=100001067990850&utm_campaign=AdvInc",
+          "indices": [
+            205,
+            228
+          ],
+          "url": "https://t.co/mhqmUBehI7"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 314149133,
+          "id_str": "314149133",
+          "indices": [
+            57,
+            66
+          ],
+          "name": "NAS Pensacola",
+          "screen_name": "NASPCOLA"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tQuSGtf3Wh",
+          "expanded_url": "https://twitter.com/USNavy/status/1203517564913106946/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 206,
+                  "w": 206,
+                  "x": 251,
+                  "y": 102
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 206,
+                  "w": 206,
+                  "x": 251,
+                  "y": 102
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 206,
+                  "w": 206,
+                  "x": 251,
+                  "y": 102
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 155,
+                  "w": 155,
+                  "x": 189,
+                  "y": 77
+                }
+              ]
+            }
+          },
+          "id": 1203517559762563072,
+          "id_str": "1203517559762563072",
+          "indices": [
+            229,
+            252
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELPA2BaXsAAMImK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELPA2BaXsAAMImK.jpg",
+          "sizes": {
+            "large": {
+              "h": 900,
+              "resize": "fit",
+              "w": 681
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 681
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 515
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tQuSGtf3Wh"
+        },
+        {
+          "display_url": "pic.twitter.com/tQuSGtf3Wh",
+          "expanded_url": "https://twitter.com/USNavy/status/1203517564913106946/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 307,
+                  "w": 307,
+                  "x": 212,
+                  "y": 230
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 307,
+                  "w": 307,
+                  "x": 212,
+                  "y": 230
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 307,
+                  "w": 307,
+                  "x": 212,
+                  "y": 230
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 203,
+                  "w": 203,
+                  "x": 140,
+                  "y": 152
+                }
+              ]
+            }
+          },
+          "id": 1203517563336040449,
+          "id_str": "1203517563336040449",
+          "indices": [
+            229,
+            252
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELPA2OuWoAEOXjp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELPA2OuWoAEOXjp.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 819
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 819
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 544
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tQuSGtf3Wh"
+        }
+      ]
+    },
+    "favorite_count": 12550,
+    "favorited": false,
+    "full_text": "#UPDATE: #USNavy releases names of the Sailors Killed in @NASPCOLA Shooting. \"We feel the loss profoundly and grieve with the family and friends of the deceased.\" - Capt. Tim Kinsella, CO, NAS Pensacola \n\nhttps://t.co/mhqmUBehI7 https://t.co/tQuSGtf3Wh",
+    "geo": null,
+    "id": 1203517564913106946,
+    "id_str": "1203517564913106946",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4492,
+    "retweeted": false,
+    "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 08 12:51:11 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of the #USNavy. (Following, RTs and links \u2260 endorsement)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "navy.mil",
+              "expanded_url": "http://www.navy.mil",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/L3wbdU7iJq"
+            }
+          ]
+        }
+      },
+      "favourites_count": 638,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1218971,
+      "following": false,
+      "friends_count": 1205,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 54885400,
+      "id_str": "54885400",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7367,
+      "location": "The 7 seas!",
+      "name": "U.S. Navy",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/54885400/1560356292",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1200879726300147712/_4uuNUUX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200879726300147712/_4uuNUUX_normal.jpg",
+      "profile_link_color": "2C4D59",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USNavy",
+      "statuses_count": 27968,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/L3wbdU7iJq",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67353829,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111108,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46828,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

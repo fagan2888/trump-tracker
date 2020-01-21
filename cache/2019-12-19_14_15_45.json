@@ -1,0 +1,354 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 14:15:45 +0000 2019",
+  "display_text_range": [
+    0,
+    109
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/michaeljknowle\u2026",
+        "expanded_url": "https://twitter.com/michaeljknowles/status/1207457980163092480",
+        "indices": [
+          86,
+          109
+        ],
+        "url": "https://t.co/agCaoIkxBt"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 20579845,
+        "id_str": "20579845",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Roger Kimball",
+        "screen_name": "rogerkimball"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @rogerkimball: They are impeaching him for being elected without their permission. https://t.co/agCaoIkxBt",
+  "geo": null,
+  "id": 1207665830319788032,
+  "id_str": "1207665830319788032",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1207457980163092480,
+  "quoted_status_id_str": "1207457980163092480",
+  "quoted_status_permalink": {
+    "display": "twitter.com/michaeljknowle\u2026",
+    "expanded": "https://twitter.com/michaeljknowles/status/1207457980163092480",
+    "url": "https://t.co/agCaoIkxBt"
+  },
+  "retweet_count": 9105,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 19 02:42:53 +0000 2019",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/michaeljknowle\u2026",
+          "expanded_url": "https://twitter.com/michaeljknowles/status/1207457980163092480",
+          "indices": [
+            68,
+            91
+          ],
+          "url": "https://t.co/agCaoIkxBt"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 37537,
+    "favorited": false,
+    "full_text": "They are impeaching him for being elected without their permission. https://t.co/agCaoIkxBt",
+    "geo": null,
+    "id": 1207491461173927936,
+    "id_str": "1207491461173927936",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Dec 19 00:29:50 +0000 2019",
+      "display_text_range": [
+        0,
+        51
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 30200,
+      "favorited": false,
+      "full_text": "Can anyone explain what they're impeaching him for?",
+      "geo": null,
+      "id": 1207457980163092480,
+      "id_str": "1207457980163092480",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 4727,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 14 03:36:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "the John Cage of political philosophy",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "michaeljknowles.com",
+                "expanded_url": "http://michaeljknowles.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/yZNNii3L6r"
+              }
+            ]
+          }
+        },
+        "favourites_count": 19373,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 211389,
+        "following": false,
+        "friends_count": 1317,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 31047836,
+        "id_str": "31047836",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1084,
+        "location": "Greenland, USA",
+        "name": "Michael Knowles",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31047836/1550263999",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082856388328484864/Yo6qjbsv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082856388328484864/Yo6qjbsv_normal.jpg",
+        "profile_link_color": "007A08",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "michaeljknowles",
+        "statuses_count": 34235,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/yZNNii3L6r",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1207457980163092480,
+    "quoted_status_id_str": "1207457980163092480",
+    "quoted_status_permalink": {
+      "display": "twitter.com/michaeljknowle\u2026",
+      "expanded": "https://twitter.com/michaeljknowles/status/1207457980163092480",
+      "url": "https://t.co/agCaoIkxBt"
+    },
+    "retweet_count": 9105,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 11 09:08:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Editor @newcriterion Pub. @EncounterBooks columnist \\ @theamgreatness @spectatorUSA Bio https://t.co/sWmRGyKKHx Books https://t.co/ckNTIFCvit",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "tinyurl.com/6t7x6wa",
+              "expanded_url": "http://tinyurl.com/6t7x6wa",
+              "indices": [
+                88,
+                111
+              ],
+              "url": "https://t.co/sWmRGyKKHx"
+            },
+            {
+              "display_url": "tinyurl.com/yabafb68",
+              "expanded_url": "https://tinyurl.com/yabafb68",
+              "indices": [
+                118,
+                141
+              ],
+              "url": "https://t.co/ckNTIFCvit"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "newcriterion.com",
+              "expanded_url": "http://www.newcriterion.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4B3ZOl6Tdy"
+            }
+          ]
+        }
+      },
+      "favourites_count": 114,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 16517,
+      "following": false,
+      "friends_count": 546,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 20579845,
+      "id_str": "20579845",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 311,
+      "location": "",
+      "name": "Roger Kimball",
+      "notifications": false,
+      "profile_background_color": "8B9699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20579845/1520472911",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/462906356903591936/-T2u8tY2_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/462906356903591936/-T2u8tY2_normal.jpeg",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "DBE9ED",
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "rogerkimball",
+      "statuses_count": 13532,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/4B3ZOl6Tdy",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

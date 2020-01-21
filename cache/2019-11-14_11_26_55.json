@@ -1,0 +1,347 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 14 11:26:55 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 56561449,
+        "id_str": "56561449",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Jesse Watters",
+        "screen_name": "JesseBWatters"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          70,
+          86
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JesseBWatters: IF The Ukrainian President was bribed by President @realdonaldtrump, He didn\u2019t know he was being bribed, he didn\u2019t say h\u2026",
+  "geo": null,
+  "id": 1194939764329402368,
+  "id_str": "1194939764329402368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11049,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 14 00:30:00 +0000 2019",
+    "display_text_range": [
+      0,
+      254
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            246,
+            254
+          ],
+          "text": "TheFive"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MvG9igItak",
+          "expanded_url": "https://twitter.com/JesseBWatters/status/1194774445845401600/video/1",
+          "features": {},
+          "id": 1194753148583321600,
+          "id_str": "1194753148583321600",
+          "indices": [
+            255,
+            278
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1194753148583321600/img/5GQCL7HXC1EPHEQP.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1194753148583321600/img/5GQCL7HXC1EPHEQP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MvG9igItak"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            51,
+            67
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/MvG9igItak",
+          "expanded_url": "https://twitter.com/JesseBWatters/status/1194774445845401600/video/1",
+          "features": {},
+          "id": 1194753148583321600,
+          "id_str": "1194753148583321600",
+          "indices": [
+            255,
+            278
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1194753148583321600/img/5GQCL7HXC1EPHEQP.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1194753148583321600/img/5GQCL7HXC1EPHEQP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/MvG9igItak",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 69736,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1194753148583321600/vid/1280x720/lVzVLKlZXxt4aPrW.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1194753148583321600/vid/480x270/2vo8U__4RsA5jbjH.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1194753148583321600/vid/640x360/MFufex7dBr5lMbjd.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1194753148583321600/pl/JKz70jMtTyM1fDIe.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 37358,
+    "favorited": false,
+    "full_text": "IF The Ukrainian President was bribed by President @realdonaldtrump, He didn\u2019t know he was being bribed, he didn\u2019t say he was being bribed, and he didn\u2019t do the very thing that he was allegedly being bribed for. This is a process without a crime #TheFive https://t.co/MvG9igItak",
+    "geo": null,
+    "id": 1194774445845401600,
+    "id_str": "1194774445845401600",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11049,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jul 14 01:23:16 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Co-Host of @TheFive & Host of @WattersWorld on Fox News Channel. Speaking engagements with Premiere.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/jessewatters/",
+              "expanded_url": "https://www.instagram.com/jessewatters/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rlbjtqJwnw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 15422,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1013236,
+      "following": false,
+      "friends_count": 1068,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 56561449,
+      "id_str": "56561449",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2738,
+      "location": "",
+      "name": "Jesse Watters",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/56561449/1455042293",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/697123861163192320/6ra0cPIS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/697123861163192320/6ra0cPIS_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JesseBWatters",
+      "statuses_count": 10881,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/rlbjtqJwnw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66798877,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110680,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46128,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

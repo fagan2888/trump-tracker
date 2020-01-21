@@ -1,0 +1,501 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 04 15:44:36 +0000 2018",
+  "display_text_range": [
+    0,
+    114
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/mike_pence/sta\u2026",
+        "expanded_url": "https://twitter.com/mike_pence/status/1055986341211791360",
+        "indices": [
+          91,
+          114
+        ],
+        "url": "https://t.co/QEUdPWDDud"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: Martha McSally is a great warrior, her opponent a Nancy Pelosi Wacko! https://t.co/QEUdPWDDud",
+  "geo": null,
+  "id": 1059109162339180545,
+  "id_str": "1059109162339180545",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1055986341211791360,
+  "quoted_status_id_str": "1055986341211791360",
+  "quoted_status_permalink": {
+    "display": "twitter.com/mike_pence/sta\u2026",
+    "expanded": "https://twitter.com/mike_pence/status/1055986341211791360",
+    "url": "https://t.co/QEUdPWDDud"
+  },
+  "retweet_count": 17249,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 27 13:51:41 +0000 2018",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/mike_pence/sta\u2026",
+          "expanded_url": "https://twitter.com/mike_pence/status/1055986341211791360",
+          "indices": [
+            70,
+            93
+          ],
+          "url": "https://t.co/QEUdPWDDud"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 59769,
+    "favorited": false,
+    "full_text": "Martha McSally is a great warrior, her opponent a Nancy Pelosi Wacko! https://t.co/QEUdPWDDud",
+    "geo": null,
+    "id": 1056181643810168832,
+    "id_str": "1056181643810168832",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Oct 27 00:55:37 +0000 2018",
+      "display_text_range": [
+        0,
+        218
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BGFuzZKHb5",
+            "expanded_url": "https://twitter.com/mike_pence/status/1055986341211791360/photo/1",
+            "id": 1055986321808867328,
+            "id_str": "1055986321808867328",
+            "indices": [
+              219,
+              242
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqed9v8WwAA7vJG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqed9v8WwAA7vJG.jpg",
+            "sizes": {
+              "large": {
+                "h": 1486,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 871,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 493,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BGFuzZKHb5"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 482450423,
+            "id_str": "482450423",
+            "indices": [
+              52,
+              66
+            ],
+            "name": "McSally For Senate",
+            "screen_name": "MarthaMcSally"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              168,
+              184
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BGFuzZKHb5",
+            "expanded_url": "https://twitter.com/mike_pence/status/1055986341211791360/photo/1",
+            "id": 1055986321808867328,
+            "id_str": "1055986321808867328",
+            "indices": [
+              219,
+              242
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqed9v8WwAA7vJG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqed9v8WwAA7vJG.jpg",
+            "sizes": {
+              "large": {
+                "h": 1486,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 871,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 493,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BGFuzZKHb5"
+          },
+          {
+            "display_url": "pic.twitter.com/BGFuzZKHb5",
+            "expanded_url": "https://twitter.com/mike_pence/status/1055986341211791360/photo/1",
+            "id": 1055986321842466816,
+            "id_str": "1055986321842466816",
+            "indices": [
+              219,
+              242
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqed9wEXcAA-n5v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqed9wEXcAA-n5v.jpg",
+            "sizes": {
+              "large": {
+                "h": 1230,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 721,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 408,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BGFuzZKHb5"
+          },
+          {
+            "display_url": "pic.twitter.com/BGFuzZKHb5",
+            "expanded_url": "https://twitter.com/mike_pence/status/1055986341211791360/photo/1",
+            "id": 1055986321821523968,
+            "id_str": "1055986321821523968",
+            "indices": [
+              219,
+              242
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dqed9v_X4AAVgCf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dqed9v_X4AAVgCf.jpg",
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BGFuzZKHb5"
+          }
+        ]
+      },
+      "favorite_count": 14502,
+      "favorited": false,
+      "full_text": "PROUD to stand with the next Senator from Arizona - @MarthaMcSally! Martha is a leader in Congress, veteran of our armed forces, &amp; advocate for America\u2019s veterans. @RealDonaldTrump &amp; I are with her all the way! https://t.co/BGFuzZKHb5",
+      "geo": null,
+      "id": 1055986341211791360,
+      "id_str": "1055986341211791360",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 3901,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 27 23:04:51 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Vice President of the United States",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "DonaldJTrump.com",
+                "expanded_url": "http://www.DonaldJTrump.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mZB2hymxC9"
+              }
+            ]
+          }
+        },
+        "favourites_count": 729,
+        "follow_request_sent": false,
+        "followers_count": 3478478,
+        "following": false,
+        "friends_count": 987,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22203756,
+        "id_str": "22203756",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8017,
+        "location": "",
+        "name": "Mike Pence",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22203756/1478793898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/817805976262811648/pP-XV5Sm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/817805976262811648/pP-XV5Sm_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6D6D6",
+        "profile_text_color": "002248",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mike_pence",
+        "statuses_count": 5596,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mZB2hymxC9",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1055986341211791360,
+    "quoted_status_id_str": "1055986341211791360",
+    "quoted_status_permalink": {
+      "display": "twitter.com/mike_pence/sta\u2026",
+      "expanded": "https://twitter.com/mike_pence/status/1055986341211791360",
+      "url": "https://t.co/QEUdPWDDud"
+    },
+    "retweet_count": 17249,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0xp8tD"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7,
+      "follow_request_sent": false,
+      "followers_count": 55566827,
+      "following": true,
+      "friends_count": 46,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 95606,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1540264974",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 39566,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0xp8tD",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 55566827,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 95606,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1540264974",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39566,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

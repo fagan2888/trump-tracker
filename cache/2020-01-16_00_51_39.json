@@ -1,0 +1,444 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jan 16 00:51:39 +0000 2020",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/1OIXKTv0hp",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1217610329821237248/video/1",
+        "features": {},
+        "id": 1217610157842141185,
+        "id_str": "1217610157842141185",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217610157842141185/pu/img/evObc2lef3MB3DJc.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217610157842141185/pu/img/evObc2lef3MB3DJc.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/1OIXKTv0hp"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/waysandmeansgo\u2026",
+        "expanded_url": "https://twitter.com/waysandmeansgop/status/1217508926872334336",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/RcUcLBl9tT"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/1OIXKTv0hp",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1217610329821237248/video/1",
+        "features": {},
+        "id": 1217610157842141185,
+        "id_str": "1217610157842141185",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217610157842141185/pu/img/evObc2lef3MB3DJc.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217610157842141185/pu/img/evObc2lef3MB3DJc.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/1OIXKTv0hp",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 59157,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1217610157842141185/pu/vid/640x360/qJhYpgA845eZmfQn.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1217610157842141185/pu/vid/480x270/us_osJ2NNxsgHoZI.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1217610157842141185/pu/pl/cd-RgjxanTipHXvv.m3u8?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1217610157842141185/pu/vid/1280x720/K0ii4nghXAxd_3EH.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 60861,
+  "favorited": false,
+  "full_text": "https://t.co/RcUcLBl9tT https://t.co/1OIXKTv0hp",
+  "geo": null,
+  "id": 1217610329821237248,
+  "id_str": "1217610329821237248",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 15 18:08:43 +0000 2020",
+    "display_text_range": [
+      0,
+      191
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/mhmrOTy6uE",
+          "expanded_url": "https://twitter.com/WaysandMeansGOP/status/1217508926872334336/video/1",
+          "features": {},
+          "id": 1217508882806910976,
+          "id_str": "1217508882806910976",
+          "indices": [
+            192,
+            215
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217508882806910976/pu/img/g8XH6StXLygcdJGe.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217508882806910976/pu/img/g8XH6StXLygcdJGe.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mhmrOTy6uE"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            8,
+            14
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/mhmrOTy6uE",
+          "expanded_url": "https://twitter.com/WaysandMeansGOP/status/1217508926872334336/video/1",
+          "features": {},
+          "id": 1217508882806910976,
+          "id_str": "1217508882806910976",
+          "indices": [
+            192,
+            215
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217508882806910976/pu/img/g8XH6StXLygcdJGe.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217508882806910976/pu/img/g8XH6StXLygcdJGe.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/mhmrOTy6uE",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 36067,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1217508882806910976/pu/pl/8KSZGB56G2xlAQHN.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1217508882806910976/pu/vid/480x270/qp3TewQRwyn1CGSt.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1217508882806910976/pu/vid/1280x720/C3mD3-trfUNBfoR6.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1217508882806910976/pu/vid/640x360/t6DZNYcHYP4Qgw2o.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 2732,
+    "favorited": false,
+    "full_text": "NEWS \u27a1\ufe0f @POTUS  just signed a historic Phase One trade agreement with China. This deal holds bad actors accountable and levels the playing field for American families, workers and innovators. https://t.co/mhmrOTy6uE",
+    "geo": null,
+    "id": 1217508926872334336,
+    "id_str": "1217508926872334336",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 958,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 28 15:30:34 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official account of the Senior Committee, with jurisdiction over tax, trade, health care, welfare, and Social Security. ||  Republican Leader, @RepKevinBrady.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "gop-waysandmeans.house.gov",
+              "expanded_url": "http://gop-waysandmeans.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RORoP6Sbor"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1264,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 44732,
+      "following": false,
+      "friends_count": 560,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 12788332,
+      "id_str": "12788332",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1374,
+      "location": "Washington, D.C.",
+      "name": "Ways and Means GOP",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/12788332/1536173435",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1042836487300149249/APsv5hxG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042836487300149249/APsv5hxG_normal.jpg",
+      "profile_link_color": "FADC1A",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F0C766",
+      "profile_text_color": "18038C",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WaysandMeansGOP",
+      "statuses_count": 10708,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/RORoP6Sbor",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1217508926872334336,
+  "quoted_status_id_str": "1217508926872334336",
+  "quoted_status_permalink": {
+    "display": "twitter.com/waysandmeansgo\u2026",
+    "expanded": "https://twitter.com/waysandmeansgop/status/1217508926872334336",
+    "url": "https://t.co/RcUcLBl9tT"
+  },
+  "retweet_count": 16891,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71032336,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113394,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47881,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

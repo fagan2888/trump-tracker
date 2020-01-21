@@ -1,0 +1,396 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 16 08:56:58 +0000 2018",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/tpkanslia/stat\u2026",
+        "expanded_url": "https://twitter.com/tpkanslia/status/1018758475055321088",
+        "indices": [
+          53,
+          76
+        ],
+        "url": "https://t.co/NOUTroe8MV"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 50228,
+  "favorited": false,
+  "full_text": "It was an honor to join you this morning. Thank you! https://t.co/NOUTroe8MV",
+  "geo": null,
+  "id": 1018781525309943808,
+  "id_str": "1018781525309943808",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 16 07:25:22 +0000 2018",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            121,
+            134
+          ],
+          "text": "HELSINKI2018"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/j1wLK15UOr",
+          "expanded_url": "https://twitter.com/TPKanslia/status/1018758475055321088/photo/1",
+          "id": 1018758256125194240,
+          "id_str": "1018758256125194240",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/media/DiNbPIBWsAAq3bv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DiNbPIBWsAAq3bv.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 785
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 785
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 494
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/j1wLK15UOr"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 37665086,
+          "id_str": "37665086",
+          "indices": [
+            10,
+            19
+          ],
+          "name": "Sauli Niinist\u00f6",
+          "screen_name": "niinisto"
+        },
+        {
+          "id": 2350116698,
+          "id_str": "2350116698",
+          "indices": [
+            28,
+            40
+          ],
+          "name": "Jenni Haukio",
+          "screen_name": "JenniHaukio"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            50,
+            56
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/j1wLK15UOr",
+          "expanded_url": "https://twitter.com/TPKanslia/status/1018758475055321088/photo/1",
+          "id": 1018758256125194240,
+          "id_str": "1018758256125194240",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/media/DiNbPIBWsAAq3bv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DiNbPIBWsAAq3bv.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 785
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 785
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 494
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/j1wLK15UOr"
+        },
+        {
+          "display_url": "pic.twitter.com/j1wLK15UOr",
+          "expanded_url": "https://twitter.com/TPKanslia/status/1018758475055321088/photo/1",
+          "id": 1018758276568240130,
+          "id_str": "1018758276568240130",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/media/DiNbQULW0AIPRBD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DiNbQULW0AIPRBD.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/j1wLK15UOr"
+        },
+        {
+          "display_url": "pic.twitter.com/j1wLK15UOr",
+          "expanded_url": "https://twitter.com/TPKanslia/status/1018758475055321088/photo/1",
+          "id": 1018758394109415424,
+          "id_str": "1018758394109415424",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/media/DiNbXKDW0AAwvI0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DiNbXKDW0AAwvI0.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/j1wLK15UOr"
+        }
+      ]
+    },
+    "favorite_count": 5145,
+    "favorited": false,
+    "full_text": "President @Niinisto and Mrs @JenniHaukio welcomed @POTUS Donald Trump and Mrs Melania Trump to the M\u00e4ntyniemi Residence. #HELSINKI2018 https://t.co/j1wLK15UOr",
+    "geo": null,
+    "id": 1018758475055321088,
+    "id_str": "1018758475055321088",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1253,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 21 17:17:30 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Tasavallan presidentin kanslia / Republikens presidents kansli / Office of the President of the Republic of Finland Sauli @niinisto",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "presidentti.fi",
+              "expanded_url": "http://www.presidentti.fi",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/y7rVhjxe1n"
+            }
+          ]
+        }
+      },
+      "favourites_count": 770,
+      "follow_request_sent": false,
+      "followers_count": 47523,
+      "following": false,
+      "friends_count": 208,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 218184927,
+      "id_str": "218184927",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 276,
+      "location": "Helsinki, Finland",
+      "name": "TPKanslia",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/218184927/1512547016",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3322864536/1a96bae0b1188ad08469b8c67ca4c21a_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3322864536/1a96bae0b1188ad08469b8c67ca4c21a_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TPKanslia",
+      "statuses_count": 6046,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/y7rVhjxe1n",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1018758475055321088,
+  "quoted_status_id_str": "1018758475055321088",
+  "quoted_status_permalink": {
+    "display": "twitter.com/tpkanslia/stat\u2026",
+    "expanded": "https://twitter.com/tpkanslia/status/1018758475055321088",
+    "url": "https://t.co/NOUTroe8MV"
+  },
+  "retweet_count": 9722,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 53187401,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 90584,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1530156698",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38212,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

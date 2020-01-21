@@ -1,0 +1,309 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon May 27 23:05:26 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18005085,
+        "id_str": "18005085",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Mollie",
+        "screen_name": "MZHemingway"
+      },
+      {
+        "id": 133736900,
+        "id_str": "133736900",
+        "indices": [
+          102,
+          114
+        ],
+        "name": "Carrie Severino",
+        "screen_name": "JCNSeverino"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MZHemingway: EXCITING NEWS: I've written a book on the Kavanaugh confirmation with the inimitable @JCNSeverino. A behind-the-scenes loo\u2026",
+  "geo": null,
+  "id": 1133147228980285440,
+  "id_str": "1133147228980285440",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4185,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 15 15:17:05 +0000 2019",
+    "display_text_range": [
+      0,
+      248
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/H5qRHFfsd4",
+          "expanded_url": "https://twitter.com/MZHemingway/status/1128680710712233985/photo/1",
+          "id": 1128679181875863553,
+          "id_str": "1128679181875863553",
+          "indices": [
+            249,
+            272
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6nfvGUW4AEcilo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6nfvGUW4AEcilo.jpg",
+          "sizes": {
+            "large": {
+              "h": 670,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 670,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 380,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/H5qRHFfsd4"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "amazon.com/Justice-Trial-\u2026",
+          "expanded_url": "https://www.amazon.com/Justice-Trial-Kavanaugh-Confirmation-Supreme/dp/1621579832",
+          "indices": [
+            225,
+            248
+          ],
+          "url": "https://t.co/WG5wTJcUkR"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 133736900,
+          "id_str": "133736900",
+          "indices": [
+            85,
+            97
+          ],
+          "name": "Carrie Severino",
+          "screen_name": "JCNSeverino"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/H5qRHFfsd4",
+          "expanded_url": "https://twitter.com/MZHemingway/status/1128680710712233985/photo/1",
+          "id": 1128679181875863553,
+          "id_str": "1128679181875863553",
+          "indices": [
+            249,
+            272
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6nfvGUW4AEcilo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6nfvGUW4AEcilo.jpg",
+          "sizes": {
+            "large": {
+              "h": 670,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 670,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 380,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/H5qRHFfsd4"
+        }
+      ]
+    },
+    "favorite_count": 14299,
+    "favorited": false,
+    "full_text": "EXCITING NEWS: I've written a book on the Kavanaugh confirmation with the inimitable @JCNSeverino. A behind-the-scenes look at the nomination and battle over the Supreme Court. Coming out July 9. Available for pre-order now! https://t.co/WG5wTJcUkR https://t.co/H5qRHFfsd4",
+    "geo": null,
+    "id": 1128680710712233985,
+    "id_str": "1128680710712233985",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4185,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 09 22:44:12 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Senior Editor, @FDRLST. Senior Journalism Fellow, @Hillsdale. Fox News Contributor.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/gp/product/162\u2026",
+              "expanded_url": "https://www.amazon.com/gp/product/1621579832/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeAS",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JDWGFiqY5h"
+            }
+          ]
+        }
+      },
+      "favourites_count": 12280,
+      "follow_request_sent": false,
+      "followers_count": 277786,
+      "following": false,
+      "friends_count": 1344,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 18005085,
+      "id_str": "18005085",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2993,
+      "location": "Justice on Trial: The Kavanaugh Confirmation and the Future of the Supreme Court",
+      "name": "Mollie",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18005085/1557932907",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/648645685244510208/HD4ui7lh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/648645685244510208/HD4ui7lh_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "MZHemingway",
+      "statuses_count": 91574,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JDWGFiqY5h",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60630604,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103545,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42100,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

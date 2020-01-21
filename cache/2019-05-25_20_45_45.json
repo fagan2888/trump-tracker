@@ -1,0 +1,511 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 25 20:45:45 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ronna McDaniel",
+        "screen_name": "GOPChairwoman"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          23,
+          39
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPChairwoman: The @realDonaldTrump administration's fight for better trade deals doesn't end with China. \n\nThe president is working ha\u2026",
+  "geo": null,
+  "id": 1132387299025670145,
+  "id_str": "1132387299025670145",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1132251620903981057,
+  "quoted_status_id_str": "1132251620903981057",
+  "quoted_status_permalink": {
+    "display": "twitter.com/whitehouse/sta\u2026",
+    "expanded": "https://twitter.com/whitehouse/status/1132251620903981057?s=21",
+    "url": "https://t.co/pk3Bm5xDH5"
+  },
+  "retweet_count": 6239,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 25 20:31:42 +0000 2019",
+    "display_text_range": [
+      0,
+      245
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/whitehouse/sta\u2026",
+          "expanded_url": "https://twitter.com/whitehouse/status/1132251620903981057?s=21",
+          "indices": [
+            222,
+            245
+          ],
+          "url": "https://t.co/pk3Bm5xDH5"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            4,
+            20
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 22751,
+    "favorited": false,
+    "full_text": "The @realDonaldTrump administration's fight for better trade deals doesn't end with China. \n\nThe president is working hard to strengthen our relationship with Japan, and that includes negotiating a new, fairer trade deal.\nhttps://t.co/pk3Bm5xDH5",
+    "geo": null,
+    "id": 1132383762954760192,
+    "id_str": "1132383762954760192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat May 25 11:46:37 +0000 2019",
+      "display_text_range": [
+        0,
+        134
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IhYaUv57Sn",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1132251620903981057/photo/1",
+            "id": 1132251608585265152,
+            "id_str": "1132251608585265152",
+            "indices": [
+              135,
+              158
+            ],
+            "media_url": "http://pbs.twimg.com/media/D7aQ1s4W4AAbgsn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7aQ1s4W4AAbgsn.jpg",
+            "sizes": {
+              "large": {
+                "h": 933,
+                "resize": "fit",
+                "w": 1400
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IhYaUv57Sn"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              35,
+              51
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IhYaUv57Sn",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1132251620903981057/photo/1",
+            "id": 1132251608585265152,
+            "id_str": "1132251608585265152",
+            "indices": [
+              135,
+              158
+            ],
+            "media_url": "http://pbs.twimg.com/media/D7aQ1s4W4AAbgsn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7aQ1s4W4AAbgsn.jpg",
+            "sizes": {
+              "large": {
+                "h": 933,
+                "resize": "fit",
+                "w": 1400
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IhYaUv57Sn"
+          },
+          {
+            "display_url": "pic.twitter.com/IhYaUv57Sn",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1132251620903981057/photo/1",
+            "id": 1132251613526204416,
+            "id_str": "1132251613526204416",
+            "indices": [
+              135,
+              158
+            ],
+            "media_url": "http://pbs.twimg.com/media/D7aQ1_SXoAA7ZHg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7aQ1_SXoAA7ZHg.jpg",
+            "sizes": {
+              "large": {
+                "h": 933,
+                "resize": "fit",
+                "w": 1400
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IhYaUv57Sn"
+          },
+          {
+            "display_url": "pic.twitter.com/IhYaUv57Sn",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1132251620903981057/photo/1",
+            "id": 1132251617682743296,
+            "id_str": "1132251617682743296",
+            "indices": [
+              135,
+              158
+            ],
+            "media_url": "http://pbs.twimg.com/media/D7aQ2OxXYAA2XIc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7aQ2OxXYAA2XIc.jpg",
+            "sizes": {
+              "large": {
+                "h": 933,
+                "resize": "fit",
+                "w": 1400
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IhYaUv57Sn"
+          }
+        ]
+      },
+      "favorite_count": 36535,
+      "favorited": false,
+      "full_text": "After arriving in Tokyo, President @realDonaldTrump spoke with Japanese business leaders at the U. S. Ambassador to Japan\u2019s residence. https://t.co/IhYaUv57Sn",
+      "geo": null,
+      "id": 1132251620903981057,
+      "id_str": "1132251620903981057",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 9347,
+      "retweeted": false,
+      "source": "<a href=\"https://www.whitehouse.gov/\" rel=\"nofollow\">WH Digital</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov/privacy",
+                "expanded_url": "http://whitehouse.gov/privacy",
+                "indices": [
+                  126,
+                  149
+                ],
+                "url": "https://t.co/IURuMIrzxb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "WhiteHouse.gov",
+                "expanded_url": "http://www.WhiteHouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wyOVgSLgBV"
+              }
+            ]
+          }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 18559826,
+        "following": false,
+        "friends_count": 12,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10555,
+        "location": "Washington, D.C.",
+        "name": "The White House",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhiteHouse",
+        "statuses_count": 8560,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wyOVgSLgBV",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1132251620903981057,
+    "quoted_status_id_str": "1132251620903981057",
+    "quoted_status_permalink": {
+      "display": "twitter.com/whitehouse/sta\u2026",
+      "expanded": "https://twitter.com/whitehouse/status/1132251620903981057?s=21",
+      "url": "https://t.co/pk3Bm5xDH5"
+    },
+    "retweet_count": 6239,
+    "retweeted": false,
+    "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5613,
+      "follow_request_sent": false,
+      "followers_count": 272241,
+      "following": false,
+      "friends_count": 2611,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1816,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1094021853272784896/kyyA04f8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094021853272784896/kyyA04f8_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 10644,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60562870,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103460,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42076,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 06 12:13:19 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          19,
+          23
+        ],
+        "text": "CBP"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 331060519,
+        "id_str": "331060519",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "CBP South Texas",
+        "screen_name": "CBPSouthTexas"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CBPSouthTexas: #CBP officers seize $4.1M in methamphetamine, cocaine at Laredo Port of Entry. Read more here and below. https://t.co/KJ\u2026",
+  "geo": null,
+  "id": 1147478632732024833,
+  "id_str": "1147478632732024833",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1146113823704854530,
+  "quoted_status_id_str": "1146113823704854530",
+  "quoted_status_permalink": {
+    "display": "twitter.com/whitehouse/sta\u2026",
+    "expanded": "https://twitter.com/whitehouse/status/1146113823704854530?s=21",
+    "url": "https://t.co/O3bWEoNeR9"
+  },
+  "retweet_count": 7361,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 03 14:37:30 +0000 2019",
+    "display_text_range": [
+      0,
+      152
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            4
+          ],
+          "text": "CBP"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2YAovHm",
+          "expanded_url": "http://bit.ly/2YAovHm",
+          "indices": [
+            105,
+            128
+          ],
+          "url": "https://t.co/KJ84ygkKfX"
+        },
+        {
+          "display_url": "twitter.com/whitehouse/sta\u2026",
+          "expanded_url": "https://twitter.com/whitehouse/status/1146113823704854530?s=21",
+          "indices": [
+            129,
+            152
+          ],
+          "url": "https://t.co/O3bWEoNeR9"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 20259,
+    "favorited": false,
+    "full_text": "#CBP officers seize $4.1M in methamphetamine, cocaine at Laredo Port of Entry. Read more here and below. https://t.co/KJ84ygkKfX https://t.co/O3bWEoNeR9",
+    "geo": null,
+    "id": 1146427750628155393,
+    "id_str": "1146427750628155393",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Jul 02 17:50:03 +0000 2019",
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3ZjdI2v6cb",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1146113823704854530/photo/1",
+            "id": 1146113815395876871,
+            "id_str": "1146113815395876871",
+            "indices": [
+              251,
+              274
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-fQcVbWwAcIM5t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-fQcVbWwAcIM5t.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3ZjdI2v6cb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 16613128,
+            "id_str": "16613128",
+            "indices": [
+              1,
+              5
+            ],
+            "name": "CBP",
+            "screen_name": "CBP"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3ZjdI2v6cb",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1146113823704854530/photo/1",
+            "id": 1146113815395876871,
+            "id_str": "1146113815395876871",
+            "indices": [
+              251,
+              274
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-fQcVbWwAcIM5t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-fQcVbWwAcIM5t.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3ZjdI2v6cb"
+          },
+          {
+            "display_url": "pic.twitter.com/3ZjdI2v6cb",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1146113823704854530/photo/1",
+            "id": 1146113819434999808,
+            "id_str": "1146113819434999808",
+            "indices": [
+              251,
+              274
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-fQckeW4AAwLjj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-fQckeW4AAwLjj.jpg",
+            "sizes": {
+              "large": {
+                "h": 633,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 371,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 210,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3ZjdI2v6cb"
+          }
+        ]
+      },
+      "favorite_count": 3933,
+      "favorited": false,
+      "full_text": ".@CBP officers seized alleged cocaine and crystal methamphetamine worth more than $4 million in Texas last weekend. The drug seizures came as part of two operations at the Gateway to the Americas International Bridge that connects Mexico and America. https://t.co/3ZjdI2v6cb",
+      "geo": null,
+      "id": 1146113823704854530,
+      "id_str": "1146113823704854530",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1824,
+      "retweeted": false,
+      "source": "<a href=\"https://www.whitehouse.gov/\" rel=\"nofollow\">WH Digital</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov/privacy",
+                "expanded_url": "http://whitehouse.gov/privacy",
+                "indices": [
+                  126,
+                  149
+                ],
+                "url": "https://t.co/IURuMIrzxb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "WhiteHouse.gov",
+                "expanded_url": "http://www.WhiteHouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wyOVgSLgBV"
+              }
+            ]
+          }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 18728733,
+        "following": false,
+        "friends_count": 13,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10814,
+        "location": "Washington, D.C.",
+        "name": "The White House",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhiteHouse",
+        "statuses_count": 9603,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wyOVgSLgBV",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1146113823704854530,
+    "quoted_status_id_str": "1146113823704854530",
+    "quoted_status_permalink": {
+      "display": "twitter.com/whitehouse/sta\u2026",
+      "expanded": "https://twitter.com/whitehouse/status/1146113823704854530?s=21",
+      "url": "https://t.co/O3bWEoNeR9"
+    },
+    "retweet_count": 7361,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 07 15:53:55 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Official Twitter account for U.S. Customs and Border Protection operations in the South Texas corridor.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cbp.gov",
+              "expanded_url": "http://www.cbp.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/CwSk3LJx77"
+            }
+          ]
+        }
+      },
+      "favourites_count": 170,
+      "follow_request_sent": false,
+      "followers_count": 17255,
+      "following": false,
+      "friends_count": 31,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 331060519,
+      "id_str": "331060519",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 272,
+      "location": "STC",
+      "name": "CBP South Texas",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/331060519/1401733736",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/453196762287579136/uz94Y5OW_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/453196762287579136/uz94Y5OW_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CBPSouthTexas",
+      "statuses_count": 3677,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/CwSk3LJx77",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61747523,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105019,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42716,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

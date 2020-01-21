@@ -1,0 +1,508 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 30 23:45:19 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 819334191624101888,
+        "id_str": "819334191624101888",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Watters' World",
+        "screen_name": "WattersWorld"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          20,
+          36
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @WattersWorld: . @realDonaldTrump won't get the nomination, Trump won't win, Stock Market will tank, Russia Collusion...These are the st\u2026",
+  "geo": null,
+  "id": 1200923794057187328,
+  "id_str": "1200923794057187328",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3896,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 30 18:30:00 +0000 2019",
+    "display_text_range": [
+      0,
+      245
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            187,
+            200
+          ],
+          "text": "DeroyMurdock"
+        },
+        {
+          "indices": [
+            230,
+            238
+          ],
+          "text": "FoxNews"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/N0IgHkIkzL",
+          "expanded_url": "https://twitter.com/WattersWorld/status/1200844442065727488/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 147,
+                  "w": 147,
+                  "x": 205,
+                  "y": 527
+                },
+                {
+                  "h": 135,
+                  "w": 135,
+                  "x": 192,
+                  "y": 689
+                },
+                {
+                  "h": 207,
+                  "w": 207,
+                  "x": 1585,
+                  "y": 545
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 86,
+                  "w": 86,
+                  "x": 120,
+                  "y": 309
+                },
+                {
+                  "h": 79,
+                  "w": 79,
+                  "x": 112,
+                  "y": 404
+                },
+                {
+                  "h": 121,
+                  "w": 121,
+                  "x": 929,
+                  "y": 319
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 291,
+                  "w": 291,
+                  "x": 405,
+                  "y": 1039
+                },
+                {
+                  "h": 267,
+                  "w": 267,
+                  "x": 378,
+                  "y": 1358
+                },
+                {
+                  "h": 409,
+                  "w": 409,
+                  "x": 3122,
+                  "y": 1074
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 49,
+                  "w": 49,
+                  "x": 68,
+                  "y": 175
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 63,
+                  "y": 229
+                },
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 526,
+                  "y": 181
+                }
+              ]
+            }
+          },
+          "id": 1199425238351667202,
+          "id_str": "1199425238351667202",
+          "indices": [
+            246,
+            269
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKU25kKW4AIsDAI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKU25kKW4AIsDAI.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/N0IgHkIkzL"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            2,
+            18
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 43919633,
+          "id_str": "43919633",
+          "indices": [
+            173,
+            182
+          ],
+          "name": "Brian Kilmeade",
+          "screen_name": "kilmeade"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/N0IgHkIkzL",
+          "expanded_url": "https://twitter.com/WattersWorld/status/1200844442065727488/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 147,
+                  "w": 147,
+                  "x": 205,
+                  "y": 527
+                },
+                {
+                  "h": 135,
+                  "w": 135,
+                  "x": 192,
+                  "y": 689
+                },
+                {
+                  "h": 207,
+                  "w": 207,
+                  "x": 1585,
+                  "y": 545
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 86,
+                  "w": 86,
+                  "x": 120,
+                  "y": 309
+                },
+                {
+                  "h": 79,
+                  "w": 79,
+                  "x": 112,
+                  "y": 404
+                },
+                {
+                  "h": 121,
+                  "w": 121,
+                  "x": 929,
+                  "y": 319
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 291,
+                  "w": 291,
+                  "x": 405,
+                  "y": 1039
+                },
+                {
+                  "h": 267,
+                  "w": 267,
+                  "x": 378,
+                  "y": 1358
+                },
+                {
+                  "h": 409,
+                  "w": 409,
+                  "x": 3122,
+                  "y": 1074
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 49,
+                  "w": 49,
+                  "x": 68,
+                  "y": 175
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 63,
+                  "y": 229
+                },
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 526,
+                  "y": 181
+                }
+              ]
+            }
+          },
+          "id": 1199425238351667202,
+          "id_str": "1199425238351667202",
+          "indices": [
+            246,
+            269
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKU25kKW4AIsDAI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKU25kKW4AIsDAI.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/N0IgHkIkzL"
+        }
+      ]
+    },
+    "favorite_count": 13138,
+    "favorited": false,
+    "full_text": ". @realDonaldTrump won't get the nomination, Trump won't win, Stock Market will tank, Russia Collusion...These are the stories PUSHED hard by The Media that NEVER HAPPENED. @kilmeade and #DeroyMurdock are here to discuss tonight. #FoxNews 8PM ET https://t.co/N0IgHkIkzL",
+    "geo": null,
+    "id": 1200844442065727488,
+    "id_str": "1200844442065727488",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3896,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 12 00:04:28 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Watch Saturdays at 8p ET on @FoxNews with host @jessebwatters",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fxn.ws/2it87pa",
+              "expanded_url": "http://fxn.ws/2it87pa",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Zjs4bvrtLS"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6618,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 103499,
+      "following": false,
+      "friends_count": 169,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 819334191624101888,
+      "id_str": "819334191624101888",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 428,
+      "location": "",
+      "name": "Watters' World",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/819334191624101888/1484335847",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/819989731282800640/un-19jXS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/819989731282800640/un-19jXS_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WattersWorld",
+      "statuses_count": 2852,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Zjs4bvrtLS",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67180803,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111000,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46525,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

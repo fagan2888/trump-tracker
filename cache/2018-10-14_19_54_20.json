@@ -1,0 +1,327 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 14 19:54:20 +0000 2018",
+  "display_text_range": [
+    0,
+    36
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/nbcnews/status\u2026",
+        "expanded_url": "https://twitter.com/nbcnews/status/1051523821642113025",
+        "indices": [
+          37,
+          60
+        ],
+        "url": "https://t.co/L2mX3vREOl"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 56319,
+  "favorited": false,
+  "full_text": "Thank you to NBC for the correction! https://t.co/L2mX3vREOl",
+  "geo": null,
+  "id": 1051561865061502977,
+  "id_str": "1051561865061502977",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 14 17:23:10 +0000 2018",
+    "display_text_range": [
+      0,
+      260
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NZHj3Q2dHL",
+          "expanded_url": "https://twitter.com/NBCNews/status/1051523821642113025/video/1",
+          "id": 1051523468444033024,
+          "id_str": "1051523468444033024",
+          "indices": [
+            261,
+            284
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpfDVvVWkAACE8k.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpfDVvVWkAACE8k.jpg",
+          "sizes": {
+            "large": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "medium": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NZHj3Q2dHL"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "embeddable": true,
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/NZHj3Q2dHL",
+          "expanded_url": "https://twitter.com/NBCNews/status/1051523821642113025/video/1",
+          "id": 1051523468444033024,
+          "id_str": "1051523468444033024",
+          "indices": [
+            261,
+            284
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpfDVvVWkAACE8k.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpfDVvVWkAACE8k.jpg",
+          "sizes": {
+            "large": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "medium": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/NZHj3Q2dHL",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 168569,
+            "variants": [
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1051523468444033024/vid/720x720/gooe2_TCguy8E-FB.mp4?tag=8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1051523468444033024/vid/480x480/4Q7AEBAwplPFkX54.mp4?tag=8"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1051523468444033024/vid/240x240/f0_6cT5vLUzMXin8.mp4?tag=8"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1051523468444033024/pl/tXstOlzQ8IbO9NsT.m3u8?tag=8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 8716,
+    "favorited": false,
+    "full_text": "CORRECTION: An earlier tweet misidentified the general President Trump described as \"incredible\" at a rally in Ohio. It was Gen. Ulysses S. Grant, not Gen. Robert E. Lee. An attached video clip lacked the full context for Trump's remark. Here is the full clip. https://t.co/NZHj3Q2dHL",
+    "geo": null,
+    "id": 1051523821642113025,
+    "id_str": "1051523821642113025",
+    "in_reply_to_screen_name": "NBCNews",
+    "in_reply_to_status_id": 1050901081537073155,
+    "in_reply_to_status_id_str": "1050901081537073155",
+    "in_reply_to_user_id": 14173315,
+    "in_reply_to_user_id_str": "14173315",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4952,
+    "retweeted": false,
+    "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Mar 18 23:19:17 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The leading source of global news and info for more than 75 years. \n\nhttps://t.co/Hd7rJQeDzP",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/nbcnews",
+              "expanded_url": "https://www.instagram.com/nbcnews",
+              "indices": [
+                69,
+                92
+              ],
+              "url": "https://t.co/Hd7rJQeDzP"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "NBCNews.com",
+              "expanded_url": "http://NBCNews.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Z73is4fJ3x"
+            }
+          ]
+        }
+      },
+      "favourites_count": 774,
+      "follow_request_sent": false,
+      "followers_count": 6221652,
+      "following": false,
+      "friends_count": 2767,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 14173315,
+      "id_str": "14173315",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 39695,
+      "location": "New York, NY",
+      "name": "NBC News",
+      "notifications": false,
+      "profile_background_color": "062131",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1537286046",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875411730679173121/l9PSFLJb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875411730679173121/l9PSFLJb_normal.jpg",
+      "profile_link_color": "5172A0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NBCNews",
+      "statuses_count": 172094,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Z73is4fJ3x",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1051523821642113025,
+  "quoted_status_id_str": "1051523821642113025",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nbcnews/status\u2026",
+    "expanded": "https://twitter.com/nbcnews/status/1051523821642113025",
+    "url": "https://t.co/L2mX3vREOl"
+  },
+  "retweet_count": 14126,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55139126,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94810,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539493274",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39273,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jun 15 11:29:39 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818876014390603776,
+        "id_str": "818876014390603776",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Melania Trump",
+        "screen_name": "FLOTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FLOTUS: Yesterday we honored the incredible friendship between the United States and Poland, and celebrated our proud Polish-American c\u2026",
+  "geo": null,
+  "id": 1139857496221323264,
+  "id_str": "1139857496221323264",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6006,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 13 15:55:46 +0000 2019",
+    "display_text_range": [
+      0,
+      155
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ym7a522ms8",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1139199692695330816/photo/1",
+          "id": 1139199688014520320,
+          "id_str": "1139199688014520320",
+          "indices": [
+            156,
+            179
+          ],
+          "media_url": "http://pbs.twimg.com/media/D89AFJxXYAA9FG1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D89AFJxXYAA9FG1.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1800
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ym7a522ms8"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            143,
+            154
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ym7a522ms8",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1139199692695330816/photo/1",
+          "id": 1139199688014520320,
+          "id_str": "1139199688014520320",
+          "indices": [
+            156,
+            179
+          ],
+          "media_url": "http://pbs.twimg.com/media/D89AFJxXYAA9FG1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D89AFJxXYAA9FG1.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1800
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ym7a522ms8"
+        },
+        {
+          "display_url": "pic.twitter.com/Ym7a522ms8",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1139199692695330816/photo/1",
+          "id": 1139199688001904640,
+          "id_str": "1139199688001904640",
+          "indices": [
+            156,
+            179
+          ],
+          "media_url": "http://pbs.twimg.com/media/D89AFJuW4AA-Gte.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D89AFJuW4AA-Gte.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1800
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ym7a522ms8"
+        },
+        {
+          "display_url": "pic.twitter.com/Ym7a522ms8",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1139199692695330816/photo/1",
+          "id": 1139199688006144000,
+          "id_str": "1139199688006144000",
+          "indices": [
+            156,
+            179
+          ],
+          "media_url": "http://pbs.twimg.com/media/D89AFJvXkAARHGa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D89AFJvXkAARHGa.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1800
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ym7a522ms8"
+        }
+      ]
+    },
+    "favorite_count": 33456,
+    "favorited": false,
+    "full_text": "Yesterday we honored the incredible friendship between the United States and Poland, and celebrated our proud Polish-American community at the @WhiteHouse. https://t.co/Ym7a522ms8",
+    "geo": null,
+    "id": 1139199692695330816,
+    "id_str": "1139199692695330816",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6006,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 17:43:50 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This account is run by the Office of First Lady Melania Trump. Tweets may be archived. More at https://t.co/eVVzoBb3Zr",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                95,
+                118
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BeBest.gov",
+              "expanded_url": "http://www.BeBest.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9zG6ZvKVLm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 11982330,
+      "following": false,
+      "friends_count": 7,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 818876014390603776,
+      "id_str": "818876014390603776",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7684,
+      "location": "Washington, D.C.",
+      "name": "Melania Trump",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818876014390603776/1484852402",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FLOTUS",
+      "statuses_count": 616,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9zG6ZvKVLm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61043669,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104184,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559860593",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42418,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

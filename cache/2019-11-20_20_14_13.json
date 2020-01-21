@@ -1,0 +1,349 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 20 20:14:13 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 19739126,
+        "id_str": "19739126",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Kevin McCarthy",
+        "screen_name": "GOPLeader"
+      },
+      {
+        "id": 2962813893,
+        "id_str": "2962813893",
+        "indices": [
+          40,
+          52
+        ],
+        "name": "Rep. Elise Stefanik",
+        "screen_name": "RepStefanik"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPLeader: With every question that @RepStefanik asks, Democrats' sham impeachment gets weaker and weaker.\n\nQ: \"You testified, 'Preside\u2026",
+  "geo": null,
+  "id": 1197246789499396099,
+  "id_str": "1197246789499396099",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 12164,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 20 20:05:43 +0000 2019",
+    "display_text_range": [
+      0,
+      249
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ZnKsoBp6PD",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1197244652040138753/video/1",
+          "features": {},
+          "id": 1197244462814117889,
+          "id_str": "1197244462814117889",
+          "indices": [
+            250,
+            273
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1197244462814117889/img/-_idoi4rm-RaddbH.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1197244462814117889/img/-_idoi4rm-RaddbH.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZnKsoBp6PD"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2962813893,
+          "id_str": "2962813893",
+          "indices": [
+            25,
+            37
+          ],
+          "name": "Rep. Elise Stefanik",
+          "screen_name": "RepStefanik"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/ZnKsoBp6PD",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1197244652040138753/video/1",
+          "features": {},
+          "id": 1197244462814117889,
+          "id_str": "1197244462814117889",
+          "indices": [
+            250,
+            273
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1197244462814117889/img/-_idoi4rm-RaddbH.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1197244462814117889/img/-_idoi4rm-RaddbH.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ZnKsoBp6PD",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 70268,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1197244462814117889/vid/1280x720/PuTxGgjGzO7ij0aE.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1197244462814117889/vid/480x270/Kc7dvPa4QJUM9OBT.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1197244462814117889/vid/640x360/XB_a4uu85NHcfmy-.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1197244462814117889/pl/7cYzyuhjrPJpH1bc.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 32669,
+    "favorited": false,
+    "full_text": "With every question that @RepStefanik asks, Democrats' sham impeachment gets weaker and weaker.\n\nQ: \"You testified, 'President Trump never told me directly that the aid was conditioned on the investigations?'\"\n\nAmbassador Sondland: \"That's correct.\" https://t.co/ZnKsoBp6PD",
+    "geo": null,
+    "id": 1197244652040138753,
+    "id_str": "1197244652040138753",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12164,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.\nhttps://t.co/ZqWsqD6L0T",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/repkevinmccart\u2026",
+              "expanded_url": "https://www.instagram.com/repkevinmccarthy/",
+              "indices": [
+                100,
+                123
+              ],
+              "url": "https://t.co/ZqWsqD6L0T"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "republicanleader.gov",
+              "expanded_url": "http://republicanleader.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eB1lud6Yi3"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1810,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 498385,
+      "following": false,
+      "friends_count": 1383,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 19739126,
+      "id_str": "19739126",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4464,
+      "location": "Bakersfield, CA",
+      "name": "Kevin McCarthy",
+      "notifications": false,
+      "profile_background_color": "3B94D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1561180371",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+      "profile_link_color": "0A2644",
+      "profile_sidebar_border_color": "FF0000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "122C73",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GOPLeader",
+      "statuses_count": 11573,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eB1lud6Yi3",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66913842,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110793,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46324,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

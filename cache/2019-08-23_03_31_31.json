@@ -1,0 +1,509 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Aug 23 03:31:31 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          83,
+          90
+        ],
+        "text": "Israel"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 14839147,
+        "id_str": "14839147",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Eric Bolling\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "ericbolling"
+      },
+      {
+        "id": 435331179,
+        "id_str": "435331179",
+        "indices": [
+          31,
+          44
+        ],
+        "name": "Rashida Tlaib",
+        "screen_name": "RashidaTlaib"
+      },
+      {
+        "id": 783792992,
+        "id_str": "783792992",
+        "indices": [
+          49,
+          57
+        ],
+        "name": "Ilhan Omar",
+        "screen_name": "IlhanMN"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ericbolling: A response to @RashidaTlaib and @IlhanMN regarding our great ally #Israel \n\nShare this far and wide so that these two US R\u2026",
+  "geo": null,
+  "id": 1164741935220891649,
+  "id_str": "1164741935220891649",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1164662278542639104,
+  "quoted_status_id_str": "1164662278542639104",
+  "quoted_status_permalink": {
+    "display": "twitter.com/blazetv/status\u2026",
+    "expanded": "https://twitter.com/blazetv/status/1164662278542639104",
+    "url": "https://t.co/tflS4O0t2v"
+  },
+  "retweet_count": 3491,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 22 22:30:12 +0000 2019",
+    "display_text_range": [
+      0,
+      225
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            66,
+            73
+          ],
+          "text": "Israel"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/blazetv/status\u2026",
+          "expanded_url": "https://twitter.com/blazetv/status/1164662278542639104",
+          "indices": [
+            226,
+            249
+          ],
+          "url": "https://t.co/tflS4O0t2v"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 435331179,
+          "id_str": "435331179",
+          "indices": [
+            14,
+            27
+          ],
+          "name": "Rashida Tlaib",
+          "screen_name": "RashidaTlaib"
+        },
+        {
+          "id": 783792992,
+          "id_str": "783792992",
+          "indices": [
+            32,
+            40
+          ],
+          "name": "Ilhan Omar",
+          "screen_name": "IlhanMN"
+        }
+      ]
+    },
+    "favorite_count": 7926,
+    "favorited": false,
+    "full_text": "A response to @RashidaTlaib and @IlhanMN regarding our great ally #Israel \n\nShare this far and wide so that these two US Representatives see it. They need to think about what I\u2019ve outlined before their next publicity \u201cstunt\u201d. https://t.co/tflS4O0t2v",
+    "geo": null,
+    "id": 1164666104842805250,
+    "id_str": "1164666104842805250",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Aug 22 22:15:00 +0000 2019",
+      "display_text_range": [
+        0,
+        231
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/g4mI4mh52r",
+            "expanded_url": "https://twitter.com/BlazeTV/status/1164662278542639104/video/1",
+            "id": 1164654568971612161,
+            "id_str": "1164654568971612161",
+            "indices": [
+              232,
+              255
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECmxKvZXUAAepo3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECmxKvZXUAAepo3.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/g4mI4mh52r"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "blazetv.com/eric",
+            "expanded_url": "http://blazetv.com/eric",
+            "indices": [
+              208,
+              231
+            ],
+            "url": "https://t.co/i7H0MRu2sX"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 14839147,
+            "id_str": "14839147",
+            "indices": [
+              83,
+              95
+            ],
+            "name": "Eric Bolling\ud83c\uddfa\ud83c\uddf8",
+            "screen_name": "ericbolling"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/g4mI4mh52r",
+            "expanded_url": "https://twitter.com/BlazeTV/status/1164662278542639104/video/1",
+            "id": 1164654568971612161,
+            "id_str": "1164654568971612161",
+            "indices": [
+              232,
+              255
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECmxKvZXUAAepo3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECmxKvZXUAAepo3.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/g4mI4mh52r",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 249850,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1164654568971612161/vid/480x270/UHxym3vsMKZaVv0H.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1164654568971612161/vid/640x360/7I1mKuKkA4m3kS4M.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1164654568971612161/pl/tr7vWi6IO1I_TaE1.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1164654568971612161/vid/1280x720/Fz7G29D7sZ-aa3LC.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 1169,
+      "favorited": false,
+      "full_text": "Why does the Left refuse to condemn the hateful rhetoric of Reps. Tlaib and Omar?\n\n@EricBolling is DISGUSTED by the rise of anti-Semitism in the Democratic Party.\n\nWatch more BlazeTV FREE for 30 days ===&gt; https://t.co/i7H0MRu2sX https://t.co/g4mI4mh52r",
+      "geo": null,
+      "id": 1164662278542639104,
+      "id_str": "1164662278542639104",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 565,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 14 00:27:31 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Things are heating up! Watch @LevinTV, @GlennBeck, @SCrowder, @EricBolling, @DuckCommanderPR & many more!",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BlazeTV.com",
+                "expanded_url": "http://BlazeTV.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/PnB05lMIYX"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1899,
+        "follow_request_sent": false,
+        "followers_count": 161651,
+        "following": false,
+        "friends_count": 115,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 753385398718521344,
+        "id_str": "753385398718521344",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 764,
+        "location": "America",
+        "name": "BlazeTV",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/753385398718521344/1545792499",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1069447894749478913/0IbrEF4s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069447894749478913/0IbrEF4s_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BlazeTV",
+        "statuses_count": 20598,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/PnB05lMIYX",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1164662278542639104,
+    "quoted_status_id_str": "1164662278542639104",
+    "quoted_status_permalink": {
+      "display": "twitter.com/blazetv/status\u2026",
+      "expanded": "https://twitter.com/blazetv/status/1164662278542639104",
+      "url": "https://t.co/tflS4O0t2v"
+    },
+    "retweet_count": 3491,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 19 23:36:04 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host: \u201cAMERICA \ud83c\uddfa\ud83c\uddf8 This Week\u201d (Sinclair Broadcast) & \u201cAMericA\u201d (BlazeTV\ud83d\udd25) *NYT Bestsellers \"The Swamp\" & \u201cWake Up America\u201d Contact me: EBpublicist@gmail.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ericbolling.com",
+              "expanded_url": "http://ericbolling.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/l7cB6xeroe"
+            }
+          ]
+        }
+      },
+      "favourites_count": 19,
+      "follow_request_sent": false,
+      "followers_count": 1110819,
+      "following": false,
+      "friends_count": 841,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 14839147,
+      "id_str": "14839147",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4934,
+      "location": "DC ",
+      "name": "Eric Bolling\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14839147/1565976796",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1157719913475301377/Andl76Uy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157719913475301377/Andl76Uy_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ericbolling",
+      "statuses_count": 32469,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/l7cB6xeroe",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63373506,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107285,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43706,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

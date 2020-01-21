@@ -1,0 +1,212 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Mar 29 02:30:19 +0000 2019",
+  "display_text_range": [
+    0,
+    98
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          93,
+          98
+        ],
+        "text": "MAGA"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/KQ5hTZAXsk",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1111455513936461824/video/1",
+        "id": 1111455148608376832,
+        "id_str": "1111455148608376832",
+        "indices": [
+          99,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111455148608376832/pu/img/MGcPNoilaa6-f1de.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111455148608376832/pu/img/MGcPNoilaa6-f1de.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/KQ5hTZAXsk"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/KQ5hTZAXsk",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1111455513936461824/video/1",
+        "id": 1111455148608376832,
+        "id_str": "1111455148608376832",
+        "indices": [
+          99,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111455148608376832/pu/img/MGcPNoilaa6-f1de.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111455148608376832/pu/img/MGcPNoilaa6-f1de.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/KQ5hTZAXsk",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 26158,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1111455148608376832/pu/vid/360x640/84esN8NOAPU5Sz_t.mp4?tag=8"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1111455148608376832/pu/vid/720x1280/Qmqm7eNRRxtIX50H.mp4?tag=8"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1111455148608376832/pu/pl/1JgRB4ZJXZBtToGG.m3u8?tag=8"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1111455148608376832/pu/vid/320x568/VKFEs4UW4GYDxo00.mp4?tag=8"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 64713,
+  "favorited": false,
+  "full_text": "Massive overflow crowds in Grand Rapids, Michigan tonight. Thank you for joining us tonight! #MAGA https://t.co/KQ5hTZAXsk",
+  "geo": null,
+  "id": 1111455513936461824,
+  "id_str": "1111455513936461824",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 15991,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59396372,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101555,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41057,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

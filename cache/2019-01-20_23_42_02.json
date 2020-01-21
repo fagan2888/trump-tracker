@@ -1,0 +1,311 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jan 20 23:42:02 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          90,
+          99
+        ],
+        "text": "shutdown"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2964174789,
+        "id_str": "2964174789",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Senator Thom Tillis",
+        "screen_name": "SenThomTillis"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenThomTillis: My statement on the President\u2019s proposal to end the partial government #shutdown through a compromise on border security\u2026",
+  "geo": null,
+  "id": 1087133179927056386,
+  "id_str": "1087133179927056386",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4138,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 19 22:16:17 +0000 2019",
+    "display_text_range": [
+      0,
+      198
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            71,
+            80
+          ],
+          "text": "shutdown"
+        },
+        {
+          "indices": [
+            149,
+            154
+          ],
+          "text": "DACA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/26bRmwjHyV",
+          "expanded_url": "https://twitter.com/SenThomTillis/status/1086749210098192385/photo/1",
+          "id": 1086748663941083136,
+          "id_str": "1086748663941083136",
+          "indices": [
+            199,
+            222
+          ],
+          "media_url": "http://pbs.twimg.com/media/DxToJupWsAA9ALq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DxToJupWsAA9ALq.jpg",
+          "sizes": {
+            "large": {
+              "h": 1126,
+              "resize": "fit",
+              "w": 1064
+            },
+            "medium": {
+              "h": 1126,
+              "resize": "fit",
+              "w": 1064
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 643
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/26bRmwjHyV"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "tillis.senate.gov/public/index.c\u2026",
+          "expanded_url": "https://www.tillis.senate.gov/public/index.cfm/press-releases?id=C6BD5D63-C31F-4BE9-820D-0F04ABC4D38F",
+          "indices": [
+            175,
+            198
+          ],
+          "url": "https://t.co/HDvTbKdXPE"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/26bRmwjHyV",
+          "expanded_url": "https://twitter.com/SenThomTillis/status/1086749210098192385/photo/1",
+          "id": 1086748663941083136,
+          "id_str": "1086748663941083136",
+          "indices": [
+            199,
+            222
+          ],
+          "media_url": "http://pbs.twimg.com/media/DxToJupWsAA9ALq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DxToJupWsAA9ALq.jpg",
+          "sizes": {
+            "large": {
+              "h": 1126,
+              "resize": "fit",
+              "w": 1064
+            },
+            "medium": {
+              "h": 1126,
+              "resize": "fit",
+              "w": 1064
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 643
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/26bRmwjHyV"
+        }
+      ]
+    },
+    "favorite_count": 15517,
+    "favorited": false,
+    "full_text": "My statement on the President\u2019s proposal to end the partial government #shutdown through a compromise on border security funding and protections for #DACA and TPS recipients. https://t.co/HDvTbKdXPE https://t.co/26bRmwjHyV",
+    "geo": null,
+    "id": 1086749210098192385,
+    "id_str": "1086749210098192385",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4138,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 06 14:22:18 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of North Carolina U.S. Senator Thom Tillis.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tillis.senate.gov",
+              "expanded_url": "http://tillis.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mLVkKiULqh"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1317,
+      "follow_request_sent": false,
+      "followers_count": 70177,
+      "following": false,
+      "friends_count": 4659,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2964174789,
+      "id_str": "2964174789",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1428,
+      "location": "North Carolina, USA",
+      "name": "Senator Thom Tillis",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964174789/1545409331",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/998603484999045121/gH6xOL-n_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/998603484999045121/gH6xOL-n_normal.jpg",
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SenThomTillis",
+      "statuses_count": 3969,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mLVkKiULqh",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 57531659,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 99187,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1543104015",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40349,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

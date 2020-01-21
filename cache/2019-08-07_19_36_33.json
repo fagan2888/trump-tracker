@@ -1,0 +1,407 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Aug 07 19:36:33 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 823367015830323201,
+        "id_str": "823367015830323201",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "Scavino45"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          25,
+          41
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Scavino45: President @realDonaldTrump with the incredible medical staff at Miami Valley Hospital in Dayton, Ohio today. Some extremely\u2026",
+  "geo": null,
+  "id": 1159186586749161472,
+  "id_str": "1159186586749161472",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 13691,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 07 19:12:08 +0000 2019",
+    "display_text_range": [
+      0,
+      267
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Wpvf2zPDRd",
+          "expanded_url": "https://twitter.com/Scavino45/status/1159180442077032449/photo/1",
+          "id": 1159180421298438149,
+          "id_str": "1159180421298438149",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBY8c5oUwAUtx5z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBY8c5oUwAUtx5z.jpg",
+          "sizes": {
+            "large": {
+              "h": 786,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 786,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 522,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Wpvf2zPDRd"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Wpvf2zPDRd",
+          "expanded_url": "https://twitter.com/Scavino45/status/1159180442077032449/photo/1",
+          "id": 1159180421298438149,
+          "id_str": "1159180421298438149",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBY8c5oUwAUtx5z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBY8c5oUwAUtx5z.jpg",
+          "sizes": {
+            "large": {
+              "h": 786,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 786,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 522,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Wpvf2zPDRd"
+        },
+        {
+          "display_url": "pic.twitter.com/Wpvf2zPDRd",
+          "expanded_url": "https://twitter.com/Scavino45/status/1159180442077032449/photo/1",
+          "id": 1159180421273280512,
+          "id_str": "1159180421273280512",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBY8c5iU4AA_KYE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBY8c5iU4AA_KYE.jpg",
+          "sizes": {
+            "large": {
+              "h": 722,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 722,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 479,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Wpvf2zPDRd"
+        },
+        {
+          "display_url": "pic.twitter.com/Wpvf2zPDRd",
+          "expanded_url": "https://twitter.com/Scavino45/status/1159180442077032449/photo/1",
+          "id": 1159180421273231360,
+          "id_str": "1159180421273231360",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBY8c5iUIAA-0hD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBY8c5iUIAA-0hD.jpg",
+          "sizes": {
+            "large": {
+              "h": 535,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 535,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 355,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Wpvf2zPDRd"
+        },
+        {
+          "display_url": "pic.twitter.com/Wpvf2zPDRd",
+          "expanded_url": "https://twitter.com/Scavino45/status/1159180442077032449/photo/1",
+          "id": 1159180421273284608,
+          "id_str": "1159180421273284608",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBY8c5iU8AAqtb0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBY8c5iU8AAqtb0.jpg",
+          "sizes": {
+            "large": {
+              "h": 684,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 684,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Wpvf2zPDRd"
+        }
+      ]
+    },
+    "favorite_count": 41641,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump with the incredible medical staff at Miami Valley Hospital in Dayton, Ohio today. Some extremely powerful moments throughout the entire visit, with so much enthusiasm and love, contrary to what the Trump Hating Dems would ever share or say. https://t.co/Wpvf2zPDRd",
+    "geo": null,
+    "id": 1159180442077032449,
+    "id_str": "1159180442077032449",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13691,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 23 03:09:28 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Assistant to President @realDonaldTrump, Director of Social Media @WhiteHouse\ud83c\uddfa\ud83c\uddf8 Personal Twitter: @DanScavino",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1009,
+      "follow_request_sent": false,
+      "followers_count": 403684,
+      "following": false,
+      "friends_count": 843,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 823367015830323201,
+      "id_str": "823367015830323201",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2294,
+      "location": "1600 Pennsylvania Avenue ",
+      "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/823367015830323201/1562470456",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1135002180660977664/_jacP3pz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135002180660977664/_jacP3pz_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Scavino45",
+      "statuses_count": 4147,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 62833462,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106485,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43371,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

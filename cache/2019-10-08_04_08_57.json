@@ -1,0 +1,364 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 08 04:08:57 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "FBILovebirds.com",
+        "expanded_url": "http://FBILovebirds.com",
+        "indices": [
+          86,
+          109
+        ],
+        "url": "https://t.co/0waUPlIErW"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1128353063196958720,
+        "id_str": "1128353063196958720",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "The Ann and Phelim Scoop",
+        "screen_name": "AP_Scoop"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AP_Scoop: FBI Lovebirds premieres TONIGHT at 9PM EST!  Don't forget to sign up at https://t.co/0waUPlIErW so you see the video as soon\u2026",
+  "geo": null,
+  "id": 1181421197302611968,
+  "id_str": "1181421197302611968",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 6238,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 07 12:40:00 +0000 2019",
+    "display_text_range": [
+      0,
+      284
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wsevbTiQSf",
+          "expanded_url": "https://twitter.com/AP_Scoop/status/1181187416872218627/video/1",
+          "id": 1181049190178148353,
+          "id_str": "1181049190178148353",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1181049190178148353/img/fMsgMcF3Ydzj-83x.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1181049190178148353/img/fMsgMcF3Ydzj-83x.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wsevbTiQSf"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "FBILovebirds.com",
+          "expanded_url": "http://FBILovebirds.com",
+          "indices": [
+            72,
+            95
+          ],
+          "url": "https://t.co/0waUPlIErW"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 45033456,
+          "id_str": "45033456",
+          "indices": [
+            143,
+            159
+          ],
+          "name": "Kristy Swanson",
+          "screen_name": "KristySwansonXO"
+        },
+        {
+          "id": 581999965,
+          "id_str": "581999965",
+          "indices": [
+            166,
+            179
+          ],
+          "name": "Dean Cain",
+          "screen_name": "RealDeanCain"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            253,
+            269
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://mailchi.mp/5a82c837a6bd/fbilovebirds"
+              }
+            },
+            "description": "Go to FBILovebirds.com",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "FBI Lovebirds Premieres TONIGHT @ 9PM EST"
+          },
+          "display_url": "pic.twitter.com/wsevbTiQSf",
+          "expanded_url": "https://twitter.com/AP_Scoop/status/1181187416872218627/video/1",
+          "id": 1181049190178148353,
+          "id_str": "1181049190178148353",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1181049190178148353/img/fMsgMcF3Ydzj-83x.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1181049190178148353/img/fMsgMcF3Ydzj-83x.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 480,
+              "resize": "fit",
+              "w": 480
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/wsevbTiQSf",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 129963,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1181049190178148353/pl/BPtd3CuEnr0GxzxU.m3u8?tag=13"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1181049190178148353/vid/320x320/BDY5a0wMT_0o96F9.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1181049190178148353/vid/480x480/q-9Ko_InqUqJiCvs.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 17097,
+    "favorited": false,
+    "full_text": "FBI Lovebirds premieres TONIGHT at 9PM EST!  Don't forget to sign up at https://t.co/0waUPlIErW so you see the video as soon as it comes out!  @KristySwansonXO &amp; @RealDeanCain are FANTASTIC as they play the two FBI operatives who tried to take down @realDonaldTrump.  Sign up now! https://t.co/wsevbTiQSf",
+    "geo": null,
+    "id": 1181187416872218627,
+    "id_str": "1181187416872218627",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6238,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue May 14 17:35:08 +0000 2019",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Ann and Phelim Scoop is a media company and podcast hosted by Ann McElhinney & Phelim McAleer",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "theapscoop.com",
+              "expanded_url": "http://www.theapscoop.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/oNFOp0KLKF"
+            }
+          ]
+        }
+      },
+      "favourites_count": 531,
+      "follow_request_sent": false,
+      "followers_count": 668,
+      "following": false,
+      "friends_count": 284,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1128353063196958720,
+      "id_str": "1128353063196958720",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5,
+      "location": "Los Angeles, CA",
+      "name": "The Ann and Phelim Scoop",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128353063196958720/1561992938",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1145746223803928578/WB5acYKF_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145746223803928578/WB5acYKF_normal.png",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "AP_Scoop",
+      "statuses_count": 1143,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/oNFOp0KLKF",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65561392,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109714,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45067,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

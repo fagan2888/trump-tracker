@@ -1,0 +1,343 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 06 04:56:14 +0000 2019",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/wchs8fox11/sta\u2026",
+        "expanded_url": "https://twitter.com/wchs8fox11/status/1191937581711265794",
+        "indices": [
+          53,
+          76
+        ],
+        "url": "https://t.co/xcXIzIwylg"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 13256,
+  "favorited": false,
+  "full_text": "A lot of winning in Kentucky. Check out the numbers. https://t.co/xcXIzIwylg",
+  "geo": null,
+  "id": 1191942342879666178,
+  "id_str": "1191942342879666178",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 06 04:37:19 +0000 2019",
+    "display_text_range": [
+      0,
+      154
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            143,
+            154
+          ],
+          "text": "KyElection"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ezMHIB13rH",
+          "expanded_url": "https://twitter.com/wchs8fox11/status/1191937581711265794/video/1",
+          "features": {},
+          "id": 1191937390140678144,
+          "id_str": "1191937390140678144",
+          "indices": [
+            155,
+            178
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1191937390140678144/img/1wWcVLc4JL8Wp7A1.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1191937390140678144/img/1wWcVLc4JL8Wp7A1.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ezMHIB13rH"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2yWHuRD",
+          "expanded_url": "http://bit.ly/2yWHuRD",
+          "indices": [
+            119,
+            142
+          ],
+          "url": "https://t.co/sPthAKzc6B"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/ezMHIB13rH",
+          "expanded_url": "https://twitter.com/wchs8fox11/status/1191937581711265794/video/1",
+          "features": {},
+          "id": 1191937390140678144,
+          "id_str": "1191937390140678144",
+          "indices": [
+            155,
+            178
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1191937390140678144/img/1wWcVLc4JL8Wp7A1.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1191937390140678144/img/1wWcVLc4JL8Wp7A1.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ezMHIB13rH",
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              3
+            ],
+            "duration_millis": 10010,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1191937390140678144/pl/zDHPk6dYA60SqcYr.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1191937390140678144/vid/360x270/sAD5I-dJmwKaVnYz.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1191937390140678144/vid/480x360/30unPDKSIl9kCWwc.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1191937390140678144/vid/960x720/xrs97-dqmSv6b3b2.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 442,
+    "favorited": false,
+    "full_text": "The Kentucky gubernatorial race is still too close to call, but you can see the results of the other races here --&gt; https://t.co/sPthAKzc6B #KyElection https://t.co/ezMHIB13rH",
+    "geo": null,
+    "id": 1191937581711265794,
+    "id_str": "1191937581711265794",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 156,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Apr 17 15:21:43 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "WCHS/WVAH TV serves the Charleston-Huntington market and is West Virginia's source for news. #EyewitnessWV",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "wchstv.com",
+              "expanded_url": "http://www.wchstv.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/FmW01umzIx"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2938,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 70124,
+      "following": false,
+      "friends_count": 1828,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 32444366,
+      "id_str": "32444366",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 513,
+      "location": "Charleston, WV",
+      "name": "Eyewitness News",
+      "notifications": false,
+      "profile_background_color": "7A011C",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/32444366/1507895703",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875481076906504193/KOf4Izkh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875481076906504193/KOf4Izkh_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "wchs8fox11",
+      "statuses_count": 93057,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/FmW01umzIx",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1191937581711265794,
+  "quoted_status_id_str": "1191937581711265794",
+  "quoted_status_permalink": {
+    "display": "twitter.com/wchs8fox11/sta\u2026",
+    "expanded": "https://twitter.com/wchs8fox11/status/1191937581711265794",
+    "url": "https://t.co/xcXIzIwylg"
+  },
+  "retweet_count": 3502,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66572223,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110481,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45864,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

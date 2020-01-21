@@ -1,0 +1,238 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 03 11:22:55 +0000 2019",
+  "display_text_range": [
+    0,
+    18
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/randpaul/statu\u2026",
+        "expanded_url": "https://twitter.com/randpaul/status/1179143572202938369",
+        "indices": [
+          19,
+          42
+        ],
+        "url": "https://t.co/Uv8xgZPshu"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 39177,
+  "favorited": false,
+  "full_text": "Great job Richard! https://t.co/Uv8xgZPshu",
+  "geo": null,
+  "id": 1179718467060211713,
+  "id_str": "1179718467060211713",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 01 21:18:29 +0000 2019",
+    "display_text_range": [
+      0,
+      258
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "de.usembassy.gov/2019-savings-s\u2026",
+          "expanded_url": "https://de.usembassy.gov/2019-savings-statement-by-ambassador-grenell/",
+          "indices": [
+            235,
+            258
+          ],
+          "url": "https://t.co/W9SgQDwlHx"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 90480218,
+          "id_str": "90480218",
+          "indices": [
+            56,
+            71
+          ],
+          "name": "Richard Grenell",
+          "screen_name": "RichardGrenell"
+        },
+        {
+          "id": 9624742,
+          "id_str": "9624742",
+          "indices": [
+            223,
+            233
+          ],
+          "name": "Department of State",
+          "screen_name": "StateDept"
+        }
+      ]
+    },
+    "favorite_count": 10090,
+    "favorited": false,
+    "full_text": "$14 million under budget for Fiscal Year 2019! Props to @RichardGrenell for being responsible with taxpayer funding! This is something that needs to be replicated in every single embassy, department, and government agency! @StateDept \nhttps://t.co/W9SgQDwlHx",
+    "geo": null,
+    "id": 1179143572202938369,
+    "id_str": "1179143572202938369",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3199,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Nov 17 23:52:35 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "U.S. Senator for Kentucky | I fight for the Constitution, individual liberty and the freedoms that make this country great.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "paul.senate.gov",
+              "expanded_url": "http://paul.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/V4RkZkfWyy"
+            }
+          ]
+        }
+      },
+      "favourites_count": 854,
+      "follow_request_sent": false,
+      "followers_count": 2534469,
+      "following": false,
+      "friends_count": 492,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 216881337,
+      "id_str": "216881337",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 12794,
+      "location": "Bowling Green, KY",
+      "name": "Senator Rand Paul",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/216881337/1508431224",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RandPaul",
+      "statuses_count": 13198,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/V4RkZkfWyy",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1179143572202938369,
+  "quoted_status_id_str": "1179143572202938369",
+  "quoted_status_permalink": {
+    "display": "twitter.com/randpaul/statu\u2026",
+    "expanded": "https://twitter.com/randpaul/status/1179143572202938369",
+    "url": "https://t.co/Uv8xgZPshu"
+  },
+  "retweet_count": 9210,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65243129,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109347,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44852,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

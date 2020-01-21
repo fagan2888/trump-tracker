@@ -1,0 +1,408 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 02 13:38:19 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          14,
+          23
+        ],
+        "text": "CoastInc"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 467709997,
+        "id_str": "467709997",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "VCFD PIO",
+        "screen_name": "VCFD_PIO"
+      },
+      {
+        "id": 22829079,
+        "id_str": "22829079",
+        "indices": [
+          26,
+          31
+        ],
+        "name": "Ventura County Fire",
+        "screen_name": "VCFD"
+      },
+      {
+        "id": 15113565,
+        "id_str": "15113565",
+        "indices": [
+          120,
+          125
+        ],
+        "name": "U.S. Coast Guard",
+        "screen_name": "USCG"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @VCFD_PIO: #CoastInc:  @VCFD responded to boat fire off the north side of Santa Cruz Island at approximately 3:28am. @USCG helping suppo\u2026",
+  "geo": null,
+  "id": 1168518518947667969,
+  "id_str": "1168518518947667969",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4774,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 02 13:26:14 +0000 2019",
+    "display_text_range": [
+      0,
+      237
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "text": "CoastInc"
+        },
+        {
+          "indices": [
+            177,
+            192
+          ],
+          "text": "ChannelIslands"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DwoPGfBjtA",
+          "expanded_url": "https://twitter.com/VCFD_PIO/status/1168515477997416448/photo/1",
+          "id": 1168515473429786624,
+          "id_str": "1168515473429786624",
+          "indices": [
+            238,
+            261
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDdmocxUcAA3qlc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDdmocxUcAA3qlc.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DwoPGfBjtA"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 22829079,
+          "id_str": "22829079",
+          "indices": [
+            12,
+            17
+          ],
+          "name": "Ventura County Fire",
+          "screen_name": "VCFD"
+        },
+        {
+          "id": 15113565,
+          "id_str": "15113565",
+          "indices": [
+            106,
+            111
+          ],
+          "name": "U.S. Coast Guard",
+          "screen_name": "USCG"
+        },
+        {
+          "id": 1638815731,
+          "id_str": "1638815731",
+          "indices": [
+            193,
+            208
+          ],
+          "name": "USCG Los Angeles",
+          "screen_name": "USCGLosAngeles"
+        },
+        {
+          "id": 2983094863,
+          "id_str": "2983094863",
+          "indices": [
+            209,
+            223
+          ],
+          "name": "Ventura County",
+          "screen_name": "CountyVentura"
+        },
+        {
+          "id": 309321315,
+          "id_str": "309321315",
+          "indices": [
+            224,
+            237
+          ],
+          "name": "SB County Fire",
+          "screen_name": "SBCOUNTYFIRE"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DwoPGfBjtA",
+          "expanded_url": "https://twitter.com/VCFD_PIO/status/1168515477997416448/photo/1",
+          "id": 1168515473429786624,
+          "id_str": "1168515473429786624",
+          "indices": [
+            238,
+            261
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDdmocxUcAA3qlc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDdmocxUcAA3qlc.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DwoPGfBjtA"
+        },
+        {
+          "display_url": "pic.twitter.com/DwoPGfBjtA",
+          "expanded_url": "https://twitter.com/VCFD_PIO/status/1168515477997416448/photo/1",
+          "id": 1168515473463361538,
+          "id_str": "1168515473463361538",
+          "indices": [
+            238,
+            261
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDdmoc5UwAIvI1p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDdmoc5UwAIvI1p.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1963
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1150
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 652
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DwoPGfBjtA"
+        }
+      ]
+    },
+    "favorite_count": 16508,
+    "favorited": false,
+    "full_text": "#CoastInc:  @VCFD responded to boat fire off the north side of Santa Cruz Island at approximately 3:28am. @USCG helping support rescue operations for people aboard a dive boat. #ChannelIslands @USCGLosAngeles @CountyVentura @SBCOUNTYFIRE https://t.co/DwoPGfBjtA",
+    "geo": null,
+    "id": 1168515477997416448,
+    "id_str": "1168515477997416448",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4774,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 18 19:23:30 +0000 2012",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "The Public Information Officers of the Ventura County Fire Department. Tweeting emergency incident updates and public information relevent to Ventura County.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "vcfd.org",
+              "expanded_url": "http://vcfd.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/1tH0FolgY6"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2316,
+      "follow_request_sent": false,
+      "followers_count": 43263,
+      "following": false,
+      "friends_count": 408,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 467709997,
+      "id_str": "467709997",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 652,
+      "location": "Ventura County, CA",
+      "name": "VCFD PIO",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/467709997/1565804275",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1162061201347473409/-WDrzch7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162061201347473409/-WDrzch7_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "VCFD_PIO",
+      "statuses_count": 6426,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/1tH0FolgY6",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63957805,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108156,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44046,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

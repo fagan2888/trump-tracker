@@ -1,0 +1,481 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 09 11:47:30 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          61,
+          75
+        ],
+        "text": "MAGACHALLENGE"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "indices": [
+          101,
+          112
+        ],
+        "name": "The White House",
+        "screen_name": "WhiteHouse"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: I will be announcing the winners of the #MAGACHALLENGE and inviting them to the @WhiteHouse to meet with me and perfor\u2026",
+  "geo": null,
+  "id": 1193133005113634816,
+  "id_str": "1193133005113634816",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1172873180282871808,
+  "quoted_status_id_str": "1172873180282871808",
+  "quoted_status_permalink": {
+    "display": "twitter.com/suriusvsvodka/\u2026",
+    "expanded": "https://twitter.com/suriusvsvodka/status/1172873180282871808",
+    "url": "https://t.co/3PYzOvYz17"
+  },
+  "retweet_count": 25927,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 08 17:19:37 +0000 2019",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            54
+          ],
+          "text": "MAGACHALLENGE"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/suriusvsvodka/\u2026",
+          "expanded_url": "https://twitter.com/suriusvsvodka/status/1172873180282871808",
+          "indices": [
+            132,
+            155
+          ],
+          "url": "https://t.co/3PYzOvYz17"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            80,
+            91
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "favorite_count": 94609,
+    "favorited": false,
+    "full_text": "I will be announcing the winners of the #MAGACHALLENGE and inviting them to the @WhiteHouse to meet with me and perform. Good luck! https://t.co/3PYzOvYz17",
+    "geo": null,
+    "id": 1192854195625316352,
+    "id_str": "1192854195625316352",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Sep 14 14:02:11 +0000 2019",
+      "display_text_range": [
+        0,
+        102
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              10,
+              24
+            ],
+            "text": "MAGACHALLENGE"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vQ9cBr5XJV",
+            "expanded_url": "https://twitter.com/SuriusVsVodka/status/1172873180282871808/video/1",
+            "features": {},
+            "id": 1172873093242601474,
+            "id_str": "1172873093242601474",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172873093242601474/pu/img/Sbw4rEduoXr5S2Qy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172873093242601474/pu/img/Sbw4rEduoXr5S2Qy.jpg",
+            "sizes": {
+              "large": {
+                "h": 900,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vQ9cBr5XJV"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/vQ9cBr5XJV",
+            "expanded_url": "https://twitter.com/SuriusVsVodka/status/1172873180282871808/video/1",
+            "features": {},
+            "id": 1172873093242601474,
+            "id_str": "1172873093242601474",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172873093242601474/pu/img/Sbw4rEduoXr5S2Qy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172873093242601474/pu/img/Sbw4rEduoXr5S2Qy.jpg",
+            "sizes": {
+              "large": {
+                "h": 900,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/vQ9cBr5XJV",
+            "video_info": {
+              "aspect_ratio": [
+                4,
+                5
+              ],
+              "duration_millis": 39967,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1172873093242601474/pu/vid/720x900/2neAwxODPZQ4AJnu.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1172873093242601474/pu/vid/360x450/QpvSjObPvvv8lrxY.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1172873093242601474/pu/pl/-a8W7hs75r3arANq.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1172873093242601474/pu/vid/320x400/83131pB-yD322r_q.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 28844,
+      "favorited": false,
+      "full_text": "MAGA BOY. #MAGACHALLENGE I want y\u2019all to your own rap to it too then tag me! Lets make liberals cry! \ud83d\ude02 https://t.co/vQ9cBr5XJV",
+      "geo": null,
+      "id": 1172873180282871808,
+      "id_str": "1172873180282871808",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 9822,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 28 03:45:54 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "pronouns: coon/grifter/white supremacist/Uncle Tom/ tap dancer/boot licker \ud83d\udc4c\ud83c\udffe\ud83d\udc4c\ud83c\udffe\ud83d\udc4c\ud83c\udffeBiz: BrysonGray@BrysonGGray.com subscribe to my YouTube below \u263a\ufe0f",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/aj6LCzvod8Y",
+                "expanded_url": "https://youtu.be/aj6LCzvod8Y",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/WAsR8wj20y"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4857,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 40097,
+        "following": false,
+        "friends_count": 7093,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2945287090,
+        "id_str": "2945287090",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 106,
+        "location": "NC",
+        "name": "Bryson Gray",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2945287090/1570571154",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183452548709126144/f3CvZ1Cj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183452548709126144/f3CvZ1Cj_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SuriusVsVodka",
+        "statuses_count": 39867,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/WAsR8wj20y",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1172873180282871808,
+    "quoted_status_id_str": "1172873180282871808",
+    "quoted_status_permalink": {
+      "display": "twitter.com/suriusvsvodka/\u2026",
+      "expanded": "https://twitter.com/suriusvsvodka/status/1172873180282871808",
+      "url": "https://t.co/3PYzOvYz17"
+    },
+    "retweet_count": 25927,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 66684379,
+      "following": true,
+      "friends_count": 47,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 110582,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 45984,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66684379,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110582,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45984,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

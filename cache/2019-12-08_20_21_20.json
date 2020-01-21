@@ -1,0 +1,557 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 08 20:21:20 +0000 2019",
+  "display_text_range": [
+    0,
+    132
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/fmNnbfa5lW",
+        "expanded_url": "https://twitter.com/nypost/status/1203751678778003458/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 227,
+                "w": 227,
+                "x": 482,
+                "y": 60
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 227,
+                "w": 227,
+                "x": 482,
+                "y": 60
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 227,
+                "w": 227,
+                "x": 482,
+                "y": 60
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 128,
+                "w": 128,
+                "x": 273,
+                "y": 34
+              }
+            ]
+          }
+        },
+        "id": 1203751676701814785,
+        "id_str": "1203751676701814785",
+        "indices": [
+          109,
+          132
+        ],
+        "media_url": "http://pbs.twimg.com/media/ELSVxa-XsAEGIEH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ELSVxa-XsAEGIEH.jpg",
+        "sizes": {
+          "large": {
+            "h": 799,
+            "resize": "fit",
+            "w": 1200
+          },
+          "medium": {
+            "h": 799,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1203751678778003458,
+        "source_status_id_str": "1203751678778003458",
+        "source_user_id": 17469289,
+        "source_user_id_str": "17469289",
+        "type": "photo",
+        "url": "https://t.co/fmNnbfa5lW"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "trib.al/C4egELe",
+        "expanded_url": "https://trib.al/C4egELe",
+        "indices": [
+          85,
+          108
+        ],
+        "url": "https://t.co/xnJNUpwf1f"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 17469289,
+        "id_str": "17469289",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "New York Post",
+        "screen_name": "nypost"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/fmNnbfa5lW",
+        "expanded_url": "https://twitter.com/nypost/status/1203751678778003458/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 227,
+                "w": 227,
+                "x": 482,
+                "y": 60
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 227,
+                "w": 227,
+                "x": 482,
+                "y": 60
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 227,
+                "w": 227,
+                "x": 482,
+                "y": 60
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 128,
+                "w": 128,
+                "x": 273,
+                "y": 34
+              }
+            ]
+          }
+        },
+        "id": 1203751676701814785,
+        "id_str": "1203751676701814785",
+        "indices": [
+          109,
+          132
+        ],
+        "media_url": "http://pbs.twimg.com/media/ELSVxa-XsAEGIEH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ELSVxa-XsAEGIEH.jpg",
+        "sizes": {
+          "large": {
+            "h": 799,
+            "resize": "fit",
+            "w": 1200
+          },
+          "medium": {
+            "h": 799,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1203751678778003458,
+        "source_status_id_str": "1203751678778003458",
+        "source_user_id": 17469289,
+        "source_user_id_str": "17469289",
+        "type": "photo",
+        "url": "https://t.co/fmNnbfa5lW"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @nypost: Ted Cruz says Trump has 'authority' to investigate corruption in Ukraine https://t.co/xnJNUpwf1f https://t.co/fmNnbfa5lW",
+  "geo": null,
+  "id": 1203771565676138496,
+  "id_str": "1203771565676138496",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 4431,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 08 19:02:19 +0000 2019",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fmNnbfa5lW",
+          "expanded_url": "https://twitter.com/nypost/status/1203751678778003458/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 227,
+                  "w": 227,
+                  "x": 482,
+                  "y": 60
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 227,
+                  "w": 227,
+                  "x": 482,
+                  "y": 60
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 227,
+                  "w": 227,
+                  "x": 482,
+                  "y": 60
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 128,
+                  "w": 128,
+                  "x": 273,
+                  "y": 34
+                }
+              ]
+            }
+          },
+          "id": 1203751676701814785,
+          "id_str": "1203751676701814785",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELSVxa-XsAEGIEH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELSVxa-XsAEGIEH.jpg",
+          "sizes": {
+            "large": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fmNnbfa5lW"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "trib.al/C4egELe",
+          "expanded_url": "https://trib.al/C4egELe",
+          "indices": [
+            73,
+            96
+          ],
+          "url": "https://t.co/xnJNUpwf1f"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fmNnbfa5lW",
+          "expanded_url": "https://twitter.com/nypost/status/1203751678778003458/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 227,
+                  "w": 227,
+                  "x": 482,
+                  "y": 60
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 227,
+                  "w": 227,
+                  "x": 482,
+                  "y": 60
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 227,
+                  "w": 227,
+                  "x": 482,
+                  "y": 60
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 128,
+                  "w": 128,
+                  "x": 273,
+                  "y": 34
+                }
+              ]
+            }
+          },
+          "id": 1203751676701814785,
+          "id_str": "1203751676701814785",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELSVxa-XsAEGIEH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELSVxa-XsAEGIEH.jpg",
+          "sizes": {
+            "large": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fmNnbfa5lW"
+        }
+      ]
+    },
+    "favorite_count": 14965,
+    "favorited": false,
+    "full_text": "Ted Cruz says Trump has 'authority' to investigate corruption in Ukraine https://t.co/xnJNUpwf1f https://t.co/fmNnbfa5lW",
+    "geo": null,
+    "id": 1203751678778003458,
+    "id_str": "1203751678778003458",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4431,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Nov 18 19:46:36 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Breaking news & features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nypost.com",
+              "expanded_url": "http://www.nypost.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MwyanWdKnl"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2027,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1526200,
+      "following": false,
+      "friends_count": 11733,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 17469289,
+      "id_str": "17469289",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 18695,
+      "location": "New York, NY",
+      "name": "New York Post",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17469289/1444326181",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+      "profile_link_color": "CC3333",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "nypost",
+      "statuses_count": 279741,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/MwyanWdKnl",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67353829,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111108,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46828,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

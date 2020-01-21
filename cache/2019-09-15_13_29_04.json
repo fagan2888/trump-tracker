@@ -1,0 +1,473 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 15 13:29:04 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          127,
+          137
+        ],
+        "text": "LeadRight"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ronna McDaniel",
+        "screen_name": "GOPChairwoman"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          93,
+          109
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPChairwoman: So awesome to see all of these college students mobilizing this early for @realDonaldTrump and Republicans! #LeadRight\nh\u2026",
+  "geo": null,
+  "id": 1173227233147858950,
+  "id_str": "1173227233147858950",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1172550043120865281,
+  "quoted_status_id_str": "1172550043120865281",
+  "quoted_status_permalink": {
+    "display": "twitter.com/wisgop/status/\u2026",
+    "expanded": "https://twitter.com/wisgop/status/1172550043120865281?s=20",
+    "url": "https://t.co/j48CtYD5sO"
+  },
+  "retweet_count": 8596,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 14 21:02:54 +0000 2019",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            108,
+            118
+          ],
+          "text": "LeadRight"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/wisgop/status/\u2026",
+          "expanded_url": "https://twitter.com/wisgop/status/1172550043120865281?s=20",
+          "indices": [
+            119,
+            142
+          ],
+          "url": "https://t.co/j48CtYD5sO"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            74,
+            90
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 28210,
+    "favorited": false,
+    "full_text": "So awesome to see all of these college students mobilizing this early for @realDonaldTrump and Republicans! #LeadRight\nhttps://t.co/j48CtYD5sO",
+    "geo": null,
+    "id": 1172979057081933824,
+    "id_str": "1172979057081933824",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Sep 13 16:38:09 +0000 2019",
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              248,
+              258
+            ],
+            "text": "LeadRight"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9rl21UsYtR",
+            "expanded_url": "https://twitter.com/wisgop/status/1172550043120865281/photo/1",
+            "id": 1172549981959589893,
+            "id_str": "1172549981959589893",
+            "indices": [
+              259,
+              282
+            ],
+            "media_url": "http://pbs.twimg.com/media/EEW7_wQXkAU1kss.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EEW7_wQXkAU1kss.jpg",
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9rl21UsYtR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 729676086632656900,
+            "id_str": "729676086632656900",
+            "indices": [
+              1,
+              11
+            ],
+            "name": "Team Trump",
+            "screen_name": "TeamTrump"
+          },
+          {
+            "id": 21738726,
+            "id_str": "21738726",
+            "indices": [
+              136,
+              147
+            ],
+            "name": "GOP Badgers",
+            "screen_name": "GOPBadgers"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              178,
+              194
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9rl21UsYtR",
+            "expanded_url": "https://twitter.com/wisgop/status/1172550043120865281/photo/1",
+            "id": 1172549981959589893,
+            "id_str": "1172549981959589893",
+            "indices": [
+              259,
+              282
+            ],
+            "media_url": "http://pbs.twimg.com/media/EEW7_wQXkAU1kss.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EEW7_wQXkAU1kss.jpg",
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9rl21UsYtR"
+          }
+        ]
+      },
+      "favorite_count": 3111,
+      "favorited": false,
+      "full_text": ".@TeamTrump is working hard to engage all Americans, including students right here in Wisconsin. Last night, @KimberlyGuilfoyle visited @gopbadgers and spoke with them about how @realDonaldTrump's agenda helps young Americans achieve their dreams. #LeadRight https://t.co/9rl21UsYtR",
+      "geo": null,
+      "id": 1172550043120865281,
+      "id_str": "1172550043120865281",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1164,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 20 17:24:18 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Updates from the Republican Party of Wisconsin.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wisgop.org",
+                "expanded_url": "https://www.wisgop.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/c9mfMObtPW"
+              }
+            ]
+          }
+        },
+        "favourites_count": 38,
+        "follow_request_sent": false,
+        "followers_count": 18757,
+        "following": false,
+        "friends_count": 3093,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15182074,
+        "id_str": "15182074",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 557,
+        "location": "Wisconsin",
+        "name": "Wisconsin GOP",
+        "notifications": false,
+        "profile_background_color": "850007",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15182074/1559768230",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1117078132086005761/DOu9reuE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117078132086005761/DOu9reuE_normal.png",
+        "profile_link_color": "960000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FCFCFC",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "wisgop",
+        "statuses_count": 19822,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/c9mfMObtPW",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1172550043120865281,
+    "quoted_status_id_str": "1172550043120865281",
+    "quoted_status_permalink": {
+      "display": "twitter.com/wisgop/status/\u2026",
+      "expanded": "https://twitter.com/wisgop/status/1172550043120865281?s=20",
+      "url": "https://t.co/j48CtYD5sO"
+    },
+    "retweet_count": 8596,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5985,
+      "follow_request_sent": false,
+      "followers_count": 349863,
+      "following": false,
+      "friends_count": 2610,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2072,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1094021853272784896/kyyA04f8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094021853272784896/kyyA04f8_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 11566,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 64350917,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108509,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44305,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

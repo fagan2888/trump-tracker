@@ -1,0 +1,361 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 15 17:23:55 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 112047805,
+        "id_str": "112047805",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Brit Hume",
+        "screen_name": "brithume"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @brithume: Thread illustrating well the denial and dishonesty on the left. Some on the left are still claiming the FBI FISA goings on we\u2026",
+  "geo": null,
+  "id": 1206263631974993921,
+  "id_str": "1206263631974993921",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1204768756972560384,
+  "quoted_status_id_str": "1204768756972560384",
+  "quoted_status_permalink": {
+    "display": "twitter.com/elilake/status\u2026",
+    "expanded": "https://twitter.com/elilake/status/1204768756972560384",
+    "url": "https://t.co/bFqBHOHPUG"
+  },
+  "retweet_count": 6266,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 11 15:25:55 +0000 2019",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/elilake/status\u2026",
+          "expanded_url": "https://twitter.com/elilake/status/1204768756972560384",
+          "indices": [
+            140,
+            163
+          ],
+          "url": "https://t.co/bFqBHOHPUG"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 18150,
+    "favorited": false,
+    "full_text": "Thread illustrating well the denial and dishonesty on the left. Some on the left are still claiming the FBI FISA goings on were not abuses. https://t.co/bFqBHOHPUG",
+    "geo": null,
+    "id": 1204784384412438528,
+    "id_str": "1204784384412438528",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Dec 11 14:23:49 +0000 2019",
+      "display_text_range": [
+        0,
+        144
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/joshtpm/status\u2026",
+            "expanded_url": "https://twitter.com/joshtpm/status/1204753686469206016",
+            "indices": [
+              145,
+              168
+            ],
+            "url": "https://t.co/6698LMQ9df"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 1510,
+      "favorited": false,
+      "full_text": "Notice the intellectual dishonesty here. Acknowledging that the FBI abused the FISA process equals \u2018going full Trump\u2019. Josh is proving my point. https://t.co/6698LMQ9df",
+      "geo": null,
+      "id": 1204768756972560384,
+      "id_str": "1204768756972560384",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "place": {
+        "attributes": {},
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "id": "01fbe706f872cb32",
+        "name": "Washington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+      },
+      "possibly_sensitive": false,
+      "quoted_status_id": 1204753686469206016,
+      "quoted_status_id_str": "1204753686469206016",
+      "quoted_status_permalink": {
+        "display": "twitter.com/joshtpm/status\u2026",
+        "expanded": "https://twitter.com/joshtpm/status/1204753686469206016",
+        "url": "https://t.co/6698LMQ9df"
+      },
+      "retweet_count": 611,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 22 19:32:29 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Columnist for @Bopinion, Official/Unofficial political correspondent for @iamrapaport, cat dad.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bloombergview.com/contributors/e\u2026",
+                "expanded_url": "http://www.bloombergview.com/contributors/eli-lake",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/e8FtPl154K"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3617,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 80967,
+        "following": false,
+        "friends_count": 4841,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 34371118,
+        "id_str": "34371118",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2458,
+        "location": "District of Columbia",
+        "name": "Eli Lake",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593082000065503232/u2Yn5ftO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593082000065503232/u2Yn5ftO_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "EliLake",
+        "statuses_count": 46722,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "http://t.co/e8FtPl154K",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1204768756972560384,
+    "quoted_status_id_str": "1204768756972560384",
+    "quoted_status_permalink": {
+      "display": "twitter.com/elilake/status\u2026",
+      "expanded": "https://twitter.com/elilake/status/1204768756972560384",
+      "url": "https://t.co/bFqBHOHPUG"
+    },
+    "retweet_count": 6266,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Feb 07 02:55:13 +0000 2010",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Sr. Political Analyst, Fox News Channel. Arguments welcome. Name callers & verbal abusers blocked.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1110,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1102207,
+      "following": false,
+      "friends_count": 748,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 112047805,
+      "id_str": "112047805",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "Washington, D.C.",
+      "name": "Brit Hume",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/112047805/1542242653",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1107802138137247745/LmtJZtmY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107802138137247745/LmtJZtmY_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "brithume",
+      "statuses_count": 20912,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67589625,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111493,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47162,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

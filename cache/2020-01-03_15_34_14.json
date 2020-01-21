@@ -1,0 +1,335 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 03 15:34:14 +0000 2020",
+  "display_text_range": [
+    0,
+    104
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/NewsBreaking/s\u2026",
+        "expanded_url": "https://twitter.com/NewsBreaking/status/1212940742345125888",
+        "indices": [
+          81,
+          104
+        ],
+        "url": "https://t.co/M1LSVjsFVO"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 91882544,
+        "id_str": "91882544",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Dinesh D'Souza",
+        "screen_name": "DineshDSouza"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DineshDSouza: Neither were the Iranians, and for pretty much the same reason https://t.co/M1LSVjsFVO",
+  "geo": null,
+  "id": 1213121396831916032,
+  "id_str": "1213121396831916032",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1212940742345125888,
+  "quoted_status_id_str": "1212940742345125888",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NewsBreaking/s\u2026",
+    "expanded": "https://twitter.com/NewsBreaking/status/1212940742345125888",
+    "url": "https://t.co/M1LSVjsFVO"
+  },
+  "retweet_count": 30454,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 03 04:51:21 +0000 2020",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/NewsBreaking/s\u2026",
+          "expanded_url": "https://twitter.com/NewsBreaking/status/1212940742345125888",
+          "indices": [
+            63,
+            86
+          ],
+          "url": "https://t.co/M1LSVjsFVO"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 109791,
+    "favorited": false,
+    "full_text": "Neither were the Iranians, and for pretty much the same reason https://t.co/M1LSVjsFVO",
+    "geo": null,
+    "id": 1212959610006581248,
+    "id_str": "1212959610006581248",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jan 03 03:36:22 +0000 2020",
+      "display_text_range": [
+        0,
+        86
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 7180,
+      "favorited": false,
+      "full_text": "BREAKING: Sen. Schumer was not given advance notice of the airstrikes in Baghdad - CNN",
+      "geo": null,
+      "id": 1212940742345125888,
+      "id_str": "1212940742345125888",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 2198,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 14 06:38:11 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A LIVE Twitter news wire with Breaking News and top stories from around the world.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newsbreakinglive.com",
+                "expanded_url": "http://www.newsbreakinglive.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/SKCmqcOTyL"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3595,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 147885,
+        "following": false,
+        "friends_count": 123335,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 18112970,
+        "id_str": "18112970",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1453,
+        "location": "United States",
+        "name": "LIVE Breaking News",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18112970/1537368029",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1153198508024799232/xRV7N-1P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153198508024799232/xRV7N-1P_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NewsBreaking",
+        "statuses_count": 72306,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/SKCmqcOTyL",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1212940742345125888,
+    "quoted_status_id_str": "1212940742345125888",
+    "quoted_status_permalink": {
+      "display": "twitter.com/NewsBreaking/s\u2026",
+      "expanded": "https://twitter.com/NewsBreaking/status/1212940742345125888",
+      "url": "https://t.co/M1LSVjsFVO"
+    },
+    "retweet_count": 30454,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 22 22:32:41 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Can Trump\u2014and we\u2014save America from the Democrats a second time? \"Death of a Nation\" is available now on DVD, Blu-ray, & Digital HD!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dineshdsouza.com",
+              "expanded_url": "https://dineshdsouza.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Ui1N5fPkYw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 648,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1369843,
+      "following": false,
+      "friends_count": 5706,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 91882544,
+      "id_str": "91882544",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6473,
+      "location": "United States",
+      "name": "Dinesh D'Souza",
+      "notifications": false,
+      "profile_background_color": "252929",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/91882544/1540936118",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/890967538292711424/8puyFbiI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/890967538292711424/8puyFbiI_normal.jpg",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DineshDSouza",
+      "statuses_count": 46164,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Ui1N5fPkYw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 68612531,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 112182,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47691,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

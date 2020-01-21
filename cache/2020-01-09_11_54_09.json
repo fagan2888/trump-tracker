@@ -1,0 +1,545 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jan 09 11:54:09 +0000 2020",
+  "display_text_range": [
+    0,
+    123
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/DSJArTYvKT",
+        "expanded_url": "https://twitter.com/TeamTrump/status/1214990737068187648/video/1",
+        "features": {},
+        "id": 1214989981816627202,
+        "id_str": "1214989981816627202",
+        "indices": [
+          100,
+          123
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1214989981816627202/img/sSnSbdqdyeSrCqxo.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1214989981816627202/img/sSnSbdqdyeSrCqxo.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1214990737068187648,
+        "source_status_id_str": "1214990737068187648",
+        "source_user_id": 729676086632656900,
+        "source_user_id_str": "729676086632656900",
+        "type": "photo",
+        "url": "https://t.co/DSJArTYvKT"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 729676086632656900,
+        "id_str": "729676086632656900",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Team Trump (Text FIRST to 88022)",
+        "screen_name": "TeamTrump"
+      },
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          22,
+          34
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          82,
+          98
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "WATCH: @IvankaTrump on the Blue Collar Boom and rising wages under @realDonaldTrump!",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "can_media_tag": true,
+            "contributors_enabled": false,
+            "created_at": "Mon May 09 14:15:10 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "DonaldJTrump.com",
+                    "expanded_url": "http://www.DonaldJTrump.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/mZB2hymxC9"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 2791,
+            "follow_request_sent": false,
+            "followed_by": false,
+            "followers_count": 1389910,
+            "following": false,
+            "friends_count": 94,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 729676086632656900,
+            "id_str": "729676086632656900",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 3364,
+            "location": "USA",
+            "name": "Team Trump (Text FIRST to 88022)",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1564436211",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+            "profile_link_color": "CB0606",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "TeamTrump",
+            "statuses_count": 17363,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/mZB2hymxC9",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/DSJArTYvKT",
+        "expanded_url": "https://twitter.com/TeamTrump/status/1214990737068187648/video/1",
+        "features": {},
+        "id": 1214989981816627202,
+        "id_str": "1214989981816627202",
+        "indices": [
+          100,
+          123
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1214989981816627202/img/sSnSbdqdyeSrCqxo.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1214989981816627202/img/sSnSbdqdyeSrCqxo.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1214990737068187648,
+        "source_status_id_str": "1214990737068187648",
+        "source_user_id": 729676086632656900,
+        "source_user_id_str": "729676086632656900",
+        "type": "video",
+        "url": "https://t.co/DSJArTYvKT",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 28462,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1214989981816627202/vid/1280x720/nFOkcVxvUCUpmIyV.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1214989981816627202/vid/480x270/0VVn7Xw_LJiyVfmT.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1214989981816627202/vid/640x360/WBpN7SuC4fBNJKMv.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1214989981816627202/pl/BDNBEyWHJLgoyscv.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TeamTrump: WATCH: @IvankaTrump on the Blue Collar Boom and rising wages under @realDonaldTrump! https://t.co/DSJArTYvKT",
+  "geo": null,
+  "id": 1215240338526429185,
+  "id_str": "1215240338526429185",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 6872,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 08 19:22:19 +0000 2020",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DSJArTYvKT",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1214990737068187648/video/1",
+          "features": {},
+          "id": 1214989981816627202,
+          "id_str": "1214989981816627202",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1214989981816627202/img/sSnSbdqdyeSrCqxo.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1214989981816627202/img/sSnSbdqdyeSrCqxo.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DSJArTYvKT"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 52544275,
+          "id_str": "52544275",
+          "indices": [
+            7,
+            19
+          ],
+          "name": "Ivanka Trump",
+          "screen_name": "IvankaTrump"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            67,
+            83
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "WATCH: @IvankaTrump on the Blue Collar Boom and rising wages under @realDonaldTrump!",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/DSJArTYvKT",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1214990737068187648/video/1",
+          "features": {},
+          "id": 1214989981816627202,
+          "id_str": "1214989981816627202",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1214989981816627202/img/sSnSbdqdyeSrCqxo.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1214989981816627202/img/sSnSbdqdyeSrCqxo.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/DSJArTYvKT",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 28462,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1214989981816627202/vid/1280x720/nFOkcVxvUCUpmIyV.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1214989981816627202/vid/480x270/0VVn7Xw_LJiyVfmT.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1214989981816627202/vid/640x360/WBpN7SuC4fBNJKMv.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1214989981816627202/pl/BDNBEyWHJLgoyscv.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 30423,
+    "favorited": false,
+    "full_text": "WATCH: @IvankaTrump on the Blue Collar Boom and rising wages under @realDonaldTrump! https://t.co/DSJArTYvKT",
+    "geo": null,
+    "id": 1214990737068187648,
+    "id_str": "1214990737068187648",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6872,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon May 09 14:15:10 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hymxC9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2791,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1389910,
+      "following": false,
+      "friends_count": 94,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 729676086632656900,
+      "id_str": "729676086632656900",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3364,
+      "location": "USA",
+      "name": "Team Trump (Text FIRST to 88022)",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1564436211",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_link_color": "CB0606",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TeamTrump",
+      "statuses_count": 17363,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hymxC9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70558641,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113115,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47772,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 05 11:46:43 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 732980827,
+        "id_str": "732980827",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "CC",
+        "screen_name": "ChatByCC"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          114,
+          130
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ChatByCC: Strong people stand up for themselves\u2014but stronger people stand up for others.\n\nThank you President @realDonaldTrump for stan\u2026",
+  "geo": null,
+  "id": 1158343575027036160,
+  "id_str": "1158343575027036160",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 28787,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 07 00:45:56 +0000 2018",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/a1xGSDYQVz",
+          "expanded_url": "https://twitter.com/ChatByCC/status/1070841804122193920/photo/1",
+          "id": 1070841801077125121,
+          "id_str": "1070841801077125121",
+          "indices": [
+            146,
+            169
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dtxk8cvXcAE8m1y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dtxk8cvXcAE8m1y.jpg",
+          "sizes": {
+            "large": {
+              "h": 533,
+              "resize": "fit",
+              "w": 600
+            },
+            "medium": {
+              "h": 533,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 533,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/a1xGSDYQVz"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            100,
+            116
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/a1xGSDYQVz",
+          "expanded_url": "https://twitter.com/ChatByCC/status/1070841804122193920/photo/1",
+          "id": 1070841801077125121,
+          "id_str": "1070841801077125121",
+          "indices": [
+            146,
+            169
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dtxk8cvXcAE8m1y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dtxk8cvXcAE8m1y.jpg",
+          "sizes": {
+            "large": {
+              "h": 533,
+              "resize": "fit",
+              "w": 600
+            },
+            "medium": {
+              "h": 533,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 533,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/a1xGSDYQVz"
+        }
+      ]
+    },
+    "favorite_count": 73893,
+    "favorited": false,
+    "full_text": "Strong people stand up for themselves\u2014but stronger people stand up for others.\n\nThank you President @realDonaldTrump for standing up for America. https://t.co/a1xGSDYQVz",
+    "geo": null,
+    "id": 1070841804122193920,
+    "id_str": "1070841804122193920",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 28787,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Aug 02 14:55:41 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President Trump loves America as much as I do. It\u2019s our duty to leave our Country-to our children-better than we found it\u2014Views are my own. #TRUMP2020",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "promiseskept.com/#",
+              "expanded_url": "https://www.promiseskept.com/#",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UExPr88TDO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 125603,
+      "follow_request_sent": false,
+      "followers_count": 295465,
+      "following": false,
+      "friends_count": 33916,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 732980827,
+      "id_str": "732980827",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1508,
+      "location": "Trump\u2019s America",
+      "name": "CC",
+      "notifications": false,
+      "profile_background_color": "163182",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/732980827/1554339473",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1155991691448295425/KyMveH53_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155991691448295425/KyMveH53_normal.jpg",
+      "profile_link_color": "A80202",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ChatByCC",
+      "statuses_count": 393527,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/UExPr88TDO",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 62739538,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106361,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43331,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

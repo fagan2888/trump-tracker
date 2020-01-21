@@ -1,0 +1,415 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Sep 14 21:42:32 +0000 2018",
+  "display_text_range": [
+    0,
+    148
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16669075,
+        "id_str": "16669075",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "FEMA",
+        "screen_name": "fema"
+      },
+      {
+        "id": 16669075,
+        "id_str": "16669075",
+        "indices": [
+          21,
+          26
+        ],
+        "name": "FEMA",
+        "screen_name": "fema"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @fema: Over 1,150 @FEMA Urban Search and Rescue personnel are integrated with state &amp; local teams in NC, SC, &amp; VA to help with rescues a\u2026",
+  "geo": null,
+  "id": 1040717457953050625,
+  "id_str": "1040717457953050625",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4334,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 14 20:42:56 +0000 2018",
+    "display_text_range": [
+      0,
+      291
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            142,
+            151
+          ],
+          "text": "Florence"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/w5WUKE9CTU",
+          "expanded_url": "https://twitter.com/fema/status/1040702460388667412/photo/1",
+          "id": 1040701668076212224,
+          "id_str": "1040701668076212224",
+          "indices": [
+            292,
+            315
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnFQpzrW0AAlF9C.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnFQpzrW0AAlF9C.jpg",
+          "sizes": {
+            "large": {
+              "h": 1512,
+              "resize": "fit",
+              "w": 2016
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/w5WUKE9CTU"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 16669075,
+          "id_str": "16669075",
+          "indices": [
+            11,
+            16
+          ],
+          "name": "FEMA",
+          "screen_name": "fema"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/w5WUKE9CTU",
+          "expanded_url": "https://twitter.com/fema/status/1040702460388667412/photo/1",
+          "id": 1040701668076212224,
+          "id_str": "1040701668076212224",
+          "indices": [
+            292,
+            315
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnFQpzrW0AAlF9C.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnFQpzrW0AAlF9C.jpg",
+          "sizes": {
+            "large": {
+              "h": 1512,
+              "resize": "fit",
+              "w": 2016
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/w5WUKE9CTU"
+        },
+        {
+          "display_url": "pic.twitter.com/w5WUKE9CTU",
+          "expanded_url": "https://twitter.com/fema/status/1040702460388667412/photo/1",
+          "id": 1040701667988131840,
+          "id_str": "1040701667988131840",
+          "indices": [
+            292,
+            315
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnFQpzWW0AAL1Dr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnFQpzWW0AAL1Dr.jpg",
+          "sizes": {
+            "large": {
+              "h": 800,
+              "resize": "fit",
+              "w": 600
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/w5WUKE9CTU"
+        },
+        {
+          "display_url": "pic.twitter.com/w5WUKE9CTU",
+          "expanded_url": "https://twitter.com/fema/status/1040702460388667412/photo/1",
+          "id": 1040701667988201476,
+          "id_str": "1040701667988201476",
+          "indices": [
+            292,
+            315
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnFQpzWX4AQJ78d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnFQpzWX4AQJ78d.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/w5WUKE9CTU"
+        },
+        {
+          "display_url": "pic.twitter.com/w5WUKE9CTU",
+          "expanded_url": "https://twitter.com/fema/status/1040702460388667412/photo/1",
+          "id": 1040701667988201473,
+          "id_str": "1040701667988201473",
+          "indices": [
+            292,
+            315
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnFQpzWX4AERDJG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnFQpzWX4AERDJG.jpg",
+          "sizes": {
+            "large": {
+              "h": 736,
+              "resize": "fit",
+              "w": 1000
+            },
+            "medium": {
+              "h": 736,
+              "resize": "fit",
+              "w": 1000
+            },
+            "small": {
+              "h": 500,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/w5WUKE9CTU"
+        }
+      ]
+    },
+    "favorite_count": 16221,
+    "favorited": false,
+    "full_text": "Over 1,150 @FEMA Urban Search and Rescue personnel are integrated with state &amp; local teams in NC, SC, &amp; VA to help with rescues after #Florence. The teams came from all over the country this week, traveling long distances with equipment &amp; K-9 partners to arrive before the storm. https://t.co/w5WUKE9CTU",
+    "geo": null,
+    "id": 1040702460388667412,
+    "id_str": "1040702460388667412",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4334,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 09 16:54:20 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Our story of supporting citizens & first responders before, during, and after emergencies. For emergencies, call your local fire/EMS/police or 9-1-1.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fema.gov",
+              "expanded_url": "http://www.fema.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pJoesev0fm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3034,
+      "follow_request_sent": false,
+      "followers_count": 717760,
+      "following": false,
+      "friends_count": 678,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16669075,
+      "id_str": "16669075",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10745,
+      "location": "United States",
+      "name": "FEMA",
+      "notifications": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16669075/1530889653",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_link_color": "2A91B0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DCDCE0",
+      "profile_text_color": "65686E",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fema",
+      "statuses_count": 14622,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pJoesev0fm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54450780,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93646,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38955,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

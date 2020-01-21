@@ -1,0 +1,401 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 10 12:49:08 +0000 2018",
+  "display_text_range": [
+    0,
+    126
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          85,
+          102
+        ],
+        "text": "HurricaneMichael"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Ljk8boFaSw",
+        "expanded_url": "https://twitter.com/FLSERT/status/1049760105741393920/photo/1",
+        "id": 1049760103241588737,
+        "id_str": "1049760103241588737",
+        "indices": [
+          103,
+          126
+        ],
+        "media_url": "http://pbs.twimg.com/media/DpF_QIUXoAECXn1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DpF_QIUXoAECXn1.jpg",
+        "sizes": {
+          "large": {
+            "h": 1073,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 629,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 356,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1049760105741393920,
+        "source_status_id_str": "1049760105741393920",
+        "source_user_id": 71245831,
+        "source_user_id_str": "71245831",
+        "type": "photo",
+        "url": "https://t.co/Ljk8boFaSw"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "floridadisaster.org/info/",
+        "expanded_url": "https://www.floridadisaster.org/info/",
+        "indices": [
+          61,
+          84
+        ],
+        "url": "https://t.co/Hop887IoiC"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 71245831,
+        "id_str": "71245831",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Florida SERT",
+        "screen_name": "FLSERT"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Ljk8boFaSw",
+        "expanded_url": "https://twitter.com/FLSERT/status/1049760105741393920/photo/1",
+        "id": 1049760103241588737,
+        "id_str": "1049760103241588737",
+        "indices": [
+          103,
+          126
+        ],
+        "media_url": "http://pbs.twimg.com/media/DpF_QIUXoAECXn1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DpF_QIUXoAECXn1.jpg",
+        "sizes": {
+          "large": {
+            "h": 1073,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 629,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 356,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1049760105741393920,
+        "source_status_id_str": "1049760105741393920",
+        "source_user_id": 71245831,
+        "source_user_id_str": "71245831",
+        "type": "photo",
+        "url": "https://t.co/Ljk8boFaSw"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FLSERT: Hurricane shelter locations are accessible from: https://t.co/Hop887IoiC #HurricaneMichael https://t.co/Ljk8boFaSw",
+  "geo": null,
+  "id": 1050005309467611136,
+  "id_str": "1050005309467611136",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 2781,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 09 20:34:47 +0000 2018",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            73,
+            90
+          ],
+          "text": "HurricaneMichael"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ljk8boFaSw",
+          "expanded_url": "https://twitter.com/FLSERT/status/1049760105741393920/photo/1",
+          "id": 1049760103241588737,
+          "id_str": "1049760103241588737",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpF_QIUXoAECXn1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpF_QIUXoAECXn1.jpg",
+          "sizes": {
+            "large": {
+              "h": 1073,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 629,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 356,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ljk8boFaSw"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "floridadisaster.org/info/",
+          "expanded_url": "https://www.floridadisaster.org/info/",
+          "indices": [
+            49,
+            72
+          ],
+          "url": "https://t.co/Hop887IoiC"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ljk8boFaSw",
+          "expanded_url": "https://twitter.com/FLSERT/status/1049760105741393920/photo/1",
+          "id": 1049760103241588737,
+          "id_str": "1049760103241588737",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpF_QIUXoAECXn1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpF_QIUXoAECXn1.jpg",
+          "sizes": {
+            "large": {
+              "h": 1073,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 629,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 356,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ljk8boFaSw"
+        }
+      ]
+    },
+    "favorite_count": 9014,
+    "favorited": false,
+    "full_text": "Hurricane shelter locations are accessible from: https://t.co/Hop887IoiC #HurricaneMichael https://t.co/Ljk8boFaSw",
+    "geo": null,
+    "id": 1049760105741393920,
+    "id_str": "1049760105741393920",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2781,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Sep 03 12:56:31 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The FL Division of Emergency Management is the lead consequence management agency for the State Emergency Response Team (SERT).  For local emergency, call 911.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "floridadisaster.org",
+              "expanded_url": "http://www.floridadisaster.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/B7c0MqhnrJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1162,
+      "follow_request_sent": false,
+      "followers_count": 30258,
+      "following": false,
+      "friends_count": 839,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 71245831,
+      "id_str": "71245831",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1181,
+      "location": "Florida",
+      "name": "Florida SERT",
+      "notifications": false,
+      "profile_background_color": "C9DDF0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/71245831/1496849007",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/771173682668457985/KlAaebxw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/771173682668457985/KlAaebxw_normal.jpg",
+      "profile_link_color": "0057B3",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FLSERT",
+      "statuses_count": 9756,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/B7c0MqhnrJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55028490,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39236,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

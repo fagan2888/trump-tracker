@@ -1,0 +1,401 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 10 01:38:01 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "The White House",
+        "screen_name": "WhiteHouse"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          26,
+          42
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 40918816,
+        "id_str": "40918816",
+        "indices": [
+          94,
+          101
+        ],
+        "name": "Boston Red Sox",
+        "screen_name": "RedSox"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @WhiteHouse: President @realDonaldTrump hosted the 2018 World Series Champions, the Boston @RedSox, at the White House! https://t.co/68f\u2026",
+  "geo": null,
+  "id": 1126662643677319168,
+  "id_str": "1126662643677319168",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3125,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 09 23:32:03 +0000 2019",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/68fDd6Mu8U",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1126630945505853441/photo/1",
+          "id": 1126630932633587712,
+          "id_str": "1126630932633587712",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6KY3TSXkAAdZgx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6KY3TSXkAAdZgx.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/68fDd6Mu8U"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 40918816,
+          "id_str": "40918816",
+          "indices": [
+            78,
+            85
+          ],
+          "name": "Boston Red Sox",
+          "screen_name": "RedSox"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/68fDd6Mu8U",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1126630945505853441/photo/1",
+          "id": 1126630932633587712,
+          "id_str": "1126630932633587712",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6KY3TSXkAAdZgx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6KY3TSXkAAdZgx.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/68fDd6Mu8U"
+        },
+        {
+          "display_url": "pic.twitter.com/68fDd6Mu8U",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1126630945505853441/photo/1",
+          "id": 1126630937373171712,
+          "id_str": "1126630937373171712",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6KY3k8X4AA3frT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6KY3k8X4AA3frT.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/68fDd6Mu8U"
+        },
+        {
+          "display_url": "pic.twitter.com/68fDd6Mu8U",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1126630945505853441/photo/1",
+          "id": 1126630941504475136,
+          "id_str": "1126630941504475136",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6KY30VWkAAMbIB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6KY30VWkAAMbIB.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/68fDd6Mu8U"
+        }
+      ]
+    },
+    "favorite_count": 13779,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump hosted the 2018 World Series Champions, the Boston @RedSox, at the White House! https://t.co/68fDd6Mu8U",
+    "geo": null,
+    "id": 1126630945505853441,
+    "id_str": "1126630945505853441",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3125,
+    "retweeted": false,
+    "source": "<a href=\"https://www.whitehouse.gov/\" rel=\"nofollow\">WH Digital</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "whitehouse.gov/privacy",
+              "expanded_url": "http://whitehouse.gov/privacy",
+              "indices": [
+                126,
+                149
+              ],
+              "url": "https://t.co/IURuMIrzxb"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13,
+      "follow_request_sent": false,
+      "followers_count": 18486152,
+      "following": false,
+      "friends_count": 12,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 822215673812119553,
+      "id_str": "822215673812119553",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10437,
+      "location": "Washington, D.C.",
+      "name": "The White House",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WhiteHouse",
+      "statuses_count": 8213,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60135530,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102778,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41718,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

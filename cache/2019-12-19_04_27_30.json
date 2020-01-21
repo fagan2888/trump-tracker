@@ -1,0 +1,341 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 04:27:30 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 131546062,
+        "id_str": "131546062",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Rick Scott",
+        "screen_name": "SenRickScott"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          73,
+          89
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenRickScott: The House Democrats just spent a month confirming that @realDonaldTrump did nothing wrong and that this impeachment circu\u2026",
+  "geo": null,
+  "id": 1207517789079998465,
+  "id_str": "1207517789079998465",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7077,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 19 03:15:03 +0000 2019",
+    "display_text_range": [
+      0,
+      271
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rtFIbTdMKX",
+          "expanded_url": "https://twitter.com/SenRickScott/status/1207499555983495168/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1207499551680192512,
+          "id_str": "1207499551680192512",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMHmcdRXYAAnr9a.png",
+          "media_url_https": "https://pbs.twimg.com/media/EMHmcdRXYAAnr9a.png",
+          "sizes": {
+            "large": {
+              "h": 293,
+              "resize": "fit",
+              "w": 994
+            },
+            "medium": {
+              "h": 293,
+              "resize": "fit",
+              "w": 994
+            },
+            "small": {
+              "h": 200,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rtFIbTdMKX"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            55,
+            71
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rtFIbTdMKX",
+          "expanded_url": "https://twitter.com/SenRickScott/status/1207499555983495168/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1207499551680192512,
+          "id_str": "1207499551680192512",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMHmcdRXYAAnr9a.png",
+          "media_url_https": "https://pbs.twimg.com/media/EMHmcdRXYAAnr9a.png",
+          "sizes": {
+            "large": {
+              "h": 293,
+              "resize": "fit",
+              "w": 994
+            },
+            "medium": {
+              "h": 293,
+              "resize": "fit",
+              "w": 994
+            },
+            "small": {
+              "h": 200,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rtFIbTdMKX"
+        }
+      ]
+    },
+    "favorite_count": 23655,
+    "favorited": false,
+    "full_text": "The House Democrats just spent a month confirming that @realDonaldTrump did nothing wrong and that this impeachment circus is nothing but partisan politics. \n\nToday\u2019s vote only solidifies how little the Democrats care about what\u2019s really important to the American people. https://t.co/rtFIbTdMKX",
+    "geo": null,
+    "id": 1207499555983495168,
+    "id_str": "1207499555983495168",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7077,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat Apr 10 16:03:04 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Senator from the great state of Florida. Fighting for Florida families and to Make Washington Work. #LetsGetToWork\nhttps://t.co/t2TJJ5tras",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/flsenrickscott",
+              "expanded_url": "http://instagram.com/flsenrickscott",
+              "indices": [
+                115,
+                138
+              ],
+              "url": "https://t.co/t2TJJ5tras"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "rickscott.senate.gov",
+              "expanded_url": "http://www.rickscott.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/sHIJdrhtn1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 18,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 298589,
+      "following": false,
+      "friends_count": 2816,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 131546062,
+      "id_str": "131546062",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3621,
+      "location": "The Sunshine State",
+      "name": "Rick Scott",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/131546062/1548253495",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenRickScott",
+      "statuses_count": 15328,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/sHIJdrhtn1",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

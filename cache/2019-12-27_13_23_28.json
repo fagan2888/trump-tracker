@@ -1,0 +1,467 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 27 13:23:28 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          55,
+          69
+        ],
+        "text": "FoxAndFriends"
+      },
+      {
+        "indices": [
+          70,
+          81
+        ],
+        "text": "MorningJoe"
+      },
+      {
+        "indices": [
+          82,
+          99
+        ],
+        "text": "MondayMotivation"
+      },
+      {
+        "indices": [
+          100,
+          115
+        ],
+        "text": "mondaythoughts"
+      },
+      {
+        "indices": [
+          116,
+          121
+        ],
+        "text": "Tcot"
+      },
+      {
+        "indices": [
+          122,
+          130
+        ],
+        "text": "KAG2020"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 877699334,
+        "id_str": "877699334",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Rad123",
+        "screen_name": "Tombx7M"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Tombx7M: Don\u2019t you agree\nPray for this President \n\n#FoxAndFriends #MorningJoe #MondayMotivation\n#mondaythoughts #Tcot #KAG2020 #Trump20\u2026",
+  "geo": null,
+  "id": 1210551775608164353,
+  "id_str": "1210551775608164353",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 22138,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 23 10:39:21 +0000 2019",
+    "display_text_range": [
+      0,
+      173
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            42,
+            56
+          ],
+          "text": "FoxAndFriends"
+        },
+        {
+          "indices": [
+            57,
+            68
+          ],
+          "text": "MorningJoe"
+        },
+        {
+          "indices": [
+            69,
+            86
+          ],
+          "text": "MondayMotivation"
+        },
+        {
+          "indices": [
+            87,
+            102
+          ],
+          "text": "mondaythoughts"
+        },
+        {
+          "indices": [
+            103,
+            108
+          ],
+          "text": "Tcot"
+        },
+        {
+          "indices": [
+            109,
+            117
+          ],
+          "text": "KAG2020"
+        },
+        {
+          "indices": [
+            118,
+            128
+          ],
+          "text": "Trump2020"
+        },
+        {
+          "indices": [
+            130,
+            138
+          ],
+          "text": "WWG1WGA"
+        },
+        {
+          "indices": [
+            139,
+            146
+          ],
+          "text": "Cult45"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hyNCNOFh8U",
+          "expanded_url": "https://twitter.com/Serremmy/status/1157314361179820037/video/1",
+          "features": {},
+          "id": 1157314082476707841,
+          "id_str": "1157314082476707841",
+          "indices": [
+            150,
+            173
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157314082476707841/pu/img/oY-raT9CJob48r8l.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157314082476707841/pu/img/oY-raT9CJob48r8l.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1157314361179820037,
+          "source_status_id_str": "1157314361179820037",
+          "source_user_id": 3696345736,
+          "source_user_id_str": "3696345736",
+          "type": "photo",
+          "url": "https://t.co/hyNCNOFh8U"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Fri Sep 18 12:07:37 +0000 2015",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Vietnamese-born, escaped from communism at 7, #WalkAway in 2017, proud American, here to promote #MAGA, \ud83d\udc96Trump\ud83d\udc96, \u2728Parler: @Serremmy\u2728\ud83c\uddfa\ud83c\uddf8 IFB MAGA\ud83c\uddfa\ud83c\uddf8",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 41148,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 107307,
+              "following": false,
+              "friends_count": 104864,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 3696345736,
+              "id_str": "3696345736",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 45,
+              "location": "USA",
+              "name": "\ud83d\udcabEmmy\ud83d\udcab",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3696345736/1557971229",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1081303791025045504/LsCUus3l_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081303791025045504/LsCUus3l_normal.jpg",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "Serremmy",
+              "statuses_count": 38597,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/hyNCNOFh8U",
+          "expanded_url": "https://twitter.com/Serremmy/status/1157314361179820037/video/1",
+          "features": {},
+          "id": 1157314082476707841,
+          "id_str": "1157314082476707841",
+          "indices": [
+            150,
+            173
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157314082476707841/pu/img/oY-raT9CJob48r8l.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157314082476707841/pu/img/oY-raT9CJob48r8l.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1157314361179820037,
+          "source_status_id_str": "1157314361179820037",
+          "source_user_id": 3696345736,
+          "source_user_id_str": "3696345736",
+          "type": "video",
+          "url": "https://t.co/hyNCNOFh8U",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 137500,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157314082476707841/pu/vid/320x320/c24bRyyw17DyfJEw.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1157314082476707841/pu/pl/8kuy9fV3t9JCilN0.m3u8?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157314082476707841/pu/vid/720x720/8C0AlohW3weZQ6pk.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157314082476707841/pu/vid/480x480/emlLJ_VOmDPbWDVw.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 54232,
+    "favorited": false,
+    "full_text": "Don\u2019t you agree\nPray for this President \n\n#FoxAndFriends #MorningJoe #MondayMotivation\n#mondaythoughts #Tcot #KAG2020 #Trump2020 \n#WWG1WGA #Cult45 \n\n https://t.co/hyNCNOFh8U",
+    "geo": null,
+    "id": 1209060921269784577,
+    "id_str": "1209060921269784577",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 22138,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Sat Oct 13 12:17:37 +0000 2012",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "#Catholic #ProLife #MAGA #KAG #Tcot #Ccot  don\u2019t have all of the answers and neither do you, but we deserve the right to ask the questions.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 16670,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 46542,
+      "following": false,
+      "friends_count": 35368,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 877699334,
+      "id_str": "877699334",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 247,
+      "location": "",
+      "name": "Rad123",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/877699334/1370080451",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3739936650/73c60bbc91f13152f9f51d93de650b04_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3739936650/73c60bbc91f13152f9f51d93de650b04_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Tombx7M",
+      "statuses_count": 200050,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67991008,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111802,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47528,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

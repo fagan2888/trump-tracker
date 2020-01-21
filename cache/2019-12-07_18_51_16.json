@@ -1,0 +1,358 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 07 18:51:16 +0000 2019",
+  "display_text_range": [
+    0,
+    141
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/usembassybern/\u2026",
+        "expanded_url": "https://twitter.com/usembassybern/status/1203337505552109568",
+        "indices": [
+          142,
+          165
+        ],
+        "url": "https://t.co/2kWgJhvrtY"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 53052,
+  "favorited": false,
+  "full_text": "The United States will not rest until we bring every American wrongfully detained in Iran and around the world back home to their loved ones! https://t.co/2kWgJhvrtY",
+  "geo": null,
+  "id": 1203386510407602176,
+  "id_str": "1203386510407602176",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 07 15:36:32 +0000 2019",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0h16ESfmRF",
+          "expanded_url": "https://twitter.com/USEmbassyBern/status/1203337505552109568/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1203337501693415424,
+          "id_str": "1203337501693415424",
+          "indices": [
+            151,
+            174
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELMdFQ1XkAANPyu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELMdFQ1XkAANPyu.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0h16ESfmRF"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 814031694353338368,
+          "id_str": "814031694353338368",
+          "indices": [
+            24,
+            33
+          ],
+          "name": "Swiss MFA",
+          "screen_name": "SwissMFA"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            64,
+            70
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 943817142927052800,
+          "id_str": "943817142927052800",
+          "indices": [
+            130,
+            144
+          ],
+          "name": "Free Xiyue Wang",
+          "screen_name": "FreeXiyueWang"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0h16ESfmRF",
+          "expanded_url": "https://twitter.com/USEmbassyBern/status/1203337505552109568/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1203337501693415424,
+          "id_str": "1203337501693415424",
+          "indices": [
+            151,
+            174
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELMdFQ1XkAANPyu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELMdFQ1XkAANPyu.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0h16ESfmRF"
+        }
+      ]
+    },
+    "favorite_count": 5444,
+    "favorited": false,
+    "full_text": "Thank you to the Swiss (@SwissMFA) for helping President Trump (@POTUS) deliver on his commitment to bringing all Americans home. @freeXiyueWang (1/2) https://t.co/0h16ESfmRF",
+    "geo": null,
+    "id": 1203337505552109568,
+    "id_str": "1203337505552109568",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1837,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 29 13:00:01 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official account of the Embassy of the United States to\ud83c\udde8\ud83c\udded+ \ud83c\uddf1\ud83c\uddee. Retweets \u2260 endorsements. Our terms and conditions: https://t.co/jr5YxakSWn",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "goo.gl/4VHWtV",
+              "expanded_url": "https://goo.gl/4VHWtV",
+              "indices": [
+                118,
+                141
+              ],
+              "url": "https://t.co/jr5YxakSWn"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ch.usembassy.gov",
+              "expanded_url": "http://ch.usembassy.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/P13m34yUij"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1944,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 11583,
+      "following": false,
+      "friends_count": 2583,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 127512810,
+      "id_str": "127512810",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 353,
+      "location": "Berne, Switzerland",
+      "name": "U.S. Embassy Bern",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/127512810/1566999849",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1165923618049671168/m4XWZDCu_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165923618049671168/m4XWZDCu_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USEmbassyBern",
+      "statuses_count": 7432,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/P13m34yUij",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1203337505552109568,
+  "quoted_status_id_str": "1203337505552109568",
+  "quoted_status_permalink": {
+    "display": "twitter.com/usembassybern/\u2026",
+    "expanded": "https://twitter.com/usembassybern/status/1203337505552109568",
+    "url": "https://t.co/2kWgJhvrtY"
+  },
+  "retweet_count": 14781,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67333569,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111110,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46723,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

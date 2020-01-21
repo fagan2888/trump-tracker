@@ -1,0 +1,305 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 17 09:39:15 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          127,
+          136
+        ],
+        "text": "Florence"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 908090677,
+        "id_str": "908090677",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "FEMA en espa\u00f1ol",
+        "screen_name": "FEMAespanol"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FEMAespanol: Por favor comparta este mensaje de seguridad y exhorte a todos estar pendientes a las predicciones del clima. #Florence co\u2026",
+  "geo": null,
+  "id": 1041622600403898368,
+  "id_str": "1041622600403898368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "es",
+  "place": null,
+  "retweet_count": 1500,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 15 21:01:42 +0000 2018",
+    "display_text_range": [
+      0,
+      257
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            110,
+            119
+          ],
+          "text": "Florence"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NAgIA4UWzl",
+          "expanded_url": "https://twitter.com/FEMAespanol/status/1041069568914083840/video/1",
+          "id": 1040616643318173699,
+          "id_str": "1040616643318173699",
+          "indices": [
+            258,
+            281
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1040616643318173699/img/_G5RAtAFsN3FGBgq.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1040616643318173699/img/_G5RAtAFsN3FGBgq.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NAgIA4UWzl"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.ready.gov/es/inundaciones"
+              }
+            },
+            "description": "Las inundaciones tierra adentro representan un peligro mayor que puede ocurrir durante un hurac\u00e1n. Se espera que el Hurac\u00e1n Florence cause fuerte lluvias, posiblemente catastr\u00f3ficas.",
+            "embeddable": false,
+            "monetizable": false,
+            "title": "Aviso de Inundaciones Tierra Adentro por el Hurac\u00e1n Florence"
+          },
+          "display_url": "pic.twitter.com/NAgIA4UWzl",
+          "expanded_url": "https://twitter.com/FEMAespanol/status/1041069568914083840/video/1",
+          "id": 1040616643318173699,
+          "id_str": "1040616643318173699",
+          "indices": [
+            258,
+            281
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1040616643318173699/img/_G5RAtAFsN3FGBgq.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1040616643318173699/img/_G5RAtAFsN3FGBgq.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NAgIA4UWzl"
+        }
+      ]
+    },
+    "favorite_count": 7109,
+    "favorited": false,
+    "full_text": "Por favor comparta este mensaje de seguridad y exhorte a todos estar pendientes a las predicciones del clima. #Florence contin\u00faa movi\u00e9ndose lentamente, causando inundaciones extremadamente peligrosas, mientras sigue impactando con lluvias en su trayectoria. https://t.co/NAgIA4UWzl",
+    "geo": null,
+    "id": 1041069568914083840,
+    "id_str": "1041069568914083840",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1500,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Oct 27 13:07:55 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Este canal brinda informaci\u00f3n sobre la misi\u00f3n de FEMA. Para emergencias llame a los bomberos, al sistema de manejo de emergencias o al 9-1-1",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fema.gov/es",
+              "expanded_url": "http://www.fema.gov/es",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OjnynvYcxM"
+            }
+          ]
+        }
+      },
+      "favourites_count": 303,
+      "follow_request_sent": false,
+      "followers_count": 10424,
+      "following": false,
+      "friends_count": 311,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 908090677,
+      "id_str": "908090677",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 292,
+      "location": "United States",
+      "name": "FEMA en espa\u00f1ol",
+      "notifications": false,
+      "profile_background_color": "F0F3F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/908090677/1504371391",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2771900622/b336a4bc5bf72fbf5ddf4387e2c28f48_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2771900622/b336a4bc5bf72fbf5ddf4387e2c28f48_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "FEMAespanol",
+      "statuses_count": 2988,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/OjnynvYcxM",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54506072,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93702,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39003,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

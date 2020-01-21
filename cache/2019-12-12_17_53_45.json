@@ -1,0 +1,724 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 12 17:53:45 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          118,
+          130
+        ],
+        "text": "impeachment"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22508473,
+        "id_str": "22508473",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Oversight Committee Republicans",
+        "screen_name": "GOPoversight"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPoversight: President Trump is working to improve the lives of all Americans. \n\nDemocrats are solely focused on #impeachment. \n\nYou d\u2026",
+  "geo": null,
+  "id": 1205183973338562561,
+  "id_str": "1205183973338562561",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1205158237936521218,
+  "quoted_status_id_str": "1205158237936521218",
+  "quoted_status_permalink": {
+    "display": "twitter.com/repdougcollins\u2026",
+    "expanded": "https://twitter.com/repdougcollins/status/1205158237936521218",
+    "url": "https://t.co/G365W6k9Yx"
+  },
+  "retweet_count": 4971,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 12 17:36:39 +0000 2019",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            100,
+            112
+          ],
+          "text": "impeachment"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/repdougcollins\u2026",
+          "expanded_url": "https://twitter.com/repdougcollins/status/1205158237936521218",
+          "indices": [
+            148,
+            171
+          ],
+          "url": "https://t.co/G365W6k9Yx"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 14250,
+    "favorited": false,
+    "full_text": "President Trump is working to improve the lives of all Americans. \n\nDemocrats are solely focused on #impeachment. \n\nYou decide what\u2019s best for you. https://t.co/G365W6k9Yx",
+    "geo": null,
+    "id": 1205179670850932736,
+    "id_str": "1205179670850932736",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Dec 12 16:11:29 +0000 2019",
+      "display_text_range": [
+        0,
+        186
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              175,
+              186
+            ],
+            "text": "Priorities"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/e9XCg1podD",
+            "expanded_url": "https://twitter.com/RepDougCollins/status/1205158237936521218/photo/1",
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 93,
+                    "w": 93,
+                    "x": 1240,
+                    "y": 539
+                  },
+                  {
+                    "h": 121,
+                    "w": 121,
+                    "x": 625,
+                    "y": 20
+                  },
+                  {
+                    "h": 136,
+                    "w": 136,
+                    "x": 266,
+                    "y": 53
+                  },
+                  {
+                    "h": 123,
+                    "w": 123,
+                    "x": 618,
+                    "y": 456
+                  },
+                  {
+                    "h": 140,
+                    "w": 140,
+                    "x": 300,
+                    "y": 484
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "h": 73,
+                    "w": 73,
+                    "x": 980,
+                    "y": 426
+                  },
+                  {
+                    "h": 95,
+                    "w": 95,
+                    "x": 494,
+                    "y": 15
+                  },
+                  {
+                    "h": 107,
+                    "w": 107,
+                    "x": 210,
+                    "y": 41
+                  },
+                  {
+                    "h": 97,
+                    "w": 97,
+                    "x": 488,
+                    "y": 360
+                  },
+                  {
+                    "h": 110,
+                    "w": 110,
+                    "x": 237,
+                    "y": 382
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 93,
+                    "w": 93,
+                    "x": 1240,
+                    "y": 539
+                  },
+                  {
+                    "h": 121,
+                    "w": 121,
+                    "x": 625,
+                    "y": 20
+                  },
+                  {
+                    "h": 136,
+                    "w": 136,
+                    "x": 266,
+                    "y": 53
+                  },
+                  {
+                    "h": 123,
+                    "w": 123,
+                    "x": 618,
+                    "y": 456
+                  },
+                  {
+                    "h": 140,
+                    "w": 140,
+                    "x": 300,
+                    "y": 484
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "h": 41,
+                    "w": 41,
+                    "x": 555,
+                    "y": 241
+                  },
+                  {
+                    "h": 54,
+                    "w": 54,
+                    "x": 279,
+                    "y": 8
+                  },
+                  {
+                    "h": 60,
+                    "w": 60,
+                    "x": 119,
+                    "y": 23
+                  },
+                  {
+                    "h": 55,
+                    "w": 55,
+                    "x": 276,
+                    "y": 204
+                  },
+                  {
+                    "h": 62,
+                    "w": 62,
+                    "x": 134,
+                    "y": 216
+                  }
+                ]
+              }
+            },
+            "id": 1205158229749223424,
+            "id_str": "1205158229749223424",
+            "indices": [
+              187,
+              210
+            ],
+            "media_url": "http://pbs.twimg.com/media/ELmVBlZXUAAL5xD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ELmVBlZXUAAL5xD.jpg",
+            "sizes": {
+              "large": {
+                "h": 860,
+                "resize": "fit",
+                "w": 1518
+              },
+              "medium": {
+                "h": 680,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 385,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/e9XCg1podD"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              143,
+              159
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/e9XCg1podD",
+            "expanded_url": "https://twitter.com/RepDougCollins/status/1205158237936521218/photo/1",
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 93,
+                    "w": 93,
+                    "x": 1240,
+                    "y": 539
+                  },
+                  {
+                    "h": 121,
+                    "w": 121,
+                    "x": 625,
+                    "y": 20
+                  },
+                  {
+                    "h": 136,
+                    "w": 136,
+                    "x": 266,
+                    "y": 53
+                  },
+                  {
+                    "h": 123,
+                    "w": 123,
+                    "x": 618,
+                    "y": 456
+                  },
+                  {
+                    "h": 140,
+                    "w": 140,
+                    "x": 300,
+                    "y": 484
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "h": 73,
+                    "w": 73,
+                    "x": 980,
+                    "y": 426
+                  },
+                  {
+                    "h": 95,
+                    "w": 95,
+                    "x": 494,
+                    "y": 15
+                  },
+                  {
+                    "h": 107,
+                    "w": 107,
+                    "x": 210,
+                    "y": 41
+                  },
+                  {
+                    "h": 97,
+                    "w": 97,
+                    "x": 488,
+                    "y": 360
+                  },
+                  {
+                    "h": 110,
+                    "w": 110,
+                    "x": 237,
+                    "y": 382
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 93,
+                    "w": 93,
+                    "x": 1240,
+                    "y": 539
+                  },
+                  {
+                    "h": 121,
+                    "w": 121,
+                    "x": 625,
+                    "y": 20
+                  },
+                  {
+                    "h": 136,
+                    "w": 136,
+                    "x": 266,
+                    "y": 53
+                  },
+                  {
+                    "h": 123,
+                    "w": 123,
+                    "x": 618,
+                    "y": 456
+                  },
+                  {
+                    "h": 140,
+                    "w": 140,
+                    "x": 300,
+                    "y": 484
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "h": 41,
+                    "w": 41,
+                    "x": 555,
+                    "y": 241
+                  },
+                  {
+                    "h": 54,
+                    "w": 54,
+                    "x": 279,
+                    "y": 8
+                  },
+                  {
+                    "h": 60,
+                    "w": 60,
+                    "x": 119,
+                    "y": 23
+                  },
+                  {
+                    "h": 55,
+                    "w": 55,
+                    "x": 276,
+                    "y": 204
+                  },
+                  {
+                    "h": 62,
+                    "w": 62,
+                    "x": 134,
+                    "y": 216
+                  }
+                ]
+              }
+            },
+            "id": 1205158229749223424,
+            "id_str": "1205158229749223424",
+            "indices": [
+              187,
+              210
+            ],
+            "media_url": "http://pbs.twimg.com/media/ELmVBlZXUAAL5xD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ELmVBlZXUAAL5xD.jpg",
+            "sizes": {
+              "large": {
+                "h": 860,
+                "resize": "fit",
+                "w": 1518
+              },
+              "medium": {
+                "h": 680,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 385,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/e9XCg1podD"
+          }
+        ]
+      },
+      "favorite_count": 3702,
+      "favorited": false,
+      "full_text": "Democrats pursue impeachment without evidence today in the House Judiciary Committee. \n \nMeanwhile, America hits historic economic highs under @realDonaldTrump\u2019s leadership.\n\n#Priorities https://t.co/e9XCg1podD",
+      "geo": null,
+      "id": 1205158237936521218,
+      "id_str": "1205158237936521218",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1710,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 04 13:43:55 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Working for Georgia's 9th Congressional District. Pastor, attorney, military chaplain. Ranking Member of @JudiciaryGOP.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dougcollins.house.gov",
+                "expanded_url": "http://dougcollins.house.gov/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/6yvc1EfV0T"
+              }
+            ]
+          }
+        },
+        "favourites_count": 603,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 217216,
+        "following": false,
+        "friends_count": 956,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1060487274,
+        "id_str": "1060487274",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1586,
+        "location": "Gainesville, Georgia",
+        "name": "Rep. Doug Collins",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060487274/1504726600",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024748216712146944/Hc_eYsbv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024748216712146944/Hc_eYsbv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RepDougCollins",
+        "statuses_count": 4336,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/6yvc1EfV0T",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1205158237936521218,
+    "quoted_status_id_str": "1205158237936521218",
+    "quoted_status_permalink": {
+      "display": "twitter.com/repdougcollins\u2026",
+      "expanded": "https://twitter.com/repdougcollins/status/1205158237936521218",
+      "url": "https://t.co/G365W6k9Yx"
+    },
+    "retweet_count": 4971,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 02 17:30:34 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "House Oversight Committee Republicans | Est. 1814 | Ranking Member @Jim_Jordan | https://t.co/ylzBTwEGzE",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/gopoversight",
+              "expanded_url": "http://instagram.com/gopoversight",
+              "indices": [
+                81,
+                104
+              ],
+              "url": "https://t.co/ylzBTwEGzE"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "republicans-oversight.house.gov",
+              "expanded_url": "http://republicans-oversight.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/udvm5PQnVL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 253,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 99879,
+      "following": false,
+      "friends_count": 12953,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 22508473,
+      "id_str": "22508473",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1593,
+      "location": "Washington D.C.",
+      "name": "Oversight Committee Republicans",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22508473/1547162412",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1101154310069649408/pqzIuZxV_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101154310069649408/pqzIuZxV_normal.png",
+      "profile_link_color": "134766",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GOPoversight",
+      "statuses_count": 11037,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/udvm5PQnVL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67491776,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47085,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

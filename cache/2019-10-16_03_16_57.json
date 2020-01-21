@@ -1,0 +1,386 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 16 03:16:57 +0000 2019",
+  "display_text_range": [
+    0,
+    27
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/stlouisblues/s\u2026",
+        "expanded_url": "https://twitter.com/stlouisblues/status/1184270536437915648",
+        "indices": [
+          28,
+          51
+        ],
+        "url": "https://t.co/A2ux83427l"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 18729,
+  "favorited": false,
+  "full_text": "A great group of Champions! https://t.co/A2ux83427l",
+  "geo": null,
+  "id": 1184307214623875072,
+  "id_str": "1184307214623875072",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 16 00:51:13 +0000 2019",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            23,
+            34
+          ],
+          "text": "StanleyCup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PpbQoF7xs0",
+          "expanded_url": "https://twitter.com/StLouisBlues/status/1184270536437915648/photo/1",
+          "id": 1184270379029848065,
+          "id_str": "1184270379029848065",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/EG9fopwXYAE3dzp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EG9fopwXYAE3dzp.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PpbQoF7xs0"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2MJfJSv",
+          "expanded_url": "http://bit.ly/2MJfJSv",
+          "indices": [
+            89,
+            112
+          ],
+          "url": "https://t.co/QrWPzoGyqX"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            62,
+            73
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PpbQoF7xs0",
+          "expanded_url": "https://twitter.com/StLouisBlues/status/1184270536437915648/photo/1",
+          "id": 1184270379029848065,
+          "id_str": "1184270379029848065",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/EG9fopwXYAE3dzp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EG9fopwXYAE3dzp.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PpbQoF7xs0"
+        },
+        {
+          "display_url": "pic.twitter.com/PpbQoF7xs0",
+          "expanded_url": "https://twitter.com/StLouisBlues/status/1184270536437915648/photo/1",
+          "id": 1184270412198432769,
+          "id_str": "1184270412198432769",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/EG9fqlUX0AEEK5A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EG9fqlUX0AEEK5A.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PpbQoF7xs0"
+        },
+        {
+          "display_url": "pic.twitter.com/PpbQoF7xs0",
+          "expanded_url": "https://twitter.com/StLouisBlues/status/1184270536437915648/photo/1",
+          "id": 1184270495467872259,
+          "id_str": "1184270495467872259",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/EG9fvbhWoAMgoPI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EG9fvbhWoAMgoPI.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PpbQoF7xs0"
+        }
+      ]
+    },
+    "favorite_count": 3210,
+    "favorited": false,
+    "full_text": "One last honor for the #StanleyCup Champions - a visit to the @WhiteHouse.\n\nVIEW PHOTOS: https://t.co/QrWPzoGyqX https://t.co/PpbQoF7xs0",
+    "geo": null,
+    "id": 1184270536437915648,
+    "id_str": "1184270536437915648",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 650,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 05 20:47:12 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of the 2019 Stanley Cup Champion St. Louis Blues. #stlblues",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "stlouisblues.com",
+              "expanded_url": "http://www.stlouisblues.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/hLbWYdp466"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6182,
+      "follow_request_sent": false,
+      "followers_count": 732797,
+      "following": false,
+      "friends_count": 5087,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 22976125,
+      "id_str": "22976125",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4930,
+      "location": "St. Louis, MO",
+      "name": "St. Louis Blues",
+      "notifications": false,
+      "profile_background_color": "00529C",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22976125/1570037659",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1180731864199450625/z-o3GOqT_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180731864199450625/z-o3GOqT_normal.png",
+      "profile_link_color": "00005A",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F0D53C",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "StLouisBlues",
+      "statuses_count": 63941,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/hLbWYdp466",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1184270536437915648,
+  "quoted_status_id_str": "1184270536437915648",
+  "quoted_status_permalink": {
+    "display": "twitter.com/stlouisblues/s\u2026",
+    "expanded": "https://twitter.com/stlouisblues/status/1184270536437915648",
+    "url": "https://t.co/A2ux83427l"
+  },
+  "retweet_count": 4258,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65815501,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109927,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45221,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 14:26:40 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1759181,
+        "id_str": "1759181",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Matt Mackowiak",
+        "screen_name": "MattMackowiak"
+      },
+      {
+        "id": 2334193741,
+        "id_str": "2334193741",
+        "indices": [
+          24,
+          30
+        ],
+        "name": "James Comey",
+        "screen_name": "Comey"
+      },
+      {
+        "id": 18805644,
+        "id_str": "18805644",
+        "indices": [
+          44,
+          58
+        ],
+        "name": "FoxNewsSunday",
+        "screen_name": "FoxNewsSunday"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MattMackowiak: That @Comey interview on @FoxNewsSunday should forever change his public reputation. His lack of candor, past and presen\u2026",
+  "geo": null,
+  "id": 1207668576674631682,
+  "id_str": "1207668576674631682",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5232,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 15 17:15:22 +0000 2019",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2334193741,
+          "id_str": "2334193741",
+          "indices": [
+            5,
+            11
+          ],
+          "name": "James Comey",
+          "screen_name": "Comey"
+        },
+        {
+          "id": 18805644,
+          "id_str": "18805644",
+          "indices": [
+            25,
+            39
+          ],
+          "name": "FoxNewsSunday",
+          "screen_name": "FoxNewsSunday"
+        }
+      ]
+    },
+    "favorite_count": 17027,
+    "favorited": false,
+    "full_text": "That @Comey interview on @FoxNewsSunday should forever change his public reputation. His lack of candor, past and present, justify Trump firing him. The FBI and DOJ intentionally withheld exculpatory information from the FISA court. Everyone involved should be criminally probed.",
+    "geo": null,
+    "id": 1206261478787108870,
+    "id_str": "1206261478787108870",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -97.928935,
+              30.127892
+            ],
+            [
+              -97.5805133,
+              30.127892
+            ],
+            [
+              -97.5805133,
+              30.5187994
+            ],
+            [
+              -97.928935,
+              30.5187994
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Austin, TX",
+      "id": "c3f37afa9efcf94b",
+      "name": "Austin",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "retweet_count": 5232,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 21 15:32:12 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Conservative, campaign vet, podcaster, run @potomacstrategy. @WashTimes columnist. Chairman @TravisGOP. Steelers/Pens/Horns, lucky husband, our dogs live well",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "PotomacStrategyGroup.com",
+              "expanded_url": "http://www.PotomacStrategyGroup.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PbtpN6sDTc"
+            }
+          ]
+        }
+      },
+      "favourites_count": 170344,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 24708,
+      "following": false,
+      "friends_count": 9814,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 1759181,
+      "id_str": "1759181",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 948,
+      "location": "Austin, TX",
+      "name": "Matt Mackowiak",
+      "notifications": false,
+      "profile_background_color": "191607",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759181/1539287277",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1067212615234060288/u-qKEfJY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067212615234060288/u-qKEfJY_normal.jpg",
+      "profile_link_color": "B65508",
+      "profile_sidebar_border_color": "D2CEA1",
+      "profile_sidebar_fill_color": "B89C52",
+      "profile_text_color": "4A3810",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MattMackowiak",
+      "statuses_count": 212105,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PbtpN6sDTc",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

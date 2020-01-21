@@ -1,0 +1,355 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 14 23:54:18 +0000 2019",
+  "display_text_range": [
+    0,
+    24
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/navyfb/status/\u2026",
+        "expanded_url": "https://twitter.com/navyfb/status/1205989416927453186",
+        "indices": [
+          25,
+          48
+        ],
+        "url": "https://t.co/eoDccVFzJS"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 2429051735,
+        "id_str": "2429051735",
+        "indices": [
+          16,
+          23
+        ],
+        "name": "Navy Football",
+        "screen_name": "NavyFB"
+      }
+    ]
+  },
+  "favorite_count": 26003,
+  "favorited": false,
+  "full_text": "Congratulations @NavyFB! https://t.co/eoDccVFzJS",
+  "geo": null,
+  "id": 1205999484314030080,
+  "id_str": "1205999484314030080",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 14 23:14:17 +0000 2019",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            39,
+            46
+          ],
+          "text": "NavyFB"
+        },
+        {
+          "indices": [
+            49,
+            64
+          ],
+          "text": "BuiltDifferent"
+        },
+        {
+          "indices": [
+            67,
+            76
+          ],
+          "text": "BeatArmy"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/r5FlWeSGRj",
+          "expanded_url": "https://twitter.com/NavyFB/status/1205989416927453186/video/1",
+          "features": {},
+          "id": 1205989343971729413,
+          "id_str": "1205989343971729413",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205989343971729413/pu/img/l6zakQ6q4ByP3keP.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205989343971729413/pu/img/l6zakQ6q4ByP3keP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/r5FlWeSGRj"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/r5FlWeSGRj",
+          "expanded_url": "https://twitter.com/NavyFB/status/1205989416927453186/video/1",
+          "features": {},
+          "id": 1205989343971729413,
+          "id_str": "1205989343971729413",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205989343971729413/pu/img/l6zakQ6q4ByP3keP.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205989343971729413/pu/img/l6zakQ6q4ByP3keP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/r5FlWeSGRj",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 7500,
+            "variants": [
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205989343971729413/pu/vid/720x720/0Ne3VbzG7pc1IHqC.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1205989343971729413/pu/pl/pfLPOaX7bzcsgkTY.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205989343971729413/pu/vid/480x480/kgUaCOHXlmQIIQJZ.mp4?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205989343971729413/pu/vid/320x320/Mme_B7FNlRk2yoQy.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 2826,
+    "favorited": false,
+    "full_text": "NAVY DEFEATS ARMY!\n\ud83d\udd5c TO SING SECOND! \n\n#NavyFB | #BuiltDifferent | #BeatArmy https://t.co/r5FlWeSGRj",
+    "geo": null,
+    "id": 1205989416927453186,
+    "id_str": "1205989416927453186",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1116,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 22 14:53:57 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Official Twitter Account of Navy Football. #Danger20ne",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "navysports.com/sports/m-footb\u2026",
+              "expanded_url": "http://www.navysports.com/sports/m-footbl/navy-m-footbl-body-main.html",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/lBtY3QF2F1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7786,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 49358,
+      "following": false,
+      "friends_count": 1177,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2429051735,
+      "id_str": "2429051735",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 292,
+      "location": "Annapolis, MD",
+      "name": "Navy Football",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2429051735/1575554486",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1202588787588526085/Czs2xpC0_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202588787588526085/Czs2xpC0_normal.png",
+      "profile_link_color": "00225B",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "NavyFB",
+      "statuses_count": 6667,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/lBtY3QF2F1",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1205989416927453186,
+  "quoted_status_id_str": "1205989416927453186",
+  "quoted_status_permalink": {
+    "display": "twitter.com/navyfb/status/\u2026",
+    "expanded": "https://twitter.com/navyfb/status/1205989416927453186",
+    "url": "https://t.co/eoDccVFzJS"
+  },
+  "retweet_count": 6010,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67564787,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111455,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47133,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

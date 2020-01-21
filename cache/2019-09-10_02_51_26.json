@@ -1,0 +1,367 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 10 02:51:26 +0000 2019",
+  "display_text_range": [
+    0,
+    28
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/uscgsoutheast/\u2026",
+        "expanded_url": "https://twitter.com/uscgsoutheast/status/1171181065945460736",
+        "indices": [
+          29,
+          52
+        ],
+        "url": "https://t.co/eEDn760Ogh"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 15113565,
+        "id_str": "15113565",
+        "indices": [
+          10,
+          15
+        ],
+        "name": "U.S. Coast Guard",
+        "screen_name": "USCG"
+      }
+    ]
+  },
+  "favorite_count": 20548,
+  "favorited": false,
+  "full_text": "THANK YOU @USCG! GREAT JOB!! https://t.co/eEDn760Ogh",
+  "geo": null,
+  "id": 1171254828456194049,
+  "id_str": "1171254828456194049",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 09 21:58:20 +0000 2019",
+    "display_text_range": [
+      0,
+      257
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            49,
+            59
+          ],
+          "text": "GoldenRay"
+        },
+        {
+          "indices": [
+            220,
+            233
+          ],
+          "text": "HappeningNow"
+        },
+        {
+          "indices": [
+            234,
+            247
+          ],
+          "text": "BreakingNews"
+        },
+        {
+          "indices": [
+            248,
+            257
+          ],
+          "text": "Breaking"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YgEM6Eb2qO",
+          "expanded_url": "https://twitter.com/USCGSoutheast/status/1171181065945460736/video/1",
+          "id": 1171180976204066817,
+          "id_str": "1171180976204066817",
+          "indices": [
+            258,
+            281
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171180976204066817/pu/img/7m7M_xe1qvRNSfaz.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171180976204066817/pu/img/7m7M_xe1qvRNSfaz.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YgEM6Eb2qO"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 15113565,
+          "id_str": "15113565",
+          "indices": [
+            1,
+            6
+          ],
+          "name": "U.S. Coast Guard",
+          "screen_name": "USCG"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/YgEM6Eb2qO",
+          "expanded_url": "https://twitter.com/USCGSoutheast/status/1171181065945460736/video/1",
+          "id": 1171180976204066817,
+          "id_str": "1171180976204066817",
+          "indices": [
+            258,
+            281
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171180976204066817/pu/img/7m7M_xe1qvRNSfaz.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171180976204066817/pu/img/7m7M_xe1qvRNSfaz.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/YgEM6Eb2qO",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 13348,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1171180976204066817/pu/pl/PJ3iTd_k2u-wOsT3.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1171180976204066817/pu/vid/1280x720/phXAZHylG9TUbatz.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1171180976204066817/pu/vid/480x270/-blLBJqS48p_8ylp.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1171180976204066817/pu/vid/640x360/uhVRlDhQHsKhVLzn.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 3918,
+    "favorited": false,
+    "full_text": ".@USCG and rescue crews have extracted the final #GoldenRay crew member safely. All crew members are accounted for. Operations will now shift fully to environmental protection, removing the vessel and resuming commerce. #HappeningNow #BreakingNews #Breaking https://t.co/YgEM6Eb2qO",
+    "geo": null,
+    "id": 1171181065945460736,
+    "id_str": "1171181065945460736",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1194,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 22 17:58:42 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "news.uscg.mil/District-7/",
+              "expanded_url": "https://www.news.uscg.mil/District-7/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JCCzQ59vU2"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2454,
+      "follow_request_sent": false,
+      "followers_count": 41986,
+      "following": false,
+      "friends_count": 289,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 84382289,
+      "id_str": "84382289",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 931,
+      "location": "Miami, FL",
+      "name": "USCGSoutheast",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/84382289/1471616312",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/902550597966159872/NSQOtw8Z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/902550597966159872/NSQOtw8Z_normal.jpg",
+      "profile_link_color": "1D05FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USCGSoutheast",
+      "statuses_count": 4152,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JCCzQ59vU2",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1171181065945460736,
+  "quoted_status_id_str": "1171181065945460736",
+  "quoted_status_permalink": {
+    "display": "twitter.com/uscgsoutheast/\u2026",
+    "expanded": "https://twitter.com/uscgsoutheast/status/1171181065945460736",
+    "url": "https://t.co/eEDn760Ogh"
+  },
+  "retweet_count": 4977,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 64133798,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108294,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44170,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 07 03:07:41 +0000 2019",
+  "display_text_range": [
+    0,
+    105
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/xz2isdb9t0",
+        "expanded_url": "https://twitter.com/alexsalvinews/status/1203133576616656898/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 169,
+                "w": 169,
+                "x": 19,
+                "y": 528
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 163,
+                "w": 163,
+                "x": 18,
+                "y": 510
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 169,
+                "w": 169,
+                "x": 19,
+                "y": 528
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 92,
+                "w": 92,
+                "x": 10,
+                "y": 289
+              }
+            ]
+          }
+        },
+        "id": 1203133572967567361,
+        "id_str": "1203133572967567361",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/ELJjnDIUEAEgJ2d.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ELJjnDIUEAEgJ2d.jpg",
+        "sizes": {
+          "large": {
+            "h": 778,
+            "resize": "fit",
+            "w": 1241
+          },
+          "medium": {
+            "h": 752,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 426,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1203133576616656898,
+        "source_status_id_str": "1203133576616656898",
+        "source_user_id": 932011810235891712,
+        "source_user_id_str": "932011810235891712",
+        "type": "photo",
+        "url": "https://t.co/xz2isdb9t0"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/alexsalvinews/\u2026",
+        "expanded_url": "https://twitter.com/alexsalvinews/status/1203024073850155008",
+        "indices": [
+          58,
+          81
+        ],
+        "url": "https://t.co/NYnef34DvU"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 932011810235891712,
+        "id_str": "932011810235891712",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Alex Salvi",
+        "screen_name": "alexsalvinews"
+      },
+      {
+        "id": 1209936918,
+        "id_str": "1209936918",
+        "indices": [
+          51,
+          56
+        ],
+        "name": "One America News",
+        "screen_name": "OANN"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/xz2isdb9t0",
+        "expanded_url": "https://twitter.com/alexsalvinews/status/1203133576616656898/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 169,
+                "w": 169,
+                "x": 19,
+                "y": 528
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 163,
+                "w": 163,
+                "x": 18,
+                "y": 510
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 169,
+                "w": 169,
+                "x": 19,
+                "y": 528
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 92,
+                "w": 92,
+                "x": 10,
+                "y": 289
+              }
+            ]
+          }
+        },
+        "id": 1203133572967567361,
+        "id_str": "1203133572967567361",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/ELJjnDIUEAEgJ2d.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ELJjnDIUEAEgJ2d.jpg",
+        "sizes": {
+          "large": {
+            "h": 778,
+            "resize": "fit",
+            "w": 1241
+          },
+          "medium": {
+            "h": 752,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 426,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1203133576616656898,
+        "source_status_id_str": "1203133576616656898",
+        "source_user_id": 932011810235891712,
+        "source_user_id_str": "932011810235891712",
+        "type": "photo",
+        "url": "https://t.co/xz2isdb9t0"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @alexsalvinews: Fox News confirms 7 hours after @OANN. https://t.co/NYnef34DvU https://t.co/xz2isdb9t0",
+  "geo": null,
+  "id": 1203149048162791429,
+  "id_str": "1203149048162791429",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1203024073850155008,
+  "quoted_status_id_str": "1203024073850155008",
+  "quoted_status_permalink": {
+    "display": "twitter.com/alexsalvinews/\u2026",
+    "expanded": "https://twitter.com/alexsalvinews/status/1203024073850155008",
+    "url": "https://t.co/NYnef34DvU"
+  },
+  "retweet_count": 2833,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 07 02:06:12 +0000 2019",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xz2isdb9t0",
+          "expanded_url": "https://twitter.com/alexsalvinews/status/1203133576616656898/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 169,
+                  "w": 169,
+                  "x": 19,
+                  "y": 528
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 163,
+                  "w": 163,
+                  "x": 18,
+                  "y": 510
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 169,
+                  "w": 169,
+                  "x": 19,
+                  "y": 528
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 92,
+                  "w": 92,
+                  "x": 10,
+                  "y": 289
+                }
+              ]
+            }
+          },
+          "id": 1203133572967567361,
+          "id_str": "1203133572967567361",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELJjnDIUEAEgJ2d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELJjnDIUEAEgJ2d.jpg",
+          "sizes": {
+            "large": {
+              "h": 778,
+              "resize": "fit",
+              "w": 1241
+            },
+            "medium": {
+              "h": 752,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 426,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xz2isdb9t0"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/alexsalvinews/\u2026",
+          "expanded_url": "https://twitter.com/alexsalvinews/status/1203024073850155008",
+          "indices": [
+            39,
+            62
+          ],
+          "url": "https://t.co/NYnef34DvU"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1209936918,
+          "id_str": "1209936918",
+          "indices": [
+            32,
+            37
+          ],
+          "name": "One America News",
+          "screen_name": "OANN"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xz2isdb9t0",
+          "expanded_url": "https://twitter.com/alexsalvinews/status/1203133576616656898/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 169,
+                  "w": 169,
+                  "x": 19,
+                  "y": 528
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 163,
+                  "w": 163,
+                  "x": 18,
+                  "y": 510
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 169,
+                  "w": 169,
+                  "x": 19,
+                  "y": 528
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 92,
+                  "w": 92,
+                  "x": 10,
+                  "y": 289
+                }
+              ]
+            }
+          },
+          "id": 1203133572967567361,
+          "id_str": "1203133572967567361",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELJjnDIUEAEgJ2d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELJjnDIUEAEgJ2d.jpg",
+          "sizes": {
+            "large": {
+              "h": 778,
+              "resize": "fit",
+              "w": 1241
+            },
+            "medium": {
+              "h": 752,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 426,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xz2isdb9t0"
+        }
+      ]
+    },
+    "favorite_count": 7706,
+    "favorited": false,
+    "full_text": "Fox News confirms 7 hours after @OANN. https://t.co/NYnef34DvU https://t.co/xz2isdb9t0",
+    "geo": null,
+    "id": 1203133576616656898,
+    "id_str": "1203133576616656898",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Dec 06 18:51:04 +0000 2019",
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 536,
+      "favorited": false,
+      "full_text": "The shooter in the Pensacola Naval Base has been identified as Mohammed Saeed Alshamrani, a Saudi national in the U.S. for flight training.",
+      "geo": null,
+      "id": 1203024073850155008,
+      "id_str": "1203024073850155008",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 354,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 18 22:25:06 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Anchor of After Hours on @OANN M-F 10pm EST",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oann.com/oan-anchors/",
+                "expanded_url": "https://www.oann.com/oan-anchors/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/h8I3UIMRdx"
+              }
+            ]
+          }
+        },
+        "favourites_count": 40595,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 22394,
+        "following": false,
+        "friends_count": 2115,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 932011810235891712,
+        "id_str": "932011810235891712",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 148,
+        "location": "San Diego, CA",
+        "name": "Alex Salvi",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/932011810235891712/1529367965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195228034476830720/R17ch7-l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195228034476830720/R17ch7-l_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "alexsalvinews",
+        "statuses_count": 7447,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/h8I3UIMRdx",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1203024073850155008,
+    "quoted_status_id_str": "1203024073850155008",
+    "quoted_status_permalink": {
+      "display": "twitter.com/alexsalvinews/\u2026",
+      "expanded": "https://twitter.com/alexsalvinews/status/1203024073850155008",
+      "url": "https://t.co/NYnef34DvU"
+    },
+    "retweet_count": 2833,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat Nov 18 22:25:06 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Anchor of After Hours on @OANN M-F 10pm EST",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "oann.com/oan-anchors/",
+              "expanded_url": "https://www.oann.com/oan-anchors/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/h8I3UIMRdx"
+            }
+          ]
+        }
+      },
+      "favourites_count": 40595,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 22394,
+      "following": false,
+      "friends_count": 2115,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 932011810235891712,
+      "id_str": "932011810235891712",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 148,
+      "location": "San Diego, CA",
+      "name": "Alex Salvi",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/932011810235891712/1529367965",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1195228034476830720/R17ch7-l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195228034476830720/R17ch7-l_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "alexsalvinews",
+      "statuses_count": 7447,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/h8I3UIMRdx",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67309429,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111079,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46700,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

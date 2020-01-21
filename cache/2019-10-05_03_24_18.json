@@ -1,0 +1,324 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 05 03:24:18 +0000 2019",
+  "display_text_range": [
+    0,
+    11
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/greggjarrett/s\u2026",
+        "expanded_url": "https://twitter.com/greggjarrett/status/1179128755639455744",
+        "indices": [
+          12,
+          35
+        ],
+        "url": "https://t.co/LrRr1xhS0d"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 13043,
+  "favorited": false,
+  "full_text": "GREAT BOOK! https://t.co/LrRr1xhS0d",
+  "geo": null,
+  "id": 1180322797102522368,
+  "id_str": "1180322797102522368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 01 20:19:37 +0000 2019",
+    "display_text_range": [
+      0,
+      220
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            132,
+            142
+          ],
+          "text": "WitchHunt"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5AA8gBo0by",
+          "expanded_url": "https://twitter.com/GreggJarrett/status/1179128755639455744/photo/1",
+          "id": 1179128749499047936,
+          "id_str": "1179128749499047936",
+          "indices": [
+            221,
+            244
+          ],
+          "media_url": "http://pbs.twimg.com/media/EF0bWbJXYAAtDj3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EF0bWbJXYAAtDj3.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5AA8gBo0by"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/WitchHuntbook",
+          "expanded_url": "http://bit.ly/WitchHuntbook",
+          "indices": [
+            196,
+            219
+          ],
+          "url": "https://t.co/TZZMW1vjA7"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 41634520,
+          "id_str": "41634520",
+          "indices": [
+            118,
+            130
+          ],
+          "name": "Sean Hannity",
+          "screen_name": "seanhannity"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5AA8gBo0by",
+          "expanded_url": "https://twitter.com/GreggJarrett/status/1179128755639455744/photo/1",
+          "id": 1179128749499047936,
+          "id_str": "1179128749499047936",
+          "indices": [
+            221,
+            244
+          ],
+          "media_url": "http://pbs.twimg.com/media/EF0bWbJXYAAtDj3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EF0bWbJXYAAtDj3.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5AA8gBo0by"
+        }
+      ]
+    },
+    "favorite_count": 1296,
+    "favorited": false,
+    "full_text": "\u201cGregg Jarrett has done it again by writing a superb follow-up book to his number one bestseller, The Russia Hoax.\" \u2014 @seanhannity. #WitchHunt is on sale next week and available for preorder now: https://t.co/TZZMW1vjA7. https://t.co/5AA8gBo0by",
+    "geo": null,
+    "id": 1179128755639455744,
+    "id_str": "1179128755639455744",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 424,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Feb 22 01:59:05 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Legal and political analyst for Fox News Channel. Author of THE RUSSIA HOAX and WITCH HUNT, available for pre-order now: https://t.co/ubSNZAlnqV.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/WitchHuntbook",
+              "expanded_url": "http://bit.ly/WitchHuntbook",
+              "indices": [
+                121,
+                144
+              ],
+              "url": "https://t.co/ubSNZAlnqV"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thegreggjarrett.com",
+              "expanded_url": "https://thegreggjarrett.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bCa80T64zi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 19,
+      "follow_request_sent": false,
+      "followers_count": 412685,
+      "following": false,
+      "friends_count": 112,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 21536398,
+      "id_str": "21536398",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1565,
+      "location": "New York",
+      "name": "Gregg Jarrett",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21536398/1566419985",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024332491967160321/AZAsCMuO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024332491967160321/AZAsCMuO_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "ED322C",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GreggJarrett",
+      "statuses_count": 807,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/bCa80T64zi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1179128755639455744,
+  "quoted_status_id_str": "1179128755639455744",
+  "quoted_status_permalink": {
+    "display": "twitter.com/greggjarrett/s\u2026",
+    "expanded": "https://twitter.com/greggjarrett/status/1179128755639455744",
+    "url": "https://t.co/LrRr1xhS0d"
+  },
+  "retweet_count": 3481,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65243129,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109347,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44852,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

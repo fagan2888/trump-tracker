@@ -1,0 +1,378 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 11 11:46:07 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2887465954,
+        "id_str": "2887465954",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "PolitiChatter.com",
+        "screen_name": "Politi_Chatter"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          20,
+          36
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 3005762823,
+        "id_str": "3005762823",
+        "indices": [
+          105,
+          117
+        ],
+        "name": "We Support 45",
+        "screen_name": "WeSupport45"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Politi_Chatter: @realDonaldTrump Today Twitter crossed the line &amp; Suspended the Conservative run @WeSupport45 account without explanati\u2026",
+  "geo": null,
+  "id": 1127178063983325184,
+  "id_str": "1127178063983325184",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4708,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 10 19:24:35 +0000 2019",
+    "display_text_range": [
+      17,
+      304
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            186,
+            193
+          ],
+          "text": "TWEXIT"
+        },
+        {
+          "indices": [
+            229,
+            237
+          ],
+          "text": "RETWEET"
+        },
+        {
+          "indices": [
+            272,
+            286
+          ],
+          "text": "FridayFeeling"
+        },
+        {
+          "indices": [
+            287,
+            304
+          ],
+          "text": "FridayMotivation"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/y5Jm9ULc3z",
+          "expanded_url": "https://twitter.com/Politi_Chatter/status/1126931055943065600/photo/1",
+          "id": 1126931027652427776,
+          "id_str": "1126931027652427776",
+          "indices": [
+            305,
+            328
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6OpzIWWwAAaMed.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6OpzIWWwAAaMed.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/y5Jm9ULc3z"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "PolitiChatter.com",
+          "expanded_url": "http://PolitiChatter.com",
+          "indices": [
+            197,
+            220
+          ],
+          "url": "https://t.co/debsISG7jJ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 3005762823,
+          "id_str": "3005762823",
+          "indices": [
+            85,
+            97
+          ],
+          "name": "We Support 45",
+          "screen_name": "WeSupport45"
+        },
+        {
+          "id": 2887465954,
+          "id_str": "2887465954",
+          "indices": [
+            155,
+            170
+          ],
+          "name": "PolitiChatter.com",
+          "screen_name": "Politi_Chatter"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/y5Jm9ULc3z",
+          "expanded_url": "https://twitter.com/Politi_Chatter/status/1126931055943065600/photo/1",
+          "id": 1126931027652427776,
+          "id_str": "1126931027652427776",
+          "indices": [
+            305,
+            328
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6OpzIWWwAAaMed.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6OpzIWWwAAaMed.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/y5Jm9ULc3z"
+        }
+      ]
+    },
+    "favorite_count": 10981,
+    "favorited": false,
+    "full_text": "@realDonaldTrump Today Twitter crossed the line &amp; Suspended the Conservative run @WeSupport45 account without explanation. Who will be next? Come join @Politi_Chatter &amp; join the #TWEXIT at https://t.co/debsISG7jJ \nPlease #RETWEET if you are Fed Up with Censorship\n#FridayFeeling\n#FridayMotivation https://t.co/y5Jm9ULc3z",
+    "geo": null,
+    "id": 1126931055943065600,
+    "id_str": "1126931055943065600",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 1126928408934535168,
+    "in_reply_to_status_id_str": "1126928408934535168",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4708,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Nov 21 22:37:38 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "https://t.co/wytEupvuRA is a Non Partisan Social Media Platform that provides a place for Robust Debate! Sign Up Today it's FREE! #PolitiChatter",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "PolitiChatter.com",
+              "expanded_url": "https://PolitiChatter.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wytEupvuRA"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "PolitiChatter.com",
+              "expanded_url": "https://www.PolitiChatter.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/LH4Fhe3mEY"
+            }
+          ]
+        }
+      },
+      "favourites_count": 75303,
+      "follow_request_sent": false,
+      "followers_count": 200914,
+      "following": false,
+      "friends_count": 219895,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 2887465954,
+      "id_str": "2887465954",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 782,
+      "location": "Las Vegas, NV",
+      "name": "PolitiChatter.com",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2887465954/1555110074",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1116838523116642309/_w7dyHPN_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116838523116642309/_w7dyHPN_normal.png",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Politi_Chatter",
+      "statuses_count": 48352,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/LH4Fhe3mEY",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60179323,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102916,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41812,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

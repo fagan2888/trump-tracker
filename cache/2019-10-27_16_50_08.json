@@ -1,0 +1,363 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 27 16:50:08 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 9624742,
+        "id_str": "9624742",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Department of State",
+        "screen_name": "StateDept"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          115,
+          131
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @StateDept: Last night, the United States brought the world's number one terrorist leader to justice. President @realDonaldTrump address\u2026",
+  "geo": null,
+  "id": 1188498123393515521,
+  "id_str": "1188498123393515521",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 24452,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 27 16:45:54 +0000 2019",
+    "display_text_range": [
+      0,
+      263
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/odrheyNRtc",
+          "expanded_url": "https://twitter.com/StateDept/status/1188497058262446080/video/1",
+          "features": {},
+          "id": 1188495666181373952,
+          "id_str": "1188495666181373952",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/EH5jxYeVAAAJPDU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EH5jxYeVAAAJPDU.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/odrheyNRtc"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "youtu.be/GYzNpv-7F7M",
+          "expanded_url": "https://youtu.be/GYzNpv-7F7M",
+          "indices": [
+            208,
+            231
+          ],
+          "url": "https://t.co/3ucibNVOU8"
+        },
+        {
+          "display_url": "go.usa.gov/xpCDb",
+          "expanded_url": "https://go.usa.gov/xpCDb",
+          "indices": [
+            240,
+            263
+          ],
+          "url": "https://t.co/b4fBx9qyY6"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            100,
+            116
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.state.gov/"
+              }
+            },
+            "description": "President Donald J. Trump delivers a statement on the death of Abu Bakr Al-Baghdadi, October 27, 2019. - U.S. Department of State",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "President Trump's Statement on the Death of Abu Bakr Al-Baghdadi"
+          },
+          "display_url": "pic.twitter.com/odrheyNRtc",
+          "expanded_url": "https://twitter.com/StateDept/status/1188497058262446080/video/1",
+          "features": {},
+          "id": 1188495666181373952,
+          "id_str": "1188495666181373952",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/EH5jxYeVAAAJPDU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EH5jxYeVAAAJPDU.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/odrheyNRtc",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 514781,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1188495666181373952/vid/640x360/cPvhy2Qcpxvt2OK8.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1188495666181373952/vid/480x270/VOVsde9mwKdBgMbA.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1188495666181373952/vid/1280x720/iisj1X4v0WNBCcN2.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1188495666181373952/pl/q-bm96DMinF_itpZ.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 89817,
+    "favorited": false,
+    "full_text": "Last night, the United States brought the world's number one terrorist leader to justice. President @realDonaldTrump addresses the death of Abu Bakr al-Baghdadi, the founder and leader of ISIS. Full remarks: https://t.co/3ucibNVOU8 | More: https://t.co/b4fBx9qyY6 https://t.co/odrheyNRtc",
+    "geo": null,
+    "id": 1188497058262446080,
+    "id_str": "1188497058262446080",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 24452,
+    "retweeted": false,
+    "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 23 15:02:45 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Welcome to the official U.S. Department of State Twitter account. Follow @SecPompeo for more from the Secretary of State.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "state.gov",
+              "expanded_url": "http://www.state.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eFqP1DyLiJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 26,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 5462371,
+      "following": false,
+      "friends_count": 458,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 9624742,
+      "id_str": "9624742",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 21564,
+      "location": "Washington, DC",
+      "name": "Department of State",
+      "notifications": false,
+      "profile_background_color": "184266",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/9624742/1564172518",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1188878370722975751/YCRGbHPV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188878370722975751/YCRGbHPV_normal.jpg",
+      "profile_link_color": "3975AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DEDACB",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "StateDept",
+      "statuses_count": 61936,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/eFqP1DyLiJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66369765,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45634,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

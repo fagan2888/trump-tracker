@@ -1,0 +1,452 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Sep 26 11:59:58 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 471672239,
+        "id_str": "471672239",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Kellyanne Conway",
+        "screen_name": "KellyannePolls"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KellyannePolls: cc: Everybody not the Ukranian President who has been characterizing what happened in the call with the Ukrainian Presi\u2026",
+  "geo": null,
+  "id": 1177191077759148032,
+  "id_str": "1177191077759148032",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1176927447704424448,
+  "quoted_status_id_str": "1176927447704424448",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ABC/status/117\u2026",
+    "expanded": "https://twitter.com/ABC/status/1176927447704424448",
+    "url": "https://t.co/1AwdEbFRuB"
+  },
+  "retweet_count": 8245,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 25 18:58:33 +0000 2019",
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ABC/status/117\u2026",
+          "expanded_url": "https://twitter.com/ABC/status/1176927447704424448",
+          "indices": [
+            210,
+            233
+          ],
+          "url": "https://t.co/1AwdEbFRuB"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 29294,
+    "favorited": false,
+    "full_text": "cc: Everybody not the Ukranian President who has been characterizing what happened in the call with the Ukrainian President and how the Ukrainian President felt about that call, or should feel about that call. https://t.co/1AwdEbFRuB",
+    "geo": null,
+    "id": 1176934026944438273,
+    "id_str": "1176934026944438273",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Sep 25 18:32:24 +0000 2019",
+      "display_text_range": [
+        0,
+        205
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2SmelWxTUJ",
+            "expanded_url": "https://twitter.com/ABC/status/1176927447704424448/video/1",
+            "id": 1176927326287720448,
+            "id_str": "1176927326287720448",
+            "indices": [
+              206,
+              229
+            ],
+            "media_url": "http://pbs.twimg.com/media/EFVJRXvUwAAjWrO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EFVJRXvUwAAjWrO.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2SmelWxTUJ"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "abcn.ws/2l4FvH0",
+            "expanded_url": "http://abcn.ws/2l4FvH0",
+            "indices": [
+              182,
+              205
+            ],
+            "url": "https://t.co/EU63L2mY3R"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "http://abcnews.com"
+                }
+              },
+              "description": "ABC News",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Video"
+            },
+            "display_url": "pic.twitter.com/2SmelWxTUJ",
+            "expanded_url": "https://twitter.com/ABC/status/1176927447704424448/video/1",
+            "id": 1176927326287720448,
+            "id_str": "1176927326287720448",
+            "indices": [
+              206,
+              229
+            ],
+            "media_url": "http://pbs.twimg.com/media/EFVJRXvUwAAjWrO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EFVJRXvUwAAjWrO.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/2SmelWxTUJ",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 63197,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1176927326287720448/vid/1280x720/r6uGDZPGP9eoa_u-.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1176927326287720448/vid/640x360/OaAdsvhMTzivqRIa.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1176927326287720448/pl/-Hx3KIRDcXUHKFgN.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1176927326287720448/vid/480x270/xY9GvE6eclz3CfG9.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 4007,
+      "favorited": false,
+      "full_text": "NEW: Ukrainian Pres. Zelenskiy says \"nobody pushed me\" to investigate Biden and his son.\n\nHe says call with Trump was \"a good phone call. It was normal. We spoke about many things.\" https://t.co/EU63L2mY3R https://t.co/2SmelWxTUJ",
+      "geo": null,
+      "id": 1176927447704424448,
+      "id_str": "1176927447704424448",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1489,
+      "retweeted": false,
+      "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/abcnews",
+                "expanded_url": "http://instagram.com/abcnews",
+                "indices": [
+                  77,
+                  100
+                ],
+                "url": "https://t.co/PKeobr4xt0"
+              },
+              {
+                "display_url": "abcn.ws/tips",
+                "expanded_url": "https://abcn.ws/tips",
+                "indices": [
+                  107,
+                  130
+                ],
+                "url": "https://t.co/2ICEX6CuXd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "abcnews.go.com",
+                "expanded_url": "https://abcnews.go.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/B4vihbwCGa"
+              }
+            ]
+          }
+        },
+        "favourites_count": 36,
+        "follow_request_sent": false,
+        "followers_count": 14568470,
+        "following": false,
+        "friends_count": 539,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28785486,
+        "id_str": "28785486",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 57021,
+        "location": "New York City / Worldwide",
+        "name": "ABC News",
+        "notifications": false,
+        "profile_background_color": "6E8EB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+        "profile_link_color": "336699",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ABC",
+        "statuses_count": 268299,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/B4vihbwCGa",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1176927447704424448,
+    "quoted_status_id_str": "1176927447704424448",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ABC/status/117\u2026",
+      "expanded": "https://twitter.com/ABC/status/1176927447704424448",
+      "url": "https://t.co/1AwdEbFRuB"
+    },
+    "retweet_count": 8245,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 23 04:14:28 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mom. Patriot. Catholic. Counselor. Survivor.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 4567,
+      "follow_request_sent": false,
+      "followers_count": 2889652,
+      "following": false,
+      "friends_count": 813,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 471672239,
+      "id_str": "471672239",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8731,
+      "location": "USA\ud83c\uddfa\ud83c\uddf8",
+      "name": "Kellyanne Conway",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/471672239/1555590586",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1063430243107696640/GC-mkfPk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063430243107696640/GC-mkfPk_normal.jpg",
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "KellyannePolls",
+      "statuses_count": 8236,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 64899225,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108892,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44576,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

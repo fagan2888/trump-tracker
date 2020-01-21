@@ -1,0 +1,518 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 05 00:44:20 +0000 2019",
+  "display_text_range": [
+    0,
+    69
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          24,
+          32
+        ],
+        "text": "America"
+      },
+      {
+        "indices": [
+          33,
+          45
+        ],
+        "text": "TrumpSpeech"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/T3aQTIsucg",
+        "expanded_url": "https://twitter.com/AndrewHClark/status/1146936174994497536/video/1",
+        "id": 1146936080278675458,
+        "id_str": "1146936080278675458",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146936080278675458/pu/img/2BLA3b2WNtywfA9K.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146936080278675458/pu/img/2BLA3b2WNtywfA9K.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1146936174994497536,
+        "source_status_id_str": "1146936174994497536",
+        "source_user_id": 60403024,
+        "source_user_id_str": "60403024",
+        "type": "photo",
+        "url": "https://t.co/T3aQTIsucg"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 60403024,
+        "id_str": "60403024",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Andrew Clark",
+        "screen_name": "AndrewHClark"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jul 26 21:37:28 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Rapid Response Director @RealDonaldTrump 2020 Campaign\n\n@TeamTrump + @TrumpWarRoom",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "donaldtrump.com",
+                    "expanded_url": "http://donaldtrump.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/DHRWm4KRN1"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 4039,
+            "follow_request_sent": false,
+            "followers_count": 10645,
+            "following": false,
+            "friends_count": 3829,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 60403024,
+            "id_str": "60403024",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 244,
+            "location": "Washington, DC",
+            "name": "Andrew Clark",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/60403024/1554755146",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1121470790648717312/e5KRo0jB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121470790648717312/e5KRo0jB_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "AndrewHClark",
+            "statuses_count": 18659,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/DHRWm4KRN1",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/T3aQTIsucg",
+        "expanded_url": "https://twitter.com/AndrewHClark/status/1146936174994497536/video/1",
+        "id": 1146936080278675458,
+        "id_str": "1146936080278675458",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146936080278675458/pu/img/2BLA3b2WNtywfA9K.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146936080278675458/pu/img/2BLA3b2WNtywfA9K.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1146936174994497536,
+        "source_status_id_str": "1146936174994497536",
+        "source_user_id": 60403024,
+        "source_user_id_str": "60403024",
+        "type": "video",
+        "url": "https://t.co/T3aQTIsucg",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 25033,
+          "variants": [
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1146936080278675458/pu/vid/320x568/4FG8GGM5ysufIVMC.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1146936080278675458/pu/pl/s1irEBMS6y2blx5T.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1146936080278675458/pu/vid/360x640/vj3X0EVkbzkpyyXB.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1146936080278675458/pu/vid/720x1280/IA5wlO8-HQXcaHqa.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AndrewHClark: Epic. #America #TrumpSpeech https://t.co/T3aQTIsucg",
+  "geo": null,
+  "id": 1146942855765811201,
+  "id_str": "1146942855765811201",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 11327,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 05 00:17:47 +0000 2019",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            6,
+            14
+          ],
+          "text": "America"
+        },
+        {
+          "indices": [
+            15,
+            27
+          ],
+          "text": "TrumpSpeech"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/T3aQTIsucg",
+          "expanded_url": "https://twitter.com/AndrewHClark/status/1146936174994497536/video/1",
+          "id": 1146936080278675458,
+          "id_str": "1146936080278675458",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146936080278675458/pu/img/2BLA3b2WNtywfA9K.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146936080278675458/pu/img/2BLA3b2WNtywfA9K.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/T3aQTIsucg"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/T3aQTIsucg",
+          "expanded_url": "https://twitter.com/AndrewHClark/status/1146936174994497536/video/1",
+          "id": 1146936080278675458,
+          "id_str": "1146936080278675458",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146936080278675458/pu/img/2BLA3b2WNtywfA9K.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146936080278675458/pu/img/2BLA3b2WNtywfA9K.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/T3aQTIsucg",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 25033,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1146936080278675458/pu/vid/320x568/4FG8GGM5ysufIVMC.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1146936080278675458/pu/pl/s1irEBMS6y2blx5T.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1146936080278675458/pu/vid/360x640/vj3X0EVkbzkpyyXB.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1146936080278675458/pu/vid/720x1280/IA5wlO8-HQXcaHqa.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 47640,
+    "favorited": false,
+    "full_text": "Epic. #America #TrumpSpeech https://t.co/T3aQTIsucg",
+    "geo": null,
+    "id": 1146936174994497536,
+    "id_str": "1146936174994497536",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11327,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jul 26 21:37:28 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Rapid Response Director @RealDonaldTrump 2020 Campaign\n\n@TeamTrump + @TrumpWarRoom",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldtrump.com",
+              "expanded_url": "http://donaldtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DHRWm4KRN1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4039,
+      "follow_request_sent": false,
+      "followers_count": 10645,
+      "following": false,
+      "friends_count": 3829,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 60403024,
+      "id_str": "60403024",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 244,
+      "location": "Washington, DC",
+      "name": "Andrew Clark",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/60403024/1554755146",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1121470790648717312/e5KRo0jB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121470790648717312/e5KRo0jB_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "AndrewHClark",
+      "statuses_count": 18659,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DHRWm4KRN1",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61701596,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104984,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42694,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

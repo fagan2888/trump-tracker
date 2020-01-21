@@ -1,0 +1,365 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 01 10:59:41 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 259001548,
+        "id_str": "259001548",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Kayleigh McEnany",
+        "screen_name": "kayleighmcenany"
+      },
+      {
+        "id": 729676086632656900,
+        "id_str": "729676086632656900",
+        "indices": [
+          22,
+          32
+        ],
+        "name": "Team Trump",
+        "screen_name": "TeamTrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          63,
+          79
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @kayleighmcenany: .@TeamTrump is coming to Dallas, TX for a @realDonaldTrump rally on 10/17!\n\n\u201cUnder President Trump\u2019s leadership, 774,4\u2026",
+  "geo": null,
+  "id": 1178987847132602368,
+  "id_str": "1178987847132602368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8334,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 30 23:07:40 +0000 2019",
+    "display_text_range": [
+      0,
+      262
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hATqrUYYjw",
+          "expanded_url": "https://twitter.com/kayleighmcenany/status/1178808658752364546/photo/1",
+          "id": 1178808646958030848,
+          "id_str": "1178808646958030848",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFv4OAQXoAAqBYW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFv4OAQXoAAqBYW.jpg",
+          "sizes": {
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1129
+            },
+            "medium": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1129
+            },
+            "small": {
+              "h": 463,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hATqrUYYjw"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 729676086632656900,
+          "id_str": "729676086632656900",
+          "indices": [
+            1,
+            11
+          ],
+          "name": "Team Trump",
+          "screen_name": "TeamTrump"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            42,
+            58
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 118784158,
+          "id_str": "118784158",
+          "indices": [
+            160,
+            176
+          ],
+          "name": "Michael Glassner",
+          "screen_name": "michaelglassner"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hATqrUYYjw",
+          "expanded_url": "https://twitter.com/kayleighmcenany/status/1178808658752364546/photo/1",
+          "id": 1178808646958030848,
+          "id_str": "1178808646958030848",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFv4OAQXoAAqBYW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFv4OAQXoAAqBYW.jpg",
+          "sizes": {
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1129
+            },
+            "medium": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1129
+            },
+            "small": {
+              "h": 463,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hATqrUYYjw"
+        },
+        {
+          "display_url": "pic.twitter.com/hATqrUYYjw",
+          "expanded_url": "https://twitter.com/kayleighmcenany/status/1178808658752364546/photo/1",
+          "id": 1178808646991581185,
+          "id_str": "1178808646991581185",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFv4OAYXkAEAwDd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFv4OAYXkAEAwDd.jpg",
+          "sizes": {
+            "large": {
+              "h": 766,
+              "resize": "fit",
+              "w": 1013
+            },
+            "medium": {
+              "h": 766,
+              "resize": "fit",
+              "w": 1013
+            },
+            "small": {
+              "h": 514,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hATqrUYYjw"
+        }
+      ]
+    },
+    "favorite_count": 25273,
+    "favorited": false,
+    "full_text": ".@TeamTrump is coming to Dallas, TX for a @realDonaldTrump rally on 10/17!\n\n\u201cUnder President Trump\u2019s leadership, 774,400 jobs have been added in Texas...\u201d said @michaelglassner. \u201cPresident Trump looks forward to celebrating the good news of the Trump economy...\u201d https://t.co/hATqrUYYjw",
+    "geo": null,
+    "id": 1178808658752364546,
+    "id_str": "1178808658752364546",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8334,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Feb 28 23:33:33 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "National Press Secretary for @realDonaldTrump 2020 Campaign. Fmr @GOP Spox. Harvard Law JD. Georgetown. Oxford. Previvor. Wife of @GilmartinSean. Phil. 4:6",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/New-American-R\u2026",
+              "expanded_url": "https://www.amazon.com/New-American-Revolution-Populist-Movement/dp/1501179683/ref=sr_1_1?ie=UTF8&qi",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/NCyK14Aa4b"
+            }
+          ]
+        }
+      },
+      "favourites_count": 12804,
+      "follow_request_sent": false,
+      "followers_count": 276031,
+      "following": false,
+      "friends_count": 2175,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 259001548,
+      "id_str": "259001548",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2176,
+      "location": "",
+      "name": "Kayleigh McEnany",
+      "notifications": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/259001548/1520451863",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "kayleighmcenany",
+      "statuses_count": 18746,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/NCyK14Aa4b",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65116010,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109168,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44729,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

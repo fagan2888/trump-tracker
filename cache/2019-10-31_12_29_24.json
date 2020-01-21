@@ -1,0 +1,262 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 31 12:29:24 +0000 2019",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/mattwhitaker46\u2026",
+        "expanded_url": "https://twitter.com/mattwhitaker46/status/1189649838482362376",
+        "indices": [
+          16,
+          39
+        ],
+        "url": "https://t.co/vDZqYIrgBy"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 30258,
+  "favorited": false,
+  "full_text": "Thank you Matt. https://t.co/vDZqYIrgBy",
+  "geo": null,
+  "id": 1189882057759084569,
+  "id_str": "1189882057759084569",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 30 21:06:38 +0000 2019",
+    "display_text_range": [
+      0,
+      186
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "usatoday.com/story/opinion/\u2026",
+          "expanded_url": "https://www.usatoday.com/story/opinion/2019/10/30/democrats-just-trying-invalidate-president-donald-trump-election-editorials-debates/4099604002/",
+          "indices": [
+            149,
+            172
+          ],
+          "url": "https://t.co/mjStZleUNb"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 235258843,
+          "id_str": "235258843",
+          "indices": [
+            19,
+            30
+          ],
+          "name": "Jeff Landry",
+          "screen_name": "JeffLandry"
+        },
+        {
+          "id": 15754281,
+          "id_str": "15754281",
+          "indices": [
+            177,
+            186
+          ],
+          "name": "USA TODAY",
+          "screen_name": "USATODAY"
+        }
+      ]
+    },
+    "favorite_count": 5172,
+    "favorited": false,
+    "full_text": "Glad to join LA AG @JeffLandry in writing this piece.\n\n\"House Democrats are just trying to invalidate the 2016 election of President Donald Trump\"\n\n https://t.co/mjStZleUNb via @usatoday",
+    "geo": null,
+    "id": 1189649838482362376,
+    "id_str": "1189649838482362376",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "id": "01fbe706f872cb32",
+      "name": "Washington",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 2948,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Fri Jun 08 15:55:48 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Managing Director at Axiom Strategies and Clout Public Affairs;  Acting AG (2018-19), US Attorney SDIA (2004-09), Hawkeye TE #46 (1988-92).",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1015,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 30979,
+      "following": false,
+      "friends_count": 2330,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 6672532,
+      "id_str": "6672532",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 283,
+      "location": "Iowa, USA",
+      "name": "Matt Whitaker \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "D3E1EA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/6672532/1569073043",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1183568180431785984/m17Nm2q8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183568180431785984/m17Nm2q8_normal.jpg",
+      "profile_link_color": "3421C2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MattWhitaker46",
+      "statuses_count": 2432,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1189649838482362376,
+  "quoted_status_id_str": "1189649838482362376",
+  "quoted_status_permalink": {
+    "display": "twitter.com/mattwhitaker46\u2026",
+    "expanded": "https://twitter.com/mattwhitaker46/status/1189649838482362376",
+    "url": "https://t.co/vDZqYIrgBy"
+  },
+  "retweet_count": 7936,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66425535,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110361,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45705,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

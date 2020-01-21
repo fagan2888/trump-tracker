@@ -1,0 +1,246 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Dec 24 04:49:09 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 29097819,
+        "id_str": "29097819",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "The Epoch Times",
+        "screen_name": "EpochTimes"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @EpochTimes: Over 400 people packed the meeting room, filled the lobby, and spilled into the parking lot in rural Buckingham County, #Vi\u2026",
+  "geo": null,
+  "id": 1209335177694109696,
+  "id_str": "1209335177694109696",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4001,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 24 02:34:02 +0000 2019",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            120,
+            129
+          ],
+          "text": "Virginia"
+        },
+        {
+          "indices": [
+            161,
+            166
+          ],
+          "text": "Guns"
+        },
+        {
+          "indices": [
+            230,
+            243
+          ],
+          "text": "2ndAmendment"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "theepochtimes.com/second-amendme\u2026",
+          "expanded_url": "https://www.theepochtimes.com/second-amendment-sanctuary-push-aims-to-defy-new-gun-laws_3181601.html",
+          "indices": [
+            255,
+            278
+          ],
+          "url": "https://t.co/qw94dTDyfY"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 9965,
+    "favorited": false,
+    "full_text": "Over 400 people packed the meeting room, filled the lobby, and spilled into the parking lot in rural Buckingham County, #Virginia with one thing on their minds: #Guns.\n\nThe vast majority favored a proposal to declare the county a #2ndAmendment Sanctuary. https://t.co/qw94dTDyfY",
+    "geo": null,
+    "id": 1209301173561417729,
+    "id_str": "1209301173561417729",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4001,
+    "retweeted": false,
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Apr 05 23:54:55 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "An independent, award-winning voice in print & online. Integrity & truthfulness in reporting. Email Sign up: https://t.co/OovwXvDr5L",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "ept.ms/\u2013Newsletters",
+              "expanded_url": "http://ept.ms/\u2013Newsletters",
+              "indices": [
+                109,
+                132
+              ],
+              "url": "https://t.co/OovwXvDr5L"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "subscribe.epochtimes.com",
+              "expanded_url": "https://subscribe.epochtimes.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/udZgeB9zvZ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10407,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 169305,
+      "following": false,
+      "friends_count": 95,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 29097819,
+      "id_str": "29097819",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1815,
+      "location": "New York, USA",
+      "name": "The Epoch Times",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/29097819/1516660974",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/954141295093698560/9x68uifu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/954141295093698560/9x68uifu_normal.jpg",
+      "profile_link_color": "00218F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "EpochTimes",
+      "statuses_count": 143369,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/udZgeB9zvZ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67889487,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111727,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47459,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

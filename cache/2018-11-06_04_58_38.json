@@ -1,0 +1,353 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Nov 06 04:58:38 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          110,
+          120
+        ],
+        "text": "MAGARally"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino Jr.",
+        "screen_name": "DanScavino"
+      },
+      {
+        "id": 32897787,
+        "id_str": "32897787",
+        "indices": [
+          17,
+          33
+        ],
+        "name": "Lee Greenwood",
+        "screen_name": "TheLeeGreenwood"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          91,
+          107
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: .@TheLeeGreenwood singing GOD BLESS THE USA in Cape Girardeau, Missouri at @realDonaldTrump\u2019s #MAGARally... https://t.co/Gl\u2026",
+  "geo": null,
+  "id": 1059671375881928704,
+  "id_str": "1059671375881928704",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2799,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 06 04:19:38 +0000 2018",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            94,
+            104
+          ],
+          "text": "MAGARally"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GlcON0wF2h",
+          "expanded_url": "https://twitter.com/DanScavino/status/1059661563555168257/video/1",
+          "id": 1059661418620841985,
+          "id_str": "1059661418620841985",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1059661418620841985/pu/img/xBrWumkQXtxtaRY6.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1059661418620841985/pu/img/xBrWumkQXtxtaRY6.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GlcON0wF2h"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 32897787,
+          "id_str": "32897787",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Lee Greenwood",
+          "screen_name": "TheLeeGreenwood"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            75,
+            91
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/GlcON0wF2h",
+          "expanded_url": "https://twitter.com/DanScavino/status/1059661563555168257/video/1",
+          "id": 1059661418620841985,
+          "id_str": "1059661418620841985",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1059661418620841985/pu/img/xBrWumkQXtxtaRY6.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1059661418620841985/pu/img/xBrWumkQXtxtaRY6.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/GlcON0wF2h",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 24200,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1059661418620841985/pu/pl/iJusJOrr493YgNB7.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1059661418620841985/pu/vid/320x180/iyMp9Y_99VTff51S.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1059661418620841985/pu/vid/640x360/JE3QxpW56DcSLMEl.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1059661418620841985/pu/vid/1280x720/0wpJXeL_AIWOpeXW.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 8306,
+    "favorited": false,
+    "full_text": ".@TheLeeGreenwood singing GOD BLESS THE USA in Cape Girardeau, Missouri at @realDonaldTrump\u2019s #MAGARally... https://t.co/GlcON0wF2h",
+    "geo": null,
+    "id": 1059661563555168257,
+    "id_str": "1059661563555168257",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2799,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Personal Twitter Handle \u00af\\_(\u30c4)_/\u00af",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 3048,
+      "follow_request_sent": false,
+      "followers_count": 500868,
+      "following": false,
+      "friends_count": 348,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3406,
+      "location": "New York, USA",
+      "name": "Dan Scavino Jr.",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1541020604",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058174162093649921/13vFekEH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058174162093649921/13vFekEH_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10421,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 55583054,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 95651,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1540264974",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39587,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

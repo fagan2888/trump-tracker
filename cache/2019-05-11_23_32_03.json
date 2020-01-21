@@ -1,0 +1,309 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 11 23:32:03 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18266688,
+        "id_str": "18266688",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Tom Fitton",
+        "screen_name": "TomFitton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TomFitton: Democratic leaders don't want to talk about the criminal conspiracy their party was involved in related to the illegal spyin\u2026",
+  "geo": null,
+  "id": 1127355718074548226,
+  "id_str": "1127355718074548226",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6188,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 11 22:02:42 +0000 2019",
+    "display_text_range": [
+      0,
+      263
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/usZbY3EWez",
+          "expanded_url": "https://twitter.com/TomFitton/status/1127333233065168897/photo/1",
+          "id": 1127332906429497345,
+          "id_str": "1127332906429497345",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6UXTjdWwAEu_4h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6UXTjdWwAEu_4h.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/usZbY3EWez"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "youtu.be/FpmMtbOAEVE?t=\u2026",
+          "expanded_url": "https://youtu.be/FpmMtbOAEVE?t=280",
+          "indices": [
+            240,
+            263
+          ],
+          "url": "https://t.co/MLiqfyjiTP"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            129,
+            145
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/usZbY3EWez",
+          "expanded_url": "https://twitter.com/TomFitton/status/1127333233065168897/photo/1",
+          "id": 1127332906429497345,
+          "id_str": "1127332906429497345",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6UXTjdWwAEu_4h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6UXTjdWwAEu_4h.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/usZbY3EWez"
+        }
+      ]
+    },
+    "favorite_count": 17351,
+    "favorited": false,
+    "full_text": "Democratic leaders don't want to talk about the criminal conspiracy their party was involved in related to the illegal spying on @RealDonaldTrump. Their mentality these days is to try to jail political opponents, no matter the rule of law. https://t.co/MLiqfyjiTP https://t.co/usZbY3EWez",
+    "geo": null,
+    "id": 1127333233065168897,
+    "id_str": "1127333233065168897",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6188,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Dec 20 14:32:44 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President, Judicial Watch. (These are my personal views only!)  Author, New York Times best seller Clean House. \nhttps://t.co/midr73gi0A",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/tomfitton",
+              "expanded_url": "https://www.instagram.com/tomfitton",
+              "indices": [
+                113,
+                136
+              ],
+              "url": "https://t.co/midr73gi0A"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JudicialWatch.org",
+              "expanded_url": "http://www.JudicialWatch.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/ebnjxMYdbL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 451,
+      "follow_request_sent": false,
+      "followers_count": 547333,
+      "following": false,
+      "friends_count": 3004,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 18266688,
+      "id_str": "18266688",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 2336,
+      "location": "Washington, DC",
+      "name": "Tom Fitton",
+      "notifications": false,
+      "profile_background_color": "568448",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18266688/1527968436",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "ECD295",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TomFitton",
+      "statuses_count": 25799,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/ebnjxMYdbL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60179323,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102916,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41812,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

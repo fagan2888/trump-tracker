@@ -1,0 +1,518 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 11 12:30:11 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15455253,
+        "id_str": "15455253",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Ned Ryun",
+        "screen_name": "nedryun"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @nedryun: Love how Comey and Baker trying to get out there ahead of FISA report. But sorry, boys. Barr doesn\u2019t give a rip about public o\u2026",
+  "geo": null,
+  "id": 1127189153874173952,
+  "id_str": "1127189153874173952",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1127033009725759490,
+  "quoted_status_id_str": "1127033009725759490",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jali_cat/statu\u2026",
+    "expanded": "https://twitter.com/jali_cat/status/1127033009725759490",
+    "url": "https://t.co/5fGFQTGbk8"
+  },
+  "retweet_count": 8475,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 11 02:23:02 +0000 2019",
+    "display_text_range": [
+      0,
+      214
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/jali_cat/statu\u2026",
+          "expanded_url": "https://twitter.com/jali_cat/status/1127033009725759490",
+          "indices": [
+            215,
+            238
+          ],
+          "url": "https://t.co/5fGFQTGbk8"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 24584,
+    "favorited": false,
+    "full_text": "Love how Comey and Baker trying to get out there ahead of FISA report. But sorry, boys. Barr doesn\u2019t give a rip about public opinion. If you broke the law, and I\u2019m pretty sure you did, prison is a real possibility. https://t.co/5fGFQTGbk8",
+    "geo": null,
+    "id": 1127036362513965061,
+    "id_str": "1127036362513965061",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -83.67529,
+              36.540739
+            ],
+            [
+              -75.16644,
+              36.540739
+            ],
+            [
+              -75.16644,
+              39.466012
+            ],
+            [
+              -83.67529,
+              39.466012
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Virginia, USA",
+      "id": "5635c19c2b5078d1",
+      "name": "Virginia",
+      "place_type": "admin",
+      "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat May 11 02:09:43 +0000 2019",
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/OV8Yln64So",
+            "expanded_url": "https://twitter.com/MaddowBlog/status/1127030464483602436/video/1",
+            "id": 1127030320124108800,
+            "id_str": "1127030320124108800",
+            "indices": [
+              255,
+              278
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6QENdHWwAEzU3u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6QENdHWwAEzU3u.jpg",
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1920
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1127030464483602436,
+            "source_status_id_str": "1127030464483602436",
+            "source_user_id": 91180720,
+            "source_user_id_str": "91180720",
+            "type": "photo",
+            "url": "https://t.co/OV8Yln64So"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "embeddable": true,
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Nov 19 20:06:48 +0000 2009",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Rachel Maddow and her staff have a blog. This is its voice on Twitter.",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "maddowblog.com",
+                        "expanded_url": "http://maddowblog.com",
+                        "indices": [
+                          0,
+                          22
+                        ],
+                        "url": "http://t.co/S4bi1oCj3l"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 43,
+                "follow_request_sent": false,
+                "followers_count": 936933,
+                "following": false,
+                "friends_count": 857,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 91180720,
+                "id_str": "91180720",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 8992,
+                "location": "New York City",
+                "name": "Maddow Blog",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/91180720/1399074500",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/605593989438406656/4gAmVLaI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/605593989438406656/4gAmVLaI_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "MaddowBlog",
+                "statuses_count": 21261,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "http://t.co/S4bi1oCj3l",
+                "utc_offset": null,
+                "verified": true
+              }
+            },
+            "display_url": "pic.twitter.com/OV8Yln64So",
+            "expanded_url": "https://twitter.com/MaddowBlog/status/1127030464483602436/video/1",
+            "id": 1127030320124108800,
+            "id_str": "1127030320124108800",
+            "indices": [
+              255,
+              278
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6QENdHWwAEzU3u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6QENdHWwAEzU3u.jpg",
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1920
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1127030464483602436,
+            "source_status_id_str": "1127030464483602436",
+            "source_user_id": 91180720,
+            "source_user_id_str": "91180720",
+            "type": "video",
+            "url": "https://t.co/OV8Yln64So",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 60361,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1127030320124108800/vid/1280x720/qFaLKLPRYi9lJajy.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1127030320124108800/pl/SBAdFL6W4jDCvWUh.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1127030320124108800/vid/320x180/GBDDIEr2MaiO2R9L.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1127030320124108800/vid/640x360/UDzd-xe1ZZumeey3.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 2579,
+      "favorited": false,
+      "full_text": "\ud83d\udde3Heres Obama\u2019s Former FBI General, James Baker, who signed for FISA:\ud83d\udde3\n\n\"We have a jaundiced eye w respect to the information we get. We vet it. We dont assume it's correct.\u201d\n\nLying POS. I PRAY TO GOD the IG puts this clown underneath a prison! Criminal!\n https://t.co/OV8Yln64So",
+      "geo": null,
+      "id": 1127033009725759490,
+      "id_str": "1127033009725759490",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1606,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 25 21:15:18 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "You can't always be politically correct. Sometimes it takes REAL courage to stand up & MAGA \ud83c\uddfa\ud83c\uddf8//\u270c\ud83c\udffb\ud83d\udc96//Aspiring Blogger// Snap Chat & Insta ~ Jali_Cat",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 437789,
+        "follow_request_sent": false,
+        "followers_count": 81986,
+        "following": false,
+        "friends_count": 44816,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1546656000,
+        "id_str": "1546656000",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 83,
+        "location": "United States",
+        "name": "Jali_Cat{\u2b50\ufe0f}",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546656000/1536647696",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109671955827961861/_RQjedPD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109671955827961861/_RQjedPD_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jali_Cat",
+        "statuses_count": 282585,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1127033009725759490,
+    "quoted_status_id_str": "1127033009725759490",
+    "quoted_status_permalink": {
+      "display": "twitter.com/jali_cat/statu\u2026",
+      "expanded": "https://twitter.com/jali_cat/status/1127033009725759490",
+      "url": "https://t.co/5fGFQTGbk8"
+    },
+    "retweet_count": 8475,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 16 15:04:15 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Conservative Christian. Love @BeccaRyun. Dad of 4. Jayhawk. CEO @AM_National, @VoterGravity. For media: ned@therightbookings.com. @theamgreatness Senior Fellow.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nedryun.com",
+              "expanded_url": "http://www.nedryun.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fMl949HcAi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10415,
+      "follow_request_sent": false,
+      "followers_count": 126143,
+      "following": false,
+      "friends_count": 27936,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 15455253,
+      "id_str": "15455253",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1126,
+      "location": "Virginia",
+      "name": "Ned Ryun",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15455253/1505500352",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/810280526619832320/MzTy3-_1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/810280526619832320/MzTy3-_1_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "nedryun",
+      "statuses_count": 57207,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/fMl949HcAi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60179323,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102916,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41812,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

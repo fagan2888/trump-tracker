@@ -1,0 +1,316 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 03 12:09:33 +0000 2019",
+  "display_text_range": [
+    0,
+    50
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/kristina_wong/\u2026",
+        "expanded_url": "https://twitter.com/kristina_wong/status/1179386288748802049",
+        "indices": [
+          51,
+          74
+        ],
+        "url": "https://t.co/nGp9aFP3rX"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 85794,
+  "favorited": false,
+  "full_text": "Schiff is a lowlife who should resign (at least!). https://t.co/nGp9aFP3rX",
+  "geo": null,
+  "id": 1179730204001996800,
+  "id_str": "1179730204001996800",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 02 13:22:57 +0000 2019",
+    "display_text_range": [
+      0,
+      163
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YEwTI9WxKU",
+          "expanded_url": "https://twitter.com/kristina_wong/status/1179386288748802049/photo/1",
+          "id": 1179386282499284993,
+          "id_str": "1179386282499284993",
+          "indices": [
+            164,
+            187
+          ],
+          "media_url": "http://pbs.twimg.com/media/EF4Fk0VWoAENDzK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EF4Fk0VWoAENDzK.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 480,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YEwTI9WxKU"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2nGDyBX",
+          "expanded_url": "http://bit.ly/2nGDyBX",
+          "indices": [
+            121,
+            144
+          ],
+          "url": "https://t.co/kDSkhZzmMF"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 818948638890217473,
+          "id_str": "818948638890217473",
+          "indices": [
+            1,
+            14
+          ],
+          "name": "Rep. Matt Gaetz",
+          "screen_name": "RepMattGaetz"
+        },
+        {
+          "id": 457984599,
+          "id_str": "457984599",
+          "indices": [
+            149,
+            163
+          ],
+          "name": "Breitbart News",
+          "screen_name": "BreitbartNews"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YEwTI9WxKU",
+          "expanded_url": "https://twitter.com/kristina_wong/status/1179386288748802049/photo/1",
+          "id": 1179386282499284993,
+          "id_str": "1179386282499284993",
+          "indices": [
+            164,
+            187
+          ],
+          "media_url": "http://pbs.twimg.com/media/EF4Fk0VWoAENDzK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EF4Fk0VWoAENDzK.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 480,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YEwTI9WxKU"
+        }
+      ]
+    },
+    "favorite_count": 2878,
+    "favorited": false,
+    "full_text": ".@RepMattGaetz Recalls When Adam Schiff Sought Nude Pictures of Trump from Prankster He Thought Was a Ukrainian Official https://t.co/kDSkhZzmMF via @BreitbartNews https://t.co/YEwTI9WxKU",
+    "geo": null,
+    "id": 1179386288748802049,
+    "id_str": "1179386288748802049",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1386,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 30 17:44:26 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Pentagon/natsec corr @BreitbartNews Ex @thehill @washtimes @abc Covered 5 SecDefs fm AfPak, Gtmo, Asia, ME. SPJ awarded. @MilReporters board member. Caj-sian\ud83e\udd90",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "breitbart.com/author/kristin\u2026",
+              "expanded_url": "http://www.breitbart.com/author/kristina-wong/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/zkoNJbf1ir"
+            }
+          ]
+        }
+      },
+      "favourites_count": 52594,
+      "follow_request_sent": false,
+      "followers_count": 25975,
+      "following": false,
+      "friends_count": 2073,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18482836,
+      "id_str": "18482836",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 775,
+      "location": "kristinawong@protonmail.com",
+      "name": "Kristina Wong \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18482836/1432784463",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1177295634237464576/QDxv5svI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177295634237464576/QDxv5svI_normal.jpg",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "kristina_wong",
+      "statuses_count": 41738,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/zkoNJbf1ir",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1179386288748802049,
+  "quoted_status_id_str": "1179386288748802049",
+  "quoted_status_permalink": {
+    "display": "twitter.com/kristina_wong/\u2026",
+    "expanded": "https://twitter.com/kristina_wong/status/1179386288748802049",
+    "url": "https://t.co/nGp9aFP3rX"
+  },
+  "retweet_count": 23719,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65243129,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109347,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44852,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 13 11:47:00 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          97,
+          106
+        ],
+        "text": "Kentucky"
+      },
+      {
+        "indices": [
+          121,
+          131
+        ],
+        "text": "AsianCarp"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 339822881,
+        "id_str": "339822881",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Senator McConnell Press",
+        "screen_name": "McConnellPress"
+      },
+      {
+        "id": 1249982359,
+        "id_str": "1249982359",
+        "indices": [
+          23,
+          36
+        ],
+        "name": "Leader McConnell",
+        "screen_name": "senatemajldr"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @McConnellPress: At @senatemajldr Mitch McConnell's request the Trump Administration will aid #Kentucky in the War on #AsianCarp by dedi\u2026",
+  "geo": null,
+  "id": 1150008723601010688,
+  "id_str": "1150008723601010688",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2717,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 11 22:04:10 +0000 2019",
+    "display_text_range": [
+      0,
+      232
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            77,
+            86
+          ],
+          "text": "Kentucky"
+        },
+        {
+          "indices": [
+            101,
+            111
+          ],
+          "text": "AsianCarp"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ySvQdQWdaj",
+          "expanded_url": "https://twitter.com/McConnellPress/status/1149439261806125056/photo/1",
+          "id": 1149428318770532357,
+          "id_str": "1149428318770532357",
+          "indices": [
+            233,
+            256
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OW90sXkAUwnoz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OW90sXkAUwnoz.jpg",
+          "sizes": {
+            "large": {
+              "h": 530,
+              "resize": "fit",
+              "w": 1535
+            },
+            "medium": {
+              "h": 414,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 235,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ySvQdQWdaj"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2XKvf4d",
+          "expanded_url": "https://bit.ly/2XKvf4d",
+          "indices": [
+            209,
+            232
+          ],
+          "url": "https://t.co/R8WSFCzO5p"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1249982359,
+          "id_str": "1249982359",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "Leader McConnell",
+          "screen_name": "senatemajldr"
+        },
+        {
+          "id": 57625403,
+          "id_str": "57625403",
+          "indices": [
+            126,
+            132
+          ],
+          "name": "US Fish and Wildlife",
+          "screen_name": "USFWS"
+        },
+        {
+          "id": 14505838,
+          "id_str": "14505838",
+          "indices": [
+            133,
+            138
+          ],
+          "name": "USGS",
+          "screen_name": "USGS"
+        },
+        {
+          "id": 24742301,
+          "id_str": "24742301",
+          "indices": [
+            178,
+            193
+          ],
+          "name": "KY Fish & Wildlife",
+          "screen_name": "kyfishwildlife"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ySvQdQWdaj",
+          "expanded_url": "https://twitter.com/McConnellPress/status/1149439261806125056/photo/1",
+          "id": 1149428318770532357,
+          "id_str": "1149428318770532357",
+          "indices": [
+            233,
+            256
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OW90sXkAUwnoz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OW90sXkAUwnoz.jpg",
+          "sizes": {
+            "large": {
+              "h": 530,
+              "resize": "fit",
+              "w": 1535
+            },
+            "medium": {
+              "h": 414,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 235,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ySvQdQWdaj"
+        },
+        {
+          "display_url": "pic.twitter.com/ySvQdQWdaj",
+          "expanded_url": "https://twitter.com/McConnellPress/status/1149439261806125056/photo/1",
+          "id": 1149428318955028487,
+          "id_str": "1149428318955028487",
+          "indices": [
+            233,
+            256
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OW91YWwActlO_.png",
+          "media_url_https": "https://pbs.twimg.com/media/D_OW91YWwActlO_.png",
+          "sizes": {
+            "large": {
+              "h": 560,
+              "resize": "fit",
+              "w": 687
+            },
+            "medium": {
+              "h": 560,
+              "resize": "fit",
+              "w": 687
+            },
+            "small": {
+              "h": 554,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ySvQdQWdaj"
+        },
+        {
+          "display_url": "pic.twitter.com/ySvQdQWdaj",
+          "expanded_url": "https://twitter.com/McConnellPress/status/1149439261806125056/photo/1",
+          "id": 1149428318963478528,
+          "id_str": "1149428318963478528",
+          "indices": [
+            233,
+            256
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OW91aXsAASxqe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OW91aXsAASxqe.jpg",
+          "sizes": {
+            "large": {
+              "h": 550,
+              "resize": "fit",
+              "w": 733
+            },
+            "medium": {
+              "h": 550,
+              "resize": "fit",
+              "w": 733
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ySvQdQWdaj"
+        },
+        {
+          "display_url": "pic.twitter.com/ySvQdQWdaj",
+          "expanded_url": "https://twitter.com/McConnellPress/status/1149439261806125056/photo/1",
+          "id": 1149428318959222785,
+          "id_str": "1149428318959222785",
+          "indices": [
+            233,
+            256
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OW91ZWwAEajNq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OW91ZWwAEajNq.jpg",
+          "sizes": {
+            "large": {
+              "h": 1125,
+              "resize": "fit",
+              "w": 1400
+            },
+            "medium": {
+              "h": 964,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 546,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ySvQdQWdaj"
+        }
+      ]
+    },
+    "favorite_count": 11360,
+    "favorited": false,
+    "full_text": "At @senatemajldr Mitch McConnell's request the Trump Administration will aid #Kentucky in the War on #AsianCarp by dedicating @USFWS @USGS personnel &amp; equipment to work with @kyfishwildlife and fishermen: https://t.co/R8WSFCzO5p https://t.co/ySvQdQWdaj",
+    "geo": null,
+    "id": 1149439261806125056,
+    "id_str": "1149439261806125056",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2717,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 21 18:25:30 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The #Kentucky press office for U.S. Senate Majority Leader Mitch McConnell @senatemajldr. For more information please visit his website:",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "mcconnell.senate.gov",
+              "expanded_url": "http://mcconnell.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/z3LTl4HcqS"
+            }
+          ]
+        }
+      },
+      "favourites_count": 14,
+      "follow_request_sent": false,
+      "followers_count": 82678,
+      "following": false,
+      "friends_count": 351,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 339822881,
+      "id_str": "339822881",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2188,
+      "location": "",
+      "name": "Senator McConnell Press",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/339822881/1445984145",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1101167266757001217/oGvCjceB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101167266757001217/oGvCjceB_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "McConnellPress",
+      "statuses_count": 11922,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/z3LTl4HcqS",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 61896633,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105215,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42901,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

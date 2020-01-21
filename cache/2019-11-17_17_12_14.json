@@ -1,0 +1,422 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 17 17:12:14 +0000 2019",
+  "display_text_range": [
+    0,
+    44
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/katrinacampins\u2026",
+        "expanded_url": "https://twitter.com/katrinacampins/status/1195879536728190977",
+        "indices": [
+          45,
+          68
+        ],
+        "url": "https://t.co/NllcAz0bWB"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 23993,
+  "favorited": false,
+  "full_text": "I agree Katrina, Pam Bondi is a great woman! https://t.co/NllcAz0bWB",
+  "geo": null,
+  "id": 1196113831283613696,
+  "id_str": "1196113831283613696",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 17 01:41:14 +0000 2019",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            266,
+            272
+          ],
+          "text": "trump"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ZQ68pCdwPv",
+          "expanded_url": "https://twitter.com/KatrinaCampins/status/1195879536728190977/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 632,
+                  "w": 632,
+                  "x": 94,
+                  "y": 482
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 370,
+                  "w": 370,
+                  "x": 55,
+                  "y": 282
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 632,
+                  "w": 632,
+                  "x": 94,
+                  "y": 482
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 209,
+                  "w": 209,
+                  "x": 31,
+                  "y": 160
+                }
+              ]
+            }
+          },
+          "id": 1195879528624775168,
+          "id_str": "1195879528624775168",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJieGGHXYAAU8tU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJieGGHXYAAU8tU.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZQ68pCdwPv"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 93755660,
+          "id_str": "93755660",
+          "indices": [
+            50,
+            59
+          ],
+          "name": "Pam Bondi",
+          "screen_name": "PamBondi"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            234,
+            250
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 720843893441306624,
+          "id_str": "720843893441306624",
+          "indices": [
+            251,
+            265
+          ],
+          "name": "Women for Trump",
+          "screen_name": "WomenforTrump"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            273,
+            279
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ZQ68pCdwPv",
+          "expanded_url": "https://twitter.com/KatrinaCampins/status/1195879536728190977/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 632,
+                  "w": 632,
+                  "x": 94,
+                  "y": 482
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 370,
+                  "w": 370,
+                  "x": 55,
+                  "y": 282
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 632,
+                  "w": 632,
+                  "x": 94,
+                  "y": 482
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 209,
+                  "w": 209,
+                  "x": 31,
+                  "y": 160
+                }
+              ]
+            }
+          },
+          "id": 1195879528624775168,
+          "id_str": "1195879528624775168",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJieGGHXYAAU8tU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJieGGHXYAAU8tU.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZQ68pCdwPv"
+        }
+      ]
+    },
+    "favorite_count": 3726,
+    "favorited": false,
+    "full_text": "I have the utmost respect for this beautiful lady @pambondi Not only did she serve as the first woman Attorney General for Florida but she is a class act who is kind to other women regardless of her undeniable success. True strength. @realDonaldTrump @WomenforTrump #trump @POTUS https://t.co/ZQ68pCdwPv",
+    "geo": null,
+    "id": 1195879536728190977,
+    "id_str": "1195879536728190977",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 800,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Apr 24 04:57:12 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Real Estate Mogul/TV Personality over $1 Billion SOLD! 1st Season: Trump\u2019s \u201cThe Apprentice\u201d + E! Hot Listings Miami + Fox News + Donald Trump's Surrogate",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "CAMPINSCO.COM",
+              "expanded_url": "http://WWW.CAMPINSCO.COM",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mJCPNMutiL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1851,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 222656,
+      "following": false,
+      "friends_count": 1930,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 34852681,
+      "id_str": "34852681",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 979,
+      "location": "Peace Within",
+      "name": "KATRINA CAMPINS",
+      "notifications": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/34852681/1561010792",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1180981156004728832/2NkK5gWM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180981156004728832/2NkK5gWM_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "100214",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "KatrinaCampins",
+      "statuses_count": 13529,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mJCPNMutiL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1195879536728190977,
+  "quoted_status_id_str": "1195879536728190977",
+  "quoted_status_permalink": {
+    "display": "twitter.com/katrinacampins\u2026",
+    "expanded": "https://twitter.com/katrinacampins/status/1195879536728190977",
+    "url": "https://t.co/NllcAz0bWB"
+  },
+  "retweet_count": 5119,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66871838,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110763,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46249,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

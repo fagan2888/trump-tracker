@@ -1,0 +1,315 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 11 01:33:21 +0000 2018",
+  "display_text_range": [
+    0,
+    58
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          41,
+          58
+        ],
+        "text": "HurricaneMichael"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/jsopio/status/\u2026",
+        "expanded_url": "https://twitter.com/jsopio/status/1050132146373967892",
+        "indices": [
+          59,
+          82
+        ],
+        "url": "https://t.co/fuy7stLMJI"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 23171,
+  "favorited": false,
+  "full_text": "Thank you Jacksonville Sheriff\u2019s Office! #HurricaneMichael https://t.co/fuy7stLMJI",
+  "geo": null,
+  "id": 1050197632524660736,
+  "id_str": "1050197632524660736",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 10 21:13:08 +0000 2018",
+    "display_text_range": [
+      0,
+      211
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            175,
+            192
+          ],
+          "text": "HurricaneMichael"
+        },
+        {
+          "indices": [
+            193,
+            201
+          ],
+          "text": "Michael"
+        },
+        {
+          "indices": [
+            202,
+            211
+          ],
+          "text": "Teamwork"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/dnpy21bEeG",
+          "expanded_url": "https://twitter.com/JSOPIO/status/1050132146373967892/photo/1",
+          "id": 1050132112387522566,
+          "id_str": "1050132112387522566",
+          "indices": [
+            212,
+            235
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpLRl6YWwAYJJwD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpLRl6YWwAYJJwD.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/dnpy21bEeG"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/dnpy21bEeG",
+          "expanded_url": "https://twitter.com/JSOPIO/status/1050132146373967892/photo/1",
+          "id": 1050132112387522566,
+          "id_str": "1050132112387522566",
+          "indices": [
+            212,
+            235
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpLRl6YWwAYJJwD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpLRl6YWwAYJJwD.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/dnpy21bEeG"
+        }
+      ]
+    },
+    "favorite_count": 2208,
+    "favorited": false,
+    "full_text": "We are assisting linemen and tree surgeons stage from all over the Southeast.  As soon as it is safe to do so, they will be headed to the panhandle.  Help will be on the way. #HurricaneMichael #Michael #Teamwork https://t.co/dnpy21bEeG",
+    "geo": null,
+    "id": 1050132146373967892,
+    "id_str": "1050132146373967892",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 693,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 30 19:57:31 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Jacksonville Sheriff\u2019s Office Twitter. 911 for emergencies. Not monitored 24/7. Facebook: Jacksonville Sheriffs Office - Instagram: JAXSheriff",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jaxsheriff.org",
+              "expanded_url": "http://www.jaxsheriff.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nvkXyY9Z9Z"
+            }
+          ]
+        }
+      },
+      "favourites_count": 30738,
+      "follow_request_sent": false,
+      "followers_count": 129328,
+      "following": false,
+      "friends_count": 382,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 27713996,
+      "id_str": "27713996",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 778,
+      "location": "Jacksonville, Florida",
+      "name": "Jax Sheriff's Office",
+      "notifications": false,
+      "profile_background_color": "0F1B80",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/27713996/1401387772",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/949708011416752128/yef_InAp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/949708011416752128/yef_InAp_normal.jpg",
+      "profile_link_color": "0034B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F7F12B",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JSOPIO",
+      "statuses_count": 36203,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/nvkXyY9Z9Z",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1050132146373967892,
+  "quoted_status_id_str": "1050132146373967892",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jsopio/status/\u2026",
+    "expanded": "https://twitter.com/jsopio/status/1050132146373967892",
+    "url": "https://t.co/fuy7stLMJI"
+  },
+  "retweet_count": 5563,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55028490,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39236,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

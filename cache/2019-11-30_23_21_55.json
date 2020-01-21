@@ -1,0 +1,383 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 30 23:21:55 +0000 2019",
+  "display_text_range": [
+    0,
+    61
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/thehill/status\u2026",
+        "expanded_url": "https://twitter.com/thehill/status/1200892525931909120",
+        "indices": [
+          62,
+          85
+        ],
+        "url": "https://t.co/i3tPDJtuuA"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 47313,
+  "favorited": false,
+  "full_text": "And the Do Nothing Democrats want to impeach President Trump? https://t.co/i3tPDJtuuA",
+  "geo": null,
+  "id": 1200917908135825408,
+  "id_str": "1200917908135825408",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 30 21:41:04 +0000 2019",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CtWRi31Jqy",
+          "expanded_url": "https://twitter.com/thehill/status/1200892525931909120/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 273,
+                  "y": 80
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 273,
+                  "y": 80
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 273,
+                  "y": 80
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 273,
+                  "y": 80
+                }
+              ]
+            }
+          },
+          "id": 1200892523872497664,
+          "id_str": "1200892523872497664",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKptY0rXsAArbXX.png",
+          "media_url_https": "https://pbs.twimg.com/media/EKptY0rXsAArbXX.png",
+          "sizes": {
+            "large": {
+              "h": 326,
+              "resize": "fit",
+              "w": 580
+            },
+            "medium": {
+              "h": 326,
+              "resize": "fit",
+              "w": 580
+            },
+            "small": {
+              "h": 326,
+              "resize": "fit",
+              "w": 580
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CtWRi31Jqy"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "hill.cm/IPxeu0U",
+          "expanded_url": "http://hill.cm/IPxeu0U",
+          "indices": [
+            75,
+            98
+          ],
+          "url": "https://t.co/R8u3TvfD5P"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CtWRi31Jqy",
+          "expanded_url": "https://twitter.com/thehill/status/1200892525931909120/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 273,
+                  "y": 80
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 273,
+                  "y": 80
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 273,
+                  "y": 80
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 273,
+                  "y": 80
+                }
+              ]
+            }
+          },
+          "id": 1200892523872497664,
+          "id_str": "1200892523872497664",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKptY0rXsAArbXX.png",
+          "media_url_https": "https://pbs.twimg.com/media/EKptY0rXsAArbXX.png",
+          "sizes": {
+            "large": {
+              "h": 326,
+              "resize": "fit",
+              "w": 580
+            },
+            "medium": {
+              "h": 326,
+              "resize": "fit",
+              "w": 580
+            },
+            "small": {
+              "h": 326,
+              "resize": "fit",
+              "w": 580
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CtWRi31Jqy"
+        }
+      ]
+    },
+    "favorite_count": 2423,
+    "favorited": false,
+    "full_text": "Poll: Majority of Republicans say Trump is a better president than Lincoln https://t.co/R8u3TvfD5P https://t.co/CtWRi31Jqy",
+    "geo": null,
+    "id": 1200892525931909120,
+    "id_str": "1200892525931909120",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 795,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thehill.com",
+              "expanded_url": "http://www.thehill.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/t414UtTRv4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 3460064,
+      "following": false,
+      "friends_count": 257,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1917731,
+      "id_str": "1917731",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 26670,
+      "location": "Washington, DC",
+      "name": "The Hill",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+      "profile_link_color": "FF0021",
+      "profile_sidebar_border_color": "ADADAA",
+      "profile_sidebar_fill_color": "EBEBEB",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "thehill",
+      "statuses_count": 659842,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/t414UtTRv4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1200892525931909120,
+  "quoted_status_id_str": "1200892525931909120",
+  "quoted_status_permalink": {
+    "display": "twitter.com/thehill/status\u2026",
+    "expanded": "https://twitter.com/thehill/status/1200892525931909120",
+    "url": "https://t.co/i3tPDJtuuA"
+  },
+  "retweet_count": 11444,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67180803,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111000,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46525,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

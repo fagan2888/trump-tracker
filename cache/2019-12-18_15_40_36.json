@@ -1,0 +1,346 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 18 15:40:36 +0000 2019",
+  "display_text_range": [
+    0,
+    122
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/realDonaldTrum\u2026",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1207317586637021185",
+        "indices": [
+          99,
+          122
+        ],
+        "url": "https://t.co/RPCZy2rKO8"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 17349381,
+        "id_str": "17349381",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Fr. Frank Pavone \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "frfrankpavone"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @frfrankpavone: I am asking my entire following to pray for you! You are doing the work of God! https://t.co/RPCZy2rKO8",
+  "geo": null,
+  "id": 1207324795274223618,
+  "id_str": "1207324795274223618",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1207317586637021185,
+  "quoted_status_id_str": "1207317586637021185",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realDonaldTrum\u2026",
+    "expanded": "https://twitter.com/realDonaldTrump/status/1207317586637021185",
+    "url": "https://t.co/RPCZy2rKO8"
+  },
+  "retweet_count": 11775,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 18 15:17:45 +0000 2019",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realDonaldTrum\u2026",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1207317586637021185",
+          "indices": [
+            80,
+            103
+          ],
+          "url": "https://t.co/RPCZy2rKO8"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 43556,
+    "favorited": false,
+    "full_text": "I am asking my entire following to pray for you! You are doing the work of God! https://t.co/RPCZy2rKO8",
+    "geo": null,
+    "id": 1207319045210394624,
+    "id_str": "1207319045210394624",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Dec 18 15:11:58 +0000 2019",
+      "display_text_range": [
+        0,
+        152
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 963480595,
+            "id_str": "963480595",
+            "indices": [
+              137,
+              152
+            ],
+            "name": "Mark Meadows",
+            "screen_name": "RepMarkMeadows"
+          }
+        ]
+      },
+      "favorite_count": 59480,
+      "favorited": false,
+      "full_text": "\u201cThis is all about convicting a President based on innuendo, not on the facts. Even the Ukrainian President said there was no pressure!\u201d @RepMarkMeadows",
+      "geo": null,
+      "id": 1207317586637021185,
+      "id_str": "1207317586637021185",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 14228,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": false,
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 67785966,
+        "following": true,
+        "friends_count": 48,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 111642,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 47370,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1207317586637021185,
+    "quoted_status_id_str": "1207317586637021185",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realDonaldTrum\u2026",
+      "expanded": "https://twitter.com/realDonaldTrump/status/1207317586637021185",
+      "url": "https://t.co/RPCZy2rKO8"
+    },
+    "retweet_count": 11775,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Nov 12 21:33:25 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Catholic Priest. Fulltime Prolife Leader. National Director of @priestsforlife. Pastoral Director of @rvhealing and Silent No More Awareness (@regretabortion).",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "EndAbortion.US",
+              "expanded_url": "http://EndAbortion.US",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DtoInNxfte"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7310,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 136301,
+      "following": false,
+      "friends_count": 115736,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 17349381,
+      "id_str": "17349381",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1494,
+      "location": "Titusville, FL",
+      "name": "Fr. Frank Pavone \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "1380F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17349381/1558015054",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045027928856317952/-UihsxFV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045027928856317952/-UihsxFV_normal.jpg",
+      "profile_link_color": "0975E8",
+      "profile_sidebar_border_color": "0F8FFF",
+      "profile_sidebar_fill_color": "84D7F0",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "frfrankpavone",
+      "statuses_count": 28870,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DtoInNxfte",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 07 03:19:06 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20545835,
+        "id_str": "20545835",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Newsmax",
+        "screen_name": "newsmax"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @newsmax: \"I have no idea what the plan is from the Democrats, it makes no sense to me. Nancy Pelosi can go on public TV and claim that\u2026",
+  "geo": null,
+  "id": 1203151921864990720,
+  "id_str": "1203151921864990720",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3245,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 06 23:10:00 +0000 2019",
+    "display_text_range": [
+      0,
+      262
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            223,
+            234
+          ],
+          "text": "NewsmaxNow"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/6boy1D7vwm",
+          "expanded_url": "https://twitter.com/newsmax/status/1203089233625395208/video/1",
+          "features": {},
+          "id": 1203083622091280384,
+          "id_str": "1203083622091280384",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1203083622091280384/img/_QkqnyUTJKcwj_IP.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1203083622091280384/img/_QkqnyUTJKcwj_IP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/6boy1D7vwm"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "newsmaxtv.com",
+          "expanded_url": "http://newsmaxtv.com",
+          "indices": [
+            238,
+            261
+          ],
+          "url": "https://t.co/6kJRGQSvV0"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 996094929733652481,
+          "id_str": "996094929733652481",
+          "indices": [
+            185,
+            195
+          ],
+          "name": "Congresswoman Debbie Lesko",
+          "screen_name": "RepDLesko"
+        },
+        {
+          "id": 425134612,
+          "id_str": "425134612",
+          "indices": [
+            202,
+            215
+          ],
+          "name": "John Bachman",
+          "screen_name": "JohnFBachman"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "watch_now": {
+                "url": "https://www.newsmaxtv.com/"
+              }
+            },
+            "description": "Congresswoman Debbie Lesko comments on Speaker Nancy Pelosi's claims, and Democrats impeachment efforts.",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Debbie Lesko on Nancy Pelosi, Democrats"
+          },
+          "display_url": "pic.twitter.com/6boy1D7vwm",
+          "expanded_url": "https://twitter.com/newsmax/status/1203089233625395208/video/1",
+          "features": {},
+          "id": 1203083622091280384,
+          "id_str": "1203083622091280384",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1203083622091280384/img/_QkqnyUTJKcwj_IP.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1203083622091280384/img/_QkqnyUTJKcwj_IP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/6boy1D7vwm",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 49116,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1203083622091280384/vid/480x270/wbFuVHBAmGsHZAg5.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1203083622091280384/vid/1280x720/Ncwd5A5FPzKe9nU3.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1203083622091280384/pl/Vw606K_kgwZE8hKR.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1203083622091280384/vid/640x360/zulUPuIJYDZpqA5E.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 8625,
+    "favorited": false,
+    "full_text": "\"I have no idea what the plan is from the Democrats, it makes no sense to me. Nancy Pelosi can go on public TV and claim that it's \"uncontested proof?\" I mean, that's an outright lie,\" @RepDLesko tells @JohnFBachman.\n\n[via #NewsmaxNow on https://t.co/6kJRGQSvV0] https://t.co/6boy1D7vwm",
+    "geo": null,
+    "id": 1203089233625395208,
+    "id_str": "1203089233625395208",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3245,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Feb 10 21:04:49 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Breaking news & expert analysis. Watch Newsmax TV on DirecTV 349, Xfinity 1115, DISH 216, U-Verse 1120, FiOS 615, YouTube, or the app. https://t.co/mKwVh7DHAK",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "nws.mx/tv",
+              "expanded_url": "https://nws.mx/tv",
+              "indices": [
+                135,
+                158
+              ],
+              "url": "https://t.co/mKwVh7DHAK"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "newsmax.com",
+              "expanded_url": "http://www.newsmax.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/x0Mdx0P2eO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 981,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 97776,
+      "following": false,
+      "friends_count": 588,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 20545835,
+      "id_str": "20545835",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2104,
+      "location": "United States",
+      "name": "Newsmax",
+      "notifications": false,
+      "profile_background_color": "F4F7FB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20545835/1572014471",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1197997807518519297/2wvr8SEI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197997807518519297/2wvr8SEI_normal.jpg",
+      "profile_link_color": "295AAB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "newsmax",
+      "statuses_count": 94569,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/x0Mdx0P2eO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67309429,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111079,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46700,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

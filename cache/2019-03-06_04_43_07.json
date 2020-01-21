@@ -1,0 +1,358 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 06 04:43:07 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 50769180,
+        "id_str": "50769180",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Laura Ingraham",
+        "screen_name": "IngrahamAngle"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IngrahamAngle: Tune in tonight for blockbuster analysis of the Dems\u2019 colossally stupid decision to overreach with overbroad subpoenas..\u2026",
+  "geo": null,
+  "id": 1103154015175626752,
+  "id_str": "1103154015175626752",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1103062005626400768,
+  "quoted_status_id_str": "1103062005626400768",
+  "quoted_status_permalink": {
+    "display": "twitter.com/donaldjtrumpjr\u2026",
+    "expanded": "https://twitter.com/donaldjtrumpjr/status/1103062005626400768",
+    "url": "https://t.co/6DUbdGhY4w"
+  },
+  "retweet_count": 2911,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 06 00:05:48 +0000 2019",
+    "display_text_range": [
+      0,
+      178
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            164,
+            178
+          ],
+          "text": "IngrahamAngle"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/donaldjtrumpjr\u2026",
+          "expanded_url": "https://twitter.com/donaldjtrumpjr/status/1103062005626400768",
+          "indices": [
+            179,
+            202
+          ],
+          "url": "https://t.co/6DUbdGhY4w"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 18166778,
+          "id_str": "18166778",
+          "indices": [
+            138,
+            149
+          ],
+          "name": "Rep. Jim Jordan",
+          "screen_name": "Jim_Jordan"
+        },
+        {
+          "id": 1367531,
+          "id_str": "1367531",
+          "indices": [
+            155,
+            163
+          ],
+          "name": "Fox News",
+          "screen_name": "FoxNews"
+        }
+      ]
+    },
+    "favorite_count": 10395,
+    "favorited": false,
+    "full_text": "Tune in tonight for blockbuster analysis of the Dems\u2019 colossally stupid decision to overreach with overbroad subpoenas...my sit-down with @Jim_Jordan too. @FoxNews #IngrahamAngle https://t.co/6DUbdGhY4w",
+    "geo": null,
+    "id": 1103084227963379712,
+    "id_str": "1103084227963379712",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Mar 05 22:37:30 +0000 2019",
+      "display_text_range": [
+        0,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "washingtonexaminer.com/news/jim-jorda\u2026",
+            "expanded_url": "https://www.washingtonexaminer.com/news/jim-jordan-no-evidence-of-trump-colluding-with-russia-but-all-kinds-showing-clinton-campaign-did",
+            "indices": [
+              101,
+              124
+            ],
+            "url": "https://t.co/XR2hU7wnfJ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 35944,
+      "favorited": false,
+      "full_text": "Jim Jordan: No evidence of Trump colluding with Russia, but 'all kinds' showing Clinton campaign did https://t.co/XR2hU7wnfJ",
+      "geo": null,
+      "id": 1103062005626400768,
+      "id_str": "1103062005626400768",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 13265,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 11 21:18:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "TrumpStore.com",
+                "expanded_url": "http://TrumpStore.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/2qPo57KgoO"
+              }
+            ]
+          }
+        },
+        "favourites_count": 10660,
+        "follow_request_sent": false,
+        "followers_count": 3379694,
+        "following": false,
+        "friends_count": 1303,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 39344374,
+        "id_str": "39344374",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10426,
+        "location": "",
+        "name": "Donald Trump Jr.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1471620140",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+        "profile_link_color": "15317E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DonaldJTrumpJr",
+        "statuses_count": 26695,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/2qPo57KgoO",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1103062005626400768,
+    "quoted_status_id_str": "1103062005626400768",
+    "quoted_status_permalink": {
+      "display": "twitter.com/donaldjtrumpjr\u2026",
+      "expanded": "https://twitter.com/donaldjtrumpjr/status/1103062005626400768",
+      "url": "https://t.co/6DUbdGhY4w"
+    },
+    "retweet_count": 2911,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 25 21:03:25 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mom, author, The Ingraham Angle 10p ET Fox News, podcast on @itunes & @podcastone.com, Retweets do not = Endorsements",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lauraingraham.com",
+              "expanded_url": "http://www.lauraingraham.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/lnkE5EsSNQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1686,
+      "follow_request_sent": false,
+      "followers_count": 2621548,
+      "following": false,
+      "friends_count": 357,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 50769180,
+      "id_str": "50769180",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 12345,
+      "location": "DC",
+      "name": "Laura Ingraham",
+      "notifications": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/50769180/1549051319",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/926303888365510656/IHt-GEhl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/926303888365510656/IHt-GEhl_normal.jpg",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IngrahamAngle",
+      "statuses_count": 37598,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/lnkE5EsSNQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 58831299,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 100964,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40761,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

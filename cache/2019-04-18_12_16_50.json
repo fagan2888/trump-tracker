@@ -1,0 +1,462 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 18 12:16:50 +0000 2019",
+  "display_text_range": [
+    0,
+    71
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/IVg7RW3f0F",
+        "expanded_url": "https://twitter.com/DanScavino/status/1118693733594218501/video/1",
+        "id": 1118693669270380544,
+        "id_str": "1118693669270380544",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118693669270380544/pu/img/7OjDA0uD6G89TrIQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118693669270380544/pu/img/7OjDA0uD6G89TrIQ.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1118693733594218501,
+        "source_status_id_str": "1118693733594218501",
+        "source_user_id": 620571475,
+        "source_user_id_str": "620571475",
+        "type": "photo",
+        "url": "https://t.co/IVg7RW3f0F"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "DanScavino"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "PERSONAL TWITTER HANDLE!",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 3004,
+            "follow_request_sent": false,
+            "followers_count": 526112,
+            "following": false,
+            "friends_count": 526,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 620571475,
+            "id_str": "620571475",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3418,
+            "location": "Washington, DC\u2708\ufe0fNew York",
+            "name": "Dan Scavino\ud83c\uddfa\ud83c\uddf8",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1541020604",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DanScavino",
+            "statuses_count": 10435,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/IVg7RW3f0F",
+        "expanded_url": "https://twitter.com/DanScavino/status/1118693733594218501/video/1",
+        "id": 1118693669270380544,
+        "id_str": "1118693669270380544",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118693669270380544/pu/img/7OjDA0uD6G89TrIQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118693669270380544/pu/img/7OjDA0uD6G89TrIQ.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1118693733594218501,
+        "source_status_id_str": "1118693733594218501",
+        "source_user_id": 620571475,
+        "source_user_id_str": "620571475",
+        "type": "video",
+        "url": "https://t.co/IVg7RW3f0F",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 57167,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1118693669270380544/pu/pl/DWNlpDa3syUxb48E.m3u8?tag=8"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1118693669270380544/pu/vid/320x180/uASzYYLaCc7EJm_w.mp4?tag=8"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1118693669270380544/pu/vid/640x360/JgB7XDtDBxKi8ACZ.mp4?tag=8"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1118693669270380544/pu/vid/1280x720/XpQ8oOdARchnX77F.mp4?tag=8"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: Nadler (2019) vs. Nadler (1998) https://t.co/IVg7RW3f0F",
+  "geo": null,
+  "id": 1118850873072005120,
+  "id_str": "1118850873072005120",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "tl",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 17756,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 18 01:52:25 +0000 2019",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/IVg7RW3f0F",
+          "expanded_url": "https://twitter.com/DanScavino/status/1118693733594218501/video/1",
+          "id": 1118693669270380544,
+          "id_str": "1118693669270380544",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118693669270380544/pu/img/7OjDA0uD6G89TrIQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118693669270380544/pu/img/7OjDA0uD6G89TrIQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/IVg7RW3f0F"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/IVg7RW3f0F",
+          "expanded_url": "https://twitter.com/DanScavino/status/1118693733594218501/video/1",
+          "id": 1118693669270380544,
+          "id_str": "1118693669270380544",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118693669270380544/pu/img/7OjDA0uD6G89TrIQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118693669270380544/pu/img/7OjDA0uD6G89TrIQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/IVg7RW3f0F",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 57167,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1118693669270380544/pu/pl/DWNlpDa3syUxb48E.m3u8?tag=8"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1118693669270380544/pu/vid/320x180/uASzYYLaCc7EJm_w.mp4?tag=8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1118693669270380544/pu/vid/640x360/JgB7XDtDBxKi8ACZ.mp4?tag=8"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1118693669270380544/pu/vid/1280x720/XpQ8oOdARchnX77F.mp4?tag=8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 42485,
+    "favorited": false,
+    "full_text": "Nadler (2019) vs. Nadler (1998) https://t.co/IVg7RW3f0F",
+    "geo": null,
+    "id": 1118693733594218501,
+    "id_str": "1118693733594218501",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "tl",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 17756,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "PERSONAL TWITTER HANDLE!",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 3004,
+      "follow_request_sent": false,
+      "followers_count": 526112,
+      "following": false,
+      "friends_count": 526,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3418,
+      "location": "Washington, DC\u2708\ufe0fNew York",
+      "name": "Dan Scavino\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1541020604",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10435,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 59772230,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101992,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41302,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

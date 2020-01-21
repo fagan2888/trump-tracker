@@ -1,0 +1,341 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Sep 14 11:28:05 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16669075,
+        "id_str": "16669075",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "FEMA",
+        "screen_name": "fema"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @fema: Stay safe and shelter away from windows on the lowest floor that\u2019s not subject to flooding. If you get trapped in a flooded build\u2026",
+  "geo": null,
+  "id": 1040562827860291584,
+  "id_str": "1040562827860291584",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1040415481314926592,
+  "quoted_status_id_str": "1040415481314926592",
+  "quoted_status_permalink": {
+    "display": "twitter.com/scemd/status/1\u2026",
+    "expanded": "https://twitter.com/scemd/status/1040415481314926592",
+    "url": "https://t.co/QGIzOGqq3w"
+  },
+  "retweet_count": 3173,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 14 02:07:42 +0000 2018",
+    "display_text_range": [
+      0,
+      233
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            224,
+            233
+          ],
+          "text": "Florence"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/scemd/status/1\u2026",
+          "expanded_url": "https://twitter.com/scemd/status/1040415481314926592",
+          "indices": [
+            234,
+            257
+          ],
+          "url": "https://t.co/QGIzOGqq3w"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 12110,
+    "favorited": false,
+    "full_text": "Stay safe and shelter away from windows on the lowest floor that\u2019s not subject to flooding. If you get trapped in a flooded building, go to the highest floor but do NOT enter a closed attic.\n\n\ud83d\udea8Call 911 If you need rescue.\ud83d\udea8\n\n#Florence https://t.co/QGIzOGqq3w",
+    "geo": null,
+    "id": 1040421803125026816,
+    "id_str": "1040421803125026816",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Sep 14 01:42:35 +0000 2018",
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              9
+            ],
+            "text": "Florence"
+          },
+          {
+            "indices": [
+              31,
+              41
+            ],
+            "text": "Hurricane"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 169,
+      "favorited": false,
+      "full_text": "#Florence is coming. Make your #Hurricane flood plan now. If you have time, move essential items to an upper level. If water begins rising, move quickly to higher ground.",
+      "geo": null,
+      "id": 1040415481314926592,
+      "id_str": "1040415481314926592",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 107,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 15 13:37:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official information from the South Carolina Emergency Management Division. #sctweets #smem #scwx #KnowYourZone #TwitterAlerts #scflood #SCEmergency",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "scemd.org",
+                "expanded_url": "http://www.scemd.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/bByTd219pZ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4416,
+        "follow_request_sent": false,
+        "followers_count": 45639,
+        "following": false,
+        "friends_count": 1239,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 57017317,
+        "id_str": "57017317",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1140,
+        "location": "South Carolina",
+        "name": "SCEMD",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57017317/1508149879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002128407478534144/Je1gKMT8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002128407478534144/Je1gKMT8_normal.jpg",
+        "profile_link_color": "0F1BFF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "BEBFC2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SCEMD",
+        "statuses_count": 6358,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/bByTd219pZ",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1040415481314926592,
+    "quoted_status_id_str": "1040415481314926592",
+    "quoted_status_permalink": {
+      "display": "twitter.com/scemd/status/1\u2026",
+      "expanded": "https://twitter.com/scemd/status/1040415481314926592",
+      "url": "https://t.co/QGIzOGqq3w"
+    },
+    "retweet_count": 3173,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 09 16:54:20 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Our story of supporting citizens & first responders before, during, and after emergencies. For emergencies, call your local fire/EMS/police or 9-1-1.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fema.gov",
+              "expanded_url": "http://www.fema.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pJoesev0fm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3034,
+      "follow_request_sent": false,
+      "followers_count": 717760,
+      "following": false,
+      "friends_count": 678,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16669075,
+      "id_str": "16669075",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10745,
+      "location": "United States",
+      "name": "FEMA",
+      "notifications": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16669075/1530889653",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_link_color": "2A91B0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DCDCE0",
+      "profile_text_color": "65686E",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fema",
+      "statuses_count": 14622,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pJoesev0fm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54450780,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93646,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38955,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

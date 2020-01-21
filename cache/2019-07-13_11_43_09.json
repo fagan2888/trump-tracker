@@ -1,0 +1,478 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 13 11:43:09 +0000 2019",
+  "display_text_range": [
+    0,
+    120
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/PFfx1guFm7",
+        "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1149793693609725952/video/1",
+        "id": 1149793600789594112,
+        "id_str": "1149793600789594112",
+        "indices": [
+          97,
+          120
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149793600789594112/pu/img/KNW9IOSIERrFxCyq.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149793600789594112/pu/img/KNW9IOSIERrFxCyq.jpg",
+        "sizes": {
+          "large": {
+            "h": 346,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 346,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 346,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1149793693609725952,
+        "source_status_id_str": "1149793693609725952",
+        "source_user_id": 39344374,
+        "source_user_id_str": "39344374",
+        "type": "photo",
+        "url": "https://t.co/PFfx1guFm7"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 11 21:18:33 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "TrumpStore.com",
+                    "expanded_url": "http://TrumpStore.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/2qPo57KgoO"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 12458,
+            "follow_request_sent": false,
+            "followers_count": 3676714,
+            "following": false,
+            "friends_count": 1337,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 39344374,
+            "id_str": "39344374",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 10912,
+            "location": "",
+            "name": "Donald Trump Jr.",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1471620140",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+            "profile_link_color": "15317E",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DonaldJTrumpJr",
+            "statuses_count": 29010,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/2qPo57KgoO",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/PFfx1guFm7",
+        "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1149793693609725952/video/1",
+        "id": 1149793600789594112,
+        "id_str": "1149793600789594112",
+        "indices": [
+          97,
+          120
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149793600789594112/pu/img/KNW9IOSIERrFxCyq.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149793600789594112/pu/img/KNW9IOSIERrFxCyq.jpg",
+        "sizes": {
+          "large": {
+            "h": 346,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 346,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 346,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1149793693609725952,
+        "source_status_id_str": "1149793693609725952",
+        "source_user_id": 39344374,
+        "source_user_id_str": "39344374",
+        "type": "video",
+        "url": "https://t.co/PFfx1guFm7",
+        "video_info": {
+          "aspect_ratio": [
+            320,
+            173
+          ],
+          "duration_millis": 139000,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1149793600789594112/pu/pl/_yZawm2HYKfX2sd2.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1149793600789594112/pu/vid/640x346/hre5N9r1pAghUFjj.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1149793600789594112/pu/vid/498x270/TOGZ6HAAao8VnY0x.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: Does anyone else remember when Democrats used to oppose illegal immigration? https://t.co/PFfx1guFm7",
+  "geo": null,
+  "id": 1150007756499365889,
+  "id_str": "1150007756499365889",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 18240,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 12 21:32:33 +0000 2019",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PFfx1guFm7",
+          "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1149793693609725952/video/1",
+          "id": 1149793600789594112,
+          "id_str": "1149793600789594112",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149793600789594112/pu/img/KNW9IOSIERrFxCyq.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149793600789594112/pu/img/KNW9IOSIERrFxCyq.jpg",
+          "sizes": {
+            "large": {
+              "h": 346,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 346,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 346,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PFfx1guFm7"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/PFfx1guFm7",
+          "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1149793693609725952/video/1",
+          "id": 1149793600789594112,
+          "id_str": "1149793600789594112",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149793600789594112/pu/img/KNW9IOSIERrFxCyq.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149793600789594112/pu/img/KNW9IOSIERrFxCyq.jpg",
+          "sizes": {
+            "large": {
+              "h": 346,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 346,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 346,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/PFfx1guFm7",
+          "video_info": {
+            "aspect_ratio": [
+              320,
+              173
+            ],
+            "duration_millis": 139000,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1149793600789594112/pu/pl/_yZawm2HYKfX2sd2.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149793600789594112/pu/vid/640x346/hre5N9r1pAghUFjj.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149793600789594112/pu/vid/498x270/TOGZ6HAAao8VnY0x.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 61007,
+    "favorited": false,
+    "full_text": "Does anyone else remember when Democrats used to oppose illegal immigration? https://t.co/PFfx1guFm7",
+    "geo": null,
+    "id": 1149793693609725952,
+    "id_str": "1149793693609725952",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 18240,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "TrumpStore.com",
+              "expanded_url": "http://TrumpStore.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/2qPo57KgoO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 12458,
+      "follow_request_sent": false,
+      "followers_count": 3676714,
+      "following": false,
+      "friends_count": 1337,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 10912,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1471620140",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 29010,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/2qPo57KgoO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 61896633,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105215,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42901,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Sep 05 17:48:23 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          116,
+          123
+        ],
+        "text": "Dorian"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 399004430,
+        "id_str": "399004430",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "NWS Columbia",
+        "screen_name": "NWSColumbia"
+      },
+      {
+        "id": 2472930620,
+        "id_str": "2472930620",
+        "indices": [
+          63,
+          76
+        ],
+        "name": "NOAA Buoy Data",
+        "screen_name": "NOAABuoyData"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NWSColumbia: [Sep 5, 1`:25 PM] - Winds are picking back up @NOAABuoyData #41004, 47 miles SE from Charleston as #Dorian's eye moves awa\u2026",
+  "geo": null,
+  "id": 1169668612749217792,
+  "id_str": "1169668612749217792",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2433,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 05 17:37:26 +0000 2019",
+    "display_text_range": [
+      0,
+      273
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            99,
+            106
+          ],
+          "text": "Dorian"
+        },
+        {
+          "indices": [
+            261,
+            266
+          ],
+          "text": "scwx"
+        },
+        {
+          "indices": [
+            267,
+            273
+          ],
+          "text": "caewx"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tI8XOmwRqX",
+          "expanded_url": "https://twitter.com/NWSColumbia/status/1169665857431072768/photo/1",
+          "id": 1169665850678185984,
+          "id_str": "1169665850678185984",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDt85N-UEAA4mqa.png",
+          "media_url_https": "https://pbs.twimg.com/media/EDt85N-UEAA4mqa.png",
+          "sizes": {
+            "large": {
+              "h": 885,
+              "resize": "fit",
+              "w": 894
+            },
+            "medium": {
+              "h": 885,
+              "resize": "fit",
+              "w": 894
+            },
+            "small": {
+              "h": 673,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tI8XOmwRqX"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "ndbc.noaa.gov/station_page.p\u2026",
+          "expanded_url": "https://www.ndbc.noaa.gov/station_page.php?station=41004",
+          "indices": [
+            237,
+            260
+          ],
+          "url": "https://t.co/GUkeGEucKu"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 2472930620,
+          "id_str": "2472930620",
+          "indices": [
+            46,
+            59
+          ],
+          "name": "NOAA Buoy Data",
+          "screen_name": "NOAABuoyData"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tI8XOmwRqX",
+          "expanded_url": "https://twitter.com/NWSColumbia/status/1169665857431072768/photo/1",
+          "id": 1169665850678185984,
+          "id_str": "1169665850678185984",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDt85N-UEAA4mqa.png",
+          "media_url_https": "https://pbs.twimg.com/media/EDt85N-UEAA4mqa.png",
+          "sizes": {
+            "large": {
+              "h": 885,
+              "resize": "fit",
+              "w": 894
+            },
+            "medium": {
+              "h": 885,
+              "resize": "fit",
+              "w": 894
+            },
+            "small": {
+              "h": 673,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tI8XOmwRqX"
+        },
+        {
+          "display_url": "pic.twitter.com/tI8XOmwRqX",
+          "expanded_url": "https://twitter.com/NWSColumbia/status/1169665857431072768/photo/1",
+          "id": 1169665850678231041,
+          "id_str": "1169665850678231041",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDt85N-UwAE5Mmu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDt85N-UwAE5Mmu.jpg",
+          "sizes": {
+            "large": {
+              "h": 145,
+              "resize": "fit",
+              "w": 1133
+            },
+            "medium": {
+              "h": 145,
+              "resize": "fit",
+              "w": 1133
+            },
+            "small": {
+              "h": 87,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 145,
+              "resize": "crop",
+              "w": 145
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tI8XOmwRqX"
+        }
+      ]
+    },
+    "favorite_count": 9331,
+    "favorited": false,
+    "full_text": "[Sep 5, 1`:25 PM] - Winds are picking back up @NOAABuoyData #41004, 47 miles SE from Charleston as #Dorian's eye moves away towards the NNE. Current pix show birds trapped in the eye. Waves will rebuild as the  eyewall again approaches. https://t.co/GUkeGEucKu #scwx #caewx https://t.co/tI8XOmwRqX",
+    "geo": null,
+    "id": 1169665857431072768,
+    "id_str": "1169665857431072768",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2433,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Oct 26 21:11:54 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter Account for National Weather Service Columbia, SC. Details: http://t.co/DT7PGbdIaq",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "weather.gov/twitter",
+              "expanded_url": "http://weather.gov/twitter",
+              "indices": [
+                77,
+                99
+              ],
+              "url": "http://t.co/DT7PGbdIaq"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "weather.gov/cae",
+              "expanded_url": "http://www.weather.gov/cae",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/BhVbWxcr5T"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3282,
+      "follow_request_sent": false,
+      "followers_count": 17171,
+      "following": false,
+      "friends_count": 240,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 399004430,
+      "id_str": "399004430",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 593,
+      "location": "West Columbia, SC",
+      "name": "NWS Columbia",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/399004430/1520795459",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000683117171/3d996176de5d7bc68c6a59ce69c5881f_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000683117171/3d996176de5d7bc68c6a59ce69c5881f_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NWSColumbia",
+      "statuses_count": 15897,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/BhVbWxcr5T",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63982912,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108213,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44075,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

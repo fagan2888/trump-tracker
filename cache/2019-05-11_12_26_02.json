@@ -1,0 +1,469 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 11 12:26:02 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15455253,
+        "id_str": "15455253",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Ned Ryun",
+        "screen_name": "nedryun"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @nedryun: Reminder: this guy is still on Twitter. Laura Loomer is not. The solution is not to ban this anti-Semite. The goal is to have\u2026",
+  "geo": null,
+  "id": 1127188110410952704,
+  "id_str": "1127188110410952704",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1126986555321724928,
+  "quoted_status_id_str": "1126986555321724928",
+  "quoted_status_permalink": {
+    "display": "twitter.com/louisfarrakhan\u2026",
+    "expanded": "https://twitter.com/louisfarrakhan/status/1126986555321724928",
+    "url": "https://t.co/vljyyR6y6E"
+  },
+  "retweet_count": 7834,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 11 12:21:11 +0000 2019",
+    "display_text_range": [
+      0,
+      267
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/louisfarrakhan\u2026",
+          "expanded_url": "https://twitter.com/louisfarrakhan/status/1126986555321724928",
+          "indices": [
+            268,
+            291
+          ],
+          "url": "https://t.co/vljyyR6y6E"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 19925,
+    "favorited": false,
+    "full_text": "Reminder: this guy is still on Twitter. Laura Loomer is not. The solution is not to ban this anti-Semite. The goal is to have as free a space as possible for voices and ideas to be heard and rejected. He can stay on, but Loomer, Woods and others should be on as well. https://t.co/vljyyR6y6E",
+    "geo": null,
+    "id": 1127186889767780352,
+    "id_str": "1127186889767780352",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -83.67529,
+              36.540739
+            ],
+            [
+              -75.16644,
+              36.540739
+            ],
+            [
+              -75.16644,
+              39.466012
+            ],
+            [
+              -83.67529,
+              39.466012
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Virginia, USA",
+      "id": "5635c19c2b5078d1",
+      "name": "Virginia",
+      "place_type": "admin",
+      "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri May 10 23:05:07 +0000 2019",
+      "display_text_range": [
+        0,
+        99
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/8JuSWAXeOy",
+            "expanded_url": "https://twitter.com/LouisFarrakhan/status/1126986555321724928/video/1",
+            "id": 1126985280140062721,
+            "id_str": "1126985280140062721",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126985280140062721/pu/img/v5enNTXwDPE9ZFpu.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126985280140062721/pu/img/v5enNTXwDPE9ZFpu.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/8JuSWAXeOy"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "watch_now": {
+                  "url": "https://www.noi.org/wearefarrakhan/"
+                }
+              },
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/8JuSWAXeOy",
+            "expanded_url": "https://twitter.com/LouisFarrakhan/status/1126986555321724928/video/1",
+            "id": 1126985280140062721,
+            "id_str": "1126985280140062721",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126985280140062721/pu/img/v5enNTXwDPE9ZFpu.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126985280140062721/pu/img/v5enNTXwDPE9ZFpu.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/8JuSWAXeOy",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 133567,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1126985280140062721/pu/vid/640x360/LE2YIxHBOClNw0VH.mp4?tag=9"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1126985280140062721/pu/vid/1280x720/hGWsUdiKm6yUJADk.mp4?tag=9"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1126985280140062721/pu/pl/_B8aQ0Jb-3ZH2Ckc.m3u8?tag=9"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1126985280140062721/pu/vid/320x180/9yQ52f_IaQNIYvK2.mp4?tag=9"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 2987,
+      "favorited": false,
+      "full_text": "I'm not dangerous on my own. God, The Lord of the Worlds, made me dangerous to Satan and his world. https://t.co/8JuSWAXeOy",
+      "geo": null,
+      "id": 1126986555321724928,
+      "id_str": "1126986555321724928",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1285,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 28 15:12:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official Twitter Page of The Honorable Minister Louis Farrakhan. The National Representative of The Most Honorable Elijah Muhammad and @OfficialNOI.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noi.org/hon-minister-f\u2026",
+                "expanded_url": "https://www.noi.org/hon-minister-farrakhan/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/tIWANQOW8W"
+              }
+            ]
+          }
+        },
+        "favourites_count": 292,
+        "follow_request_sent": false,
+        "followers_count": 339936,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 273469546,
+        "id_str": "273469546",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1822,
+        "location": "Chicago, IL",
+        "name": "MINISTER FARRAKHAN",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273469546/1525144168",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1055287141280964609/O4jVfP4M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055287141280964609/O4jVfP4M_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LouisFarrakhan",
+        "statuses_count": 9736,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/tIWANQOW8W",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1126986555321724928,
+    "quoted_status_id_str": "1126986555321724928",
+    "quoted_status_permalink": {
+      "display": "twitter.com/louisfarrakhan\u2026",
+      "expanded": "https://twitter.com/louisfarrakhan/status/1126986555321724928",
+      "url": "https://t.co/vljyyR6y6E"
+    },
+    "retweet_count": 7834,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 16 15:04:15 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Conservative Christian. Love @BeccaRyun. Dad of 4. Jayhawk. CEO @AM_National, @VoterGravity. For media: ned@therightbookings.com. @theamgreatness Senior Fellow.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nedryun.com",
+              "expanded_url": "http://www.nedryun.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fMl949HcAi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10415,
+      "follow_request_sent": false,
+      "followers_count": 126143,
+      "following": false,
+      "friends_count": 27936,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 15455253,
+      "id_str": "15455253",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1126,
+      "location": "Virginia",
+      "name": "Ned Ryun",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15455253/1505500352",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/810280526619832320/MzTy3-_1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/810280526619832320/MzTy3-_1_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "nedryun",
+      "statuses_count": 57207,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/fMl949HcAi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60179323,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102916,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41812,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

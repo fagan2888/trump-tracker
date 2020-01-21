@@ -1,0 +1,421 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jul 14 12:34:58 +0000 2019",
+  "display_text_range": [
+    0,
+    143
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          98,
+          107
+        ],
+        "text": "WalkAway"
+      },
+      {
+        "indices": [
+          125,
+          134
+        ],
+        "text": "WalkAway"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52338305,
+        "id_str": "52338305",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Brandon Straka",
+        "screen_name": "usminority"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          29,
+          45
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @usminority: Thank you to @realDonaldTrump for your incredible acknowledgment &amp; support of #WalkAway back in October. #WalkAway turns 1\u2026",
+  "geo": null,
+  "id": 1150383183084568576,
+  "id_str": "1150383183084568576",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1056184390684995584,
+  "quoted_status_id_str": "1056184390684995584",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realDonaldTrum\u2026",
+    "expanded": "https://twitter.com/realDonaldTrump/status/1056184390684995584",
+    "url": "https://t.co/ZQ3zMfkWX2"
+  },
+  "retweet_count": 9451,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 26 06:11:20 +0000 2019",
+    "display_text_range": [
+      0,
+      203
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            82,
+            91
+          ],
+          "text": "WalkAway"
+        },
+        {
+          "indices": [
+            109,
+            118
+          ],
+          "text": "WalkAway"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realDonaldTrum\u2026",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1056184390684995584",
+          "indices": [
+            204,
+            227
+          ],
+          "url": "https://t.co/ZQ3zMfkWX2"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            13,
+            29
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 27554,
+    "favorited": false,
+    "full_text": "Thank you to @realDonaldTrump for your incredible acknowledgment &amp; support of #WalkAway back in October. #WalkAway turns 1 year old today!!! And I must agree with POTUS, it is something very special. https://t.co/ZQ3zMfkWX2",
+    "geo": null,
+    "id": 1132529633516281856,
+    "id_str": "1132529633516281856",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -74.026675,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.877483
+            ],
+            [
+              -74.026675,
+              40.877483
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Manhattan, NY",
+      "id": "01a9a39529b27f36",
+      "name": "Manhattan",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Oct 27 14:02:36 +0000 2018",
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              9
+            ],
+            "text": "Walkaway"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 15513604,
+            "id_str": "15513604",
+            "indices": [
+              146,
+              160
+            ],
+            "name": "FOX & friends",
+            "screen_name": "foxandfriends"
+          }
+        ]
+      },
+      "favorite_count": 89084,
+      "favorited": false,
+      "full_text": "#Walkaway  Walkaway from the Democrat Party movement marches today in D.C. Congratulations to Brandon Straka for starting something very special. @foxandfriends",
+      "geo": null,
+      "id": 1056184390684995584,
+      "id_str": "1056184390684995584",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 28214,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 61923078,
+        "following": true,
+        "friends_count": 47,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 105259,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 42934,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1056184390684995584,
+    "quoted_status_id_str": "1056184390684995584",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realDonaldTrum\u2026",
+      "expanded": "https://twitter.com/realDonaldTrump/status/1056184390684995584",
+      "url": "https://t.co/ZQ3zMfkWX2"
+    },
+    "retweet_count": 9451,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 07:52:26 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "#WalkAway Campaign Founder. BOOKING/PRESS INQUIRIES: bstrakabooking@gmail.com Former Liberal. Gay. Conservative. Outspoken. On a mission to #RedPill humanity \ud83d\udc8a",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WalkAwayCampaign.com",
+              "expanded_url": "http://WalkAwayCampaign.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dXT48dwaI9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 19059,
+      "follow_request_sent": false,
+      "followers_count": 207754,
+      "following": false,
+      "friends_count": 384,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 52338305,
+      "id_str": "52338305",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 610,
+      "location": "New York, USA",
+      "name": "Brandon Straka",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52338305/1547102017",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/998414118561316864/wT9_5MUw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/998414118561316864/wT9_5MUw_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "usminority",
+      "statuses_count": 6366,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dXT48dwaI9",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 61923078,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105259,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42934,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

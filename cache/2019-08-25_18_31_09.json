@@ -1,0 +1,468 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 25 18:31:09 +0000 2019",
+  "display_text_range": [
+    0,
+    121
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/hogangidley45/\u2026",
+        "expanded_url": "https://twitter.com/hogangidley45/status/1165622473720832001",
+        "indices": [
+          98,
+          121
+        ],
+        "url": "https://t.co/7sO7Oyo6A9"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 818927131883356161,
+        "id_str": "818927131883356161",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Stephanie Grisham",
+        "screen_name": "PressSec"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          24,
+          40
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PressSec: President @realDonaldTrump never stops working on behalf of the American people! \ud83c\uddfa\ud83c\uddf8 https://t.co/7sO7Oyo6A9",
+  "geo": null,
+  "id": 1165693109323218944,
+  "id_str": "1165693109323218944",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1165622473720832001,
+  "quoted_status_id_str": "1165622473720832001",
+  "quoted_status_permalink": {
+    "display": "twitter.com/hogangidley45/\u2026",
+    "expanded": "https://twitter.com/hogangidley45/status/1165622473720832001",
+    "url": "https://t.co/7sO7Oyo6A9"
+  },
+  "retweet_count": 9158,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 25 13:51:36 +0000 2019",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/hogangidley45/\u2026",
+          "expanded_url": "https://twitter.com/hogangidley45/status/1165622473720832001",
+          "indices": [
+            84,
+            107
+          ],
+          "url": "https://t.co/7sO7Oyo6A9"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 38265,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump never stops working on behalf of the American people! \ud83c\uddfa\ud83c\uddf8 https://t.co/7sO7Oyo6A9",
+    "geo": null,
+    "id": 1165622756576301056,
+    "id_str": "1165622756576301056",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Aug 25 13:50:28 +0000 2019",
+      "display_text_range": [
+        0,
+        178
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              95,
+              106
+            ],
+            "text": "G7Biarritz"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KJQfQJ6j1W",
+            "expanded_url": "https://twitter.com/hogangidley45/status/1165622473720832001/photo/1",
+            "id": 1165622464073883649,
+            "id_str": "1165622464073883649",
+            "indices": [
+              179,
+              202
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC0fdJFW4AECMen.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EC0fdJFW4AECMen.jpg",
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KJQfQJ6j1W"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              22,
+              38
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KJQfQJ6j1W",
+            "expanded_url": "https://twitter.com/hogangidley45/status/1165622473720832001/photo/1",
+            "id": 1165622464073883649,
+            "id_str": "1165622464073883649",
+            "indices": [
+              179,
+              202
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC0fdJFW4AECMen.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EC0fdJFW4AECMen.jpg",
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KJQfQJ6j1W"
+          }
+        ]
+      },
+      "favorite_count": 9253,
+      "favorited": false,
+      "full_text": "And just like that...\u2066@realDonaldTrump\u2069 just secured a tremendous trade deal with Japan at the #G7Biarritz. The President will always stand up for our great farmers and ranchers! https://t.co/KJQfQJ6j1W",
+      "geo": null,
+      "id": 1165622473720832001,
+      "id_str": "1165622473720832001",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 3161,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 16 15:54:35 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Deputy Assistant to the President & Principal Deputy Press Secretary. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wh.gov/privacy",
+                "expanded_url": "http://wh.gov/privacy",
+                "indices": [
+                  94,
+                  117
+                ],
+                "url": "https://t.co/eVVzoBb3Zr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "WhiteHouse.gov",
+                "expanded_url": "http://WhiteHouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/IxLjEB2zlE"
+              }
+            ]
+          }
+        },
+        "favourites_count": 62,
+        "follow_request_sent": false,
+        "followers_count": 36016,
+        "following": false,
+        "friends_count": 660,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 919954735226073094,
+        "id_str": "919954735226073094",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 411,
+        "location": "Washington, DC",
+        "name": "Hogan Gidley",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/919954735226073094/1508951618",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/919998762264571905/Lphq7uQa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/919998762264571905/Lphq7uQa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hogangidley45",
+        "statuses_count": 324,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/IxLjEB2zlE",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1165622473720832001,
+    "quoted_status_id_str": "1165622473720832001",
+    "quoted_status_permalink": {
+      "display": "twitter.com/hogangidley45/\u2026",
+      "expanded": "https://twitter.com/hogangidley45/status/1165622473720832001",
+      "url": "https://t.co/7sO7Oyo6A9"
+    },
+    "retweet_count": 9158,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 21:06:57 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "@WhiteHouse Press Secretary. Proudly representing @POTUS Trump's Administration. Tweets may be archived: https://t.co/eVVzoBb3Zr.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                105,
+                128
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 683,
+      "follow_request_sent": false,
+      "followers_count": 4070581,
+      "following": false,
+      "friends_count": 290,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 818927131883356161,
+      "id_str": "818927131883356161",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9043,
+      "location": "Washington, D.C.",
+      "name": "Stephanie Grisham",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818927131883356161/1562183587",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1146507396354924552/ZCFExjL0_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146507396354924552/ZCFExjL0_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PressSec",
+      "statuses_count": 2696,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63524939,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107615,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43797,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

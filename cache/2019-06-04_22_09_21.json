@@ -1,0 +1,358 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 04 22:09:21 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1283775062,
+        "id_str": "1283775062",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Ambassador Johnson",
+        "screen_name": "USAmbUK"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          23,
+          39
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 818876014390603776,
+        "id_str": "818876014390603776",
+        "indices": [
+          44,
+          51
+        ],
+        "name": "Melania Trump",
+        "screen_name": "FLOTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USAmbUK: President @realdonaldtrump and @FLOTUS welcome The Prince of Wales and The Duchess of Cornwall as they arrive at Winfield Hous\u2026",
+  "geo": null,
+  "id": 1136032217556275200,
+  "id_str": "1136032217556275200",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6628,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 04 19:37:44 +0000 2019",
+    "display_text_range": [
+      0,
+      170
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            152,
+            165
+          ],
+          "text": "USStateVisit"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KEdlJ8PFW4",
+          "expanded_url": "https://twitter.com/USAmbUK/status/1135994059040989184/video/1",
+          "id": 1135993434643107840,
+          "id_str": "1135993434643107840",
+          "indices": [
+            171,
+            194
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135993434643107840/pu/img/sqHjiYVl_KBbtU6b.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135993434643107840/pu/img/sqHjiYVl_KBbtU6b.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 848
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 848
+            },
+            "small": {
+              "h": 385,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/KEdlJ8PFW4"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 818876014390603776,
+          "id_str": "818876014390603776",
+          "indices": [
+            31,
+            38
+          ],
+          "name": "Melania Trump",
+          "screen_name": "FLOTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/KEdlJ8PFW4",
+          "expanded_url": "https://twitter.com/USAmbUK/status/1135994059040989184/video/1",
+          "id": 1135993434643107840,
+          "id_str": "1135993434643107840",
+          "indices": [
+            171,
+            194
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135993434643107840/pu/img/sqHjiYVl_KBbtU6b.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135993434643107840/pu/img/sqHjiYVl_KBbtU6b.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 848
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 848
+            },
+            "small": {
+              "h": 385,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/KEdlJ8PFW4",
+          "video_info": {
+            "aspect_ratio": [
+              53,
+              30
+            ],
+            "duration_millis": 23443,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1135993434643107840/pu/vid/318x180/e1uhnMSj5NQE66pg.mp4?tag=9"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1135993434643107840/pu/vid/848x480/O7ut3Nb2XnlMrjQe.mp4?tag=9"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1135993434643107840/pu/vid/636x360/8QknS0CL1BBviHMZ.mp4?tag=9"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1135993434643107840/pu/pl/u1Oa2-bJlO4-NwlW.m3u8?tag=9"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 28636,
+    "favorited": false,
+    "full_text": "President @realdonaldtrump and @FLOTUS welcome The Prince of Wales and The Duchess of Cornwall as they arrive at Winfield House for the return banquet. #USStateVisit \ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7 https://t.co/KEdlJ8PFW4",
+    "geo": null,
+    "id": 1135994059040989184,
+    "id_str": "1135994059040989184",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6628,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 20 17:02:53 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Official Twitter account of U.S. Ambassador to the UK Woody Johnson (From 8/23/17).",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "uk.usembassy.gov",
+              "expanded_url": "https://uk.usembassy.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/iuQR3KWKE9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1896,
+      "follow_request_sent": false,
+      "followers_count": 34520,
+      "following": false,
+      "friends_count": 1423,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1283775062,
+      "id_str": "1283775062",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 398,
+      "location": "London, UK",
+      "name": "Ambassador Johnson",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1283775062/1558956970",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100679022357422080/j-wGKwXr_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100679022357422080/j-wGKwXr_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USAmbUK",
+      "statuses_count": 4874,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/iuQR3KWKE9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60837874,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103867,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559318619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42218,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

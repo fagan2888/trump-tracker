@@ -1,0 +1,125 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 22 00:15:59 +0000 2019",
+  "display_text_range": [
+    0,
+    277
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          158,
+          166
+        ],
+        "name": "The New York Times",
+        "screen_name": "nytimes"
+      },
+      {
+        "id": 389512058,
+        "id_str": "389512058",
+        "indices": [
+          222,
+          232
+        ],
+        "name": "Ed Rollins",
+        "screen_name": "EdRollins"
+      },
+      {
+        "id": 26487169,
+        "id_str": "26487169",
+        "indices": [
+          233,
+          242
+        ],
+        "name": "Lou Dobbs",
+        "screen_name": "LouDobbs"
+      }
+    ]
+  },
+  "favorite_count": 30103,
+  "favorited": false,
+  "full_text": "\u201cWhen someone gets nominated overwhelmingly, and then wins the Election, as he did, then he gets to set the National Agenda. The press is just outrages. This @nytimes story is the most irresponsible thing I\u2019ve ever seen.\u201d @EdRollins @LouDobbs  I agree. They also lose too much!",
+  "geo": null,
+  "id": 1175564363601776640,
+  "id_str": "1175564363601776640",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7941,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 64581561,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108738,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44434,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

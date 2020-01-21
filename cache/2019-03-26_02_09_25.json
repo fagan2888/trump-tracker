@@ -1,0 +1,490 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 26 02:09:25 +0000 2019",
+  "display_text_range": [
+    0,
+    125
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/keeperofthecup\u2026",
+        "expanded_url": "https://twitter.com/keeperofthecup/status/1110259750363635712",
+        "indices": [
+          102,
+          125
+        ],
+        "url": "https://t.co/lKwBz3F1YL"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 22805792,
+        "id_str": "22805792",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Scott Abraham",
+        "screen_name": "ScottABC7"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ScottABC7: The Stanley Cup and the Caps with President Trump in the Oval Office.\n\nWhat a picture! https://t.co/lKwBz3F1YL",
+  "geo": null,
+  "id": 1110363093073301505,
+  "id_str": "1110363093073301505",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1110259750363635712,
+  "quoted_status_id_str": "1110259750363635712",
+  "quoted_status_permalink": {
+    "display": "twitter.com/keeperofthecup\u2026",
+    "expanded": "https://twitter.com/keeperofthecup/status/1110259750363635712",
+    "url": "https://t.co/lKwBz3F1YL"
+  },
+  "retweet_count": 3695,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 25 19:25:21 +0000 2019",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/keeperofthecup\u2026",
+          "expanded_url": "https://twitter.com/keeperofthecup/status/1110259750363635712",
+          "indices": [
+            87,
+            110
+          ],
+          "url": "https://t.co/lKwBz3F1YL"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 17597,
+    "favorited": false,
+    "full_text": "The Stanley Cup and the Caps with President Trump in the Oval Office.\n\nWhat a picture! https://t.co/lKwBz3F1YL",
+    "geo": null,
+    "id": 1110261405343801344,
+    "id_str": "1110261405343801344",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Mar 25 19:18:46 +0000 2019",
+      "display_text_range": [
+        0,
+        73
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              19,
+              30
+            ],
+            "text": "StanleyCup"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9QYjcyvdNT",
+            "expanded_url": "https://twitter.com/keeperofthecup/status/1110259750363635712/photo/1",
+            "id": 1110259648639188999,
+            "id_str": "1110259648639188999",
+            "indices": [
+              74,
+              97
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2hvRJ2WwAcwArO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2hvRJ2WwAcwArO.jpg",
+            "sizes": {
+              "large": {
+                "h": 576,
+                "resize": "fit",
+                "w": 1024
+              },
+              "medium": {
+                "h": 576,
+                "resize": "fit",
+                "w": 1024
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9QYjcyvdNT"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 14801539,
+            "id_str": "14801539",
+            "indices": [
+              31,
+              40
+            ],
+            "name": "Washington Capitals",
+            "screen_name": "Capitals"
+          },
+          {
+            "id": 822215673812119553,
+            "id_str": "822215673812119553",
+            "indices": [
+              41,
+              52
+            ],
+            "name": "The White House",
+            "screen_name": "WhiteHouse"
+          },
+          {
+            "id": 50004938,
+            "id_str": "50004938",
+            "indices": [
+              53,
+              57
+            ],
+            "name": "NHL",
+            "screen_name": "NHL"
+          },
+          {
+            "id": 33599115,
+            "id_str": "33599115",
+            "indices": [
+              58,
+              73
+            ],
+            "name": "Hockey Hall of Fame",
+            "screen_name": "HockeyHallFame"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9QYjcyvdNT",
+            "expanded_url": "https://twitter.com/keeperofthecup/status/1110259750363635712/photo/1",
+            "id": 1110259648639188999,
+            "id_str": "1110259648639188999",
+            "indices": [
+              74,
+              97
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2hvRJ2WwAcwArO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2hvRJ2WwAcwArO.jpg",
+            "sizes": {
+              "large": {
+                "h": 576,
+                "resize": "fit",
+                "w": 1024
+              },
+              "medium": {
+                "h": 576,
+                "resize": "fit",
+                "w": 1024
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9QYjcyvdNT"
+          }
+        ]
+      },
+      "favorite_count": 3522,
+      "favorited": false,
+      "full_text": "A great team smile #StanleyCup @Capitals @WhiteHouse @NHL @HockeyHallFame https://t.co/9QYjcyvdNT",
+      "geo": null,
+      "id": 1110259750363635712,
+      "id_str": "1110259750363635712",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": {
+        "attributes": {},
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "id": "01fbe706f872cb32",
+        "name": "Washington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+      },
+      "possibly_sensitive": false,
+      "retweet_count": 964,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 25 15:36:56 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Hockey Hall of Fame's Keeper of the Cup posts stories, photos and videos of life on the road wearing the White Gloves with the Stanley Cup.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hhof.com",
+                "expanded_url": "http://hhof.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/4fcJfMIsHe"
+              }
+            ]
+          }
+        },
+        "favourites_count": 128,
+        "follow_request_sent": false,
+        "followers_count": 143231,
+        "following": false,
+        "friends_count": 337,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 398098355,
+        "id_str": "398098355",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1240,
+        "location": "Where the Stanley Cup goes!",
+        "name": "Philip Pritchard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/398098355/1409851021",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1760247005/Cupandthekeepers_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1760247005/Cupandthekeepers_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "keeperofthecup",
+        "statuses_count": 3297,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/4fcJfMIsHe",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1110259750363635712,
+    "quoted_status_id_str": "1110259750363635712",
+    "quoted_status_permalink": {
+      "display": "twitter.com/keeperofthecup\u2026",
+      "expanded": "https://twitter.com/keeperofthecup/status/1110259750363635712",
+      "url": "https://t.co/lKwBz3F1YL"
+    },
+    "retweet_count": 3695,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 04 17:44:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Father, Husband & @ABC7News Emmy Award Winning Sports Reporter/Anchor. Views & Opinions are my own. Retweets are not endorsements. Syracuse University Alum.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "wjla.com",
+              "expanded_url": "http://www.wjla.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OAEtsUqwJf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1143,
+      "follow_request_sent": false,
+      "followers_count": 14570,
+      "following": false,
+      "friends_count": 759,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 22805792,
+      "id_str": "22805792",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 102,
+      "location": "Washington, DC",
+      "name": "Scott Abraham",
+      "notifications": false,
+      "profile_background_color": "1F1A1E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22805792/1461424824",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1108202763622727680/m5ZSTHpr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108202763622727680/m5ZSTHpr_normal.jpg",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ScottABC7",
+      "statuses_count": 80008,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/OAEtsUqwJf",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59337220,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101452,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41023,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

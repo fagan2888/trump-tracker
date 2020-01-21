@@ -1,0 +1,390 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 22 00:42:26 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1069124515,
+        "id_str": "1069124515",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Rep. Doug LaMalfa",
+        "screen_name": "RepLaMalfa"
+      },
+      {
+        "id": 1209417007,
+        "id_str": "1209417007",
+        "indices": [
+          34,
+          47
+        ],
+        "name": "Steve Scalise",
+        "screen_name": "SteveScalise"
+      },
+      {
+        "id": 816652616625168388,
+        "id_str": "816652616625168388",
+        "indices": [
+          49,
+          64
+        ],
+        "name": "Rep Andy Biggs",
+        "screen_name": "RepAndyBiggsAZ"
+      },
+      {
+        "id": 15207668,
+        "id_str": "15207668",
+        "indices": [
+          72,
+          81
+        ],
+        "name": "House Republicans",
+        "screen_name": "HouseGOP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepLaMalfa: Tonight, I joined @SteveScalise, @RepAndyBiggsAZ, &amp; @HouseGOP in voting to censure Rep. Adam Schiff. \n\nOf course, Democrats\u2026",
+  "geo": null,
+  "id": 1186442653602373639,
+  "id_str": "1186442653602373639",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1186422221629210624,
+  "quoted_status_id_str": "1186422221629210624",
+  "quoted_status_permalink": {
+    "display": "twitter.com/stevescalise/s\u2026",
+    "expanded": "https://twitter.com/stevescalise/status/1186422221629210624",
+    "url": "https://t.co/vuGKEm2DLj"
+  },
+  "retweet_count": 6601,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 21 23:31:09 +0000 2019",
+    "display_text_range": [
+      0,
+      264
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/stevescalise/s\u2026",
+          "expanded_url": "https://twitter.com/stevescalise/status/1186422221629210624",
+          "indices": [
+            265,
+            288
+          ],
+          "url": "https://t.co/vuGKEm2DLj"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1209417007,
+          "id_str": "1209417007",
+          "indices": [
+            18,
+            31
+          ],
+          "name": "Steve Scalise",
+          "screen_name": "SteveScalise"
+        },
+        {
+          "id": 816652616625168388,
+          "id_str": "816652616625168388",
+          "indices": [
+            33,
+            48
+          ],
+          "name": "Rep Andy Biggs",
+          "screen_name": "RepAndyBiggsAZ"
+        },
+        {
+          "id": 15207668,
+          "id_str": "15207668",
+          "indices": [
+            56,
+            65
+          ],
+          "name": "House Republicans",
+          "screen_name": "HouseGOP"
+        }
+      ]
+    },
+    "favorite_count": 18087,
+    "favorited": false,
+    "full_text": "Tonight, I joined @SteveScalise, @RepAndyBiggsAZ, &amp; @HouseGOP in voting to censure Rep. Adam Schiff. \n\nOf course, Democrats blocked the measure in the House. Chairman Schiff\u2019s dishonesty &amp; lack of transparency with the American people will likely continue. https://t.co/vuGKEm2DLj",
+    "geo": null,
+    "id": 1186424714652192770,
+    "id_str": "1186424714652192770",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Oct 21 23:21:14 +0000 2019",
+      "display_text_range": [
+        0,
+        251
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 816652616625168388,
+            "id_str": "816652616625168388",
+            "indices": [
+              35,
+              50
+            ],
+            "name": "Rep Andy Biggs",
+            "screen_name": "RepAndyBiggsAZ"
+          }
+        ]
+      },
+      "favorite_count": 18356,
+      "favorited": false,
+      "full_text": "\ud83d\udea8 BREAKING: Democrats just blocked @RepAndyBiggsAZ's resolution to hold Adam Schiff accountable for lying to the American people on multiple occasions.\n\nShame on them for once again shielding Schiff from facing any consequences! He should be censured!",
+      "geo": null,
+      "id": 1186422221629210624,
+      "id_str": "1186422221629210624",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 8209,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicanwhip.gov",
+                "expanded_url": "http://republicanwhip.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/vKBoGD7Spm"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1413,
+        "follow_request_sent": false,
+        "followers_count": 342682,
+        "following": false,
+        "friends_count": 1292,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1209417007,
+        "id_str": "1209417007",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2172,
+        "location": "Jefferson, LA",
+        "name": "Steve Scalise",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+        "profile_link_color": "021F59",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SteveScalise",
+        "statuses_count": 10077,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/vKBoGD7Spm",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1186422221629210624,
+    "quoted_status_id_str": "1186422221629210624",
+    "quoted_status_permalink": {
+      "display": "twitter.com/stevescalise/s\u2026",
+      "expanded": "https://twitter.com/stevescalise/status/1186422221629210624",
+      "url": "https://t.co/vuGKEm2DLj"
+    },
+    "retweet_count": 6601,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 07 20:07:58 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Representing California's First District including Siskiyou, Shasta, Tehama, Butte, Glenn, Modoc, Lassen, Plumas, Sierra, Nevada and Placer Counties",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "LaMalfa.house.gov",
+              "expanded_url": "http://LaMalfa.house.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/zhUYypSZHQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 329,
+      "follow_request_sent": false,
+      "followers_count": 19657,
+      "following": false,
+      "friends_count": 985,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1069124515,
+      "id_str": "1069124515",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 672,
+      "location": "Northern California",
+      "name": "Rep. Doug LaMalfa",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069124515/1412866084",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/532998035416969216/vtCyv9Ze_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/532998035416969216/vtCyv9Ze_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepLaMalfa",
+      "statuses_count": 1597,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/zhUYypSZHQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 66061320,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110117,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45404,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

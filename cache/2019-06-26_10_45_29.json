@@ -1,0 +1,395 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jun 26 10:45:29 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: Great keynoting the Senate\u2019s weekly policy lunch and discussing workforce development policy, Higher Ed Act reauthorizatio\u2026",
+  "geo": null,
+  "id": 1143832650131615744,
+  "id_str": "1143832650131615744",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1143562347312766976,
+  "quoted_status_id_str": "1143562347312766976",
+  "quoted_status_permalink": {
+    "display": "twitter.com/billclarkphoto\u2026",
+    "expanded": "https://twitter.com/billclarkphotos/status/1143562347312766976",
+    "url": "https://t.co/4SkmGksBe8"
+  },
+  "retweet_count": 3813,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 25 18:29:54 +0000 2019",
+    "display_text_range": [
+      0,
+      172
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/billclarkphoto\u2026",
+          "expanded_url": "https://twitter.com/billclarkphotos/status/1143562347312766976",
+          "indices": [
+            173,
+            196
+          ],
+          "url": "https://t.co/4SkmGksBe8"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 20476,
+    "favorited": false,
+    "full_text": "Great keynoting the Senate\u2019s weekly policy lunch and discussing workforce development policy, Higher Ed Act reauthorization, childcare affordability, and paid family leave. https://t.co/4SkmGksBe8",
+    "geo": null,
+    "id": 1143587133615214597,
+    "id_str": "1143587133615214597",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Jun 25 16:51:24 +0000 2019",
+      "display_text_range": [
+        0,
+        61
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/h9VJM2Oie7",
+            "expanded_url": "https://twitter.com/billclarkphotos/status/1143562347312766976/photo/1",
+            "id": 1143562341440733186,
+            "id_str": "1143562341440733186",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/D96_5AQWwAIlNl5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D96_5AQWwAIlNl5.jpg",
+            "sizes": {
+              "large": {
+                "h": 1368,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 802,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 454,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/h9VJM2Oie7"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 52544275,
+            "id_str": "52544275",
+            "indices": [
+              1,
+              13
+            ],
+            "name": "Ivanka Trump",
+            "screen_name": "IvankaTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/h9VJM2Oie7",
+            "expanded_url": "https://twitter.com/billclarkphotos/status/1143562347312766976/photo/1",
+            "id": 1143562341440733186,
+            "id_str": "1143562341440733186",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/D96_5AQWwAIlNl5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D96_5AQWwAIlNl5.jpg",
+            "sizes": {
+              "large": {
+                "h": 1368,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 802,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 454,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/h9VJM2Oie7"
+          }
+        ]
+      },
+      "favorite_count": 450,
+      "favorited": false,
+      "full_text": ".@IvankaTrump arrives for the Senate GOP lunch in the Capitol https://t.co/h9VJM2Oie7",
+      "geo": null,
+      "id": 1143562347312766976,
+      "id_str": "1143562347312766976",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 95,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 04 20:42:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Roll Call photojournalist and unofficial Las Vegas bureau chief covering Congress and national politics. Follow my Instagram: billclarkphotos",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "billclarkphotos.squarespace.com",
+                "expanded_url": "http://billclarkphotos.squarespace.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/7jalhLoVoM"
+              }
+            ]
+          }
+        },
+        "favourites_count": 482,
+        "follow_request_sent": false,
+        "followers_count": 3698,
+        "following": false,
+        "friends_count": 428,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22830647,
+        "id_str": "22830647",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 185,
+        "location": "Washington, DC",
+        "name": "Bill Clark",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22830647/1463406992",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009585363063640064/qb_DMWEz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009585363063640064/qb_DMWEz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "billclarkphotos",
+        "statuses_count": 4118,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/7jalhLoVoM",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1143562347312766976,
+    "quoted_status_id_str": "1143562347312766976",
+    "quoted_status_permalink": {
+      "display": "twitter.com/billclarkphoto\u2026",
+      "expanded": "https://twitter.com/billclarkphotos/status/1143562347312766976",
+      "url": "https://t.co/4SkmGksBe8"
+    },
+    "retweet_count": 3813,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1872,
+      "follow_request_sent": false,
+      "followers_count": 6570333,
+      "following": false,
+      "friends_count": 1395,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 21098,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 15573,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61411871,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104634,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42579,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

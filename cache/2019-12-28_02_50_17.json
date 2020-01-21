@@ -1,0 +1,449 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 28 02:50:17 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 850283221,
+        "id_str": "850283221",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Thompson S. Hunter",
+        "screen_name": "nykr59"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @nykr59: Two Possibilities in Trump Wiretapping, and Neither Is Good\nBy Frank Watt\n\n\"The report of the I.G.'s findings on the use of FIS\u2026",
+  "geo": null,
+  "id": 1210754814214205440,
+  "id_str": "1210754814214205440",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4835,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 27 13:27:13 +0000 2019",
+    "display_text_range": [
+      0,
+      267
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/eBjXTf8kyM",
+          "expanded_url": "https://twitter.com/nykr59/status/1210552718831443973/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 98,
+                  "w": 98,
+                  "x": 83,
+                  "y": 320
+                },
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 622,
+                  "y": 326
+                },
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 637,
+                  "y": 78
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 98,
+                  "w": 98,
+                  "x": 83,
+                  "y": 320
+                },
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 622,
+                  "y": 326
+                },
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 637,
+                  "y": 78
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 98,
+                  "w": 98,
+                  "x": 83,
+                  "y": 320
+                },
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 622,
+                  "y": 326
+                },
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 637,
+                  "y": 78
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 83,
+                  "w": 83,
+                  "x": 70,
+                  "y": 272
+                },
+                {
+                  "h": 95,
+                  "w": 95,
+                  "x": 528,
+                  "y": 277
+                },
+                {
+                  "h": 96,
+                  "w": 96,
+                  "x": 541,
+                  "y": 66
+                }
+              ]
+            }
+          },
+          "id": 1210552715547275264,
+          "id_str": "1210552715547275264",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMy_R_AUcAA8Nf0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMy_R_AUcAA8Nf0.jpg",
+          "sizes": {
+            "large": {
+              "h": 482,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 482,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 410,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eBjXTf8kyM"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/eBjXTf8kyM",
+          "expanded_url": "https://twitter.com/nykr59/status/1210552718831443973/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 98,
+                  "w": 98,
+                  "x": 83,
+                  "y": 320
+                },
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 622,
+                  "y": 326
+                },
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 637,
+                  "y": 78
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 98,
+                  "w": 98,
+                  "x": 83,
+                  "y": 320
+                },
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 622,
+                  "y": 326
+                },
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 637,
+                  "y": 78
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 98,
+                  "w": 98,
+                  "x": 83,
+                  "y": 320
+                },
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 622,
+                  "y": 326
+                },
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 637,
+                  "y": 78
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 83,
+                  "w": 83,
+                  "x": 70,
+                  "y": 272
+                },
+                {
+                  "h": 95,
+                  "w": 95,
+                  "x": 528,
+                  "y": 277
+                },
+                {
+                  "h": 96,
+                  "w": 96,
+                  "x": 541,
+                  "y": 66
+                }
+              ]
+            }
+          },
+          "id": 1210552715547275264,
+          "id_str": "1210552715547275264",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMy_R_AUcAA8Nf0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMy_R_AUcAA8Nf0.jpg",
+          "sizes": {
+            "large": {
+              "h": 482,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 482,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 410,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eBjXTf8kyM"
+        }
+      ]
+    },
+    "favorite_count": 4314,
+    "favorited": false,
+    "full_text": "Two Possibilities in Trump Wiretapping, and Neither Is Good\nBy Frank Watt\n\n\"The report of the I.G.'s findings on the use of FISA in the FBI Crossfire Hurricane investigation is an outrage. As a 22 year FBI Agent, I have personally conducted multiple investigations... https://t.co/eBjXTf8kyM",
+    "geo": null,
+    "id": 1210552718831443973,
+    "id_str": "1210552718831443973",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4835,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Fri Sep 28 01:48:26 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The antidote to post-truth and fake news is not (just) the verification of facts, it is the restoration of logic. 'Like' = bookmark, ReTweet not an endorsement",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2707,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 2932,
+      "following": false,
+      "friends_count": 4113,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 850283221,
+      "id_str": "850283221",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 28,
+      "location": "The Left Coast",
+      "name": "Thompson S. Hunter",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/850283221/1571843256",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1180326701357621248/8p_lWDqp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180326701357621248/8p_lWDqp_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "nykr59",
+      "statuses_count": 16464,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67991008,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111802,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47528,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

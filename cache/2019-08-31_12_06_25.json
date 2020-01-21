@@ -1,0 +1,425 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 31 12:06:25 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18915145,
+        "id_str": "18915145",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Rob Portman",
+        "screen_name": "senrobportman"
+      },
+      {
+        "id": 107172099,
+        "id_str": "107172099",
+        "indices": [
+          72,
+          82
+        ],
+        "name": "NASA Glenn Research",
+        "screen_name": "NASAglenn"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @senrobportman: I will continue to work in Washington to ensure that @NasaGlenn has the support it needs to carry out it\u2019s vital mission\u2026",
+  "geo": null,
+  "id": 1167770613727055872,
+  "id_str": "1167770613727055872",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1955,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 21 18:41:37 +0000 2019",
+    "display_text_range": [
+      0,
+      204
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            180,
+            188
+          ],
+          "text": "Ohioans"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fwtB4I210U",
+          "expanded_url": "https://twitter.com/senrobportman/status/1164246192810860545/photo/1",
+          "id": 1164246180483817472,
+          "id_str": "1164246180483817472",
+          "indices": [
+            205,
+            228
+          ],
+          "media_url": "http://pbs.twimg.com/media/ECg7u5LX4AAAQ8L.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ECg7u5LX4AAAQ8L.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1620
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fwtB4I210U"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 107172099,
+          "id_str": "107172099",
+          "indices": [
+            53,
+            63
+          ],
+          "name": "NASA Glenn Research",
+          "screen_name": "NASAglenn"
+        },
+        {
+          "id": 11348282,
+          "id_str": "11348282",
+          "indices": [
+            126,
+            131
+          ],
+          "name": "NASA",
+          "screen_name": "NASA"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fwtB4I210U",
+          "expanded_url": "https://twitter.com/senrobportman/status/1164246192810860545/photo/1",
+          "id": 1164246180483817472,
+          "id_str": "1164246180483817472",
+          "indices": [
+            205,
+            228
+          ],
+          "media_url": "http://pbs.twimg.com/media/ECg7u5LX4AAAQ8L.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ECg7u5LX4AAAQ8L.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1620
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fwtB4I210U"
+        },
+        {
+          "display_url": "pic.twitter.com/fwtB4I210U",
+          "expanded_url": "https://twitter.com/senrobportman/status/1164246192810860545/photo/1",
+          "id": 1164246180475396096,
+          "id_str": "1164246180475396096",
+          "indices": [
+            205,
+            228
+          ],
+          "media_url": "http://pbs.twimg.com/media/ECg7u5JXYAAjlTB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ECg7u5JXYAAjlTB.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1620
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fwtB4I210U"
+        },
+        {
+          "display_url": "pic.twitter.com/fwtB4I210U",
+          "expanded_url": "https://twitter.com/senrobportman/status/1164246192810860545/photo/1",
+          "id": 1164246180563423232,
+          "id_str": "1164246180563423232",
+          "indices": [
+            205,
+            228
+          ],
+          "media_url": "http://pbs.twimg.com/media/ECg7u5eWkAA_vy_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ECg7u5eWkAA_vy_.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1620
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fwtB4I210U"
+        },
+        {
+          "display_url": "pic.twitter.com/fwtB4I210U",
+          "expanded_url": "https://twitter.com/senrobportman/status/1164246192810860545/photo/1",
+          "id": 1164246180475342849,
+          "id_str": "1164246180475342849",
+          "indices": [
+            205,
+            228
+          ],
+          "media_url": "http://pbs.twimg.com/media/ECg7u5JWkAEpfdz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ECg7u5JWkAEpfdz.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1620
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fwtB4I210U"
+        }
+      ]
+    },
+    "favorite_count": 7842,
+    "favorited": false,
+    "full_text": "I will continue to work in Washington to ensure that @NasaGlenn has the support it needs to carry out it\u2019s vital missions for @NASA and to ensure stability for the more than 3,200 #Ohioans who work there. https://t.co/fwtB4I210U",
+    "geo": null,
+    "id": 1164246192810860545,
+    "id_str": "1164246192810860545",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1955,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 12 20:56:42 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "United States Senator from the Buckeye State.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "portman.senate.gov",
+              "expanded_url": "http://portman.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/IR7Ky4qOaO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 411,
+      "follow_request_sent": false,
+      "followers_count": 139647,
+      "following": false,
+      "friends_count": 5000,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18915145,
+      "id_str": "18915145",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3114,
+      "location": "Ohio",
+      "name": "Rob Portman",
+      "notifications": false,
+      "profile_background_color": "0074DB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18915145/1452004224",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1037435418743107590/9hbhXXal_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037435418743107590/9hbhXXal_normal.jpg",
+      "profile_link_color": "106CB7",
+      "profile_sidebar_border_color": "26C905",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "senrobportman",
+      "statuses_count": 16023,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/IR7Ky4qOaO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63788709,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107986,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43935,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Aug 23 03:45:52 +0000 2019",
+  "display_text_range": [
+    0,
+    21
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/realromadowney\u2026",
+        "expanded_url": "https://twitter.com/realromadowney/status/1164589842753130496",
+        "indices": [
+          22,
+          45
+        ],
+        "url": "https://t.co/nx5yo7ajTt"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 13177,
+  "favorited": false,
+  "full_text": "Happy birthday James! https://t.co/nx5yo7ajTt",
+  "geo": null,
+  "id": 1164745545736474624,
+  "id_str": "1164745545736474624",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 22 17:27:10 +0000 2019",
+    "display_text_range": [
+      0,
+      186
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            143,
+            156
+          ],
+          "text": "jamesburnett"
+        },
+        {
+          "indices": [
+            157,
+            168
+          ],
+          "text": "littledume"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Oy6qdUYy8k",
+          "expanded_url": "https://twitter.com/RealRomaDowney/status/1164589842753130496/video/1",
+          "id": 1164589821513256961,
+          "id_str": "1164589821513256961",
+          "indices": [
+            187,
+            210
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1164589821513256961/pu/img/EkjFLmV_cKrQ7TsJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1164589821513256961/pu/img/EkjFLmV_cKrQ7TsJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Oy6qdUYy8k"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1601931674,
+          "id_str": "1601931674",
+          "indices": [
+            170,
+            186
+          ],
+          "name": "Burnett Music Group",
+          "screen_name": "BurnettMusicGrp"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/Oy6qdUYy8k",
+          "expanded_url": "https://twitter.com/RealRomaDowney/status/1164589842753130496/video/1",
+          "id": 1164589821513256961,
+          "id_str": "1164589821513256961",
+          "indices": [
+            187,
+            210
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1164589821513256961/pu/img/EkjFLmV_cKrQ7TsJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1164589821513256961/pu/img/EkjFLmV_cKrQ7TsJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Oy6qdUYy8k",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 5000,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1164589821513256961/pu/vid/360x640/fCCSdmwp1pVEKgKK.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1164589821513256961/pu/vid/720x1280/OLgZ-pp4RF2fMUEO.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1164589821513256961/pu/vid/320x568/Q7N_mOL2dTZvQEt7.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1164589821513256961/pu/pl/XEOY_dxR_vmWP-On.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 840,
+    "favorited": false,
+    "full_text": "Please join me in wishing a happy birthday to our James , He turns 26 today \ud83c\udf82. We love you James and wish you the most wonderful year ahead \u2764\ufe0f #jamesburnett #littledume  @BurnettMusicGrp https://t.co/Oy6qdUYy8k",
+    "geo": null,
+    "id": 1164589842753130496,
+    "id_str": "1164589842753130496",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 123,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jun 22 23:14:47 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Derry Girl,Angel,Founder of LightWorkers :Producer :The Bible, Son of God & Ben-Hur NY Times Best selling Author : Box of Butterflies https://t.co/Nx1vcKbsex \u2600\ufe0f",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "LightWorkers.com",
+              "expanded_url": "http://LightWorkers.com",
+              "indices": [
+                134,
+                157
+              ],
+              "url": "https://t.co/Nx1vcKbsex"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lightworkers.com",
+              "expanded_url": "https://www.lightworkers.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/s83wSNub9a"
+            }
+          ]
+        }
+      },
+      "favourites_count": 28531,
+      "follow_request_sent": false,
+      "followers_count": 250940,
+      "following": false,
+      "friends_count": 2400,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 322293052,
+      "id_str": "322293052",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1402,
+      "location": "California, USA",
+      "name": "Roma Downey",
+      "notifications": false,
+      "profile_background_color": "409BCF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/322293052/1520613320",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1008249489763766272/HBLwHNGi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008249489763766272/HBLwHNGi_normal.jpg",
+      "profile_link_color": "555B78",
+      "profile_sidebar_border_color": "4084B8",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RealRomaDowney",
+      "statuses_count": 27034,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/s83wSNub9a",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1164589842753130496,
+  "quoted_status_id_str": "1164589842753130496",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realromadowney\u2026",
+    "expanded": "https://twitter.com/realromadowney/status/1164589842753130496",
+    "url": "https://t.co/nx5yo7ajTt"
+  },
+  "retweet_count": 2598,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63373506,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107285,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43706,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

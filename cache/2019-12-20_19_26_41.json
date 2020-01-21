@@ -1,0 +1,318 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 20 19:26:41 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3384262751,
+        "id_str": "3384262751",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Jews For Trump",
+        "screen_name": "jewsfortrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          115,
+          131
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @jewsfortrump: *It\u2019s one day after impeachment*\n\nMe: Hey Siri, who\u2019s the President of the United States?\n\nSiri: @realDonaldTrump\n\nAll of\u2026",
+  "geo": null,
+  "id": 1208106464872677377,
+  "id_str": "1208106464872677377",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 31766,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 20 07:15:36 +0000 2019",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/QB7DoxCxkh",
+          "expanded_url": "https://twitter.com/jewsfortrump/status/1207922481543204864/video/1",
+          "features": {},
+          "id": 1207922414958460928,
+          "id_str": "1207922414958460928",
+          "indices": [
+            130,
+            153
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207922414958460928/pu/img/wU0LitW04nisExr4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207922414958460928/pu/img/wU0LitW04nisExr4.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 360
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 360
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 360
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/QB7DoxCxkh"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            97,
+            113
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/QB7DoxCxkh",
+          "expanded_url": "https://twitter.com/jewsfortrump/status/1207922481543204864/video/1",
+          "features": {},
+          "id": 1207922414958460928,
+          "id_str": "1207922414958460928",
+          "indices": [
+            130,
+            153
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207922414958460928/pu/img/wU0LitW04nisExr4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207922414958460928/pu/img/wU0LitW04nisExr4.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 360
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 360
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 360
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/QB7DoxCxkh",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 12900,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207922414958460928/pu/vid/360x640/kOkh3f4c9yeJ7mL0.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207922414958460928/pu/vid/320x568/0hd1BpSxJGe7EuaD.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1207922414958460928/pu/pl/lp-bRPUGt0u6Us_j.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 97984,
+    "favorited": false,
+    "full_text": "*It\u2019s one day after impeachment*\n\nMe: Hey Siri, who\u2019s the President of the United States?\n\nSiri: @realDonaldTrump\n\nAll of us: \ud83e\udd29\ud83e\udd29\ud83e\udd29 https://t.co/QB7DoxCxkh",
+    "geo": null,
+    "id": 1207922481543204864,
+    "id_str": "1207922481543204864",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 31766,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Jul 20 08:34:33 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Jewish Americans support @POTUS @realDonaldTrump; a friend of the Jewish community and a supporter of @Israel.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 355,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 22433,
+      "following": false,
+      "friends_count": 149,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 3384262751,
+      "id_str": "3384262751",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 53,
+      "location": "Washington, DC",
+      "name": "Jews For Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3384262751/1503568386",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1104021175045419009/w2QS_zrS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104021175045419009/w2QS_zrS_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jewsfortrump",
+      "statuses_count": 1706,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67817320,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111683,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47418,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

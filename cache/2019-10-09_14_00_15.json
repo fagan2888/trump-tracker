@@ -1,0 +1,373 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 09 14:00:15 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          118,
+          124
+        ],
+        "text": "PANIC"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 591505507,
+        "id_str": "591505507",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "\ud83c\uddfa\ud83c\uddf8 Miguelifornia",
+        "screen_name": "michaelbeatty3"
+      },
+      {
+        "id": 208155240,
+        "id_str": "208155240",
+        "indices": [
+          25,
+          40
+        ],
+        "name": "Maria Bartiromo",
+        "screen_name": "MariaBartiromo"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          101,
+          117
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @michaelbeatty3: BOOM\n@MariaBartiromo is hearing..\n\u25cfIG REPORT OCT 18TH\n\u25cfTHICK AS A TELEPHONE BOOK @realDonaldTrump #PANIC #WednesdayWisd\u2026",
+  "geo": null,
+  "id": 1181932389435678720,
+  "id_str": "1181932389435678720",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10368,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 09 11:36:23 +0000 2019",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            98,
+            104
+          ],
+          "text": "PANIC"
+        },
+        {
+          "indices": [
+            105,
+            121
+          ],
+          "text": "WednesdayWisdom"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3CKvbifx0T",
+          "expanded_url": "https://twitter.com/michaelbeatty3/status/1181896183603593217/video/1",
+          "id": 1181896086899707904,
+          "id_str": "1181896086899707904",
+          "indices": [
+            122,
+            145
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1181896086899707904/pu/img/axauGZn1_q0Io1H_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1181896086899707904/pu/img/axauGZn1_q0Io1H_.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3CKvbifx0T"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 208155240,
+          "id_str": "208155240",
+          "indices": [
+            5,
+            20
+          ],
+          "name": "Maria Bartiromo",
+          "screen_name": "MariaBartiromo"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            81,
+            97
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/3CKvbifx0T",
+          "expanded_url": "https://twitter.com/michaelbeatty3/status/1181896183603593217/video/1",
+          "id": 1181896086899707904,
+          "id_str": "1181896086899707904",
+          "indices": [
+            122,
+            145
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1181896086899707904/pu/img/axauGZn1_q0Io1H_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1181896086899707904/pu/img/axauGZn1_q0Io1H_.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/3CKvbifx0T",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 27095,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1181896086899707904/pu/vid/480x270/y4uuULyYqewmdi8y.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1181896086899707904/pu/pl/1L0BfApyflakLjWf.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1181896086899707904/pu/vid/1280x720/qdKYKOM4rfvUmtJY.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1181896086899707904/pu/vid/640x360/5lsvPQNTYUC1R_xa.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 27568,
+    "favorited": false,
+    "full_text": "BOOM\n@MariaBartiromo is hearing..\n\u25cfIG REPORT OCT 18TH\n\u25cfTHICK AS A TELEPHONE BOOK @realDonaldTrump #PANIC #WednesdayWisdom https://t.co/3CKvbifx0T",
+    "geo": null,
+    "id": 1181896183603593217,
+    "id_str": "1181896183603593217",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10368,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun May 27 04:23:10 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "\ud83c\uddfa\ud83c\uddf8American, Husband, Dad, Grandpa- Cigars & Rock & Roll, Guitar Player, Songwriter #Dodgers broke my\u2661AGAIN #LAKings #WWG1WGA Q'd 2x! Q+",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/user/michaelbe\u2026",
+              "expanded_url": "https://www.youtube.com/user/michaelbeattymusic1/videos",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Bgo6x4Gyeh"
+            }
+          ]
+        }
+      },
+      "favourites_count": 216933,
+      "follow_request_sent": false,
+      "followers_count": 56042,
+      "following": false,
+      "friends_count": 17032,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 591505507,
+      "id_str": "591505507",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 144,
+      "location": "once beautiful So Cal!",
+      "name": "\ud83c\uddfa\ud83c\uddf8 Miguelifornia",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/591505507/1570728441",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1087717804508274688/Nk_OV1Vp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087717804508274688/Nk_OV1Vp_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "michaelbeatty3",
+      "statuses_count": 244299,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Bgo6x4Gyeh",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65561392,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109714,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45067,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 04 03:55:53 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          18,
+          24
+        ],
+        "text": "ICYMI"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 234128524,
+        "id_str": "234128524",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Senator Todd Young",
+        "screen_name": "SenToddYoung"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenToddYoung: #ICYMI: Student debt is one of the biggest issues facing Americans from all states across the United States. Yesterday, I\u2026",
+  "geo": null,
+  "id": 1191202381243002880,
+  "id_str": "1191202381243002880",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3849,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 28 23:45:00 +0000 2019",
+    "display_text_range": [
+      0,
+      230
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "ICYMI"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hX32QHon1z",
+          "expanded_url": "https://twitter.com/SenToddYoung/status/1188964914943188992/video/1",
+          "features": {},
+          "id": 1188960035403116544,
+          "id_str": "1188960035403116544",
+          "indices": [
+            231,
+            254
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1188960035403116544/img/zrVsSj-FL2X4SJka.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1188960035403116544/img/zrVsSj-FL2X4SJka.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hX32QHon1z"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "young.senate.gov/newsroom/press\u2026",
+          "expanded_url": "https://www.young.senate.gov/newsroom/press-releases/young-warner-rubio-coons-introduce-innovative-higher-ed-financing-proposal",
+          "indices": [
+            207,
+            230
+          ],
+          "url": "https://t.co/rhxCGpSVVZ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 2779389582,
+          "id_str": "2779389582",
+          "indices": [
+            133,
+            146
+          ],
+          "name": "steve hilton",
+          "screen_name": "SteveHiltonx"
+        },
+        {
+          "id": 1367531,
+          "id_str": "1367531",
+          "indices": [
+            150,
+            158
+          ],
+          "name": "Fox News",
+          "screen_name": "FoxNews"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/hX32QHon1z",
+          "expanded_url": "https://twitter.com/SenToddYoung/status/1188964914943188992/video/1",
+          "features": {},
+          "id": 1188960035403116544,
+          "id_str": "1188960035403116544",
+          "indices": [
+            231,
+            254
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1188960035403116544/img/zrVsSj-FL2X4SJka.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1188960035403116544/img/zrVsSj-FL2X4SJka.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/hX32QHon1z",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 349282,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1188960035403116544/vid/480x270/5BKVVONfMJCHrvjf.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1188960035403116544/pl/2jrpeYpw2nUdwORR.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1188960035403116544/vid/640x360/p9iOLvBF901TVwN0.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1188960035403116544/vid/1280x720/jrfSMbwXzYw5lLhS.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 13820,
+    "favorited": false,
+    "full_text": "#ICYMI: Student debt is one of the biggest issues facing Americans from all states across the United States. Yesterday, I spoke with @SteveHiltonx on @FoxNews about my bipartisan ISA Student Protection Act. https://t.co/rhxCGpSVVZ https://t.co/hX32QHon1z",
+    "geo": null,
+    "id": 1188964914943188992,
+    "id_str": "1188964914943188992",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3849,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 04 22:35:16 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I proudly serve Hoosier families in the U.S. Senate. Contact my office at (202) 224-5623 for assistance. You can also visit our website for additional info.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Young.Senate.Gov",
+              "expanded_url": "http://Young.Senate.Gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/IhAAMvhCKv"
+            }
+          ]
+        }
+      },
+      "favourites_count": 196,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 48669,
+      "following": false,
+      "friends_count": 505,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 234128524,
+      "id_str": "234128524",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1543,
+      "location": "Indiana",
+      "name": "Senator Todd Young",
+      "notifications": false,
+      "profile_background_color": "00346F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/234128524/1555085359",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/839534166727360514/sm9KrCLP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/839534166727360514/sm9KrCLP_normal.jpg",
+      "profile_link_color": "1D69A7",
+      "profile_sidebar_border_color": "1D69A7",
+      "profile_sidebar_fill_color": "EAEAEA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenToddYoung",
+      "statuses_count": 5444,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/IhAAMvhCKv",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66540771,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110449,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45821,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

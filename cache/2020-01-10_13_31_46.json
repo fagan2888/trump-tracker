@@ -1,0 +1,523 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 10 13:31:46 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18632666,
+        "id_str": "18632666",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Senator Jerry Moran",
+        "screen_name": "JerryMoran"
+      },
+      {
+        "id": 701821488,
+        "id_str": "701821488",
+        "indices": [
+          16,
+          27
+        ],
+        "name": "Senate Finance Committee",
+        "screen_name": "SenFinance"
+      },
+      {
+        "id": 862405301693296640,
+        "id_str": "862405301693296640",
+        "indices": [
+          43,
+          54
+        ],
+        "name": "USTR",
+        "screen_name": "USTradeRep"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JerryMoran: @SenFinance Also, met with @USTradeRep Robert Lighthizer to discuss Phase One of the trade agrmt w/ China. Includes commitm\u2026",
+  "geo": null,
+  "id": 1215627294313676801,
+  "id_str": "1215627294313676801",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3050,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 09 16:25:55 +0000 2020",
+    "display_text_range": [
+      12,
+      283
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VuUmESWTji",
+          "expanded_url": "https://twitter.com/JerryMoran/status/1215308729136164864/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "USTR",
+                  "screen_name": "USTradeRep",
+                  "type": "user",
+                  "user_id": "862405301693296640"
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 1036,
+                  "y": 44
+                },
+                {
+                  "h": 238,
+                  "w": 238,
+                  "x": 582,
+                  "y": 208
+                },
+                {
+                  "h": 218,
+                  "w": 218,
+                  "x": 1022,
+                  "y": 240
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 607,
+                  "y": 25
+                },
+                {
+                  "h": 139,
+                  "w": 139,
+                  "x": 341,
+                  "y": 121
+                },
+                {
+                  "h": 127,
+                  "w": 127,
+                  "x": 598,
+                  "y": 140
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 152,
+                  "w": 152,
+                  "x": 2072,
+                  "y": 88
+                },
+                {
+                  "h": 476,
+                  "w": 476,
+                  "x": 1164,
+                  "y": 416
+                },
+                {
+                  "h": 436,
+                  "w": 436,
+                  "x": 2044,
+                  "y": 480
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 343,
+                  "y": 14
+                },
+                {
+                  "h": 79,
+                  "w": 79,
+                  "x": 193,
+                  "y": 69
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 339,
+                  "y": 79
+                }
+              ]
+            }
+          },
+          "id": 1215308718780354560,
+          "id_str": "1215308718780354560",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/media/EN2k1ztWkAARAey.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EN2k1ztWkAARAey.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VuUmESWTji"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 701821488,
+          "id_str": "701821488",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "Senate Finance Committee",
+          "screen_name": "SenFinance"
+        },
+        {
+          "id": 862405301693296640,
+          "id_str": "862405301693296640",
+          "indices": [
+            27,
+            38
+          ],
+          "name": "USTR",
+          "screen_name": "USTradeRep"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VuUmESWTji",
+          "expanded_url": "https://twitter.com/JerryMoran/status/1215308729136164864/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "USTR",
+                  "screen_name": "USTradeRep",
+                  "type": "user",
+                  "user_id": "862405301693296640"
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 1036,
+                  "y": 44
+                },
+                {
+                  "h": 238,
+                  "w": 238,
+                  "x": 582,
+                  "y": 208
+                },
+                {
+                  "h": 218,
+                  "w": 218,
+                  "x": 1022,
+                  "y": 240
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 607,
+                  "y": 25
+                },
+                {
+                  "h": 139,
+                  "w": 139,
+                  "x": 341,
+                  "y": 121
+                },
+                {
+                  "h": 127,
+                  "w": 127,
+                  "x": 598,
+                  "y": 140
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 152,
+                  "w": 152,
+                  "x": 2072,
+                  "y": 88
+                },
+                {
+                  "h": 476,
+                  "w": 476,
+                  "x": 1164,
+                  "y": 416
+                },
+                {
+                  "h": 436,
+                  "w": 436,
+                  "x": 2044,
+                  "y": 480
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 343,
+                  "y": 14
+                },
+                {
+                  "h": 79,
+                  "w": 79,
+                  "x": 193,
+                  "y": 69
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 339,
+                  "y": 79
+                }
+              ]
+            }
+          },
+          "id": 1215308718780354560,
+          "id_str": "1215308718780354560",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/media/EN2k1ztWkAARAey.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EN2k1ztWkAARAey.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VuUmESWTji"
+        }
+      ]
+    },
+    "favorite_count": 10289,
+    "favorited": false,
+    "full_text": "@SenFinance Also, met with @USTradeRep Robert Lighthizer to discuss Phase One of the trade agrmt w/ China. Includes commitment by China to purchase $40 billion annually in agricultural products from the U.S. over the next two years and addresses much of China\u2019s misbehavior on trade. https://t.co/VuUmESWTji",
+    "geo": null,
+    "id": 1215308729136164864,
+    "id_str": "1215308729136164864",
+    "in_reply_to_screen_name": "JerryMoran",
+    "in_reply_to_status_id": 1215307787644829696,
+    "in_reply_to_status_id_str": "1215307787644829696",
+    "in_reply_to_user_id": 18632666,
+    "in_reply_to_user_id_str": "18632666",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3050,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 05 14:25:22 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official account of U.S. Senator Jerry Moran. Honored to represent Kansans in the U.S. Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "moran.senate.gov",
+              "expanded_url": "http://www.moran.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/CBA3beMHNs"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1105,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 101976,
+      "following": false,
+      "friends_count": 3065,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18632666,
+      "id_str": "18632666",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2230,
+      "location": "Kansas",
+      "name": "Senator Jerry Moran",
+      "notifications": false,
+      "profile_background_color": "0F3254",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18632666/1509573111",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/834123788153397248/8XI1dcQL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/834123788153397248/8XI1dcQL_normal.jpg",
+      "profile_link_color": "55ACEE",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F2F2F2",
+      "profile_text_color": "545454",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JerryMoran",
+      "statuses_count": 5853,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/CBA3beMHNs",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70645362,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113128,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47812,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

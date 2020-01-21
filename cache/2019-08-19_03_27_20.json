@@ -1,0 +1,423 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 19 03:27:20 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 202952121,
+        "id_str": "202952121",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Oliver McGee PhD MBA",
+        "screen_name": "OliverMcGee"
+      },
+      {
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          66,
+          70
+        ],
+        "name": "CNN",
+        "screen_name": "CNN"
+      },
+      {
+        "id": 22771961,
+        "id_str": "22771961",
+        "indices": [
+          73,
+          80
+        ],
+        "name": "Jim Acosta",
+        "screen_name": "Acosta"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          84,
+          90
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          121,
+          137
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @OliverMcGee: Retweet The Lies, False Facts &amp; Fake News of @CNN's @Acosta on @POTUS!\n\nRaise Your Hand if you LOVE @realDonaldTrump has S\u2026",
+  "geo": null,
+  "id": 1163291328299618304,
+  "id_str": "1163291328299618304",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4381,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Aug 19 03:24:14 +0000 2019",
+    "display_text_range": [
+      0,
+      288
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/JYHhpFnvJB",
+          "expanded_url": "https://twitter.com/OliverMcGee/status/1163290549077590017/video/1",
+          "id": 1163282600204652544,
+          "id_str": "1163282600204652544",
+          "indices": [
+            289,
+            312
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1163282600204652544/img/eDNlTkZIJszEc5Tf.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1163282600204652544/img/eDNlTkZIJszEc5Tf.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/JYHhpFnvJB"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            49,
+            53
+          ],
+          "name": "CNN",
+          "screen_name": "CNN"
+        },
+        {
+          "id": 22771961,
+          "id_str": "22771961",
+          "indices": [
+            56,
+            63
+          ],
+          "name": "Jim Acosta",
+          "screen_name": "Acosta"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            67,
+            73
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            104,
+            120
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            137,
+            148
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "id": 818927131883356161,
+          "id_str": "818927131883356161",
+          "indices": [
+            149,
+            158
+          ],
+          "name": "Stephanie Grisham",
+          "screen_name": "PressSec"
+        },
+        {
+          "id": 18018355,
+          "id_str": "18018355",
+          "indices": [
+            264,
+            275
+          ],
+          "name": "AprilDRyan",
+          "screen_name": "AprilDRyan"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/JYHhpFnvJB",
+          "expanded_url": "https://twitter.com/OliverMcGee/status/1163290549077590017/video/1",
+          "id": 1163282600204652544,
+          "id_str": "1163282600204652544",
+          "indices": [
+            289,
+            312
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1163282600204652544/img/eDNlTkZIJszEc5Tf.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1163282600204652544/img/eDNlTkZIJszEc5Tf.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/JYHhpFnvJB",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 596753,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1163282600204652544/vid/640x360/_-1-m7jXRbwiOPbm.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1163282600204652544/pl/Pe4Qb3dqjXd_K71I.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1163282600204652544/vid/1280x720/jWZW-Vei9qtuFqAo.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1163282600204652544/vid/480x270/u-fJfJbjqh6_xy3O.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12232,
+    "favorited": false,
+    "full_text": "Retweet The Lies, False Facts &amp; Fake News of @CNN's @Acosta on @POTUS!\n\nRaise Your Hand if you LOVE @realDonaldTrump has SHUTOFF the @WhiteHouse @PressSec Briefing Cameras &amp; KICKED THE PRESS OUTSIDE next to a Buzzing Marine One Helicopter!\n\nWhere's Acosta @AprilDRyan on the Lawn? https://t.co/JYHhpFnvJB",
+    "geo": null,
+    "id": 1163290549077590017,
+    "id_str": "1163290549077590017",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4381,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Oct 15 05:20:45 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "FMR Sr Advisor @WhiteHouse, FMR US Dep Asst Secretary\ud83c\uddfa\ud83c\uddf8#MAGA|Guest @SkyNews @BBCWorld @LBC\ud83c\uddec\ud83c\udde7|@FoxNews|@MSNBC|@CNN|@CGTNOfficial\ud83c\udde8\ud83c\uddf3|BookMe ogmcgee@yahoo.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "OliverMcGee.org",
+              "expanded_url": "http://www.OliverMcGee.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8g76FMYmJB"
+            }
+          ]
+        }
+      },
+      "favourites_count": 536057,
+      "follow_request_sent": false,
+      "followers_count": 193926,
+      "following": false,
+      "friends_count": 147815,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 202952121,
+      "id_str": "202952121",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1236,
+      "location": "Washington, DC, USA",
+      "name": "Oliver McGee PhD MBA",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/202952121/1461301545",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2963669853/52457122be447a2bf80f30fd63ed5768_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2963669853/52457122be447a2bf80f30fd63ed5768_normal.jpeg",
+      "profile_link_color": "0009B3",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "OliverMcGee",
+      "statuses_count": 14401,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8g76FMYmJB",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63244998,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107033,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43599,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

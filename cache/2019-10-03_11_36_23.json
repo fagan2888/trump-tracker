@@ -1,0 +1,337 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 03 11:36:23 +0000 2019",
+  "display_text_range": [
+    0,
+    61
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/aka_realdirty/\u2026",
+        "expanded_url": "https://twitter.com/aka_realdirty/status/1179603565129736192",
+        "indices": [
+          62,
+          85
+        ],
+        "url": "https://t.co/ytwEy5NasJ"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 68768,
+  "favorited": false,
+  "full_text": "Schiff is a lying disaster for our Country. He should resign! https://t.co/ytwEy5NasJ",
+  "geo": null,
+  "id": 1179721857441902593,
+  "id_str": "1179721857441902593",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 03 03:46:20 +0000 2019",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/h5dBNSP4cu",
+          "expanded_url": "https://twitter.com/AKA_RealDirty/status/1179603565129736192/video/1",
+          "id": 1179603313362378752,
+          "id_str": "1179603313362378752",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1179603313362378752/pu/img/TAxLgHD3rkilojaP.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1179603313362378752/pu/img/TAxLgHD3rkilojaP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/h5dBNSP4cu"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 19739126,
+          "id_str": "19739126",
+          "indices": [
+            1,
+            11
+          ],
+          "name": "Kevin McCarthy",
+          "screen_name": "GOPLeader"
+        },
+        {
+          "id": 29501253,
+          "id_str": "29501253",
+          "indices": [
+            17,
+            31
+          ],
+          "name": "Adam Schiff",
+          "screen_name": "RepAdamSchiff"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/h5dBNSP4cu",
+          "expanded_url": "https://twitter.com/AKA_RealDirty/status/1179603565129736192/video/1",
+          "id": 1179603313362378752,
+          "id_str": "1179603313362378752",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1179603313362378752/pu/img/TAxLgHD3rkilojaP.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1179603313362378752/pu/img/TAxLgHD3rkilojaP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/h5dBNSP4cu",
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              3
+            ],
+            "duration_millis": 140002,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1179603313362378752/pu/vid/480x360/uTM-owDN9mzYxs9_.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1179603313362378752/pu/vid/360x270/t25TLVqxsizxIVtv.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1179603313362378752/pu/pl/IwzcPcqm6bgtP2wx.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1179603313362378752/pu/vid/960x720/q-LhGLnD_84PgdXC.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 7874,
+    "favorited": false,
+    "full_text": ".@GOPLeader says @RepAdamSchiff needs to be removed from the chair of the committee. https://t.co/h5dBNSP4cu",
+    "geo": null,
+    "id": 1179603565129736192,
+    "id_str": "1179603565129736192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3360,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Nov 24 13:21:06 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Proud POTUS Trump & US military supporter. I\u2019m Paralyzed and my hands don\u2019t work and I use Siri to type. So if something is misspelled or jacked up she is why.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "paypal.me/thedirtytruth?\u2026",
+              "expanded_url": "https://paypal.me/thedirtytruth?locale.x=en_US",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/YuqqKGx8yH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 103017,
+      "follow_request_sent": false,
+      "followers_count": 38008,
+      "following": false,
+      "friends_count": 3356,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 934049237628841984,
+      "id_str": "934049237628841984",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 210,
+      "location": "USA",
+      "name": "The \u201cDirty\u201d Truth",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/934049237628841984/1568042596",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1135108655500726272/byPSPUyg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135108655500726272/byPSPUyg_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AKA_RealDirty",
+      "statuses_count": 29241,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/YuqqKGx8yH",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1179603565129736192,
+  "quoted_status_id_str": "1179603565129736192",
+  "quoted_status_permalink": {
+    "display": "twitter.com/aka_realdirty/\u2026",
+    "expanded": "https://twitter.com/aka_realdirty/status/1179603565129736192",
+    "url": "https://t.co/ytwEy5NasJ"
+  },
+  "retweet_count": 19620,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65243129,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109347,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44852,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

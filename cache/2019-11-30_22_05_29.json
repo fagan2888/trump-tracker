@@ -1,0 +1,475 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 30 22:05:29 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818927131883356161,
+        "id_str": "818927131883356161",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Stephanie Grisham",
+        "screen_name": "PressSec"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          123,
+          139
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PressSec: Well said. There is so much work left do be done. Let\u2019s move past this impeachment farce, follow the lead of @realDonaldTrump\u2026",
+  "geo": null,
+  "id": 1200898671862259718,
+  "id_str": "1200898671862259718",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1200792348860370944,
+  "quoted_status_id_str": "1200792348860370944",
+  "quoted_status_permalink": {
+    "display": "twitter.com/repmattgaetz/s\u2026",
+    "expanded": "https://twitter.com/repmattgaetz/status/1200792348860370944",
+    "url": "https://t.co/KWfg0Fov0q"
+  },
+  "retweet_count": 8043,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 30 16:05:48 +0000 2019",
+    "display_text_range": [
+      0,
+      198
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/repmattgaetz/s\u2026",
+          "expanded_url": "https://twitter.com/repmattgaetz/status/1200792348860370944",
+          "indices": [
+            199,
+            222
+          ],
+          "url": "https://t.co/KWfg0Fov0q"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            109,
+            125
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 26255,
+    "favorited": false,
+    "full_text": "Well said. There is so much work left do be done. Let\u2019s move past this impeachment farce, follow the lead of @realDonaldTrump, &amp; work together on behalf of the people across our great nation! \ud83c\uddfa\ud83c\uddf8 https://t.co/KWfg0Fov0q",
+    "geo": null,
+    "id": 1200808153346138112,
+    "id_str": "1200808153346138112",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Nov 30 15:03:00 +0000 2019",
+      "display_text_range": [
+        0,
+        242
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/sykORoWlUR",
+            "expanded_url": "https://twitter.com/RepMattGaetz/status/1200792348860370944/video/1",
+            "features": {},
+            "id": 1200260723349360641,
+            "id_str": "1200260723349360641",
+            "indices": [
+              243,
+              266
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKly-cKWoAEmCAg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKly-cKWoAEmCAg.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/sykORoWlUR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "watch_now": {
+                  "url": "https://youtu.be/5dxJFYMFz0M"
+                }
+              },
+              "description": "The Speaker should be praying for better poll numbers in swing districts.",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "The Opportunity Cost of Impeachment"
+            },
+            "display_url": "pic.twitter.com/sykORoWlUR",
+            "expanded_url": "https://twitter.com/RepMattGaetz/status/1200792348860370944/video/1",
+            "features": {},
+            "id": 1200260723349360641,
+            "id_str": "1200260723349360641",
+            "indices": [
+              243,
+              266
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKly-cKWoAEmCAg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKly-cKWoAEmCAg.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/sykORoWlUR",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 33534,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1200260723349360641/pl/yTFntRWdzX6sJlAs.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1200260723349360641/vid/640x360/7aHtbvRroLhqGCVN.mp4?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1200260723349360641/vid/480x270/xZoesbJffc9dCUzf.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1200260723349360641/vid/1280x720/tXMMLLFhVxgwqBNy.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 13267,
+      "favorited": false,
+      "full_text": "Democrats are focused on impeachment instead of the needs of the country like passing the USMCA, reforming our asylum laws, and getting an infrastructure bill passed.\n\nThis is the work left undone. This is the opportunity cost of impeachment. https://t.co/sykORoWlUR",
+      "geo": null,
+      "id": 1200792348860370944,
+      "id_str": "1200792348860370944",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5056,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Gaetz.house.gov",
+                "expanded_url": "http://Gaetz.house.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/GcjK1dZCtR"
+              }
+            ]
+          }
+        },
+        "favourites_count": 544,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 467573,
+        "following": false,
+        "friends_count": 908,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 818948638890217473,
+        "id_str": "818948638890217473",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1926,
+        "location": "",
+        "name": "Rep. Matt Gaetz",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1546465602",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+        "profile_link_color": "BB1A2A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RepMattGaetz",
+        "statuses_count": 4549,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/GcjK1dZCtR",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1200792348860370944,
+    "quoted_status_id_str": "1200792348860370944",
+    "quoted_status_permalink": {
+      "display": "twitter.com/repmattgaetz/s\u2026",
+      "expanded": "https://twitter.com/repmattgaetz/status/1200792348860370944",
+      "url": "https://t.co/KWfg0Fov0q"
+    },
+    "retweet_count": 8043,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 21:06:57 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "@WhiteHouse Press Secretary. Proudly representing @POTUS Trump's Administration. Tweets may be archived: https://t.co/eVVzoBb3Zr.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                105,
+                128
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 694,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 4138645,
+      "following": false,
+      "friends_count": 289,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 818927131883356161,
+      "id_str": "818927131883356161",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9184,
+      "location": "Washington, D.C.",
+      "name": "Stephanie Grisham",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818927131883356161/1562183587",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1146507396354924552/ZCFExjL0_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146507396354924552/ZCFExjL0_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PressSec",
+      "statuses_count": 3072,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67180803,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111000,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46525,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

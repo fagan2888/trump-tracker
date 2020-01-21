@@ -1,0 +1,353 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu May 02 01:00:19 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18247062,
+        "id_str": "18247062",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Judicial Watch \ud83d\udd0e",
+        "screen_name": "JudicialWatch"
+      },
+      {
+        "id": 18266688,
+        "id_str": "18266688",
+        "indices": [
+          20,
+          30
+        ],
+        "name": "Tom Fitton",
+        "screen_name": "TomFitton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JudicialWatch: .@TomFitton discusses that \u201cObama, Biden, Clinton, Susan Rice, the DNC, John Brennan, Comey, Clapper, Kerry, McCabe, Lor\u2026",
+  "geo": null,
+  "id": 1123754055417856001,
+  "id_str": "1123754055417856001",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5636,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 01 22:00:00 +0000 2019",
+    "display_text_range": [
+      0,
+      281
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FgbEUswRji",
+          "expanded_url": "https://twitter.com/JudicialWatch/status/1123708676127318018/video/1",
+          "id": 1121474628826882048,
+          "id_str": "1121474628826882048",
+          "indices": [
+            282,
+            305
+          ],
+          "media_url": "http://pbs.twimg.com/media/D5CTjyyXoAIrNvk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D5CTjyyXoAIrNvk.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FgbEUswRji"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "jwatch.us/9eKHcS",
+          "expanded_url": "http://jwatch.us/9eKHcS",
+          "indices": [
+            258,
+            281
+          ],
+          "url": "https://t.co/FKwXDsWCQP"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 18266688,
+          "id_str": "18266688",
+          "indices": [
+            1,
+            11
+          ],
+          "name": "Tom Fitton",
+          "screen_name": "TomFitton"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            220,
+            236
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "Watch the full video HERE https://youtu.be/h6gFTYtU-nQ",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/FgbEUswRji",
+          "expanded_url": "https://twitter.com/JudicialWatch/status/1123708676127318018/video/1",
+          "id": 1121474628826882048,
+          "id_str": "1121474628826882048",
+          "indices": [
+            282,
+            305
+          ],
+          "media_url": "http://pbs.twimg.com/media/D5CTjyyXoAIrNvk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D5CTjyyXoAIrNvk.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/FgbEUswRji",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 52234,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1121474628826882048/vid/320x180/DH95OQ7ZPbfxUuBd.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1121474628826882048/vid/1280x720/VJSMaKZF3ZHcJmfy.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1121474628826882048/pl/_YYS5Grzdf9Gn1Ab.m3u8?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1121474628826882048/vid/640x360/KQQZW-LJIMAjZHwM.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 15013,
+    "favorited": false,
+    "full_text": ".@TomFitton discusses that \u201cObama, Biden, Clinton, Susan Rice, the DNC, John Brennan, Comey, Clapper, Kerry, McCabe, Loretta Lynch, Peter Strzok &amp; more need to be investigated by the FBI &amp; DOJ for crimes against @realDonaldTrump .  \nFull video here: https://t.co/FKwXDsWCQP https://t.co/FgbEUswRji",
+    "geo": null,
+    "id": 1123708676127318018,
+    "id_str": "1123708676127318018",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5636,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 19 18:04:57 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government. Follow us on FB & Instagram: judicialwatch",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "judicialwatch.org",
+              "expanded_url": "http://www.judicialwatch.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JPjqvKy5es"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1374,
+      "follow_request_sent": false,
+      "followers_count": 1084301,
+      "following": false,
+      "friends_count": 1966,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18247062,
+      "id_str": "18247062",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 5108,
+      "location": "Washington, DC",
+      "name": "Judicial Watch \ud83d\udd0e",
+      "notifications": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18247062/1555347255",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1117833446578061314/PLsTrGYS_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117833446578061314/PLsTrGYS_normal.png",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "30353B",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JudicialWatch",
+      "statuses_count": 60054,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JPjqvKy5es",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59955368,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102312,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1556661350",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41568,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

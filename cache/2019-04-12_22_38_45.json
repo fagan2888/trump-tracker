@@ -1,0 +1,356 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 12 22:38:45 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          74,
+          80
+        ],
+        "text": "Trump"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 138182116,
+        "id_str": "138182116",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Trish Regan",
+        "screen_name": "trish_regan"
+      },
+      {
+        "id": 4121225056,
+        "id_str": "4121225056",
+        "indices": [
+          18,
+          32
+        ],
+        "name": "Corey R. Lewandowski",
+        "screen_name": "CLewandowski_"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @trish_regan: .@CLewandowski_ says he is POSITIVE orders to spy on the #Trump campaign during 2016 came from the HIGHEST levels \u2013 perhap\u2026",
+  "geo": null,
+  "id": 1116833058840293381,
+  "id_str": "1116833058840293381",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9141,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 12 00:12:21 +0000 2019",
+    "display_text_range": [
+      0,
+      173
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            57,
+            63
+          ],
+          "text": "Trump"
+        },
+        {
+          "indices": [
+            151,
+            157
+          ],
+          "text": "Obama"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CKddm2D0Rn",
+          "expanded_url": "https://twitter.com/trish_regan/status/1116494225787453440/video/1",
+          "id": 1116493820391297026,
+          "id_str": "1116493820391297026",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/media/D36Vg0cW0AYfjWc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D36Vg0cW0AYfjWc.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CKddm2D0Rn"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 4121225056,
+          "id_str": "4121225056",
+          "indices": [
+            1,
+            15
+          ],
+          "name": "Corey R. Lewandowski",
+          "screen_name": "CLewandowski_"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/CKddm2D0Rn",
+          "expanded_url": "https://twitter.com/trish_regan/status/1116494225787453440/video/1",
+          "id": 1116493820391297026,
+          "id_str": "1116493820391297026",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/media/D36Vg0cW0AYfjWc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D36Vg0cW0AYfjWc.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/CKddm2D0Rn",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 152753,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1116493820391297026/vid/1280x720/4f8Hxpngc5Ulj7yR.mp4?tag=11"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1116493820391297026/vid/320x180/DAqIS9PrUolAEBMp.mp4?tag=11"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1116493820391297026/pl/tZh_35CarvGyPocI.m3u8?tag=11"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1116493820391297026/vid/640x360/-Qyt0adY4absmGL_.mp4?tag=11"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 25239,
+    "favorited": false,
+    "full_text": ".@CLewandowski_ says he is POSITIVE orders to spy on the #Trump campaign during 2016 came from the HIGHEST levels \u2013 perhaps even from Former President #Obama himself, watch: https://t.co/CKddm2D0Rn",
+    "geo": null,
+    "id": 1116494225787453440,
+    "id_str": "1116494225787453440",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9141,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 28 21:21:09 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "\u201cTrish Regan Primetime\u201d 8pm & 11pm @foxbusiness. Live Free or Die NH Native, Wife, Mom of 3, Capitalist, Speaker, Writer & Classical Singer (Puccini & Mozart)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Facebook.com/RealTrishRegan",
+              "expanded_url": "http://www.Facebook.com/RealTrishRegan",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DnNGVKPwSQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 21432,
+      "follow_request_sent": false,
+      "followers_count": 523099,
+      "following": false,
+      "friends_count": 1232,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 138182116,
+      "id_str": "138182116",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 2123,
+      "location": "NYC",
+      "name": "Trish Regan",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/138182116/1551972170",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1042520897951879173/2ARWMBrb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042520897951879173/2ARWMBrb_normal.jpg",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "trish_regan",
+      "statuses_count": 11929,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DnNGVKPwSQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 59650548,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101777,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41227,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

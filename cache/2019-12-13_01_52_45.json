@@ -1,0 +1,336 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 13 01:52:45 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 827279765287559171,
+        "id_str": "827279765287559171",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Rep. Mike Johnson",
+        "screen_name": "RepMikeJohnson"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          21,
+          37
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepMikeJohnson: .@realDonaldTrump has consistently cooperated with this Congress in fulfilling its oversight &amp; investigation responsibi\u2026",
+  "geo": null,
+  "id": 1205304517962670083,
+  "id_str": "1205304517962670083",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4203,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 12 23:40:17 +0000 2019",
+    "display_text_range": [
+      0,
+      281
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fA7TMt2jRe",
+          "expanded_url": "https://twitter.com/RepMikeJohnson/status/1205271180883697664/video/1",
+          "features": {},
+          "id": 1205271119978217472,
+          "id_str": "1205271119978217472",
+          "indices": [
+            282,
+            305
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205271119978217472/pu/img/uBXp4-Ry8HSWx4y8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205271119978217472/pu/img/uBXp4-Ry8HSWx4y8.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fA7TMt2jRe"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/fA7TMt2jRe",
+          "expanded_url": "https://twitter.com/RepMikeJohnson/status/1205271180883697664/video/1",
+          "features": {},
+          "id": 1205271119978217472,
+          "id_str": "1205271119978217472",
+          "indices": [
+            282,
+            305
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205271119978217472/pu/img/uBXp4-Ry8HSWx4y8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205271119978217472/pu/img/uBXp4-Ry8HSWx4y8.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/fA7TMt2jRe",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 28829,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1205271119978217472/pu/pl/4_QtzO6SjFn-V_p8.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205271119978217472/pu/vid/640x360/7us-FujxuHIgxB5g.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205271119978217472/pu/vid/480x270/8TEVNd1-Fl6HdOFK.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205271119978217472/pu/vid/1280x720/1l0xfXmSNZBAzYid.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12323,
+    "favorited": false,
+    "full_text": ".@realDonaldTrump has consistently cooperated with this Congress in fulfilling its oversight &amp; investigation responsibilities\n\n\u270525+ Admin officials testified before Oversight Cmt \n\u270520+ Admin officials testified before Judiciary Cmt\n\u2705100K pages of WH docs given to Oversight Cmt https://t.co/fA7TMt2jRe",
+    "geo": null,
+    "id": 1205271180883697664,
+    "id_str": "1205271180883697664",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4203,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 02 22:17:20 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Proudly serving Louisiana's 4th Congressional District. Chairman of @RepublicanStudy. Member on @HouseJudiciary & @NatResources.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "mikejohnson.house.gov",
+              "expanded_url": "https://mikejohnson.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/qLAyhrFbRl"
+            }
+          ]
+        }
+      },
+      "favourites_count": 125,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 19334,
+      "following": false,
+      "friends_count": 390,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 827279765287559171,
+      "id_str": "827279765287559171",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 410,
+      "location": "Washington, DC",
+      "name": "Rep. Mike Johnson",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/827279765287559171/1486074831",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/827283914297184257/JaccwIw2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/827283914297184257/JaccwIw2_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepMikeJohnson",
+      "statuses_count": 2053,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/qLAyhrFbRl",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67491776,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47085,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

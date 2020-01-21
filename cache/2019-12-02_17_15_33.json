@@ -1,0 +1,588 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Dec 02 17:15:33 +0000 2019",
+  "display_text_range": [
+    0,
+    111
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/doks_art/statu\u2026",
+        "expanded_url": "https://twitter.com/doks_art/status/1201216057924558848",
+        "indices": [
+          112,
+          135
+        ],
+        "url": "https://t.co/LVVCUJz5CW"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 886595855691784195,
+        "id_str": "886595855691784195",
+        "indices": [
+          22,
+          31
+        ],
+        "name": "creative_doks",
+        "screen_name": "Doks_Art"
+      }
+    ]
+  },
+  "favorite_count": 113633,
+  "favorited": false,
+  "full_text": "Not only did I see it @Doks_Art, I think it is fantastic. You are a wonderful artist, never give up your dream! https://t.co/LVVCUJz5CW",
+  "geo": null,
+  "id": 1201550483120254977,
+  "id_str": "1201550483120254977",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 01 19:06:40 +0000 2019",
+    "display_text_range": [
+      0,
+      225
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Uh8MysTRZG",
+          "expanded_url": "https://twitter.com/Doks_Art/status/1201216057924558848/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "Donald Trump Jr.",
+                  "screen_name": "DonaldJTrumpJr",
+                  "type": "user",
+                  "user_id": "39344374"
+                },
+                {
+                  "name": "Larry Elder",
+                  "screen_name": "larryelder",
+                  "type": "user",
+                  "user_id": "195271137"
+                },
+                {
+                  "name": "Ben Shapiro",
+                  "screen_name": "benshapiro",
+                  "type": "user",
+                  "user_id": "17995040"
+                },
+                {
+                  "name": "Tucker Carlson",
+                  "screen_name": "TuckerCarlson",
+                  "type": "user",
+                  "user_id": "22703645"
+                },
+                {
+                  "name": "Walter E. Williams",
+                  "screen_name": "WE_Williams",
+                  "type": "user",
+                  "user_id": "394078615"
+                },
+                {
+                  "name": "Kristy Swanson",
+                  "screen_name": "KristySwansonXO",
+                  "type": "user",
+                  "user_id": "45033456"
+                },
+                {
+                  "name": "Mike Pence",
+                  "screen_name": "Mike_Pence",
+                  "type": "user",
+                  "user_id": "22203756"
+                },
+                {
+                  "name": "Piers Morgan",
+                  "screen_name": "piersmorgan",
+                  "type": "user",
+                  "user_id": "216299334"
+                },
+                {
+                  "name": "Mindy Robinson \ud83c\uddfa\ud83c\uddf8",
+                  "screen_name": "iheartmindy",
+                  "type": "user",
+                  "user_id": "317385247"
+                },
+                {
+                  "name": "Candace Owens",
+                  "screen_name": "RealCandaceO",
+                  "type": "user",
+                  "user_id": "878247600096509952"
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 924,
+                  "y": 1224
+                },
+                {
+                  "h": 664,
+                  "w": 664,
+                  "x": 680,
+                  "y": 346
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 49,
+                  "w": 49,
+                  "x": 541,
+                  "y": 717
+                },
+                {
+                  "h": 389,
+                  "w": 389,
+                  "x": 398,
+                  "y": 202
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 924,
+                  "y": 1224
+                },
+                {
+                  "h": 664,
+                  "w": 664,
+                  "x": 680,
+                  "y": 346
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 27,
+                  "w": 27,
+                  "x": 306,
+                  "y": 406
+                },
+                {
+                  "h": 220,
+                  "w": 220,
+                  "x": 225,
+                  "y": 114
+                }
+              ]
+            }
+          },
+          "id": 1201215751417454598,
+          "id_str": "1201215751417454598",
+          "indices": [
+            226,
+            249
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKuTXJHXYAYvMfz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKuTXJHXYAYvMfz.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Uh8MysTRZG"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            186,
+            202
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 39344374,
+          "id_str": "39344374",
+          "indices": [
+            203,
+            218
+          ],
+          "name": "Donald Trump Jr.",
+          "screen_name": "DonaldJTrumpJr"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            219,
+            225
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Uh8MysTRZG",
+          "expanded_url": "https://twitter.com/Doks_Art/status/1201216057924558848/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "Donald Trump Jr.",
+                  "screen_name": "DonaldJTrumpJr",
+                  "type": "user",
+                  "user_id": "39344374"
+                },
+                {
+                  "name": "Larry Elder",
+                  "screen_name": "larryelder",
+                  "type": "user",
+                  "user_id": "195271137"
+                },
+                {
+                  "name": "Ben Shapiro",
+                  "screen_name": "benshapiro",
+                  "type": "user",
+                  "user_id": "17995040"
+                },
+                {
+                  "name": "Tucker Carlson",
+                  "screen_name": "TuckerCarlson",
+                  "type": "user",
+                  "user_id": "22703645"
+                },
+                {
+                  "name": "Walter E. Williams",
+                  "screen_name": "WE_Williams",
+                  "type": "user",
+                  "user_id": "394078615"
+                },
+                {
+                  "name": "Kristy Swanson",
+                  "screen_name": "KristySwansonXO",
+                  "type": "user",
+                  "user_id": "45033456"
+                },
+                {
+                  "name": "Mike Pence",
+                  "screen_name": "Mike_Pence",
+                  "type": "user",
+                  "user_id": "22203756"
+                },
+                {
+                  "name": "Piers Morgan",
+                  "screen_name": "piersmorgan",
+                  "type": "user",
+                  "user_id": "216299334"
+                },
+                {
+                  "name": "Mindy Robinson \ud83c\uddfa\ud83c\uddf8",
+                  "screen_name": "iheartmindy",
+                  "type": "user",
+                  "user_id": "317385247"
+                },
+                {
+                  "name": "Candace Owens",
+                  "screen_name": "RealCandaceO",
+                  "type": "user",
+                  "user_id": "878247600096509952"
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 924,
+                  "y": 1224
+                },
+                {
+                  "h": 664,
+                  "w": 664,
+                  "x": 680,
+                  "y": 346
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 49,
+                  "w": 49,
+                  "x": 541,
+                  "y": 717
+                },
+                {
+                  "h": 389,
+                  "w": 389,
+                  "x": 398,
+                  "y": 202
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 924,
+                  "y": 1224
+                },
+                {
+                  "h": 664,
+                  "w": 664,
+                  "x": 680,
+                  "y": 346
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 27,
+                  "w": 27,
+                  "x": 306,
+                  "y": 406
+                },
+                {
+                  "h": 220,
+                  "w": 220,
+                  "x": 225,
+                  "y": 114
+                }
+              ]
+            }
+          },
+          "id": 1201215751417454598,
+          "id_str": "1201215751417454598",
+          "indices": [
+            226,
+            249
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKuTXJHXYAYvMfz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKuTXJHXYAYvMfz.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Uh8MysTRZG"
+        }
+      ]
+    },
+    "favorite_count": 84494,
+    "favorited": false,
+    "full_text": "This is my second portrait of President Trump. This time I really want him to see it. All done in ballpoint, took up to 70hours, '24\u00d721' inches.\nPlease RT till the president sees this\ud83d\ude4f\ud83c\udffd\n@realDonaldTrump @DonaldJTrumpJr @POTUS https://t.co/Uh8MysTRZG",
+    "geo": null,
+    "id": 1201216057924558848,
+    "id_str": "1201216057924558848",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 40078,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Jul 16 14:38:18 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "hyperrealistic artist IG: @doks_art \nhttps://t.co/ywBDyahMf8\nEmail: oyedele.isaac43@gmail.com",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/doks_art/",
+              "expanded_url": "http://instagram.com/doks_art/",
+              "indices": [
+                37,
+                60
+              ],
+              "url": "https://t.co/ywBDyahMf8"
+            }
+          ]
+        }
+      },
+      "favourites_count": 71,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 10902,
+      "following": false,
+      "friends_count": 42,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 886595855691784195,
+      "id_str": "886595855691784195",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 17,
+      "location": "Nigeria",
+      "name": "creative_doks",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/886595855691784195/1575508458",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1202395738715631617/wE9Xzwgw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202395738715631617/wE9Xzwgw_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Doks_Art",
+      "statuses_count": 62,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1201216057924558848,
+  "quoted_status_id_str": "1201216057924558848",
+  "quoted_status_permalink": {
+    "display": "twitter.com/doks_art/statu\u2026",
+    "expanded": "https://twitter.com/doks_art/status/1201216057924558848",
+    "url": "https://t.co/LVVCUJz5CW"
+  },
+  "retweet_count": 31401,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67268195,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111017,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46637,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 12 15:57:52 +0000 2018",
+  "display_text_range": [
+    0,
+    41
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "Vote.GOP",
+        "expanded_url": "http://Vote.GOP",
+        "indices": [
+          18,
+          41
+        ],
+        "url": "https://t.co/0pWiwCHGbh"
+      },
+      {
+        "display_url": "twitter.com/erictrump/stat\u2026",
+        "expanded_url": "https://twitter.com/erictrump/status/1050716169479569408",
+        "indices": [
+          42,
+          65
+        ],
+        "url": "https://t.co/EOCLoJJ24B"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 34059,
+  "favorited": false,
+  "full_text": "REGISTER TO VOTE! https://t.co/0pWiwCHGbh https://t.co/EOCLoJJ24B",
+  "geo": null,
+  "id": 1050777580553588738,
+  "id_str": "1050777580553588738",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 12 11:53:50 +0000 2018",
+    "display_text_range": [
+      0,
+      263
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            234,
+            256
+          ],
+          "text": "MakeAmericaGreatAgain"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xvKjPh76gb",
+          "expanded_url": "https://twitter.com/EricTrump/status/1050716169479569408/photo/1",
+          "id": 1050716164681322496,
+          "id_str": "1050716164681322496",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpTkyOuXUAAxsmL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpTkyOuXUAAxsmL.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xvKjPh76gb"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "Vote.GOP",
+          "expanded_url": "http://Vote.GOP",
+          "indices": [
+            210,
+            233
+          ],
+          "url": "https://t.co/27k5n882TU"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xvKjPh76gb",
+          "expanded_url": "https://twitter.com/EricTrump/status/1050716169479569408/photo/1",
+          "id": 1050716164681322496,
+          "id_str": "1050716164681322496",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpTkyOuXUAAxsmL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpTkyOuXUAAxsmL.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xvKjPh76gb"
+        }
+      ]
+    },
+    "favorite_count": 6564,
+    "favorited": false,
+    "full_text": "Friends, TODAY is the LAST day to register to vote in Idaho, North Carolina, New York and Oklahoma! Tomorrow (10/13) is the last day to register to vote in Delaware! \n\nIt is VERY easy to register. Simply go to https://t.co/27k5n882TU #MakeAmericaGreatAgain \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 https://t.co/xvKjPh76gb",
+    "geo": null,
+    "id": 1050716169479569408,
+    "id_str": "1050716169479569408",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -74.026675,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.877483
+            ],
+            [
+              -74.026675,
+              40.877483
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Manhattan, NY",
+      "id": "01a9a39529b27f36",
+      "name": "Manhattan",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 3199,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:42:30 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Research Hospital. #MakeAmericaGreatAgain",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Trump.com",
+              "expanded_url": "http://www.Trump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uwwNiWyamR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8632,
+      "follow_request_sent": false,
+      "followers_count": 2187836,
+      "following": false,
+      "friends_count": 715,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 39349894,
+      "id_str": "39349894",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 5728,
+      "location": "",
+      "name": "Eric Trump",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39349894/1516709628",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/974045997268529152/R0CuVYHM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/974045997268529152/R0CuVYHM_normal.jpg",
+      "profile_link_color": "116AB8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "616161",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "EricTrump",
+      "statuses_count": 5599,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uwwNiWyamR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1050716169479569408,
+  "quoted_status_id_str": "1050716169479569408",
+  "quoted_status_permalink": {
+    "display": "twitter.com/erictrump/stat\u2026",
+    "expanded": "https://twitter.com/erictrump/status/1050716169479569408",
+    "url": "https://t.co/EOCLoJJ24B"
+  },
+  "retweet_count": 11673,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55106808,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94661,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39256,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

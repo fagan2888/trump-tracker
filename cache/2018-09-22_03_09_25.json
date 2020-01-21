@@ -1,0 +1,515 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Sep 22 03:09:25 +0000 2018",
+  "display_text_range": [
+    0,
+    128
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/g38SD65pMW",
+        "expanded_url": "https://twitter.com/FoxBusiness/status/1043290888653492224/video/1",
+        "id": 1043290588550979584,
+        "id_str": "1043290588550979584",
+        "indices": [
+          105,
+          128
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1043290588550979584/img/0jUIHeXW-F_sOQEy.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1043290588550979584/img/0jUIHeXW-F_sOQEy.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1043290888653492224,
+        "source_status_id_str": "1043290888653492224",
+        "source_user_id": 56413858,
+        "source_user_id_str": "56413858",
+        "type": "photo",
+        "url": "https://t.co/g38SD65pMW"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 56413858,
+        "id_str": "56413858",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "FOX Business",
+        "screen_name": "FoxBusiness"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          18,
+          24
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": true,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jul 13 16:18:27 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter page of FOX Business Network: Capitalism lives here. Ask your cable provider for FOX Business in your neighborhood.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "foxbusiness.com",
+                    "expanded_url": "http://www.foxbusiness.com",
+                    "indices": [
+                      0,
+                      22
+                    ],
+                    "url": "http://t.co/bfM3iji7VB"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 796175,
+            "following": false,
+            "friends_count": 401,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 56413858,
+            "id_str": "56413858",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 7658,
+            "location": "New York, NY",
+            "name": "FOX Business",
+            "notifications": false,
+            "profile_background_color": "A87528",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/56413858/1467210895",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875384861736841217/j4vwsisS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875384861736841217/j4vwsisS_normal.jpg",
+            "profile_link_color": "004E76",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D9A050",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FoxBusiness",
+            "statuses_count": 195150,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://t.co/bfM3iji7VB",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/g38SD65pMW",
+        "expanded_url": "https://twitter.com/FoxBusiness/status/1043290888653492224/video/1",
+        "id": 1043290588550979584,
+        "id_str": "1043290588550979584",
+        "indices": [
+          105,
+          128
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1043290588550979584/img/0jUIHeXW-F_sOQEy.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1043290588550979584/img/0jUIHeXW-F_sOQEy.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1043290888653492224,
+        "source_status_id_str": "1043290888653492224",
+        "source_user_id": 56413858,
+        "source_user_id_str": "56413858",
+        "type": "video",
+        "url": "https://t.co/g38SD65pMW",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 21167,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1043290588550979584/vid/640x360/_p4BoNH7qFHRb1J9.mp4?tag=8"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1043290588550979584/pl/4T-HT1sIC_M6KOTf.m3u8?tag=8"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1043290588550979584/vid/320x180/1mpFw-FKssHZVufh.mp4?tag=8"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1043290588550979584/vid/1280x720/oGcul-ulfVc5Z32R.mp4?tag=8"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FoxBusiness: .@POTUS: \"The stock market is up 55%... Your 401(k)s are up 50, 60, 70% in some cases.\" https://t.co/g38SD65pMW",
+  "geo": null,
+  "id": 1043336436676681729,
+  "id_str": "1043336436676681729",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 2476,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 22 00:08:25 +0000 2018",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/g38SD65pMW",
+          "expanded_url": "https://twitter.com/FoxBusiness/status/1043290888653492224/video/1",
+          "id": 1043290588550979584,
+          "id_str": "1043290588550979584",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1043290588550979584/img/0jUIHeXW-F_sOQEy.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1043290588550979584/img/0jUIHeXW-F_sOQEy.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/g38SD65pMW"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            1,
+            7
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": true,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/g38SD65pMW",
+          "expanded_url": "https://twitter.com/FoxBusiness/status/1043290888653492224/video/1",
+          "id": 1043290588550979584,
+          "id_str": "1043290588550979584",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1043290588550979584/img/0jUIHeXW-F_sOQEy.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1043290588550979584/img/0jUIHeXW-F_sOQEy.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/g38SD65pMW",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 21167,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1043290588550979584/vid/640x360/_p4BoNH7qFHRb1J9.mp4?tag=8"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1043290588550979584/pl/4T-HT1sIC_M6KOTf.m3u8?tag=8"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1043290588550979584/vid/320x180/1mpFw-FKssHZVufh.mp4?tag=8"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1043290588550979584/vid/1280x720/oGcul-ulfVc5Z32R.mp4?tag=8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 9129,
+    "favorited": false,
+    "full_text": ".@POTUS: \"The stock market is up 55%... Your 401(k)s are up 50, 60, 70% in some cases.\" https://t.co/g38SD65pMW",
+    "geo": null,
+    "id": 1043290888653492224,
+    "id_str": "1043290888653492224",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2476,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jul 13 16:18:27 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter page of FOX Business Network: Capitalism lives here. Ask your cable provider for FOX Business in your neighborhood.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxbusiness.com",
+              "expanded_url": "http://www.foxbusiness.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/bfM3iji7VB"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 796175,
+      "following": false,
+      "friends_count": 401,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 56413858,
+      "id_str": "56413858",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 7658,
+      "location": "New York, NY",
+      "name": "FOX Business",
+      "notifications": false,
+      "profile_background_color": "A87528",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/56413858/1467210895",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875384861736841217/j4vwsisS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875384861736841217/j4vwsisS_normal.jpg",
+      "profile_link_color": "004E76",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D9A050",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FoxBusiness",
+      "statuses_count": 195150,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/bfM3iji7VB",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54580117,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93873,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39068,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

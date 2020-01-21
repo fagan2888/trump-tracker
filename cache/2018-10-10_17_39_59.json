@@ -1,0 +1,231 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 10 17:39:59 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15754281,
+        "id_str": "15754281",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "USA TODAY",
+        "screen_name": "USATODAY"
+      },
+      {
+        "id": 133052366,
+        "id_str": "133052366",
+        "indices": [
+          15,
+          31
+        ],
+        "name": "USA TODAY Opinion",
+        "screen_name": "usatodayopinion"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USATODAY: .@usatodayopinion: Democrats want to outlaw private health care plans, taking away freedom to choose plans while letting anyo\u2026",
+  "geo": null,
+  "id": 1050078505705373697,
+  "id_str": "1050078505705373697",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7046,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 10 11:49:28 +0000 2018",
+    "display_text_range": [
+      0,
+      187
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "usatoday.com/story/opinion/\u2026",
+          "expanded_url": "https://www.usatoday.com/story/opinion/2018/10/10/donald-trump-democrats-open-borders-medicare-all-single-payer-column/1560533002/",
+          "indices": [
+            164,
+            187
+          ],
+          "url": "https://t.co/aVqE7oxDj3"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 133052366,
+          "id_str": "133052366",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "USA TODAY Opinion",
+          "screen_name": "usatodayopinion"
+        }
+      ]
+    },
+    "favorite_count": 19961,
+    "favorited": false,
+    "full_text": ".@usatodayopinion: Democrats want to outlaw private health care plans, taking away freedom to choose plans while letting anyone cross our border. We must win this. https://t.co/aVqE7oxDj3",
+    "geo": null,
+    "id": 1049990294664597509,
+    "id_str": "1049990294664597509",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7046,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Aug 06 19:55:31 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The latest news and most interesting stories from USA TODAY. News that's meant to be shared.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "usatoday.com",
+              "expanded_url": "http://www.usatoday.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/7xDl0vVHSt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1800,
+      "follow_request_sent": false,
+      "followers_count": 3666365,
+      "following": false,
+      "friends_count": 495,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 15754281,
+      "id_str": "15754281",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 32856,
+      "location": "USA TODAY HQ, McLean, Va.",
+      "name": "USA TODAY",
+      "notifications": false,
+      "profile_background_color": "0092D0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15754281/1509370165",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__normal.jpg",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "USATODAY",
+      "statuses_count": 265148,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/7xDl0vVHSt",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55028490,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39236,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

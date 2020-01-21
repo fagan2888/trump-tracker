@@ -1,0 +1,855 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 05 11:38:54 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          86,
+          95
+        ],
+        "text": "shameful"
+      },
+      {
+        "indices": [
+          96,
+          115
+        ],
+        "text": "ImpeachmentHearing"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/1MfXE7cIMG",
+        "expanded_url": "https://twitter.com/RepMikeJohnson/status/1202357808039104512/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 207,
+                "w": 207,
+                "x": 205,
+                "y": 1253
+              },
+              {
+                "h": 249,
+                "w": 249,
+                "x": 797,
+                "y": 483
+              },
+              {
+                "h": 283,
+                "w": 283,
+                "x": 443,
+                "y": 847
+              },
+              {
+                "h": 711,
+                "w": 711,
+                "x": 57,
+                "y": 139
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 121,
+                "w": 121,
+                "x": 120,
+                "y": 734
+              },
+              {
+                "h": 146,
+                "w": 146,
+                "x": 467,
+                "y": 283
+              },
+              {
+                "h": 166,
+                "w": 166,
+                "x": 259,
+                "y": 496
+              },
+              {
+                "h": 417,
+                "w": 417,
+                "x": 33,
+                "y": 81
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 307,
+                "w": 307,
+                "x": 304,
+                "y": 1851
+              },
+              {
+                "h": 369,
+                "w": 369,
+                "x": 1178,
+                "y": 714
+              },
+              {
+                "h": 419,
+                "w": 419,
+                "x": 655,
+                "y": 1252
+              },
+              {
+                "h": 1051,
+                "w": 1051,
+                "x": 85,
+                "y": 206
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 69,
+                "w": 69,
+                "x": 68,
+                "y": 416
+              },
+              {
+                "h": 82,
+                "w": 82,
+                "x": 264,
+                "y": 160
+              },
+              {
+                "h": 94,
+                "w": 94,
+                "x": 147,
+                "y": 281
+              },
+              {
+                "h": 236,
+                "w": 236,
+                "x": 19,
+                "y": 46
+              }
+            ]
+          }
+        },
+        "id": 1202357796349587457,
+        "id_str": "1202357796349587457",
+        "indices": [
+          116,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/EK-iC6BWsAEgTZa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EK-iC6BWsAEgTZa.jpg",
+        "sizes": {
+          "large": {
+            "h": 1663,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 975,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 552,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1202357808039104512,
+        "source_status_id_str": "1202357808039104512",
+        "source_user_id": 827279765287559171,
+        "source_user_id_str": "827279765287559171",
+        "type": "photo",
+        "url": "https://t.co/1MfXE7cIMG"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 827279765287559171,
+        "id_str": "827279765287559171",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Rep. Mike Johnson",
+        "screen_name": "RepMikeJohnson"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/1MfXE7cIMG",
+        "expanded_url": "https://twitter.com/RepMikeJohnson/status/1202357808039104512/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 207,
+                "w": 207,
+                "x": 205,
+                "y": 1253
+              },
+              {
+                "h": 249,
+                "w": 249,
+                "x": 797,
+                "y": 483
+              },
+              {
+                "h": 283,
+                "w": 283,
+                "x": 443,
+                "y": 847
+              },
+              {
+                "h": 711,
+                "w": 711,
+                "x": 57,
+                "y": 139
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 121,
+                "w": 121,
+                "x": 120,
+                "y": 734
+              },
+              {
+                "h": 146,
+                "w": 146,
+                "x": 467,
+                "y": 283
+              },
+              {
+                "h": 166,
+                "w": 166,
+                "x": 259,
+                "y": 496
+              },
+              {
+                "h": 417,
+                "w": 417,
+                "x": 33,
+                "y": 81
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 307,
+                "w": 307,
+                "x": 304,
+                "y": 1851
+              },
+              {
+                "h": 369,
+                "w": 369,
+                "x": 1178,
+                "y": 714
+              },
+              {
+                "h": 419,
+                "w": 419,
+                "x": 655,
+                "y": 1252
+              },
+              {
+                "h": 1051,
+                "w": 1051,
+                "x": 85,
+                "y": 206
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 69,
+                "w": 69,
+                "x": 68,
+                "y": 416
+              },
+              {
+                "h": 82,
+                "w": 82,
+                "x": 264,
+                "y": 160
+              },
+              {
+                "h": 94,
+                "w": 94,
+                "x": 147,
+                "y": 281
+              },
+              {
+                "h": 236,
+                "w": 236,
+                "x": 19,
+                "y": 46
+              }
+            ]
+          }
+        },
+        "id": 1202357796349587457,
+        "id_str": "1202357796349587457",
+        "indices": [
+          116,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/EK-iC6BWsAEgTZa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EK-iC6BWsAEgTZa.jpg",
+        "sizes": {
+          "large": {
+            "h": 1663,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 975,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 552,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1202357808039104512,
+        "source_status_id_str": "1202357808039104512",
+        "source_user_id": 827279765287559171,
+        "source_user_id_str": "827279765287559171",
+        "type": "photo",
+        "url": "https://t.co/1MfXE7cIMG"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepMikeJohnson: I just obtained unanimous consent to enter this into the record.  #shameful #ImpeachmentHearing https://t.co/1MfXE7cIMG",
+  "geo": null,
+  "id": 1202552926172004352,
+  "id_str": "1202552926172004352",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 15239,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 04 22:43:34 +0000 2019",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            66,
+            75
+          ],
+          "text": "shameful"
+        },
+        {
+          "indices": [
+            76,
+            95
+          ],
+          "text": "ImpeachmentHearing"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1MfXE7cIMG",
+          "expanded_url": "https://twitter.com/RepMikeJohnson/status/1202357808039104512/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 207,
+                  "w": 207,
+                  "x": 205,
+                  "y": 1253
+                },
+                {
+                  "h": 249,
+                  "w": 249,
+                  "x": 797,
+                  "y": 483
+                },
+                {
+                  "h": 283,
+                  "w": 283,
+                  "x": 443,
+                  "y": 847
+                },
+                {
+                  "h": 711,
+                  "w": 711,
+                  "x": 57,
+                  "y": 139
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 121,
+                  "w": 121,
+                  "x": 120,
+                  "y": 734
+                },
+                {
+                  "h": 146,
+                  "w": 146,
+                  "x": 467,
+                  "y": 283
+                },
+                {
+                  "h": 166,
+                  "w": 166,
+                  "x": 259,
+                  "y": 496
+                },
+                {
+                  "h": 417,
+                  "w": 417,
+                  "x": 33,
+                  "y": 81
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 307,
+                  "w": 307,
+                  "x": 304,
+                  "y": 1851
+                },
+                {
+                  "h": 369,
+                  "w": 369,
+                  "x": 1178,
+                  "y": 714
+                },
+                {
+                  "h": 419,
+                  "w": 419,
+                  "x": 655,
+                  "y": 1252
+                },
+                {
+                  "h": 1051,
+                  "w": 1051,
+                  "x": 85,
+                  "y": 206
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 69,
+                  "w": 69,
+                  "x": 68,
+                  "y": 416
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 264,
+                  "y": 160
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 147,
+                  "y": 281
+                },
+                {
+                  "h": 236,
+                  "w": 236,
+                  "x": 19,
+                  "y": 46
+                }
+              ]
+            }
+          },
+          "id": 1202357796349587457,
+          "id_str": "1202357796349587457",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/EK-iC6BWsAEgTZa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EK-iC6BWsAEgTZa.jpg",
+          "sizes": {
+            "large": {
+              "h": 1663,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 975,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 552,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1MfXE7cIMG"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1MfXE7cIMG",
+          "expanded_url": "https://twitter.com/RepMikeJohnson/status/1202357808039104512/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 207,
+                  "w": 207,
+                  "x": 205,
+                  "y": 1253
+                },
+                {
+                  "h": 249,
+                  "w": 249,
+                  "x": 797,
+                  "y": 483
+                },
+                {
+                  "h": 283,
+                  "w": 283,
+                  "x": 443,
+                  "y": 847
+                },
+                {
+                  "h": 711,
+                  "w": 711,
+                  "x": 57,
+                  "y": 139
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 121,
+                  "w": 121,
+                  "x": 120,
+                  "y": 734
+                },
+                {
+                  "h": 146,
+                  "w": 146,
+                  "x": 467,
+                  "y": 283
+                },
+                {
+                  "h": 166,
+                  "w": 166,
+                  "x": 259,
+                  "y": 496
+                },
+                {
+                  "h": 417,
+                  "w": 417,
+                  "x": 33,
+                  "y": 81
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 307,
+                  "w": 307,
+                  "x": 304,
+                  "y": 1851
+                },
+                {
+                  "h": 369,
+                  "w": 369,
+                  "x": 1178,
+                  "y": 714
+                },
+                {
+                  "h": 419,
+                  "w": 419,
+                  "x": 655,
+                  "y": 1252
+                },
+                {
+                  "h": 1051,
+                  "w": 1051,
+                  "x": 85,
+                  "y": 206
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 69,
+                  "w": 69,
+                  "x": 68,
+                  "y": 416
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 264,
+                  "y": 160
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 147,
+                  "y": 281
+                },
+                {
+                  "h": 236,
+                  "w": 236,
+                  "x": 19,
+                  "y": 46
+                }
+              ]
+            }
+          },
+          "id": 1202357796349587457,
+          "id_str": "1202357796349587457",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/EK-iC6BWsAEgTZa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EK-iC6BWsAEgTZa.jpg",
+          "sizes": {
+            "large": {
+              "h": 1663,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 975,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 552,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1MfXE7cIMG"
+        }
+      ]
+    },
+    "favorite_count": 51273,
+    "favorited": false,
+    "full_text": "I just obtained unanimous consent to enter this into the record.  #shameful #ImpeachmentHearing https://t.co/1MfXE7cIMG",
+    "geo": null,
+    "id": 1202357808039104512,
+    "id_str": "1202357808039104512",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 15239,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 02 22:17:20 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Proudly serving Louisiana's 4th Congressional District. Chairman of @RepublicanStudy. Member on @HouseJudiciary & @NatResources.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "mikejohnson.house.gov",
+              "expanded_url": "https://mikejohnson.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/qLAyhrFbRl"
+            }
+          ]
+        }
+      },
+      "favourites_count": 116,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 14225,
+      "following": false,
+      "friends_count": 389,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 827279765287559171,
+      "id_str": "827279765287559171",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 383,
+      "location": "Washington, DC",
+      "name": "Rep. Mike Johnson",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/827279765287559171/1486074831",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/827283914297184257/JaccwIw2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/827283914297184257/JaccwIw2_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepMikeJohnson",
+      "statuses_count": 1894,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/qLAyhrFbRl",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67309429,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111079,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46700,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

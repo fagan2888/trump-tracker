@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 12 02:26:59 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15113565,
+        "id_str": "15113565",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "U.S. Coast Guard",
+        "screen_name": "USCG"
+      },
+      {
+        "id": 818910970567344128,
+        "id_str": "818910970567344128",
+        "indices": [
+          29,
+          32
+        ],
+        "name": "Vice President Mike Pence",
+        "screen_name": "VP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USCG: Earlier today, the @VP welcomed back CGC Munro from patrol as they offloaded $569 million of cocaine in San Diego. \n\nIf you misse\u2026",
+  "geo": null,
+  "id": 1149505404985995264,
+  "id_str": "1149505404985995264",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4975,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 11 20:30:20 +0000 2019",
+    "display_text_range": [
+      0,
+      226
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SDyKr0VSQC",
+          "expanded_url": "https://twitter.com/USCG/status/1149415647429955584/photo/1",
+          "id": 1149415644766572547,
+          "id_str": "1149415644766572547",
+          "indices": [
+            227,
+            250
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OLcGWWkAMrNzB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OLcGWWkAMrNzB.jpg",
+          "sizes": {
+            "large": {
+              "h": 1463,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 857,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 486,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SDyKr0VSQC"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "ow.ly/9Fhf50uYSH0",
+          "expanded_url": "http://ow.ly/9Fhf50uYSH0",
+          "indices": [
+            203,
+            226
+          ],
+          "url": "https://t.co/DGhRBPDwtA"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 818910970567344128,
+          "id_str": "818910970567344128",
+          "indices": [
+            19,
+            22
+          ],
+          "name": "Vice President Mike Pence",
+          "screen_name": "VP"
+        },
+        {
+          "id": 1034932335286730753,
+          "id_str": "1034932335286730753",
+          "indices": [
+            181,
+            193
+          ],
+          "name": "USCG Pacific Area",
+          "screen_name": "USCGPACAREA"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SDyKr0VSQC",
+          "expanded_url": "https://twitter.com/USCG/status/1149415647429955584/photo/1",
+          "id": 1149415644766572547,
+          "id_str": "1149415644766572547",
+          "indices": [
+            227,
+            250
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OLcGWWkAMrNzB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OLcGWWkAMrNzB.jpg",
+          "sizes": {
+            "large": {
+              "h": 1463,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 857,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 486,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SDyKr0VSQC"
+        }
+      ]
+    },
+    "favorite_count": 19324,
+    "favorited": false,
+    "full_text": "Earlier today, the @VP welcomed back CGC Munro from patrol as they offloaded $569 million of cocaine in San Diego. \n\nIf you missed it, you can still watch the live recording on the @USCGPACAREA FB page: https://t.co/DGhRBPDwtA https://t.co/SDyKr0VSQC",
+    "geo": null,
+    "id": 1149415647429955584,
+    "id_str": "1149415647429955584",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4975,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jun 14 02:09:38 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account for the U.S. Coast Guard. If in distress, use VHF channel 16 or dial 911.\n\n(RT, follows \u2260 endorsements)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "uscg.mil",
+              "expanded_url": "http://www.uscg.mil",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/mO1N1UgcWd"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1494,
+      "follow_request_sent": false,
+      "followers_count": 405052,
+      "following": false,
+      "friends_count": 258,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 15113565,
+      "id_str": "15113565",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3417,
+      "location": "Washington, D.C.",
+      "name": "U.S. Coast Guard",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15113565/1559569935",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1020002746626379776/gyyjE-oT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020002746626379776/gyyjE-oT_normal.jpg",
+      "profile_link_color": "0D62F9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USCG",
+      "statuses_count": 21118,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/mO1N1UgcWd",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61854768,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105163,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42825,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

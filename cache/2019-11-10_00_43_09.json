@@ -1,0 +1,423 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 10 00:43:09 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          111,
+          116
+        ],
+        "text": "MAGA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 129571843,
+        "id_str": "129571843",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Kyle Morris",
+        "screen_name": "RealKyleMorris"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          44,
+          60
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RealKyleMorris: Alabama loves President @realDonaldTrump. This is what the fake news media won\u2019t show you. #MAGA \ud83c\uddfa\ud83c\uddf8https://t.co/qsAkePq\u2026",
+  "geo": null,
+  "id": 1193328202740944897,
+  "id_str": "1193328202740944897",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 12755,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 09 22:37:39 +0000 2019",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            91,
+            96
+          ],
+          "text": "MAGA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/qsAkePqrae",
+          "expanded_url": "https://twitter.com/FletcherWDSU/status/1193270104722722816/video/1",
+          "features": {},
+          "id": 1193269877697589248,
+          "id_str": "1193269877697589248",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1193269877697589248/pu/img/rRJFE4KW0VW3EPan.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1193269877697589248/pu/img/rRJFE4KW0VW3EPan.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1193270104722722816,
+          "source_status_id_str": "1193270104722722816",
+          "source_user_id": 49538700,
+          "source_user_id_str": "49538700",
+          "type": "photo",
+          "url": "https://t.co/qsAkePqrae"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            24,
+            40
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Mon Jun 22 04:41:21 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Sports Anchor/Reporter @WDSU NBC NOLA \ud83d\udcfa @traverswdsu looks a lot like me! \ud83d\udc6f\u200d\u2642\ufe0f \ud83d\udde1 \ud83d\udc2c \ud83d\udc3a",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "wdsu.com",
+                      "expanded_url": "http://www.wdsu.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/6B1LgEgMI8"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 84015,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 26812,
+              "following": false,
+              "friends_count": 8858,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 49538700,
+              "id_str": "49538700",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 617,
+              "location": "New Orleans",
+              "name": "Fletcher Mackel",
+              "notifications": false,
+              "profile_background_color": "022330",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/49538700/1375289849",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1042789583111548928/-zJVDG3p_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042789583111548928/-zJVDG3p_normal.jpg",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "A8C7F7",
+              "profile_sidebar_fill_color": "C0DFEC",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "FletcherWDSU",
+              "statuses_count": 84019,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/6B1LgEgMI8",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/qsAkePqrae",
+          "expanded_url": "https://twitter.com/FletcherWDSU/status/1193270104722722816/video/1",
+          "features": {},
+          "id": 1193269877697589248,
+          "id_str": "1193269877697589248",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1193269877697589248/pu/img/rRJFE4KW0VW3EPan.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1193269877697589248/pu/img/rRJFE4KW0VW3EPan.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1193270104722722816,
+          "source_status_id_str": "1193270104722722816",
+          "source_user_id": 49538700,
+          "source_user_id_str": "49538700",
+          "type": "video",
+          "url": "https://t.co/qsAkePqrae",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 53713,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1193269877697589248/pu/vid/1280x720/LKl4tiVsbGlLFyyW.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1193269877697589248/pu/pl/ZaSxrA-Hg9mVY45r.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1193269877697589248/pu/vid/640x360/fKz-bY1AEBCepu20.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1193269877697589248/pu/vid/480x270/gCOw0AZ70-GkmFio.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 47701,
+    "favorited": false,
+    "full_text": "Alabama loves President @realDonaldTrump. This is what the fake news media won\u2019t show you. #MAGA \ud83c\uddfa\ud83c\uddf8https://t.co/qsAkePqrae",
+    "geo": null,
+    "id": 1193296619652825088,
+    "id_str": "1193296619652825088",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12755,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Apr 04 19:05:00 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Politics reporter for @BreitbartNews. Roll Tide! Opinions are my own. kmorris@breitbart.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "breitbart.com/author/kyle-mo\u2026",
+              "expanded_url": "https://www.breitbart.com/author/kyle-morris/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Dv3A8SgeEa"
+            }
+          ]
+        }
+      },
+      "favourites_count": 45079,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 114494,
+      "following": false,
+      "friends_count": 796,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 129571843,
+      "id_str": "129571843",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 456,
+      "location": "United States",
+      "name": "Kyle Morris",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/129571843/1560203766",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1115477443916255232/YqBsTKzs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115477443916255232/YqBsTKzs_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RealKyleMorris",
+      "statuses_count": 3542,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Dv3A8SgeEa",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66684379,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110582,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45984,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

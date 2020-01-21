@@ -1,0 +1,338 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 02 22:26:03 +0000 2019",
+  "display_text_range": [
+    0,
+    33
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/gopoversight/s\u2026",
+        "expanded_url": "https://twitter.com/gopoversight/status/1190616779049127941",
+        "indices": [
+          34,
+          57
+        ],
+        "url": "https://t.co/yalRJr8DgA"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 45144,
+  "favorited": false,
+  "full_text": "Didn\u2019t he pick the Whistleblower? https://t.co/yalRJr8DgA",
+  "geo": null,
+  "id": 1190756985433657344,
+  "id_str": "1190756985433657344",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 02 13:08:55 +0000 2019",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/AKE4Jtb1dj",
+          "expanded_url": "https://twitter.com/GOPoversight/status/1190616779049127941/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1190616761609183241,
+          "id_str": "1190616761609183241",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/EIXrovNXYAkkCY4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EIXrovNXYAkkCY4.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1364
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 799
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 453
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/AKE4Jtb1dj"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 29501253,
+          "id_str": "29501253",
+          "indices": [
+            11,
+            25
+          ],
+          "name": "Adam Schiff",
+          "screen_name": "RepAdamSchiff"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/AKE4Jtb1dj",
+          "expanded_url": "https://twitter.com/GOPoversight/status/1190616779049127941/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1190616761609183241,
+          "id_str": "1190616761609183241",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/EIXrovNXYAkkCY4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EIXrovNXYAkkCY4.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1364
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 799
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 453
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/AKE4Jtb1dj"
+        }
+      ]
+    },
+    "favorite_count": 3826,
+    "favorited": false,
+    "full_text": "Days since @RepAdamSchiff learned the identity of the whistleblower: 82 https://t.co/AKE4Jtb1dj",
+    "geo": null,
+    "id": 1190616779049127941,
+    "id_str": "1190616779049127941",
+    "in_reply_to_screen_name": "GOPoversight",
+    "in_reply_to_status_id": 1190349060450004995,
+    "in_reply_to_status_id_str": "1190349060450004995",
+    "in_reply_to_user_id": 22508473,
+    "in_reply_to_user_id_str": "22508473",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1780,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 02 17:30:34 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "House Oversight Committee Republicans | Est. 1814 | Ranking Member @Jim_Jordan | https://t.co/ylzBTwEGzE",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/gopoversight",
+              "expanded_url": "http://instagram.com/gopoversight",
+              "indices": [
+                81,
+                104
+              ],
+              "url": "https://t.co/ylzBTwEGzE"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "republicans-oversight.house.gov",
+              "expanded_url": "http://republicans-oversight.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/udvm5PQnVL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 210,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 85849,
+      "following": false,
+      "friends_count": 12968,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 22508473,
+      "id_str": "22508473",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1495,
+      "location": "Washington D.C.",
+      "name": "Oversight Committee Republicans",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22508473/1547162412",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1101154310069649408/pqzIuZxV_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101154310069649408/pqzIuZxV_normal.png",
+      "profile_link_color": "134766",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GOPoversight",
+      "statuses_count": 10300,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/udvm5PQnVL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1190616779049127941,
+  "quoted_status_id_str": "1190616779049127941",
+  "quoted_status_permalink": {
+    "display": "twitter.com/gopoversight/s\u2026",
+    "expanded": "https://twitter.com/gopoversight/status/1190616779049127941",
+    "url": "https://t.co/yalRJr8DgA"
+  },
+  "retweet_count": 13271,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66488068,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110397,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45762,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

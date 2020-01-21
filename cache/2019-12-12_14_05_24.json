@@ -1,0 +1,372 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 12 14:05:24 +0000 2019",
+  "display_text_range": [
+    0,
+    65
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          18,
+          41
+        ],
+        "text": "unimpeachablephonecall"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/dailymail/stat\u2026",
+        "expanded_url": "https://twitter.com/dailymail/status/1201525451367354370",
+        "indices": [
+          42,
+          65
+        ],
+        "url": "https://t.co/Axs877Edb8"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 770781940341288960,
+        "id_str": "770781940341288960",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Rudy Giuliani",
+        "screen_name": "RudyGiuliani"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RudyGiuliani: #unimpeachablephonecall https://t.co/Axs877Edb8",
+  "geo": null,
+  "id": 1205126508844589058,
+  "id_str": "1205126508844589058",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1201525451367354370,
+  "quoted_status_id_str": "1201525451367354370",
+  "quoted_status_permalink": {
+    "display": "twitter.com/dailymail/stat\u2026",
+    "expanded": "https://twitter.com/dailymail/status/1201525451367354370",
+    "url": "https://t.co/Axs877Edb8"
+  },
+  "retweet_count": 7712,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 09 15:57:49 +0000 2019",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            23
+          ],
+          "text": "unimpeachablephonecall"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/dailymail/stat\u2026",
+          "expanded_url": "https://twitter.com/dailymail/status/1201525451367354370",
+          "indices": [
+            24,
+            47
+          ],
+          "url": "https://t.co/Axs877Edb8"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 22825,
+    "favorited": false,
+    "full_text": "#unimpeachablephonecall https://t.co/Axs877Edb8",
+    "geo": null,
+    "id": 1204067634016378880,
+    "id_str": "1204067634016378880",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Dec 02 15:36:05 +0000 2019",
+      "display_text_range": [
+        0,
+        113
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "trib.al/oH7tJnN",
+            "expanded_url": "https://trib.al/oH7tJnN",
+            "indices": [
+              90,
+              113
+            ],
+            "url": "https://t.co/0OB3JQfJND"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 28271,
+      "favorited": false,
+      "full_text": "Ukraine's President Zelensky renews denial of a quid pro quo with Trump over military aid https://t.co/0OB3JQfJND",
+      "geo": null,
+      "id": 1201525451367354370,
+      "id_str": "1201525451367354370",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 9724,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 26 11:52:56 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Latest news from the US Daily Mail team. We're on Facebook too: https://t.co/hD0PyZHS4Z \ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fb.me/DailyMail",
+                "expanded_url": "http://fb.me/DailyMail",
+                "indices": [
+                  64,
+                  87
+                ],
+                "url": "https://t.co/hD0PyZHS4Z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dailymail.com",
+                "expanded_url": "http://www.dailymail.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/fT7KB2wyqg"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1550,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 218635,
+        "following": false,
+        "friends_count": 1838,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 380285402,
+        "id_str": "380285402",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3072,
+        "location": "New York",
+        "name": "Daily Mail US",
+        "notifications": false,
+        "profile_background_color": "F2F2F2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/380285402/1488911378",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009393240330723328/w1FD-Dsj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009393240330723328/w1FD-Dsj_normal.jpg",
+        "profile_link_color": "004EB3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DailyMail",
+        "statuses_count": 167274,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/fT7KB2wyqg",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1201525451367354370,
+    "quoted_status_id_str": "1201525451367354370",
+    "quoted_status_permalink": {
+      "display": "twitter.com/dailymail/stat\u2026",
+      "expanded": "https://twitter.com/dailymail/status/1201525451367354370",
+      "url": "https://t.co/Axs877Edb8"
+    },
+    "retweet_count": 7712,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Aug 31 00:35:10 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/therudygiulian\u2026",
+              "expanded_url": "https://instagram.com/therudygiuliani?igshid=6019tgxurwpo",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/om8by2zWv2"
+            }
+          ]
+        }
+      },
+      "favourites_count": 763,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 558371,
+      "following": false,
+      "friends_count": 259,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 770781940341288960,
+      "id_str": "770781940341288960",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "New York, NY",
+      "name": "Rudy Giuliani",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/770781940341288960/1572466946",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/770784461461950464/15VnTxLF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/770784461461950464/15VnTxLF_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RudyGiuliani",
+      "statuses_count": 1197,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/om8by2zWv2",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67491776,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47085,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jul 30 16:55:03 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 705902960967094272,
+        "id_str": "705902960967094272",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Eric Spracklen \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "ThatTrumpGuy"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ThatTrumpGuy: Being suspended from Twitter has me missing incredible videos like this one! HAVE YOU SEEN THIS!?!?!? Thank you @realDona\u2026",
+  "geo": null,
+  "id": 1156246839567507458,
+  "id_str": "1156246839567507458",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10537,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 27 15:14:38 +0000 2019",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yhwwlPyCMg",
+          "expanded_url": "https://twitter.com/MaggieMulvaney/status/1154927984480047105/video/1",
+          "id": 1154917545255821314,
+          "id_str": "1154917545255821314",
+          "indices": [
+            130,
+            153
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1154917545255821314/pu/img/f1fqkf8z1Ukg_GE7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1154917545255821314/pu/img/f1fqkf8z1Ukg_GE7.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1154927984480047105,
+          "source_status_id_str": "1154927984480047105",
+          "source_user_id": 194970447,
+          "source_user_id_str": "194970447",
+          "type": "photo",
+          "url": "https://t.co/yhwwlPyCMg"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            112,
+            128
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Sat Sep 25 13:20:05 +0000 2010",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Political Fundraising & Consulting \ud83d\udc18",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 9848,
+              "follow_request_sent": false,
+              "followers_count": 2013,
+              "following": false,
+              "friends_count": 523,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 194970447,
+              "id_str": "194970447",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 39,
+              "location": "Washington, DC",
+              "name": "Maggie Mulvaney",
+              "notifications": false,
+              "profile_background_color": "131516",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/194970447/1564070624",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1154904529240055809/1oRmF6KD_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154904529240055809/1oRmF6KD_normal.jpg",
+              "profile_link_color": "E80909",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "EFEFEF",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "MaggieMulvaney",
+              "statuses_count": 11186,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/yhwwlPyCMg",
+          "expanded_url": "https://twitter.com/MaggieMulvaney/status/1154927984480047105/video/1",
+          "id": 1154917545255821314,
+          "id_str": "1154917545255821314",
+          "indices": [
+            130,
+            153
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1154917545255821314/pu/img/f1fqkf8z1Ukg_GE7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1154917545255821314/pu/img/f1fqkf8z1Ukg_GE7.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1154927984480047105,
+          "source_status_id_str": "1154927984480047105",
+          "source_user_id": 194970447,
+          "source_user_id_str": "194970447",
+          "type": "video",
+          "url": "https://t.co/yhwwlPyCMg",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 36933,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1154917545255821314/pu/pl/yiK5_1qUsPTcdFT5.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1154917545255821314/pu/vid/720x1280/g_LICg5rKmWnBdL2.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1154917545255821314/pu/vid/360x640/jFFwqxO0zpM6llyr.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1154917545255821314/pu/vid/320x568/OpHzumOAlRBQro8g.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 34961,
+    "favorited": false,
+    "full_text": "Being suspended from Twitter has me missing incredible videos like this one! HAVE YOU SEEN THIS!?!?!? Thank you @realDonaldTrump! https://t.co/yhwwlPyCMg",
+    "geo": null,
+    "id": 1155134406832599040,
+    "id_str": "1155134406832599040",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 10537,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 04 23:49:15 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This user has been deemed Pro-Trump and is hereby censored - @Twitter",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 31590,
+      "follow_request_sent": false,
+      "followers_count": 90564,
+      "following": false,
+      "friends_count": 12039,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 705902960967094272,
+      "id_str": "705902960967094272",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 411,
+      "location": "Somewhere in the USA\u2708\ufe0f",
+      "name": "Eric Spracklen \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/705902960967094272/1502729428",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1111297236946833409/_xVR3Ebm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111297236946833409/_xVR3Ebm_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ThatTrumpGuy",
+      "statuses_count": 29641,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 62454966,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106017,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43251,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

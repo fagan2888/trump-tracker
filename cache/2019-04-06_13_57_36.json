@@ -1,0 +1,316 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 06 13:57:36 +0000 2019",
+  "display_text_range": [
+    0,
+    30
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/diamondandsilk\u2026",
+        "expanded_url": "https://twitter.com/diamondandsilk/status/1099247495756996610",
+        "indices": [
+          31,
+          54
+        ],
+        "url": "https://t.co/9VoIV44L9c"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 77878,
+  "favorited": false,
+  "full_text": "Thank you to two great people! https://t.co/9VoIV44L9c",
+  "geo": null,
+  "id": 1114527581372465152,
+  "id_str": "1114527581372465152",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Feb 23 10:00:00 +0000 2019",
+    "display_text_range": [
+      0,
+      288
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4IZmi2ZjpN",
+          "expanded_url": "https://twitter.com/DiamondandSilk/status/1099247495756996610/photo/1",
+          "id": 1099156667797827584,
+          "id_str": "1099156667797827584",
+          "indices": [
+            289,
+            312
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0D9KnCXcAAMF_Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0D9KnCXcAAMF_Y.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/4IZmi2ZjpN"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            43,
+            59
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            87,
+            93
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4IZmi2ZjpN",
+          "expanded_url": "https://twitter.com/DiamondandSilk/status/1099247495756996610/photo/1",
+          "id": 1099156667797827584,
+          "id_str": "1099156667797827584",
+          "indices": [
+            289,
+            312
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0D9KnCXcAAMF_Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0D9KnCXcAAMF_Y.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/4IZmi2ZjpN"
+        }
+      ]
+    },
+    "favorite_count": 54482,
+    "favorited": false,
+    "full_text": "Enjoyed chatting with our great President, @realDonaldTrump. We love &amp; support the @POTUS because he loves &amp; supports all Americans. He's done more for black people than any other President in our lifetime. There are those that write history but President Trump is making history. https://t.co/4IZmi2ZjpN",
+    "geo": null,
+    "id": 1099247495756996610,
+    "id_str": "1099247495756996610",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 14754,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Dec 06 18:49:06 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President Donald J Trump's Most Loyal Supporters. Host of D&S Chit Chat Live. Vloggers, Fox Nation Host, Public Figures & Speakers. \nhttps://t.co/17S7rQtlYU",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "AboutDiamondandSilk.com",
+              "expanded_url": "http://AboutDiamondandSilk.com",
+              "indices": [
+                133,
+                156
+              ],
+              "url": "https://t.co/17S7rQtlYU"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DiamondandSilk.com",
+              "expanded_url": "http://www.DiamondandSilk.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xdbTGlyGDv"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2987,
+      "follow_request_sent": false,
+      "followers_count": 1081039,
+      "following": false,
+      "friends_count": 47,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 2908170952,
+      "id_str": "2908170952",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 2976,
+      "location": "United States",
+      "name": "Diamond and Silk\u00ae",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2908170952/1486302134",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/982586846390751232/fuZ_Z1fz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/982586846390751232/fuZ_Z1fz_normal.jpg",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "DiamondandSilk",
+      "statuses_count": 9509,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/xdbTGlyGDv",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1099247495756996610,
+  "quoted_status_id_str": "1099247495756996610",
+  "quoted_status_permalink": {
+    "display": "twitter.com/diamondandsilk\u2026",
+    "expanded": "https://twitter.com/diamondandsilk/status/1099247495756996610",
+    "url": "https://t.co/9VoIV44L9c"
+  },
+  "retweet_count": 16884,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59570768,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101678,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41152,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

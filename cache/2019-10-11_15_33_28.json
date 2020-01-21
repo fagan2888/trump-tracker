@@ -1,0 +1,477 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 11 15:33:28 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 14839147,
+        "id_str": "14839147",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Eric Bolling\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "ericbolling"
+      },
+      {
+        "id": 491719838,
+        "id_str": "491719838",
+        "indices": [
+          54,
+          60
+        ],
+        "name": "Turning Point USA",
+        "screen_name": "TPUSA"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ericbolling: I have accepted an offer to join the @TPUSA Advisory Board.  \nI think this an important added role for me to take on. \n\n@c\u2026",
+  "geo": null,
+  "id": 1182680625066721280,
+  "id_str": "1182680625066721280",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1182618693869682689,
+  "quoted_status_id_str": "1182618693869682689",
+  "quoted_status_permalink": {
+    "display": "twitter.com/tpusa/status/1\u2026",
+    "expanded": "https://twitter.com/tpusa/status/1182618693869682689",
+    "url": "https://t.co/Txagvfp7Xf"
+  },
+  "retweet_count": 5961,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 11 12:09:43 +0000 2019",
+    "display_text_range": [
+      0,
+      225
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/tpusa/status/1\u2026",
+          "expanded_url": "https://twitter.com/tpusa/status/1182618693869682689",
+          "indices": [
+            226,
+            249
+          ],
+          "url": "https://t.co/Txagvfp7Xf"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 491719838,
+          "id_str": "491719838",
+          "indices": [
+            37,
+            43
+          ],
+          "name": "Turning Point USA",
+          "screen_name": "TPUSA"
+        },
+        {
+          "id": 292929271,
+          "id_str": "292929271",
+          "indices": [
+            120,
+            134
+          ],
+          "name": "Charlie Kirk",
+          "screen_name": "charliekirk11"
+        }
+      ]
+    },
+    "favorite_count": 22533,
+    "favorited": false,
+    "full_text": "I have accepted an offer to join the @TPUSA Advisory Board.  \nI think this an important added role for me to take on. \n\n@charliekirk11 is growing the strongest and most influential grass-roots organization in America. \n\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 https://t.co/Txagvfp7Xf",
+    "geo": null,
+    "id": 1182629349251530757,
+    "id_str": "1182629349251530757",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Oct 11 11:27:23 +0000 2019",
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              202,
+              210
+            ],
+            "text": "SAS2019"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DJPRmwfTXx",
+            "expanded_url": "https://twitter.com/TPUSA/status/1182618693869682689/photo/1",
+            "id": 1182618686709997568,
+            "id_str": "1182618686709997568",
+            "indices": [
+              264,
+              287
+            ],
+            "media_url": "http://pbs.twimg.com/media/EGmBbgYWoAAlCNs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EGmBbgYWoAAlCNs.jpg",
+            "sizes": {
+              "large": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DJPRmwfTXx"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "TPUSA.com/SAS",
+            "expanded_url": "http://TPUSA.com/SAS",
+            "indices": [
+              240,
+              263
+            ],
+            "url": "https://t.co/AaT2v0IQsp"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 292929271,
+            "id_str": "292929271",
+            "indices": [
+              98,
+              112
+            ],
+            "name": "Charlie Kirk",
+            "screen_name": "charliekirk11"
+          },
+          {
+            "id": 5509762,
+            "id_str": "5509762",
+            "indices": [
+              114,
+              128
+            ],
+            "name": "Sarah Huckabee Sanders",
+            "screen_name": "SarahHuckabee"
+          },
+          {
+            "id": 39344374,
+            "id_str": "39344374",
+            "indices": [
+              130,
+              145
+            ],
+            "name": "Donald Trump Jr.",
+            "screen_name": "DonaldJTrumpJr"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DJPRmwfTXx",
+            "expanded_url": "https://twitter.com/TPUSA/status/1182618693869682689/photo/1",
+            "id": 1182618686709997568,
+            "id_str": "1182618686709997568",
+            "indices": [
+              264,
+              287
+            ],
+            "media_url": "http://pbs.twimg.com/media/EGmBbgYWoAAlCNs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EGmBbgYWoAAlCNs.jpg",
+            "sizes": {
+              "large": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DJPRmwfTXx"
+          }
+        ]
+      },
+      "favorite_count": 1337,
+      "favorited": false,
+      "full_text": "MASSIVE SPEAKERS ANNOUNCEMENT! \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\n\nTPUSA's 2019 Student Action Summit Is Coming Up, Featuring @charliekirk11, @SarahHuckabee, @DonaldJTrumpJr, &amp; SO MANY MORE! ...And This Is Only The Beginning! #SAS2019\n\nDon't Miss Out! APPLY NOW \ud83d\udc47\nhttps://t.co/AaT2v0IQsp https://t.co/DJPRmwfTXx",
+      "geo": null,
+      "id": 1182618693869682689,
+      "id_str": "1182618693869682689",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 548,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 13 23:15:31 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Student Movement for Freedom, Free Markets, Limited Government. We're the community organizers of the right. #BigGovSucks #GenFree",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "TPUSA.com/GetInvolved",
+                "expanded_url": "http://TPUSA.com/GetInvolved",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/7av8jpP72E"
+              }
+            ]
+          }
+        },
+        "favourites_count": 17593,
+        "follow_request_sent": false,
+        "followers_count": 318549,
+        "following": false,
+        "friends_count": 35455,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 491719838,
+        "id_str": "491719838",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1461,
+        "location": "The United States of America",
+        "name": "Turning Point USA",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/491719838/1570491796",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148087887126093825/D_Ef-s4d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148087887126093825/D_Ef-s4d_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TPUSA",
+        "statuses_count": 22295,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/7av8jpP72E",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1182618693869682689,
+    "quoted_status_id_str": "1182618693869682689",
+    "quoted_status_permalink": {
+      "display": "twitter.com/tpusa/status/1\u2026",
+      "expanded": "https://twitter.com/tpusa/status/1182618693869682689",
+      "url": "https://t.co/Txagvfp7Xf"
+    },
+    "retweet_count": 5961,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 19 23:36:04 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host: \u201cAMERICA This Week\u201d (Sinclair)~ \u201cAMericA\u201d (BlazeTV)~ President & Chairman (NASDAQ: JAN)~ @TPUSA Adv Board  contact: EBpublicist@gmail.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ericbolling.com",
+              "expanded_url": "http://ericbolling.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/l7cB6xeroe"
+            }
+          ]
+        }
+      },
+      "favourites_count": 20,
+      "follow_request_sent": false,
+      "followers_count": 1120295,
+      "following": false,
+      "friends_count": 852,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 14839147,
+      "id_str": "14839147",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4950,
+      "location": "DC ",
+      "name": "Eric Bolling\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14839147/1570812802",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1182700728479113216/iyKnxRRY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182700728479113216/iyKnxRRY_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ericbolling",
+      "statuses_count": 32564,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/l7cB6xeroe",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65611493,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109762,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45125,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 31 13:02:12 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          28,
+          42
+        ],
+        "text": "RedCrossReady"
+      },
+      {
+        "indices": [
+          47,
+          63
+        ],
+        "text": "HurricaneDorian"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 24882273,
+        "id_str": "24882273",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "South Florida Red Cross #HurricaneDorian",
+        "screen_name": "SFLRedCross"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SFLRedCross: As you get #RedCrossReady for #HurricaneDorian, keep in mind this important distinction between pre-storm evacuation shelt\u2026",
+  "geo": null,
+  "id": 1167784655518654464,
+  "id_str": "1167784655518654464",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2344,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 29 19:29:59 +0000 2019",
+    "display_text_range": [
+      0,
+      199
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            11,
+            25
+          ],
+          "text": "RedCrossReady"
+        },
+        {
+          "indices": [
+            30,
+            46
+          ],
+          "text": "HurricaneDorian"
+        },
+        {
+          "indices": [
+            188,
+            199
+          ],
+          "text": "PrepareSFL"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hqIs6Dvufs",
+          "expanded_url": "https://twitter.com/SFLRedCross/status/1167157466053906433/photo/1",
+          "id": 1167157463248003073,
+          "id_str": "1167157463248003073",
+          "indices": [
+            200,
+            223
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDKTh2nX4AEnUWY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDKTh2nX4AEnUWY.jpg",
+          "sizes": {
+            "large": {
+              "h": 853,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hqIs6Dvufs"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "rdcrss.org/2NEa8z2",
+          "expanded_url": "https://rdcrss.org/2NEa8z2",
+          "indices": [
+            163,
+            186
+          ],
+          "url": "https://t.co/d1B9TOoNZe"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hqIs6Dvufs",
+          "expanded_url": "https://twitter.com/SFLRedCross/status/1167157466053906433/photo/1",
+          "id": 1167157463248003073,
+          "id_str": "1167157463248003073",
+          "indices": [
+            200,
+            223
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDKTh2nX4AEnUWY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDKTh2nX4AEnUWY.jpg",
+          "sizes": {
+            "large": {
+              "h": 853,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hqIs6Dvufs"
+        }
+      ]
+    },
+    "favorite_count": 8608,
+    "favorited": false,
+    "full_text": "As you get #RedCrossReady for #HurricaneDorian, keep in mind this important distinction between pre-storm evacuation shelters and post-storm shelters. Learn more: https://t.co/d1B9TOoNZe. #PrepareSFL https://t.co/hqIs6Dvufs",
+    "geo": null,
+    "id": 1167157466053906433,
+    "id_str": "1167157466053906433",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2344,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Mar 17 13:41:42 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter Account of the American Red Cross South Florida Region\ud83c\udf34\ud83c\udf1e Media Line: 561-907-6668\ud83d\udcf0 #SFLRedCross #HurricaneDorian",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "redcross.org/southflorida",
+              "expanded_url": "http://redcross.org/southflorida",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/3q5AcGZB14"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2424,
+      "follow_request_sent": false,
+      "followers_count": 5128,
+      "following": false,
+      "friends_count": 677,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 24882273,
+      "id_str": "24882273",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 333,
+      "location": "South Florida",
+      "name": "South Florida Red Cross #HurricaneDorian",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24882273/1558451962",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1145780818603847681/W8wARlyz_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145780818603847681/W8wARlyz_normal.png",
+      "profile_link_color": "537B35",
+      "profile_sidebar_border_color": "0D0C0C",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "DD0E0E",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SFLRedCross",
+      "statuses_count": 6945,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/3q5AcGZB14",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63788709,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107986,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43935,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

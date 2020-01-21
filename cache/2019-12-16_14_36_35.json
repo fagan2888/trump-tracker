@@ -1,0 +1,450 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Dec 16 14:36:35 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: So great to see someone willing to put party politics aside and call balls and strikes when they see them. https://t.co\u2026",
+  "geo": null,
+  "id": 1206583909598793728,
+  "id_str": "1206583909598793728",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1206354016428535809,
+  "quoted_status_id_str": "1206354016428535809",
+  "quoted_status_permalink": {
+    "display": "twitter.com/repleezeldin/s\u2026",
+    "expanded": "https://twitter.com/repleezeldin/status/1206354016428535809",
+    "url": "https://t.co/hVvSfLzo7a"
+  },
+  "retweet_count": 10735,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 16 13:40:35 +0000 2019",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/repleezeldin/s\u2026",
+          "expanded_url": "https://twitter.com/repleezeldin/status/1206354016428535809",
+          "indices": [
+            107,
+            130
+          ],
+          "url": "https://t.co/hVvSfLzo7a"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 39829,
+    "favorited": false,
+    "full_text": "So great to see someone willing to put party politics aside and call balls and strikes when they see them. https://t.co/hVvSfLzo7a",
+    "geo": null,
+    "id": 1206569813222531072,
+    "id_str": "1206569813222531072",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 15 23:23:05 +0000 2019",
+      "display_text_range": [
+        0,
+        103
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DKNKYRhztX",
+            "expanded_url": "https://twitter.com/RepLeeZeldin/status/1206354016428535809/video/1",
+            "features": {},
+            "id": 1206345420336779269,
+            "id_str": "1206345420336779269",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1206345420336779269/img/EvHN7glewJseuVzW.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1206345420336779269/img/EvHN7glewJseuVzW.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/DKNKYRhztX"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1083469084648505344,
+            "id_str": "1083469084648505344",
+            "indices": [
+              1,
+              16
+            ],
+            "name": "Congressman Jeff Van Drew",
+            "screen_name": "CongressmanJVD"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/DKNKYRhztX",
+            "expanded_url": "https://twitter.com/RepLeeZeldin/status/1206354016428535809/video/1",
+            "features": {},
+            "id": 1206345420336779269,
+            "id_str": "1206345420336779269",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1206345420336779269/img/EvHN7glewJseuVzW.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1206345420336779269/img/EvHN7glewJseuVzW.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/DKNKYRhztX",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 183483,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1206345420336779269/vid/480x270/lYGoxivoQyWFkYxN.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1206345420336779269/vid/1280x720/c8k6WkGoF790hvmM.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1206345420336779269/pl/6tnP80xgbcC-og7k.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1206345420336779269/vid/640x360/RKkJRP4IjlEIx_xK.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 20505,
+      "favorited": false,
+      "full_text": ".@CongressmanJVD has seen the forest through the trees throughout this ridiculous impeachment sham. \ud83d\udcaa\ud83c\uddfa\ud83c\uddf8 https://t.co/DKNKYRhztX",
+      "geo": null,
+      "id": 1206354016428535809,
+      "id_str": "1206354016428535809",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5901,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 20 19:25:47 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Proudly representing New York's First Congressional District. Ranking Member of @HouseForeignGOP Subcommittee on Oversight & Investigations.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zeldin.house.gov",
+                "expanded_url": "http://zeldin.house.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Kj9kXazM0U"
+              }
+            ]
+          }
+        },
+        "favourites_count": 28,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 177404,
+        "following": false,
+        "friends_count": 1905,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2750127259,
+        "id_str": "2750127259",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1280,
+        "location": "",
+        "name": "Lee Zeldin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2750127259/1522445343",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/866759502867161088/ZGcdQunZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/866759502867161088/ZGcdQunZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RepLeeZeldin",
+        "statuses_count": 2787,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Kj9kXazM0U",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1206354016428535809,
+    "quoted_status_id_str": "1206354016428535809",
+    "quoted_status_permalink": {
+      "display": "twitter.com/repleezeldin/s\u2026",
+      "expanded": "https://twitter.com/repleezeldin/status/1206354016428535809",
+      "url": "https://t.co/hVvSfLzo7a"
+    },
+    "retweet_count": 10735,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "centerstreet.com/titles/donald-\u2026",
+              "expanded_url": "https://www.centerstreet.com/titles/donald-trump-jr/triggered/9781546086031/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/p0wYduKA0W"
+            }
+          ]
+        }
+      },
+      "favourites_count": 14748,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 4137676,
+      "following": false,
+      "friends_count": 1390,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11575,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1571423068",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 32074,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/p0wYduKA0W",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67609789,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111513,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47210,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 16 23:28:44 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 56413858,
+        "id_str": "56413858",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "FOX Business",
+        "screen_name": "FoxBusiness"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          26,
+          32
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 138182116,
+        "id_str": "138182116",
+        "indices": [
+          84,
+          96
+        ],
+        "name": "Trish Regan",
+        "screen_name": "trish_regan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FoxBusiness: TONIGHT: @POTUS talks 2020 election in an exclusive interview with @trish_regan. Don't miss the full interview on 'Trish R\u2026",
+  "geo": null,
+  "id": 1052340597900627968,
+  "id_str": "1052340597900627968",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4707,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 16 22:29:48 +0000 2018",
+    "display_text_range": [
+      0,
+      171
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Uq6qPYyacc",
+          "expanded_url": "https://twitter.com/FoxBusiness/status/1052325765440839683/video/1",
+          "id": 1052325382240788480,
+          "id_str": "1052325382240788480",
+          "indices": [
+            172,
+            195
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpqcjjnX4AAcf4Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpqcjjnX4AAcf4Y.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Uq6qPYyacc"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            9,
+            15
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 138182116,
+          "id_str": "138182116",
+          "indices": [
+            67,
+            79
+          ],
+          "name": "Trish Regan",
+          "screen_name": "trish_regan"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/Uq6qPYyacc",
+          "expanded_url": "https://twitter.com/FoxBusiness/status/1052325765440839683/video/1",
+          "id": 1052325382240788480,
+          "id_str": "1052325382240788480",
+          "indices": [
+            172,
+            195
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpqcjjnX4AAcf4Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpqcjjnX4AAcf4Y.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Uq6qPYyacc",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 32165,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1052325382240788480/vid/240x240/eS1wouk-msW0s-2k.mp4?tag=8"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1052325382240788480/vid/720x720/bfdXt5OSFqOOPd3c.mp4?tag=8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1052325382240788480/vid/480x480/xxJhD3X_9gFS_6Gw.mp4?tag=8"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1052325382240788480/pl/nCvmnIcUTD-qBgvR.m3u8?tag=8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 17790,
+    "favorited": false,
+    "full_text": "TONIGHT: @POTUS talks 2020 election in an exclusive interview with @trish_regan. Don't miss the full interview on 'Trish Regan Primetime' at 8p ET on Fox Business Network. https://t.co/Uq6qPYyacc",
+    "geo": null,
+    "id": 1052325765440839683,
+    "id_str": "1052325765440839683",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4707,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jul 13 16:18:27 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter page of FOX Business Network: Capitalism lives here. Ask your cable provider for FOX Business in your neighborhood.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxbusiness.com",
+              "expanded_url": "http://www.foxbusiness.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/bfM3iji7VB"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 805199,
+      "following": false,
+      "friends_count": 401,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 56413858,
+      "id_str": "56413858",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 7710,
+      "location": "New York, NY",
+      "name": "FOX Business",
+      "notifications": false,
+      "profile_background_color": "A87528",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/56413858/1467210895",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875384861736841217/j4vwsisS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875384861736841217/j4vwsisS_normal.jpg",
+      "profile_link_color": "004E76",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D9A050",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FoxBusiness",
+      "statuses_count": 198463,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/bfM3iji7VB",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 26,
+    "follow_request_sent": false,
+    "followers_count": 55184556,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94863,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539493274",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39305,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

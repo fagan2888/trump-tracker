@@ -1,0 +1,363 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 15:48:03 +0000 2019",
+  "display_text_range": [
+    0,
+    19
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/w_terrence/sta\u2026",
+        "expanded_url": "https://twitter.com/w_terrence/status/1207339387136163842",
+        "indices": [
+          20,
+          43
+        ],
+        "url": "https://t.co/6qro1mI4dm"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 67626,
+  "favorited": false,
+  "full_text": "Thank you Terrence! https://t.co/6qro1mI4dm",
+  "geo": null,
+  "id": 1207689056538308611,
+  "id_str": "1207689056538308611",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 18 16:38:35 +0000 2019",
+    "display_text_range": [
+      0,
+      284
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FlqidCqkoi",
+          "expanded_url": "https://twitter.com/w_terrence/status/1207339387136163842/video/1",
+          "features": {},
+          "id": 1207338544236302338,
+          "id_str": "1207338544236302338",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207338544236302338/pu/img/Fx8efc_Eel6YKdDo.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207338544236302338/pu/img/Fx8efc_Eel6YKdDo.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FlqidCqkoi"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "TPUSA.com/SAS",
+          "expanded_url": "http://TPUSA.com/SAS",
+          "indices": [
+            261,
+            284
+          ],
+          "url": "https://t.co/XuVuCUPwnA"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            50,
+            66
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 491719838,
+          "id_str": "491719838",
+          "indices": [
+            211,
+            217
+          ],
+          "name": "Turning Point USA",
+          "screen_name": "TPUSA"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/FlqidCqkoi",
+          "expanded_url": "https://twitter.com/w_terrence/status/1207339387136163842/video/1",
+          "features": {},
+          "id": 1207338544236302338,
+          "id_str": "1207338544236302338",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207338544236302338/pu/img/Fx8efc_Eel6YKdDo.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207338544236302338/pu/img/Fx8efc_Eel6YKdDo.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/FlqidCqkoi",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 100973,
+            "variants": [
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207338544236302338/pu/vid/720x720/FTH0gzZdTqe-eAv2.mp4?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207338544236302338/pu/vid/320x320/GZtEonS9QD_FkGk4.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207338544236302338/pu/vid/480x480/ohsqHFI-DgwjNE4i.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1207338544236302338/pu/pl/ELqqqJQbg53Jg7nu.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 17119,
+    "favorited": false,
+    "full_text": "THIS PRESIDENT DONT GET TIRED!\n\nI think President @realDonaldTrump  is younger than we think! He has so much energy &amp; that\u2019s why he Always winning &amp; people can\u2019t keep up with him\n\nHe will be speaking at @TPUSA largest event of the year \n\nMy President \n\nhttps://t.co/XuVuCUPwnA https://t.co/FlqidCqkoi",
+    "geo": null,
+    "id": 1207339387136163842,
+    "id_str": "1207339387136163842",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4898,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Jun 15 08:46:13 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Actor\u2022 Comedian\u2022Commentator\u2014\u2014\u2014\u2014\u2014\u2014 Tickets to Phoenix / Mesa Arizona  Show Jan 17th  \ud83c\udfab \ud83d\udc49 https://t.co/kolaMNXyJe",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/MagaMesa",
+              "expanded_url": "http://bit.ly/MagaMesa",
+              "indices": [
+                88,
+                111
+              ],
+              "url": "https://t.co/kolaMNXyJe"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "terrencekwilliams.com",
+              "expanded_url": "https://www.terrencekwilliams.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vgdcjmN2Pt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6017,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 722144,
+      "following": false,
+      "friends_count": 612,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 47293791,
+      "id_str": "47293791",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1963,
+      "location": "United States",
+      "name": "Terrence K. Williams",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/47293791/1571093496",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1183878041006727169/G6DpLUIm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183878041006727169/G6DpLUIm_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "w_terrence",
+      "statuses_count": 4079,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/vgdcjmN2Pt",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1207339387136163842,
+  "quoted_status_id_str": "1207339387136163842",
+  "quoted_status_permalink": {
+    "display": "twitter.com/w_terrence/sta\u2026",
+    "expanded": "https://twitter.com/w_terrence/status/1207339387136163842",
+    "url": "https://t.co/6qro1mI4dm"
+  },
+  "retweet_count": 16123,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

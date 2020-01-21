@@ -1,0 +1,333 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Sep 05 20:18:07 +0000 2019",
+  "display_text_range": [
+    0,
+    64
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/AlabamaNG/stat\u2026",
+        "expanded_url": "https://twitter.com/AlabamaNG/status/1167439608638038018",
+        "indices": [
+          65,
+          88
+        ],
+        "url": "https://t.co/gO5pwahaj9"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 46896,
+  "favorited": false,
+  "full_text": "I was with you all the way Alabama. The Fake News Media was not! https://t.co/gO5pwahaj9",
+  "geo": null,
+  "id": 1169706294242136073,
+  "id_str": "1169706294242136073",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 30 14:11:07 +0000 2019",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "text": "HurricaneDorian"
+        },
+        {
+          "indices": [
+            115,
+            121
+          ],
+          "text": "ready"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iMH0DnE4QO",
+          "expanded_url": "https://twitter.com/AlabamaNG/status/1167439608638038018/photo/1",
+          "id": 1167439600396185601,
+          "id_str": "1167439600396185601",
+          "indices": [
+            139,
+            162
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDOUIZZWsAEMCpr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDOUIZZWsAEMCpr.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iMH0DnE4QO"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iMH0DnE4QO",
+          "expanded_url": "https://twitter.com/AlabamaNG/status/1167439608638038018/photo/1",
+          "id": 1167439600396185601,
+          "id_str": "1167439600396185601",
+          "indices": [
+            139,
+            162
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDOUIZZWsAEMCpr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDOUIZZWsAEMCpr.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iMH0DnE4QO"
+        }
+      ]
+    },
+    "favorite_count": 1975,
+    "favorited": false,
+    "full_text": "#HurricaneDorian is projected to reach southern Alabama by the early part of the week. We are watching closely and #ready to act. Are you? https://t.co/iMH0DnE4QO",
+    "geo": null,
+    "id": 1167439608638038018,
+    "id_str": "1167439608638038018",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -86.412593,
+              32.449263
+            ],
+            [
+              -86.333698,
+              32.449263
+            ],
+            [
+              -86.333698,
+              32.590296
+            ],
+            [
+              -86.412593,
+              32.590296
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Millbrook, AL",
+      "id": "dc339f049fa0fff6",
+      "name": "Millbrook",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/dc339f049fa0fff6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 871,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 24 04:11:45 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Always ready, always there. Official Twitter of the Alabama National Guard. (Following and RTs \u2260 endorsement)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "al.ng.mil",
+              "expanded_url": "http://al.ng.mil",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/7JhjKjhXle"
+            }
+          ]
+        }
+      },
+      "favourites_count": 633,
+      "follow_request_sent": false,
+      "followers_count": 5951,
+      "following": false,
+      "friends_count": 196,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 116972991,
+      "id_str": "116972991",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 123,
+      "location": "Alabama",
+      "name": "AL National Guard",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/116972991/1489604731",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1147162585655140352/bbos4yXw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147162585655140352/bbos4yXw_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AlabamaNG",
+      "statuses_count": 2061,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/7JhjKjhXle",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1167439608638038018,
+  "quoted_status_id_str": "1167439608638038018",
+  "quoted_status_permalink": {
+    "display": "twitter.com/AlabamaNG/stat\u2026",
+    "expanded": "https://twitter.com/AlabamaNG/status/1167439608638038018",
+    "url": "https://t.co/gO5pwahaj9"
+  },
+  "retweet_count": 12310,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63982912,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108213,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44075,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

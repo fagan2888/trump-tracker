@@ -1,0 +1,525 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 14 22:29:59 +0000 2020",
+  "display_text_range": [
+    0,
+    133
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/7zSWxBsKLD",
+        "expanded_url": "https://twitter.com/SenateGOP/status/1217169071466340353/video/1",
+        "features": {},
+        "id": 1217146941324308481,
+        "id_str": "1217146941324308481",
+        "indices": [
+          110,
+          133
+        ],
+        "media_url": "http://pbs.twimg.com/media/EOQt9TQWAAA1tVw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EOQt9TQWAAA1tVw.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1217169071466340353,
+        "source_status_id_str": "1217169071466340353",
+        "source_user_id": 14344823,
+        "source_user_id_str": "14344823",
+        "type": "photo",
+        "url": "https://t.co/7zSWxBsKLD"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 14344823,
+        "id_str": "14344823",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Senate Republicans",
+        "screen_name": "SenateGOP"
+      },
+      {
+        "id": 15764644,
+        "id_str": "15764644",
+        "indices": [
+          16,
+          30
+        ],
+        "name": "Nancy Pelosi",
+        "screen_name": "SpeakerPelosi"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "The Senate is ready.",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "can_media_tag": true,
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 09 19:42:03 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "News and updates from Senate Republicans and their staff. Chairman @SenJohnBarrasso.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "facebook.com/senategop",
+                    "expanded_url": "http://www.facebook.com/senategop",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/LRez78SkoK"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 2613,
+            "follow_request_sent": false,
+            "followed_by": false,
+            "followers_count": 936193,
+            "following": false,
+            "friends_count": 26970,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 14344823,
+            "id_str": "14344823",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 7551,
+            "location": "Washington, D.C.",
+            "name": "Senate Republicans",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344823/1565620522",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "SenateGOP",
+            "statuses_count": 25537,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/LRez78SkoK",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": "Pelosi's Political Stunt"
+        },
+        "display_url": "pic.twitter.com/7zSWxBsKLD",
+        "expanded_url": "https://twitter.com/SenateGOP/status/1217169071466340353/video/1",
+        "features": {},
+        "id": 1217146941324308481,
+        "id_str": "1217146941324308481",
+        "indices": [
+          110,
+          133
+        ],
+        "media_url": "http://pbs.twimg.com/media/EOQt9TQWAAA1tVw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EOQt9TQWAAA1tVw.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1217169071466340353,
+        "source_status_id_str": "1217169071466340353",
+        "source_user_id": 14344823,
+        "source_user_id_str": "14344823",
+        "type": "video",
+        "url": "https://t.co/7zSWxBsKLD",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 103167,
+          "variants": [
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1217146941324308481/vid/720x720/oHsmsqSm9PxCPILP.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1217146941324308481/pl/4Uf4h6ZfR9n4uguN.m3u8?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1217146941324308481/vid/480x480/rwQY3Qjze-A3A-yR.mp4?tag=13"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1217146941324308481/vid/320x320/FFNliFt5bDEF-ezF.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenateGOP: .@SpeakerPelosi\u2019s \u201curgent\u201d impeachment will come to the Senate tomorrow. \n \nNow\u2026it\u2019s our turn. https://t.co/7zSWxBsKLD",
+  "geo": null,
+  "id": 1217212290992242688,
+  "id_str": "1217212290992242688",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 9589,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 14 19:38:15 +0000 2020",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/7zSWxBsKLD",
+          "expanded_url": "https://twitter.com/SenateGOP/status/1217169071466340353/video/1",
+          "features": {},
+          "id": 1217146941324308481,
+          "id_str": "1217146941324308481",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOQt9TQWAAA1tVw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOQt9TQWAAA1tVw.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/7zSWxBsKLD"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 15764644,
+          "id_str": "15764644",
+          "indices": [
+            1,
+            15
+          ],
+          "name": "Nancy Pelosi",
+          "screen_name": "SpeakerPelosi"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "The Senate is ready.",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Pelosi's Political Stunt"
+          },
+          "display_url": "pic.twitter.com/7zSWxBsKLD",
+          "expanded_url": "https://twitter.com/SenateGOP/status/1217169071466340353/video/1",
+          "features": {},
+          "id": 1217146941324308481,
+          "id_str": "1217146941324308481",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOQt9TQWAAA1tVw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOQt9TQWAAA1tVw.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/7zSWxBsKLD",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 103167,
+            "variants": [
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217146941324308481/vid/720x720/oHsmsqSm9PxCPILP.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1217146941324308481/pl/4Uf4h6ZfR9n4uguN.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217146941324308481/vid/480x480/rwQY3Qjze-A3A-yR.mp4?tag=13"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217146941324308481/vid/320x320/FFNliFt5bDEF-ezF.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 25121,
+    "favorited": false,
+    "full_text": ".@SpeakerPelosi\u2019s \u201curgent\u201d impeachment will come to the Senate tomorrow. \n \nNow\u2026it\u2019s our turn. https://t.co/7zSWxBsKLD",
+    "geo": null,
+    "id": 1217169071466340353,
+    "id_str": "1217169071466340353",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9589,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 09 19:42:03 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News and updates from Senate Republicans and their staff. Chairman @SenJohnBarrasso.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/senategop",
+              "expanded_url": "http://www.facebook.com/senategop",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/LRez78SkoK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2613,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 936193,
+      "following": false,
+      "friends_count": 26970,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 14344823,
+      "id_str": "14344823",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7551,
+      "location": "Washington, D.C.",
+      "name": "Senate Republicans",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344823/1565620522",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenateGOP",
+      "statuses_count": 25537,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/LRez78SkoK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70972856,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113364,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47898,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

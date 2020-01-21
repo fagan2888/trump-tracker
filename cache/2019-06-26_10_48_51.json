@@ -1,0 +1,513 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jun 26 10:48:51 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          88,
+          94
+        ],
+        "text": "USMCA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20217019,
+        "id_str": "20217019",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Doug Ducey",
+        "screen_name": "dougducey"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @dougducey: Proud to stand with 27 other governors in calling for Congress to ratify #USMCA. It updates our nation\u2019s trade agreements wi\u2026",
+  "geo": null,
+  "id": 1143833496282193921,
+  "id_str": "1143833496282193921",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1141730002343534592,
+  "quoted_status_id_str": "1141730002343534592",
+  "quoted_status_permalink": {
+    "display": "twitter.com/WhiteHouse/sta\u2026",
+    "expanded": "https://twitter.com/WhiteHouse/status/1141730002343534592",
+    "url": "https://t.co/ix7pCAiHbJ"
+  },
+  "retweet_count": 4624,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 20 21:04:26 +0000 2019",
+    "display_text_range": [
+      0,
+      236
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            73,
+            79
+          ],
+          "text": "USMCA"
+        },
+        {
+          "indices": [
+            221,
+            224
+          ],
+          "text": "AZ"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/WhiteHouse/sta\u2026",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1141730002343534592",
+          "indices": [
+            237,
+            260
+          ],
+          "url": "https://t.co/ix7pCAiHbJ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            225,
+            236
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "favorite_count": 17275,
+    "favorited": false,
+    "full_text": "Proud to stand with 27 other governors in calling for Congress to ratify #USMCA. It updates our nation\u2019s trade agreements with Arizona\u2019s top trading partners and will result in more jobs and more economic opportunity for #AZ @WhiteHouse https://t.co/ix7pCAiHbJ",
+    "geo": null,
+    "id": 1141814083320082432,
+    "id_str": "1141814083320082432",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Jun 20 15:30:19 +0000 2019",
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xOfkL6Isk3",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1141730002343534592/photo/1",
+            "id": 1141729991446716421,
+            "id_str": "1141729991446716421",
+            "indices": [
+              241,
+              264
+            ],
+            "media_url": "http://pbs.twimg.com/media/D9g9YMmXYAUDvXi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9g9YMmXYAUDvXi.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1583
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 927
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 525
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xOfkL6Isk3"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xOfkL6Isk3",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1141730002343534592/photo/1",
+            "id": 1141729991446716421,
+            "id_str": "1141729991446716421",
+            "indices": [
+              241,
+              264
+            ],
+            "media_url": "http://pbs.twimg.com/media/D9g9YMmXYAUDvXi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9g9YMmXYAUDvXi.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1583
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 927
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 525
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xOfkL6Isk3"
+          },
+          {
+            "display_url": "pic.twitter.com/xOfkL6Isk3",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1141730002343534592/photo/1",
+            "id": 1141729994869268480,
+            "id_str": "1141729994869268480",
+            "indices": [
+              241,
+              264
+            ],
+            "media_url": "http://pbs.twimg.com/media/D9g9YZWXYAAjA-_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9g9YZWXYAAjA-_.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1583
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 927
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 526
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xOfkL6Isk3"
+          },
+          {
+            "display_url": "pic.twitter.com/xOfkL6Isk3",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1141730002343534592/photo/1",
+            "id": 1141729999013257218,
+            "id_str": "1141729999013257218",
+            "indices": [
+              241,
+              264
+            ],
+            "media_url": "http://pbs.twimg.com/media/D9g9YoyXoAIK525.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D9g9YoyXoAIK525.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1408
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 825
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 467
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xOfkL6Isk3"
+          }
+        ]
+      },
+      "favorite_count": 4262,
+      "favorited": false,
+      "full_text": "28 Governors issued a joint letter to Congress this morning: \"As chief executives of our states, we urge Congress to pass USMCA quickly so American workers can begin reaping the benefits of improved trade with our North American neighbors.\" https://t.co/xOfkL6Isk3",
+      "geo": null,
+      "id": 1141730002343534592,
+      "id_str": "1141730002343534592",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1731,
+      "retweeted": false,
+      "source": "<a href=\"https://www.whitehouse.gov/\" rel=\"nofollow\">WH Digital</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov/privacy",
+                "expanded_url": "http://whitehouse.gov/privacy",
+                "indices": [
+                  126,
+                  149
+                ],
+                "url": "https://t.co/IURuMIrzxb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "WhiteHouse.gov",
+                "expanded_url": "http://www.WhiteHouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wyOVgSLgBV"
+              }
+            ]
+          }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 18678404,
+        "following": false,
+        "friends_count": 12,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10749,
+        "location": "Washington, D.C.",
+        "name": "The White House",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhiteHouse",
+        "statuses_count": 9351,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wyOVgSLgBV",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1141730002343534592,
+    "quoted_status_id_str": "1141730002343534592",
+    "quoted_status_permalink": {
+      "display": "twitter.com/WhiteHouse/sta\u2026",
+      "expanded": "https://twitter.com/WhiteHouse/status/1141730002343534592",
+      "url": "https://t.co/ix7pCAiHbJ"
+    },
+    "retweet_count": 4624,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 06 04:35:14 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Governor of Arizona",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "AZGovernor.gov",
+              "expanded_url": "http://www.AZGovernor.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4V4ij8i9ta"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6617,
+      "follow_request_sent": false,
+      "followers_count": 55084,
+      "following": false,
+      "friends_count": 1627,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 20217019,
+      "id_str": "20217019",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 869,
+      "location": "Arizona, USA",
+      "name": "Doug Ducey",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20217019/1560984480",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1138520065924407301/f5St3AMJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138520065924407301/f5St3AMJ_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "dougducey",
+      "statuses_count": 14499,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/4V4ij8i9ta",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61411871,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104634,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42579,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

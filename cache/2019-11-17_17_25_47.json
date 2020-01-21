@@ -1,0 +1,574 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 17 17:25:47 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          42,
+          56
+        ],
+        "text": "HeresTheTruth"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/u9a8YBmb6o",
+        "expanded_url": "https://twitter.com/RepDanCrenshaw/status/1195326034582867968/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 204,
+                "w": 204,
+                "x": 1474,
+                "y": 456
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 119,
+                "w": 119,
+                "x": 863,
+                "y": 267
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 204,
+                "w": 204,
+                "x": 1474,
+                "y": 456
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 67,
+                "w": 67,
+                "x": 489,
+                "y": 151
+              }
+            ]
+          }
+        },
+        "id": 1195326027414810624,
+        "id_str": "1195326027414810624",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/EJamsFbWsAA2rqJ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EJamsFbWsAA2rqJ.jpg",
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1195326034582867968,
+        "source_status_id_str": "1195326034582867968",
+        "source_user_id": 1080894931311431682,
+        "source_user_id_str": "1080894931311431682",
+        "type": "photo",
+        "url": "https://t.co/u9a8YBmb6o"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1080894931311431682,
+        "id_str": "1080894931311431682",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Rep. Dan Crenshaw",
+        "screen_name": "RepDanCrenshaw"
+      },
+      {
+        "id": 32010840,
+        "id_str": "32010840",
+        "indices": [
+          62,
+          76
+        ],
+        "name": "Rep. Greg Walden",
+        "screen_name": "repgregwalden"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/u9a8YBmb6o",
+        "expanded_url": "https://twitter.com/RepDanCrenshaw/status/1195326034582867968/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 204,
+                "w": 204,
+                "x": 1474,
+                "y": 456
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 119,
+                "w": 119,
+                "x": 863,
+                "y": 267
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 204,
+                "w": 204,
+                "x": 1474,
+                "y": 456
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 67,
+                "w": 67,
+                "x": 489,
+                "y": 151
+              }
+            ]
+          }
+        },
+        "id": 1195326027414810624,
+        "id_str": "1195326027414810624",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/EJamsFbWsAA2rqJ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EJamsFbWsAA2rqJ.jpg",
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1195326034582867968,
+        "source_status_id_str": "1195326034582867968",
+        "source_user_id": 1080894931311431682,
+        "source_user_id_str": "1080894931311431682",
+        "type": "photo",
+        "url": "https://t.co/u9a8YBmb6o"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepDanCrenshaw: Coming soon...\n\nA new #HeresTheTruth with @RepGregWalden debunking Pelosi\u2019s drug pricing scheme. https://t.co/u9a8YBmb6o",
+  "geo": null,
+  "id": 1196117241546317825,
+  "id_str": "1196117241546317825",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 4645,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 15 13:01:49 +0000 2019",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            22,
+            36
+          ],
+          "text": "HeresTheTruth"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/u9a8YBmb6o",
+          "expanded_url": "https://twitter.com/RepDanCrenshaw/status/1195326034582867968/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 204,
+                  "w": 204,
+                  "x": 1474,
+                  "y": 456
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 119,
+                  "w": 119,
+                  "x": 863,
+                  "y": 267
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 204,
+                  "w": 204,
+                  "x": 1474,
+                  "y": 456
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 67,
+                  "w": 67,
+                  "x": 489,
+                  "y": 151
+                }
+              ]
+            }
+          },
+          "id": 1195326027414810624,
+          "id_str": "1195326027414810624",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJamsFbWsAA2rqJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJamsFbWsAA2rqJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/u9a8YBmb6o"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 32010840,
+          "id_str": "32010840",
+          "indices": [
+            42,
+            56
+          ],
+          "name": "Rep. Greg Walden",
+          "screen_name": "repgregwalden"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/u9a8YBmb6o",
+          "expanded_url": "https://twitter.com/RepDanCrenshaw/status/1195326034582867968/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 204,
+                  "w": 204,
+                  "x": 1474,
+                  "y": 456
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 119,
+                  "w": 119,
+                  "x": 863,
+                  "y": 267
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 204,
+                  "w": 204,
+                  "x": 1474,
+                  "y": 456
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 67,
+                  "w": 67,
+                  "x": 489,
+                  "y": 151
+                }
+              ]
+            }
+          },
+          "id": 1195326027414810624,
+          "id_str": "1195326027414810624",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJamsFbWsAA2rqJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJamsFbWsAA2rqJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/u9a8YBmb6o"
+        }
+      ]
+    },
+    "favorite_count": 15299,
+    "favorited": false,
+    "full_text": "Coming soon...\n\nA new #HeresTheTruth with @RepGregWalden debunking Pelosi\u2019s drug pricing scheme. https://t.co/u9a8YBmb6o",
+    "geo": null,
+    "id": 1195326034582867968,
+    "id_str": "1195326034582867968",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4645,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 03 18:33:28 +0000 2019",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Proudly representing Texas's Second Congressional District",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "crenshaw.house.gov",
+              "expanded_url": "https://crenshaw.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pvr2a52IbJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 454552,
+      "following": false,
+      "friends_count": 103,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1080894931311431682,
+      "id_str": "1080894931311431682",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1073,
+      "location": "Houston, TX",
+      "name": "Rep. Dan Crenshaw",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080894931311431682/1571241598",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1094614383232249856/BHAwJUfL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094614383232249856/BHAwJUfL_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RepDanCrenshaw",
+      "statuses_count": 490,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pvr2a52IbJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66871838,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110763,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46249,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

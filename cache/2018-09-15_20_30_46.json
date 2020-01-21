@@ -1,0 +1,316 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Sep 15 20:30:46 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "ncdps.gov/florence",
+        "expanded_url": "http://ncdps.gov/florence",
+        "indices": [
+          59,
+          82
+        ],
+        "url": "https://t.co/Yx3twhyOqj"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 172832752,
+        "id_str": "172832752",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "NC Emergency Managem",
+        "screen_name": "NCEmergency"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NCEmergency: New Evacuation Orders are in place. Go to https://t.co/Yx3twhyOqj to see if you are in an area with a mandatory or volunte\u2026",
+  "geo": null,
+  "id": 1041061788186501120,
+  "id_str": "1041061788186501120",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 3702,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 15 19:23:26 +0000 2018",
+    "display_text_range": [
+      0,
+      271
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            260,
+            271
+          ],
+          "text": "FlorenceNC"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/XzXPUP2gWs",
+          "expanded_url": "https://twitter.com/NCEmergency/status/1041044839842959360/photo/1",
+          "id": 1041044837867282433,
+          "id_str": "1041044837867282433",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnKIw6xVYAETyDZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnKIw6xVYAETyDZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 513,
+              "resize": "fit",
+              "w": 817
+            },
+            "medium": {
+              "h": 513,
+              "resize": "fit",
+              "w": 817
+            },
+            "small": {
+              "h": 427,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/XzXPUP2gWs"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "ncdps.gov/florence",
+          "expanded_url": "http://ncdps.gov/florence",
+          "indices": [
+            42,
+            65
+          ],
+          "url": "https://t.co/Yx3twhyOqj"
+        },
+        {
+          "display_url": "DriveNC.gov",
+          "expanded_url": "http://DriveNC.gov",
+          "indices": [
+            188,
+            211
+          ],
+          "url": "https://t.co/0PMxxOuueW"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/XzXPUP2gWs",
+          "expanded_url": "https://twitter.com/NCEmergency/status/1041044839842959360/photo/1",
+          "id": 1041044837867282433,
+          "id_str": "1041044837867282433",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnKIw6xVYAETyDZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnKIw6xVYAETyDZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 513,
+              "resize": "fit",
+              "w": 817
+            },
+            "medium": {
+              "h": 513,
+              "resize": "fit",
+              "w": 817
+            },
+            "small": {
+              "h": 427,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/XzXPUP2gWs"
+        }
+      ]
+    },
+    "favorite_count": 11962,
+    "favorited": false,
+    "full_text": "New Evacuation Orders are in place. Go to https://t.co/Yx3twhyOqj to see if you are in an area with a mandatory or volunteer evacuation. If you decide to leave your home, be sure to check https://t.co/0PMxxOuueW before you leave to ensure your route is clear. #FlorenceNC https://t.co/XzXPUP2gWs",
+    "geo": null,
+    "id": 1041044839842959360,
+    "id_str": "1041044839842959360",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3702,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jul 30 18:37:14 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Helping North Carolinians prepare for, respond to and recover from disasters and emergencies.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "readync.org",
+              "expanded_url": "http://www.readync.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/UhuuTC84nj"
+            }
+          ]
+        }
+      },
+      "favourites_count": 78,
+      "follow_request_sent": false,
+      "followers_count": 45045,
+      "following": false,
+      "friends_count": 212,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 172832752,
+      "id_str": "172832752",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1100,
+      "location": "Raleigh NC",
+      "name": "NC Emergency Managem",
+      "notifications": false,
+      "profile_background_color": "071082",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/172832752/1507829589",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/918529324344578050/CRFPkAnU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/918529324344578050/CRFPkAnU_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NCEmergency",
+      "statuses_count": 6393,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/UhuuTC84nj",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54471576,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93646,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38966,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

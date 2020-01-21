@@ -1,0 +1,288 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 11 12:26:21 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 749016639287414784,
+        "id_str": "749016639287414784",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "American Greatness",
+        "screen_name": "theamgreatness"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @theamgreatness: More than 1,000 Conservatives Rally at Philly Planned Parenthood Where Unhinged Dem Bullied\u00a0Pro-Lifers https://t.co/k5r\u2026",
+  "geo": null,
+  "id": 1127188191071670272,
+  "id_str": "1127188191071670272",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6054,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 11 00:26:42 +0000 2019",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/I5bLkJNF75",
+          "expanded_url": "https://twitter.com/theamgreatness/status/1127007084724224000/photo/1",
+          "id": 1127007083042357248,
+          "id_str": "1127007083042357248",
+          "indices": [
+            127,
+            150
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6Pu-IwWwAAclIR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6Pu-IwWwAAclIR.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/I5bLkJNF75"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "amgreatness.com/2019/05/10/mor\u2026",
+          "expanded_url": "https://amgreatness.com/2019/05/10/more-than-1000-conservatives-rally-at-philly-planned-parenthood-where-unhinged-dem-bullied-pro-lifers/",
+          "indices": [
+            103,
+            126
+          ],
+          "url": "https://t.co/k5r3mcbl9S"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/I5bLkJNF75",
+          "expanded_url": "https://twitter.com/theamgreatness/status/1127007084724224000/photo/1",
+          "id": 1127007083042357248,
+          "id_str": "1127007083042357248",
+          "indices": [
+            127,
+            150
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6Pu-IwWwAAclIR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6Pu-IwWwAAclIR.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/I5bLkJNF75"
+        }
+      ]
+    },
+    "favorite_count": 17562,
+    "favorited": false,
+    "full_text": "More than 1,000 Conservatives Rally at Philly Planned Parenthood Where Unhinged Dem Bullied\u00a0Pro-Lifers https://t.co/k5r3mcbl9S https://t.co/I5bLkJNF75",
+    "geo": null,
+    "id": 1127007084724224000,
+    "id_str": "1127007084724224000",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6054,
+    "retweeted": false,
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jul 01 23:07:37 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amgreatness.com",
+              "expanded_url": "http://www.amgreatness.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Xka6qhLMux"
+            }
+          ]
+        }
+      },
+      "favourites_count": 288,
+      "follow_request_sent": false,
+      "followers_count": 11097,
+      "following": false,
+      "friends_count": 3429,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 749016639287414784,
+      "id_str": "749016639287414784",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 164,
+      "location": "Hearts & Minds",
+      "name": "American Greatness",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/749016639287414784/1470197862",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/760690955963998208/9MGWU-dC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/760690955963998208/9MGWU-dC_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "theamgreatness",
+      "statuses_count": 5290,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Xka6qhLMux",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60179323,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102916,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41812,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

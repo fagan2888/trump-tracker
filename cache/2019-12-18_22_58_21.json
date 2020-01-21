@@ -1,0 +1,374 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 18 22:58:21 +0000 2019",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          11,
+          15
+        ],
+        "text": "KAG"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/MattFinnFNC/st\u2026",
+        "expanded_url": "https://twitter.com/MattFinnFNC/status/1207359122372476928",
+        "indices": [
+          16,
+          39
+        ],
+        "url": "https://t.co/CltmJQdm1t"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 99921,
+  "favorited": false,
+  "full_text": "THANK YOU! #KAG https://t.co/CltmJQdm1t",
+  "geo": null,
+  "id": 1207434958588932096,
+  "id_str": "1207434958588932096",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 18 17:57:01 +0000 2019",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/U8DdzDmFfY",
+          "expanded_url": "https://twitter.com/MattFinnFNC/status/1207359122372476928/video/1",
+          "features": {},
+          "id": 1207358887403409408,
+          "id_str": "1207358887403409408",
+          "indices": [
+            134,
+            157
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207358887403409408/pu/img/AcH5BKrnIxd1Es2J.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207358887403409408/pu/img/AcH5BKrnIxd1Es2J.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/U8DdzDmFfY"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            16,
+            32
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/U8DdzDmFfY",
+          "expanded_url": "https://twitter.com/MattFinnFNC/status/1207359122372476928/video/1",
+          "features": {},
+          "id": 1207358887403409408,
+          "id_str": "1207358887403409408",
+          "indices": [
+            134,
+            157
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207358887403409408/pu/img/AcH5BKrnIxd1Es2J.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207358887403409408/pu/img/AcH5BKrnIxd1Es2J.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/U8DdzDmFfY",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 9533,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207358887403409408/pu/vid/480x270/ldDKW8AQLvM3FAF_.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1207358887403409408/pu/pl/a5wsTiEJbUO4a9gD.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207358887403409408/pu/vid/1280x720/PlOrnMWObDJqEVOF.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1207358887403409408/pu/vid/640x360/snmUvm6RZQL42JeM.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 31579,
+    "favorited": false,
+    "full_text": "In bitter cold, @realDonaldTrump supporters are lined up for the Battle Creek, MI rally. Some say they started camping out yesterday. https://t.co/U8DdzDmFfY",
+    "geo": null,
+    "id": 1207359122372476928,
+    "id_str": "1207359122372476928",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -85.313052,
+              42.232049
+            ],
+            [
+              -85.140797,
+              42.232049
+            ],
+            [
+              -85.140797,
+              42.384545
+            ],
+            [
+              -85.313052,
+              42.384545
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Battle Creek, MI",
+      "id": "658096f6d8391ba9",
+      "name": "Battle Creek",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/658096f6d8391ba9.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 10365,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Sep 24 22:13:28 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@Foxnews National Correspondent",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxnews.com/person/f/matt-\u2026",
+              "expanded_url": "http://www.foxnews.com/person/f/matt-finn.html",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/l2ATPLXe6l"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13452,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 12424,
+      "following": false,
+      "friends_count": 294,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1901916354,
+      "id_str": "1901916354",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 152,
+      "location": "",
+      "name": "Matt Finn",
+      "notifications": false,
+      "profile_background_color": "646B6E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901916354/1555113714",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1194060852623745029/AVST_23D_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194060852623745029/AVST_23D_normal.jpg",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MattFinnFNC",
+      "statuses_count": 3210,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/l2ATPLXe6l",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1207359122372476928,
+  "quoted_status_id_str": "1207359122372476928",
+  "quoted_status_permalink": {
+    "display": "twitter.com/MattFinnFNC/st\u2026",
+    "expanded": "https://twitter.com/MattFinnFNC/status/1207359122372476928",
+    "url": "https://t.co/CltmJQdm1t"
+  },
+  "retweet_count": 22690,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

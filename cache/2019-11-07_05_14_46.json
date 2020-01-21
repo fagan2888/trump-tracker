@@ -1,0 +1,608 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 07 05:14:46 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          59,
+          70
+        ],
+        "text": "TrumpRally"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: Check out the overflow crowd for tonight\u2019s #TrumpRally in Monroe, Louisiana! Early voting is underway! Don\u2019t forget to get\u2026",
+  "geo": null,
+  "id": 1192309395549343744,
+  "id_str": "1192309395549343744",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1192268143462375425,
+  "quoted_status_id_str": "1192268143462375425",
+  "quoted_status_permalink": {
+    "display": "twitter.com/danscavino/sta\u2026",
+    "expanded": "https://twitter.com/danscavino/status/1192268143462375425",
+    "url": "https://t.co/oZ8jXfp6pF"
+  },
+  "retweet_count": 9272,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 07 03:06:56 +0000 2019",
+    "display_text_range": [
+      0,
+      215
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            43,
+            54
+          ],
+          "text": "TrumpRally"
+        },
+        {
+          "indices": [
+            158,
+            164
+          ],
+          "text": "LAGov"
+        },
+        {
+          "indices": [
+            166,
+            176
+          ],
+          "text": "GeauxVote"
+        },
+        {
+          "indices": [
+            177,
+            182
+          ],
+          "text": "MAGA"
+        },
+        {
+          "indices": [
+            183,
+            191
+          ],
+          "text": "KAG2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/j2SZUYhAaM",
+          "expanded_url": "https://twitter.com/DanScavino/status/1192277224969375744/video/1",
+          "features": {},
+          "id": 1192277042919870465,
+          "id_str": "1192277042919870465",
+          "indices": [
+            216,
+            239
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192277042919870465/pu/img/dJ5rmVMVE47OPsKt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192277042919870465/pu/img/dJ5rmVMVE47OPsKt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/j2SZUYhAaM"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/danscavino/sta\u2026",
+          "expanded_url": "https://twitter.com/danscavino/status/1192268143462375425",
+          "indices": [
+            192,
+            215
+          ],
+          "url": "https://t.co/oZ8jXfp6pF"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1053004873069981696,
+          "id_str": "1053004873069981696",
+          "indices": [
+            140,
+            153
+          ],
+          "name": "Eddie Rispone",
+          "screen_name": "EddieRispone"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/j2SZUYhAaM",
+          "expanded_url": "https://twitter.com/DanScavino/status/1192277224969375744/video/1",
+          "features": {},
+          "id": 1192277042919870465,
+          "id_str": "1192277042919870465",
+          "indices": [
+            216,
+            239
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192277042919870465/pu/img/dJ5rmVMVE47OPsKt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192277042919870465/pu/img/dJ5rmVMVE47OPsKt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/j2SZUYhAaM",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 10005,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1192277042919870465/pu/vid/640x360/KU8IK9_EFMIqfiNP.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1192277042919870465/pu/pl/s_fW2Qdiyy7ZJgl6.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1192277042919870465/pu/vid/1280x720/Qi4g4Qs8iPTe6Uyu.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1192277042919870465/pu/vid/480x270/3TKBXx9S1GqfvvYJ.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 28529,
+    "favorited": false,
+    "full_text": "Check out the overflow crowd for tonight\u2019s #TrumpRally in Monroe, Louisiana! Early voting is underway! Don\u2019t forget to get out and VOTE for @EddieRispone for #LAGov! #GeauxVote #MAGA #KAG2020 https://t.co/oZ8jXfp6pF https://t.co/j2SZUYhAaM",
+    "geo": null,
+    "id": 1192277224969375744,
+    "id_str": "1192277224969375744",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Nov 07 02:30:51 +0000 2019",
+      "display_text_range": [
+        0,
+        78
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              37,
+              42
+            ],
+            "text": "MAGA"
+          },
+          {
+            "indices": [
+              43,
+              54
+            ],
+            "text": "TrumpRally"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ACNWVFhxC7",
+            "expanded_url": "https://twitter.com/DanScavino/status/1192268143462375425/video/1",
+            "features": {},
+            "id": 1192266712097468417,
+            "id_str": "1192266712097468417",
+            "indices": [
+              79,
+              102
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192266712097468417/pu/img/Xp8_dZvYhM0mgz5F.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192266712097468417/pu/img/Xp8_dZvYhM0mgz5F.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ACNWVFhxC7"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/lagop/status/1\u2026",
+            "expanded_url": "https://twitter.com/lagop/status/1192224779958411264",
+            "indices": [
+              55,
+              78
+            ],
+            "url": "https://t.co/Lu5wjvlEYT"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/ACNWVFhxC7",
+            "expanded_url": "https://twitter.com/DanScavino/status/1192268143462375425/video/1",
+            "features": {},
+            "id": 1192266712097468417,
+            "id_str": "1192266712097468417",
+            "indices": [
+              79,
+              102
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192266712097468417/pu/img/Xp8_dZvYhM0mgz5F.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192266712097468417/pu/img/Xp8_dZvYhM0mgz5F.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/ACNWVFhxC7",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 92400,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1192266712097468417/pu/vid/640x360/U5kpQGq4FMuNbVuF.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1192266712097468417/pu/pl/OCzOgIwu6L10lyoU.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1192266712097468417/pu/vid/480x270/BMHQ3Z5mw9goW3kj.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1192266712097468417/pu/vid/1280x720/PfxyOukORgCKPshe.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 4618,
+      "favorited": false,
+      "full_text": "\ud83d\udea8HAPPENING NOW in Monroe, Louisiana! #MAGA #TrumpRally https://t.co/Lu5wjvlEYT https://t.co/ACNWVFhxC7",
+      "geo": null,
+      "id": 1192268143462375425,
+      "id_str": "1192268143462375425",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 1192224779958411264,
+      "quoted_status_id_str": "1192224779958411264",
+      "quoted_status_permalink": {
+        "display": "twitter.com/lagop/status/1\u2026",
+        "expanded": "https://twitter.com/lagop/status/1192224779958411264",
+        "url": "https://t.co/Lu5wjvlEYT"
+      },
+      "retweet_count": 1570,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": false,
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "MAKING AMERICA GREAT AGAIN!\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8Personal Twitter Handle.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 2940,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 585251,
+        "following": false,
+        "friends_count": 770,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 620571475,
+        "id_str": "620571475",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3629,
+        "location": "Washington, DC\u2708\ufe0fNew York",
+        "name": "Dan Scavino",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1571389614",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DanScavino",
+        "statuses_count": 10630,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1192268143462375425,
+    "quoted_status_id_str": "1192268143462375425",
+    "quoted_status_permalink": {
+      "display": "twitter.com/danscavino/sta\u2026",
+      "expanded": "https://twitter.com/danscavino/status/1192268143462375425",
+      "url": "https://t.co/oZ8jXfp6pF"
+    },
+    "retweet_count": 9272,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "MAKING AMERICA GREAT AGAIN!\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8Personal Twitter Handle.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2940,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 585251,
+      "following": false,
+      "friends_count": 770,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3629,
+      "location": "Washington, DC\u2708\ufe0fNew York",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1571389614",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10630,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66630100,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110566,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45895,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

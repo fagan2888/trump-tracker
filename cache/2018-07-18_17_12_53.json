@@ -1,0 +1,288 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jul 18 17:12:53 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 115749048,
+        "id_str": "115749048",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "U.S. Secret Service",
+        "screen_name": "SecretService"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SecretService: In Remembrance: Special Agent Nole E. Remagen. This week the U.S. Secret Service lost one of America\u2019s finest. We ask fo\u2026",
+  "geo": null,
+  "id": 1019631102535897088,
+  "id_str": "1019631102535897088",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 13022,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 18 14:49:32 +0000 2018",
+    "display_text_range": [
+      0,
+      257
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ykAVxsRaN7",
+          "expanded_url": "https://twitter.com/SecretService/status/1019595028006690816/photo/1",
+          "id": 1019594659981660160,
+          "id_str": "1019594659981660160",
+          "indices": [
+            258,
+            281
+          ],
+          "media_url": "http://pbs.twimg.com/media/DiZT8PMXkAAOMFR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DiZT8PMXkAAOMFR.jpg",
+          "sizes": {
+            "large": {
+              "h": 599,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 599,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 398,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ykAVxsRaN7"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2NY4bKM",
+          "expanded_url": "https://bit.ly/2NY4bKM",
+          "indices": [
+            234,
+            257
+          ],
+          "url": "https://t.co/bv2V4XKZFs"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ykAVxsRaN7",
+          "expanded_url": "https://twitter.com/SecretService/status/1019595028006690816/photo/1",
+          "id": 1019594659981660160,
+          "id_str": "1019594659981660160",
+          "indices": [
+            258,
+            281
+          ],
+          "media_url": "http://pbs.twimg.com/media/DiZT8PMXkAAOMFR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DiZT8PMXkAAOMFR.jpg",
+          "sizes": {
+            "large": {
+              "h": 599,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 599,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 398,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ykAVxsRaN7"
+        }
+      ]
+    },
+    "favorite_count": 41651,
+    "favorited": false,
+    "full_text": "In Remembrance: Special Agent Nole E. Remagen. This week the U.S. Secret Service lost one of America\u2019s finest. We ask for your thoughts and prayers for his family, friends and colleagues. Forever Worthy of Trust and Confidence. More: https://t.co/bv2V4XKZFs https://t.co/ykAVxsRaN7",
+    "geo": null,
+    "id": 1019595028006690816,
+    "id_str": "1019595028006690816",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13022,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 19 20:07:37 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Secret Service is mandated by Congress to carry out an integrated mission of protection and criminal investigations.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "secretservice.gov",
+              "expanded_url": "http://www.secretservice.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/bDT6iI7IFl"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4,
+      "follow_request_sent": false,
+      "followers_count": 624494,
+      "following": false,
+      "friends_count": 46,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 115749048,
+      "id_str": "115749048",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 4540,
+      "location": "",
+      "name": "U.S. Secret Service",
+      "notifications": false,
+      "profile_background_color": "1A1A33",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/115749048/1523033318",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/773160382835765249/J6J-jLYB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/773160382835765249/J6J-jLYB_normal.jpg",
+      "profile_link_color": "1A1A33",
+      "profile_sidebar_border_color": "1A1A33",
+      "profile_sidebar_fill_color": "F29010",
+      "profile_text_color": "730F04",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SecretService",
+      "statuses_count": 2806,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/bDT6iI7IFl",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 53142351,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 90698,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1531968290",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38232,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

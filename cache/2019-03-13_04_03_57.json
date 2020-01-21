@@ -1,0 +1,470 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 13 04:03:57 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          104,
+          116
+        ],
+        "text": "publiclands"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      },
+      {
+        "id": 11651202,
+        "id_str": "11651202",
+        "indices": [
+          30,
+          42
+        ],
+        "name": "Steve Daines",
+        "screen_name": "SteveDaines"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: Well done @SteveDaines! As we spoke about on the campaign trail and in hunting camp #publiclands is a big issue for us\u2026",
+  "geo": null,
+  "id": 1105680874723594240,
+  "id_str": "1105680874723594240",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1105534360348971009,
+  "quoted_status_id_str": "1105534360348971009",
+  "quoted_status_permalink": {
+    "display": "twitter.com/stevedaines/st\u2026",
+    "expanded": "https://twitter.com/stevedaines/status/1105534360348971009",
+    "url": "https://t.co/XEvZTU5OWJ"
+  },
+  "retweet_count": 2451,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 12 18:58:40 +0000 2019",
+    "display_text_range": [
+      0,
+      282
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            84,
+            96
+          ],
+          "text": "publiclands"
+        },
+        {
+          "indices": [
+            269,
+            282
+          ],
+          "text": "keepitpublic"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/stevedaines/st\u2026",
+          "expanded_url": "https://twitter.com/stevedaines/status/1105534360348971009",
+          "indices": [
+            283,
+            306
+          ],
+          "url": "https://t.co/XEvZTU5OWJ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 11651202,
+          "id_str": "11651202",
+          "indices": [
+            10,
+            22
+          ],
+          "name": "Steve Daines",
+          "screen_name": "SteveDaines"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            142,
+            158
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 8727,
+    "favorited": false,
+    "full_text": "Well done @SteveDaines! As we spoke about on the campaign trail and in hunting camp #publiclands is a big issue for us and all Americans, and @realDonaldTrump will preserve that heritage for future generations. A great step forward and another promise made &amp; kept. #keepitpublic https://t.co/XEvZTU5OWJ",
+    "geo": null,
+    "id": 1105543649331474432,
+    "id_str": "1105543649331474432",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Mar 12 18:21:45 +0000 2019",
+      "display_text_range": [
+        0,
+        181
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              176,
+              181
+            ],
+            "text": "LWCF"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3menMsel2o",
+            "expanded_url": "https://twitter.com/SteveDaines/status/1105534360348971009/photo/1",
+            "id": 1105534354481180678,
+            "id_str": "1105534354481180678",
+            "indices": [
+              182,
+              205
+            ],
+            "media_url": "http://pbs.twimg.com/media/D1elo1XXcAYms9D.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1elo1XXcAYms9D.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3menMsel2o"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              78,
+              94
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3menMsel2o",
+            "expanded_url": "https://twitter.com/SteveDaines/status/1105534360348971009/photo/1",
+            "id": 1105534354481180678,
+            "id_str": "1105534354481180678",
+            "indices": [
+              182,
+              205
+            ],
+            "media_url": "http://pbs.twimg.com/media/D1elo1XXcAYms9D.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1elo1XXcAYms9D.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3menMsel2o"
+          }
+        ]
+      },
+      "favorite_count": 1549,
+      "favorited": false,
+      "full_text": "Great news for Montana!  Catching a ride back to Capitol Hill after watching \u2066@realDonaldTrump\u2069 sign The Lands Package in the Oval Office.  He gave me one of the signing pens. #LWCF https://t.co/3menMsel2o",
+      "geo": null,
+      "id": 1105534360348971009,
+      "id_str": "1105534360348971009",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 314,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 30 05:52:03 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Married 32 years to Cindy. Parents of four. Grandpa to one. Three dogs. Serving the people of Montana in the U.S. Senate. \ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "daines.senate.gov",
+                "expanded_url": "http://www.daines.senate.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/6cQwcMCeGt"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1861,
+        "follow_request_sent": false,
+        "followers_count": 41816,
+        "following": false,
+        "friends_count": 640,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 11651202,
+        "id_str": "11651202",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1246,
+        "location": "Bozeman, MT",
+        "name": "Steve Daines",
+        "notifications": false,
+        "profile_background_color": "88D0F7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11651202/1495145842",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/922463090935058432/XTchDLbm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/922463090935058432/XTchDLbm_normal.jpg",
+        "profile_link_color": "0B60BA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SteveDaines",
+        "statuses_count": 5673,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/6cQwcMCeGt",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1105534360348971009,
+    "quoted_status_id_str": "1105534360348971009",
+    "quoted_status_permalink": {
+      "display": "twitter.com/stevedaines/st\u2026",
+      "expanded": "https://twitter.com/stevedaines/status/1105534360348971009",
+      "url": "https://t.co/XEvZTU5OWJ"
+    },
+    "retweet_count": 2451,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "TrumpStore.com",
+              "expanded_url": "http://TrumpStore.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/2qPo57KgoO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10747,
+      "follow_request_sent": false,
+      "followers_count": 3393553,
+      "following": false,
+      "friends_count": 1306,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10449,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1471620140",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 26885,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/2qPo57KgoO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 58958774,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101109,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40856,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

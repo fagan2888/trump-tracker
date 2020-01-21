@@ -1,0 +1,437 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 12 21:10:23 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818910970567344128,
+        "id_str": "818910970567344128",
+        "indices": [
+          3,
+          6
+        ],
+        "name": "Vice President Mike Pence",
+        "screen_name": "VP"
+      },
+      {
+        "id": 822127086194348032,
+        "id_str": "822127086194348032",
+        "indices": [
+          48,
+          59
+        ],
+        "name": "Second Lady Karen Pence",
+        "screen_name": "SecondLady"
+      },
+      {
+        "id": 16613128,
+        "id_str": "16613128",
+        "indices": [
+          130,
+          134
+        ],
+        "name": "CBP",
+        "screen_name": "CBP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @VP: Toured the Donna Processing Center with @SecondLady and saw firsthand how even in the face of our overwhelmed facilities, @CBP is p\u2026",
+  "geo": null,
+  "id": 1149788113968910337,
+  "id_str": "1149788113968910337",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7013,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 12 20:47:42 +0000 2019",
+    "display_text_range": [
+      0,
+      271
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zQZkJKRGU4",
+          "expanded_url": "https://twitter.com/VP/status/1149782406024638464/photo/1",
+          "id": 1149782231474475008,
+          "id_str": "1149782231474475008",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_TY2QQXkAAAKI2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_TY2QQXkAAAKI2.jpg",
+          "sizes": {
+            "large": {
+              "h": 911,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 911,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 605,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zQZkJKRGU4"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822127086194348032,
+          "id_str": "822127086194348032",
+          "indices": [
+            40,
+            51
+          ],
+          "name": "Second Lady Karen Pence",
+          "screen_name": "SecondLady"
+        },
+        {
+          "id": 16613128,
+          "id_str": "16613128",
+          "indices": [
+            122,
+            126
+          ],
+          "name": "CBP",
+          "screen_name": "CBP"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zQZkJKRGU4",
+          "expanded_url": "https://twitter.com/VP/status/1149782406024638464/photo/1",
+          "id": 1149782231474475008,
+          "id_str": "1149782231474475008",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_TY2QQXkAAAKI2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_TY2QQXkAAAKI2.jpg",
+          "sizes": {
+            "large": {
+              "h": 911,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 911,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 605,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zQZkJKRGU4"
+        },
+        {
+          "display_url": "pic.twitter.com/zQZkJKRGU4",
+          "expanded_url": "https://twitter.com/VP/status/1149782406024638464/photo/1",
+          "id": 1149782231554166784,
+          "id_str": "1149782231554166784",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_TY2QjXkAAzTHC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_TY2QjXkAAzTHC.jpg",
+          "sizes": {
+            "large": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zQZkJKRGU4"
+        },
+        {
+          "display_url": "pic.twitter.com/zQZkJKRGU4",
+          "expanded_url": "https://twitter.com/VP/status/1149782406024638464/photo/1",
+          "id": 1149782231583461378,
+          "id_str": "1149782231583461378",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_TY2QqWkAIXDuV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_TY2QqWkAIXDuV.jpg",
+          "sizes": {
+            "large": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zQZkJKRGU4"
+        },
+        {
+          "display_url": "pic.twitter.com/zQZkJKRGU4",
+          "expanded_url": "https://twitter.com/VP/status/1149782406024638464/photo/1",
+          "id": 1149782231642251264,
+          "id_str": "1149782231642251264",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_TY2Q4XoAAENvV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_TY2Q4XoAAENvV.jpg",
+          "sizes": {
+            "large": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zQZkJKRGU4"
+        }
+      ]
+    },
+    "favorite_count": 20349,
+    "favorited": false,
+    "full_text": "Toured the Donna Processing Center with @SecondLady and saw firsthand how even in the face of our overwhelmed facilities, @CBP is providing humane and compassionate care. Congress MUST reform our laws to end this unsustainable crisis of illegal immigration at the border. https://t.co/zQZkJKRGU4",
+    "geo": null,
+    "id": 1149782406024638464,
+    "id_str": "1149782406024638464",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7013,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 20:02:44 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Vice President Mike Pence. Husband, father, & honored to serve as the 48th Vice President of the United States. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                136,
+                159
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Whitehouse.gov",
+              "expanded_url": "http://Whitehouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8TGZjBkuaR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16,
+      "follow_request_sent": false,
+      "followers_count": 7605113,
+      "following": false,
+      "friends_count": 13,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 818910970567344128,
+      "id_str": "818910970567344128",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9230,
+      "location": "Washington, D.C.",
+      "name": "Vice President Mike Pence",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818910970567344128/1559336634",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "VP",
+      "statuses_count": 6778,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8TGZjBkuaR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 61882786,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105181,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42870,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

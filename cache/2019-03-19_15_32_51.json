@@ -1,0 +1,245 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 19 15:32:51 +0000 2019",
+  "display_text_range": [
+    0,
+    41
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          29,
+          41
+        ],
+        "text": "StopTheBias"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/SecretsBedard/\u2026",
+        "expanded_url": "https://twitter.com/SecretsBedard/status/1107985087029743617",
+        "indices": [
+          42,
+          65
+        ],
+        "url": "https://t.co/ZTWQolvmdM"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 63596,
+  "favorited": false,
+  "full_text": "I will be looking into this! #StopTheBias https://t.co/ZTWQolvmdM",
+  "geo": null,
+  "id": 1108028566791471104,
+  "id_str": "1108028566791471104",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 19 12:40:04 +0000 2019",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "washex.am/2JjITZW",
+          "expanded_url": "https://washex.am/2JjITZW",
+          "indices": [
+            108,
+            131
+          ],
+          "url": "https://t.co/TTn4mKahI1"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            24,
+            40
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 823367015830323201,
+          "id_str": "823367015830323201",
+          "indices": [
+            97,
+            107
+          ],
+          "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+          "screen_name": "Scavino45"
+        }
+      ]
+    },
+    "favorite_count": 5950,
+    "favorited": false,
+    "full_text": "STILL...Facebook blocks @realDonaldTrump \u2019s social media chief: 'Why are you silencing me?' asks @Scavino45 https://t.co/TTn4mKahI1",
+    "geo": null,
+    "id": 1107985087029743617,
+    "id_str": "1107985087029743617",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3919,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Dec 10 20:24:36 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Washington Secrets and Outdoor Life guy.\nWas USNews Washington Whispers, Wash Times WH correspondent.\nemail: pbedard@washingtonexaminer.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "washingtonexaminer.com/politics/washi\u2026",
+              "expanded_url": "http://washingtonexaminer.com/politics/washington-secrets",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/a35mC8SDei"
+            }
+          ]
+        }
+      },
+      "favourites_count": 198,
+      "follow_request_sent": false,
+      "followers_count": 20701,
+      "following": false,
+      "friends_count": 4799,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18029328,
+      "id_str": "18029328",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 605,
+      "location": "Washington, DC",
+      "name": "Paul Bedard",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2962541964/6ecbb0e45c431b387758bdf4cbe5a3fe_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2962541964/6ecbb0e45c431b387758bdf4cbe5a3fe_normal.jpeg",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SecretsBedard",
+      "statuses_count": 27992,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/a35mC8SDei",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1107985087029743617,
+  "quoted_status_id_str": "1107985087029743617",
+  "quoted_status_permalink": {
+    "display": "twitter.com/SecretsBedard/\u2026",
+    "expanded": "https://twitter.com/SecretsBedard/status/1107985087029743617",
+    "url": "https://t.co/ZTWQolvmdM"
+  },
+  "retweet_count": 19824,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59154659,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101306,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40977,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

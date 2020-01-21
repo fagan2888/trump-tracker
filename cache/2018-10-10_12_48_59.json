@@ -1,0 +1,304 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 10 12:48:59 +0000 2018",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          28,
+          36
+        ],
+        "text": "Michael"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 299798272,
+        "id_str": "299798272",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "National Hurricane Center",
+        "screen_name": "NHC_Atlantic"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NHC_Atlantic: Hurricane #Michael.  In addition to the life-threatening storm surge and wind impacts, heavy rainfall is expected across\u2026",
+  "geo": null,
+  "id": 1050005273279127553,
+  "id_str": "1050005273279127553",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2721,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 10 09:43:27 +0000 2018",
+    "display_text_range": [
+      0,
+      239
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            10,
+            18
+          ],
+          "text": "Michael"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cUlAtrFTDC",
+          "expanded_url": "https://twitter.com/NHC_Atlantic/status/1049958579866873856/photo/1",
+          "id": 1049955897999597569,
+          "id_str": "1049955897999597569",
+          "indices": [
+            240,
+            263
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpIxU4oXoAEBeyD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpIxU4oXoAEBeyD.jpg",
+          "sizes": {
+            "large": {
+              "h": 716,
+              "resize": "fit",
+              "w": 895
+            },
+            "medium": {
+              "h": 716,
+              "resize": "fit",
+              "w": 895
+            },
+            "small": {
+              "h": 544,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/cUlAtrFTDC"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cUlAtrFTDC",
+          "expanded_url": "https://twitter.com/NHC_Atlantic/status/1049958579866873856/photo/1",
+          "id": 1049955897999597569,
+          "id_str": "1049955897999597569",
+          "indices": [
+            240,
+            263
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpIxU4oXoAEBeyD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpIxU4oXoAEBeyD.jpg",
+          "sizes": {
+            "large": {
+              "h": 716,
+              "resize": "fit",
+              "w": 895
+            },
+            "medium": {
+              "h": 716,
+              "resize": "fit",
+              "w": 895
+            },
+            "small": {
+              "h": 544,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/cUlAtrFTDC"
+        }
+      ]
+    },
+    "favorite_count": 9104,
+    "favorited": false,
+    "full_text": "Hurricane #Michael.  In addition to the life-threatening storm surge and wind impacts, heavy rainfall is expected across a large portion of the southeastern U.S. along Michael's track.  These heavy rains are expected to extend well inland. https://t.co/cUlAtrFTDC",
+    "geo": null,
+    "id": 1049958579866873856,
+    "id_str": "1049958579866873856",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2721,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 16 17:59:24 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "This is the primary official Twitter account for the National Hurricane Center, focusing on the Atlantic basin. For more details: https://t.co/mRyGMdRYT3",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "weather.gov/twitter",
+              "expanded_url": "http://weather.gov/twitter",
+              "indices": [
+                130,
+                153
+              ],
+              "url": "https://t.co/mRyGMdRYT3"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nhc.noaa.gov",
+              "expanded_url": "http://www.nhc.noaa.gov/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/5gzYJFziuU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4,
+      "follow_request_sent": false,
+      "followers_count": 536728,
+      "following": false,
+      "friends_count": 70,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 299798272,
+      "id_str": "299798272",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 9538,
+      "location": "Miami, FL",
+      "name": "National Hurricane Center",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/299798272/1361991526",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/892736587397816320/nTDra-V-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/892736587397816320/nTDra-V-_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NHC_Atlantic",
+      "statuses_count": 7313,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/5gzYJFziuU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55028490,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39236,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

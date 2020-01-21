@@ -1,0 +1,361 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 13 16:35:55 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 816131319033950208,
+        "id_str": "816131319033950208",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Jim Banks",
+        "screen_name": "RepJimBanks"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepJimBanks: Today, America will see one party try and overturn the constitutional election of a president of the United States of Amer\u2026",
+  "geo": null,
+  "id": 1194655138046238720,
+  "id_str": "1194655138046238720",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6492,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 13 15:00:56 +0000 2019",
+    "display_text_range": [
+      0,
+      218
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            186,
+            202
+          ],
+          "text": "ImpeachmentHoax"
+        },
+        {
+          "indices": [
+            203,
+            218
+          ],
+          "text": "ImpeachmentDay"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/HtqD4cStG0",
+          "expanded_url": "https://twitter.com/RepJimBanks/status/1194631237547089920/video/1",
+          "features": {},
+          "id": 1194630905546952710,
+          "id_str": "1194630905546952710",
+          "indices": [
+            219,
+            242
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194630905546952710/pu/img/R2PUXVW19kNpHk5L.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194630905546952710/pu/img/R2PUXVW19kNpHk5L.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/HtqD4cStG0"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            142,
+            158
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 138182116,
+          "id_str": "138182116",
+          "indices": [
+            173,
+            185
+          ],
+          "name": "Trish Regan",
+          "screen_name": "trish_regan"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/HtqD4cStG0",
+          "expanded_url": "https://twitter.com/RepJimBanks/status/1194631237547089920/video/1",
+          "features": {},
+          "id": 1194630905546952710,
+          "id_str": "1194630905546952710",
+          "indices": [
+            219,
+            242
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194630905546952710/pu/img/R2PUXVW19kNpHk5L.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194630905546952710/pu/img/R2PUXVW19kNpHk5L.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/HtqD4cStG0",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 72567,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1194630905546952710/pu/vid/1280x720/eI43miozUOwa5HGr.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1194630905546952710/pu/vid/640x360/m5fgBf4L0WxLAc2f.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1194630905546952710/pu/vid/480x270/3Bksf3ICABjJZXww.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1194630905546952710/pu/pl/80griBZnAs6lB1wY.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 18756,
+    "favorited": false,
+    "full_text": "Today, America will see one party try and overturn the constitutional election of a president of the United States of America -- a goal since @realDonaldTrump was elected.\n\n@trish_regan #ImpeachmentHoax #ImpeachmentDay https://t.co/HtqD4cStG0",
+    "geo": null,
+    "id": 1194631237547089920,
+    "id_str": "1194631237547089920",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6492,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 03 03:57:24 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Actual news headline: \"Rep. Banks tweets frequently about impeachment\"\nhttps://t.co/MtX0VcMCY4",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "kpcnews.com/newssun/articl\u2026",
+              "expanded_url": "https://www.kpcnews.com/newssun/article_8dba3a4a-e65e-51d2-a98c-3e982e4f1c69.html",
+              "indices": [
+                71,
+                94
+              ],
+              "url": "https://t.co/MtX0VcMCY4"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "banks.house.gov",
+              "expanded_url": "http://banks.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Uxbf6p28Ch"
+            }
+          ]
+        }
+      },
+      "favourites_count": 390,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 19046,
+      "following": false,
+      "friends_count": 1364,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 816131319033950208,
+      "id_str": "816131319033950208",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 461,
+      "location": "Indiana's 3rd District",
+      "name": "Jim Banks",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816131319033950208/1567022368",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057387589861285890/5dgSPb6C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057387589861285890/5dgSPb6C_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepJimBanks",
+      "statuses_count": 4534,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Uxbf6p28Ch",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66798877,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110680,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46128,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

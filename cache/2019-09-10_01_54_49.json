@@ -1,0 +1,447 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 10 01:54:49 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22203756,
+        "id_str": "22203756",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Mike Pence",
+        "screen_name": "mike_pence"
+      },
+      {
+        "id": 1912799826,
+        "id_str": "1912799826",
+        "indices": [
+          83,
+          94
+        ],
+        "name": "Dan Bishop",
+        "screen_name": "jdanbishop"
+      },
+      {
+        "id": 975198558461800449,
+        "id_str": "975198558461800449",
+        "indices": [
+          96,
+          108
+        ],
+        "name": "Mark Meadows",
+        "screen_name": "MarkMeadows"
+      },
+      {
+        "id": 127941167,
+        "id_str": "127941167",
+        "indices": [
+          115,
+          127
+        ],
+        "name": "David Rouzer",
+        "screen_name": "DavidRouzer"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @mike_pence: Great time stopping by Rock Store BBQ in Marshville for lunch with @jdanbishop, @MarkMeadows &amp; @DavidRouzer! Thanks for the\u2026",
+  "geo": null,
+  "id": 1171240579642089473,
+  "id_str": "1171240579642089473",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2315,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 09 19:45:17 +0000 2019",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PJRcJ67OOu",
+          "expanded_url": "https://twitter.com/mike_pence/status/1171147584154603520/photo/1",
+          "id": 1171147531847421952,
+          "id_str": "1171147531847421952",
+          "indices": [
+            142,
+            165
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEDAeadXUAAMsNy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEDAeadXUAAMsNy.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PJRcJ67OOu"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1912799826,
+          "id_str": "1912799826",
+          "indices": [
+            67,
+            78
+          ],
+          "name": "Dan Bishop",
+          "screen_name": "jdanbishop"
+        },
+        {
+          "id": 975198558461800449,
+          "id_str": "975198558461800449",
+          "indices": [
+            80,
+            92
+          ],
+          "name": "Mark Meadows",
+          "screen_name": "MarkMeadows"
+        },
+        {
+          "id": 127941167,
+          "id_str": "127941167",
+          "indices": [
+            99,
+            111
+          ],
+          "name": "David Rouzer",
+          "screen_name": "DavidRouzer"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PJRcJ67OOu",
+          "expanded_url": "https://twitter.com/mike_pence/status/1171147584154603520/photo/1",
+          "id": 1171147531847421952,
+          "id_str": "1171147531847421952",
+          "indices": [
+            142,
+            165
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEDAeadXUAAMsNy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEDAeadXUAAMsNy.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PJRcJ67OOu"
+        },
+        {
+          "display_url": "pic.twitter.com/PJRcJ67OOu",
+          "expanded_url": "https://twitter.com/mike_pence/status/1171147584154603520/photo/1",
+          "id": 1171147531843198976,
+          "id_str": "1171147531843198976",
+          "indices": [
+            142,
+            165
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEDAeacW4AAPBT-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEDAeacW4AAPBT-.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PJRcJ67OOu"
+        },
+        {
+          "display_url": "pic.twitter.com/PJRcJ67OOu",
+          "expanded_url": "https://twitter.com/mike_pence/status/1171147584154603520/photo/1",
+          "id": 1171147531847446528,
+          "id_str": "1171147531847446528",
+          "indices": [
+            142,
+            165
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEDAeadXsAAwY67.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEDAeadXsAAwY67.jpg",
+          "sizes": {
+            "large": {
+              "h": 1470,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 861,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 488,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PJRcJ67OOu"
+        },
+        {
+          "display_url": "pic.twitter.com/PJRcJ67OOu",
+          "expanded_url": "https://twitter.com/mike_pence/status/1171147584154603520/photo/1",
+          "id": 1171147531843186689,
+          "id_str": "1171147531843186689",
+          "indices": [
+            142,
+            165
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEDAeacWsAEZlpR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEDAeacWsAEZlpR.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PJRcJ67OOu"
+        }
+      ]
+    },
+    "favorite_count": 10061,
+    "favorited": false,
+    "full_text": "Great time stopping by Rock Store BBQ in Marshville for lunch with @jdanbishop, @MarkMeadows &amp; @DavidRouzer! Thanks for the warm welcome! https://t.co/PJRcJ67OOu",
+    "geo": null,
+    "id": 1171147584154603520,
+    "id_str": "1171147584154603520",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2315,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 27 23:04:51 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Vice President of the United States",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hymxC9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 720,
+      "follow_request_sent": false,
+      "followers_count": 3936222,
+      "following": false,
+      "friends_count": 974,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 22203756,
+      "id_str": "22203756",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8535,
+      "location": "",
+      "name": "Mike Pence",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22203756/1560971280",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D6D6D6",
+      "profile_text_color": "002248",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "mike_pence",
+      "statuses_count": 5876,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hymxC9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 64133798,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108294,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44170,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

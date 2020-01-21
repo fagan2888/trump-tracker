@@ -1,0 +1,309 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 20 23:04:16 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 844281463,
+        "id_str": "844281463",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Danielle D'Souza Gill",
+        "screen_name": "danielledsouzag"
+      },
+      {
+        "id": 488679352,
+        "id_str": "488679352",
+        "indices": [
+          44,
+          60
+        ],
+        "name": "Fox & Friends First",
+        "screen_name": "FoxFriendsFirst"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @danielledsouzag: Up bright and early on @FoxFriendsFirst discussing Trump\u2019s rally in North Carolina, his latest approval rating at 50%,\u2026",
+  "geo": null,
+  "id": 1152715878426906626,
+  "id_str": "1152715878426906626",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4003,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 18 08:53:48 +0000 2019",
+    "display_text_range": [
+      0,
+      241
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KlkHUt70iA",
+          "expanded_url": "https://twitter.com/danielledsouzag/status/1151777074119684096/photo/1",
+          "id": 1151777070642585601,
+          "id_str": "1151777070642585601",
+          "indices": [
+            242,
+            265
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_vvJLQXYAEzFfQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_vvJLQXYAEzFfQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 684,
+              "resize": "fit",
+              "w": 684
+            },
+            "medium": {
+              "h": 684,
+              "resize": "fit",
+              "w": 684
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/KlkHUt70iA"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 488679352,
+          "id_str": "488679352",
+          "indices": [
+            23,
+            39
+          ],
+          "name": "Fox & Friends First",
+          "screen_name": "FoxFriendsFirst"
+        },
+        {
+          "id": 220081296,
+          "id_str": "220081296",
+          "indices": [
+            225,
+            241
+          ],
+          "name": "Heather Childers",
+          "screen_name": "HeatherChilders"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KlkHUt70iA",
+          "expanded_url": "https://twitter.com/danielledsouzag/status/1151777074119684096/photo/1",
+          "id": 1151777070642585601,
+          "id_str": "1151777070642585601",
+          "indices": [
+            242,
+            265
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_vvJLQXYAEzFfQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_vvJLQXYAEzFfQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 684,
+              "resize": "fit",
+              "w": 684
+            },
+            "medium": {
+              "h": 684,
+              "resize": "fit",
+              "w": 684
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/KlkHUt70iA"
+        }
+      ]
+    },
+    "favorite_count": 16080,
+    "favorited": false,
+    "full_text": "Up bright and early on @FoxFriendsFirst discussing Trump\u2019s rally in North Carolina, his latest approval rating at 50%, and the fact that under his administration we\u2019ve seen the lowest unemployment rate for women in 50 years. @HeatherChilders https://t.co/KlkHUt70iA",
+    "geo": null,
+    "id": 1151777074119684096,
+    "id_str": "1151777074119684096",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4003,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 24 20:44:14 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Young woman who loves God and supports our President. #WomenforTrump Advisory Board, Frequently seen on @FoxNews \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/danielledsouza\u2026",
+              "expanded_url": "https://www.instagram.com/danielledsouzagill/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CrPOptkcPt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8346,
+      "follow_request_sent": false,
+      "followers_count": 55318,
+      "following": false,
+      "friends_count": 4335,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 844281463,
+      "id_str": "844281463",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 173,
+      "location": "New York, NY",
+      "name": "Danielle D'Souza Gill",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/844281463/1563669076",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1152798988803944448/Nwga3d3-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152798988803944448/Nwga3d3-_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "danielledsouzag",
+      "statuses_count": 1483,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/CrPOptkcPt",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62143369,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105505,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43040,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

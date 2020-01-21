@@ -1,0 +1,394 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 12 12:33:57 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 5509762,
+        "id_str": "5509762",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Sarah Huckabee Sanders",
+        "screen_name": "SarahHuckabee"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          69,
+          85
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 862405301693296640,
+        "id_str": "862405301693296640",
+        "indices": [
+          87,
+          98
+        ],
+        "name": "USTR",
+        "screen_name": "USTradeRep"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SarahHuckabee: A testimony to the excellent USMCA deal President @realDonaldTrump, @USTradeRep Robert Lighthizer, and Jared Kushner neg\u2026",
+  "geo": null,
+  "id": 1205103493834563585,
+  "id_str": "1205103493834563585",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1204414590479523840,
+  "quoted_status_id_str": "1204414590479523840",
+  "quoted_status_permalink": {
+    "display": "twitter.com/WSJ/status/120\u2026",
+    "expanded": "https://twitter.com/WSJ/status/1204414590479523840",
+    "url": "https://t.co/MXt2Ll0WD0"
+  },
+  "retweet_count": 5231,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 10 21:18:32 +0000 2019",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            252,
+            277
+          ],
+          "text": "PromisesMadePromisesKept"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/WSJ/status/120\u2026",
+          "expanded_url": "https://twitter.com/WSJ/status/1204414590479523840",
+          "indices": [
+            278,
+            301
+          ],
+          "url": "https://t.co/MXt2Ll0WD0"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            50,
+            66
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 862405301693296640,
+          "id_str": "862405301693296640",
+          "indices": [
+            68,
+            79
+          ],
+          "name": "USTR",
+          "screen_name": "USTradeRep"
+        }
+      ]
+    },
+    "favorite_count": 20963,
+    "favorited": false,
+    "full_text": "A testimony to the excellent USMCA deal President @realDonaldTrump, @USTradeRep Robert Lighthizer, and Jared Kushner negotiated - even the Democrats cannot find fault with it! A historic, bipartisan victory for President Trump and the American people. #PromisesMadePromisesKept https://t.co/MXt2Ll0WD0",
+    "geo": null,
+    "id": 1204510733918183424,
+    "id_str": "1204510733918183424",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Dec 10 14:56:29 +0000 2019",
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "on.wsj.com/2P75Tfr",
+            "expanded_url": "https://on.wsj.com/2P75Tfr",
+            "indices": [
+              140,
+              163
+            ],
+            "url": "https://t.co/9i0EfCAey4"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 477,
+      "favorited": false,
+      "full_text": "Breaking: House Democrats reach an agreement with the Trump administration on a trade deal with Mexico and Canada, Democratic lawmakers say https://t.co/9i0EfCAey4",
+      "geo": null,
+      "id": 1204414590479523840,
+      "id_str": "1204414590479523840",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 222,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Breaking news and features from https://t.co/GhhR6PLfem.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wsj.com",
+                "expanded_url": "http://wsj.com",
+                "indices": [
+                  32,
+                  55
+                ],
+                "url": "https://t.co/GhhR6PLfem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wsj.com",
+                "expanded_url": "http://wsj.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/GhhR6PLfem"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1201,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 17083985,
+        "following": false,
+        "friends_count": 1120,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3108351,
+        "id_str": "3108351",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 113631,
+        "location": "New York, NY",
+        "name": "The Wall Street Journal",
+        "notifications": false,
+        "profile_background_color": "EDF2F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1562333209",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+        "profile_link_color": "1164B8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WSJ",
+        "statuses_count": 293921,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/GhhR6PLfem",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1204414590479523840,
+    "quoted_status_id_str": "1204414590479523840",
+    "quoted_status_permalink": {
+      "display": "twitter.com/WSJ/status/120\u2026",
+      "expanded": "https://twitter.com/WSJ/status/1204414590479523840",
+      "url": "https://t.co/MXt2Ll0WD0"
+    },
+    "retweet_count": 5231,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 25 22:00:29 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Christian. Wife. Mom to three. Former Press Sec for @realdonaldtrump. @foxnews contributor. Traveler. Arkansan.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "sarahhuckabeesanders.com",
+              "expanded_url": "http://sarahhuckabeesanders.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/LPWPNNoZhW"
+            }
+          ]
+        }
+      },
+      "favourites_count": 650,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 478367,
+      "following": false,
+      "friends_count": 2523,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 5509762,
+      "id_str": "5509762",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1884,
+      "location": "Little Rock, AR",
+      "name": "Sarah Huckabee Sanders",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5509762/1561823944",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1144998720766959623/xaD1-IHV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144998720766959623/xaD1-IHV_normal.jpg",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SarahHuckabee",
+      "statuses_count": 3773,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/LPWPNNoZhW",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67491776,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47085,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

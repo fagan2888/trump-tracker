@@ -1,0 +1,452 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 20 17:52:31 +0000 2019",
+  "display_text_range": [
+    0,
+    88
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/lqE2XLQ25I",
+        "expanded_url": "https://twitter.com/IvankaTrump/status/1118038510152372224/video/1",
+        "id": 1118038137895305216,
+        "id_str": "1118038137895305216",
+        "indices": [
+          65,
+          88
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118038137895305216/pu/img/6-nzLitqfkULZxNX.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118038137895305216/pu/img/6-nzLitqfkULZxNX.jpg",
+        "sizes": {
+          "large": {
+            "h": 406,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 406,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1118038510152372224,
+        "source_status_id_str": "1118038510152372224",
+        "source_user_id": 52544275,
+        "source_user_id_str": "52544275",
+        "type": "photo",
+        "url": "https://t.co/lqE2XLQ25I"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 1719,
+            "follow_request_sent": false,
+            "followers_count": 6389814,
+            "following": false,
+            "friends_count": 1383,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 52544275,
+            "id_str": "52544275",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 21032,
+            "location": "Washington, DC",
+            "name": "Ivanka Trump",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+            "profile_link_color": "FF6872",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "IvankaTrump",
+            "statuses_count": 15329,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/lqE2XLQ25I",
+        "expanded_url": "https://twitter.com/IvankaTrump/status/1118038510152372224/video/1",
+        "id": 1118038137895305216,
+        "id_str": "1118038137895305216",
+        "indices": [
+          65,
+          88
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118038137895305216/pu/img/6-nzLitqfkULZxNX.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118038137895305216/pu/img/6-nzLitqfkULZxNX.jpg",
+        "sizes": {
+          "large": {
+            "h": 406,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 406,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1118038510152372224,
+        "source_status_id_str": "1118038510152372224",
+        "source_user_id": 52544275,
+        "source_user_id_str": "52544275",
+        "type": "video",
+        "url": "https://t.co/lqE2XLQ25I",
+        "video_info": {
+          "aspect_ratio": [
+            360,
+            203
+          ],
+          "duration_millis": 59770,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1118038137895305216/pu/vid/318x180/fBeyYFahHXFf4omH.mp4?tag=8"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1118038137895305216/pu/vid/720x406/LZ4oS__Sh-yFkHA_.mp4?tag=8"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1118038137895305216/pu/pl/W84LBpapNDTJ4TNj.m3u8?tag=8"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: Thank you for an incredible trip Ethiopia! \ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddf9 https://t.co/lqE2XLQ25I",
+  "geo": null,
+  "id": 1119660126158381056,
+  "id_str": "1119660126158381056",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 7890,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 16 06:28:47 +0000 2019",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/lqE2XLQ25I",
+          "expanded_url": "https://twitter.com/IvankaTrump/status/1118038510152372224/video/1",
+          "id": 1118038137895305216,
+          "id_str": "1118038137895305216",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118038137895305216/pu/img/6-nzLitqfkULZxNX.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118038137895305216/pu/img/6-nzLitqfkULZxNX.jpg",
+          "sizes": {
+            "large": {
+              "h": 406,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 406,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lqE2XLQ25I"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/lqE2XLQ25I",
+          "expanded_url": "https://twitter.com/IvankaTrump/status/1118038510152372224/video/1",
+          "id": 1118038137895305216,
+          "id_str": "1118038137895305216",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118038137895305216/pu/img/6-nzLitqfkULZxNX.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118038137895305216/pu/img/6-nzLitqfkULZxNX.jpg",
+          "sizes": {
+            "large": {
+              "h": 406,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 406,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/lqE2XLQ25I",
+          "video_info": {
+            "aspect_ratio": [
+              360,
+              203
+            ],
+            "duration_millis": 59770,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1118038137895305216/pu/vid/318x180/fBeyYFahHXFf4omH.mp4?tag=8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1118038137895305216/pu/vid/720x406/LZ4oS__Sh-yFkHA_.mp4?tag=8"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1118038137895305216/pu/pl/W84LBpapNDTJ4TNj.m3u8?tag=8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 42498,
+    "favorited": false,
+    "full_text": "Thank you for an incredible trip Ethiopia! \ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddf9 https://t.co/lqE2XLQ25I",
+    "geo": null,
+    "id": 1118038510152372224,
+    "id_str": "1118038510152372224",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7890,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1719,
+      "follow_request_sent": false,
+      "followers_count": 6389814,
+      "following": false,
+      "friends_count": 1383,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 21032,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 15329,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 59810388,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102043,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41335,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

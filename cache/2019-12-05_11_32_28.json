@@ -1,0 +1,455 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 05 11:32:28 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 827279765287559171,
+        "id_str": "827279765287559171",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Rep. Mike Johnson",
+        "screen_name": "RepMikeJohnson"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          57,
+          73
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 1060487274,
+        "id_str": "1060487274",
+        "indices": [
+          102,
+          117
+        ],
+        "name": "Rep. Doug Collins",
+        "screen_name": "RepDougCollins"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepMikeJohnson: Can't wait to tell my kids President @realDonaldTrump (kind of) retweeted me \ud83d\ude06 cc @RepDougCollins https://t.co/zo54qOa7\u2026",
+  "geo": null,
+  "id": 1202551305178406914,
+  "id_str": "1202551305178406914",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7195,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 04 23:01:13 +0000 2019",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zo54qOa7Vd",
+          "expanded_url": "https://twitter.com/RepMikeJohnson/status/1202362250289459201/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 67,
+                  "y": 319
+                },
+                {
+                  "h": 200,
+                  "w": 200,
+                  "x": 593,
+                  "y": 638
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 65,
+                  "y": 310
+                },
+                {
+                  "h": 194,
+                  "w": 194,
+                  "x": 578,
+                  "y": 621
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 67,
+                  "y": 319
+                },
+                {
+                  "h": 200,
+                  "w": 200,
+                  "x": 593,
+                  "y": 638
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 24,
+                  "w": 24,
+                  "x": 37,
+                  "y": 176
+                },
+                {
+                  "h": 110,
+                  "w": 110,
+                  "x": 327,
+                  "y": 352
+                }
+              ]
+            }
+          },
+          "id": 1202362246145462274,
+          "id_str": "1202362246145462274",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/EK-mF6zXUAIUYLu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EK-mF6zXUAIUYLu.jpg",
+          "sizes": {
+            "large": {
+              "h": 1188,
+              "resize": "fit",
+              "w": 1231
+            },
+            "medium": {
+              "h": 1158,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 656,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zo54qOa7Vd"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            37,
+            53
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 1060487274,
+          "id_str": "1060487274",
+          "indices": [
+            82,
+            97
+          ],
+          "name": "Rep. Doug Collins",
+          "screen_name": "RepDougCollins"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zo54qOa7Vd",
+          "expanded_url": "https://twitter.com/RepMikeJohnson/status/1202362250289459201/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 67,
+                  "y": 319
+                },
+                {
+                  "h": 200,
+                  "w": 200,
+                  "x": 593,
+                  "y": 638
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 65,
+                  "y": 310
+                },
+                {
+                  "h": 194,
+                  "w": 194,
+                  "x": 578,
+                  "y": 621
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 67,
+                  "y": 319
+                },
+                {
+                  "h": 200,
+                  "w": 200,
+                  "x": 593,
+                  "y": 638
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 24,
+                  "w": 24,
+                  "x": 37,
+                  "y": 176
+                },
+                {
+                  "h": 110,
+                  "w": 110,
+                  "x": 327,
+                  "y": 352
+                }
+              ]
+            }
+          },
+          "id": 1202362246145462274,
+          "id_str": "1202362246145462274",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/EK-mF6zXUAIUYLu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EK-mF6zXUAIUYLu.jpg",
+          "sizes": {
+            "large": {
+              "h": 1188,
+              "resize": "fit",
+              "w": 1231
+            },
+            "medium": {
+              "h": 1158,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 656,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zo54qOa7Vd"
+        }
+      ]
+    },
+    "favorite_count": 30392,
+    "favorited": false,
+    "full_text": "Can't wait to tell my kids President @realDonaldTrump (kind of) retweeted me \ud83d\ude06 cc @RepDougCollins https://t.co/zo54qOa7Vd",
+    "geo": null,
+    "id": 1202362250289459201,
+    "id_str": "1202362250289459201",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7195,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 02 22:17:20 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Proudly serving Louisiana's 4th Congressional District. Chairman of @RepublicanStudy. Member on @HouseJudiciary & @NatResources.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "mikejohnson.house.gov",
+              "expanded_url": "https://mikejohnson.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/qLAyhrFbRl"
+            }
+          ]
+        }
+      },
+      "favourites_count": 116,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 14225,
+      "following": false,
+      "friends_count": 389,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 827279765287559171,
+      "id_str": "827279765287559171",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 383,
+      "location": "Washington, DC",
+      "name": "Rep. Mike Johnson",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/827279765287559171/1486074831",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/827283914297184257/JaccwIw2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/827283914297184257/JaccwIw2_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepMikeJohnson",
+      "statuses_count": 1894,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/qLAyhrFbRl",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67309429,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111079,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46700,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

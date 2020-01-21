@@ -1,0 +1,339 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 30 03:08:59 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1060487274,
+        "id_str": "1060487274",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Rep. Doug Collins",
+        "screen_name": "RepDougCollins"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          49,
+          65
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepDougCollins: Adam Schiff wants to impeach @RealDonaldTrump for not going along with the \u201cimpeachment\u201d inquiry that even Democrats ha\u2026",
+  "geo": null,
+  "id": 1189378636803129344,
+  "id_str": "1189378636803129344",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7491,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 29 16:24:23 +0000 2019",
+    "display_text_range": [
+      0,
+      151
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gGOJZ8oVTM",
+          "expanded_url": "https://twitter.com/RepDougCollins/status/1189216417905872896/video/1",
+          "features": {},
+          "id": 1189212034245771269,
+          "id_str": "1189212034245771269",
+          "indices": [
+            152,
+            175
+          ],
+          "media_url": "http://pbs.twimg.com/media/EIDviQSWoAArMKQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EIDviQSWoAArMKQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gGOJZ8oVTM"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            29,
+            45
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/gGOJZ8oVTM",
+          "expanded_url": "https://twitter.com/RepDougCollins/status/1189216417905872896/video/1",
+          "features": {},
+          "id": 1189212034245771269,
+          "id_str": "1189212034245771269",
+          "indices": [
+            152,
+            175
+          ],
+          "media_url": "http://pbs.twimg.com/media/EIDviQSWoAArMKQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EIDviQSWoAArMKQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/gGOJZ8oVTM",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 270270,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1189212034245771269/vid/640x360/i8Nwb9HPalLSw-Th.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1189212034245771269/vid/1280x720/NRpx_Ga91_nPXRid.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1189212034245771269/vid/480x270/m2JtLZC1F6Hraq-7.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1189212034245771269/pl/JM9mJhxV0srYKRId.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 19835,
+    "favorited": false,
+    "full_text": "Adam Schiff wants to impeach @RealDonaldTrump for not going along with the \u201cimpeachment\u201d inquiry that even Democrats have now admitted is unauthorized? https://t.co/gGOJZ8oVTM",
+    "geo": null,
+    "id": 1189216417905872896,
+    "id_str": "1189216417905872896",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7491,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 04 13:43:55 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Working for Georgia's 9th Congressional District. Pastor, attorney, military chaplain. Ranking Member of @JudiciaryGOP.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dougcollins.house.gov",
+              "expanded_url": "http://dougcollins.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/6yvc1EfV0T"
+            }
+          ]
+        }
+      },
+      "favourites_count": 603,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 150421,
+      "following": false,
+      "friends_count": 957,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1060487274,
+      "id_str": "1060487274",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1392,
+      "location": "Gainesville, Georgia",
+      "name": "Rep. Doug Collins",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060487274/1504726600",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024748216712146944/Hc_eYsbv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024748216712146944/Hc_eYsbv_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepDougCollins",
+      "statuses_count": 4142,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/6yvc1EfV0T",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66369765,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45634,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

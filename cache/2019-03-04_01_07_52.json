@@ -1,0 +1,402 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 04 01:07:52 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 271093564,
+        "id_str": "271093564",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Ryan Cale",
+        "screen_name": "rcale1776"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @rcale1776: Jon Stewart \u201cListen up everybody, the Trump Justice Dept is doing an excellent job administrating the 911 compensation act\u201d\u2026",
+  "geo": null,
+  "id": 1102375070536790018,
+  "id_str": "1102375070536790018",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11280,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 25 22:04:35 +0000 2019",
+    "display_text_range": [
+      0,
+      257
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            185,
+            190
+          ],
+          "text": "MAGA"
+        },
+        {
+          "indices": [
+            191,
+            199
+          ],
+          "text": "TheFive"
+        },
+        {
+          "indices": [
+            200,
+            217
+          ],
+          "text": "MondayMotivation"
+        },
+        {
+          "indices": [
+            218,
+            233
+          ],
+          "text": "MondayThoughts"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4af9mCS06Z",
+          "expanded_url": "https://twitter.com/ABCPolitics/status/1100134437478531072/video/1",
+          "id": 1100134282494849025,
+          "id_str": "1100134282494849025",
+          "indices": [
+            234,
+            257
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0R2b2LU0AAdLPU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0R2b2LU0AAdLPU.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1100134437478531072,
+          "source_status_id_str": "1100134437478531072",
+          "source_user_id": 16815644,
+          "source_user_id_str": "16815644",
+          "type": "photo",
+          "url": "https://t.co/4af9mCS06Z"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "http://abcnews.com"
+              }
+            },
+            "description": "ABC News",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Oct 16 22:43:16 +0000 2008",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Reports from @ABC News' political team.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "abcnews.go.com/politics",
+                      "expanded_url": "http://abcnews.go.com/politics",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/SO3M0qceOH"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 67,
+              "follow_request_sent": false,
+              "followers_count": 721613,
+              "following": false,
+              "friends_count": 475,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 16815644,
+              "id_str": "16815644",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 6231,
+              "location": "Washington, DC",
+              "name": "ABC News Politics",
+              "notifications": false,
+              "profile_background_color": "FFFFFF",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/16815644/1401371089",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1083377873811984386/EONbRz3x_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083377873811984386/EONbRz3x_normal.jpg",
+              "profile_link_color": "336699",
+              "profile_sidebar_border_color": "B7CFDE",
+              "profile_sidebar_fill_color": "88A0B3",
+              "profile_text_color": "000000",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "ABCPolitics",
+              "statuses_count": 119052,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/SO3M0qceOH",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": "Video"
+          },
+          "display_url": "pic.twitter.com/4af9mCS06Z",
+          "expanded_url": "https://twitter.com/ABCPolitics/status/1100134437478531072/video/1",
+          "id": 1100134282494849025,
+          "id_str": "1100134282494849025",
+          "indices": [
+            234,
+            257
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0R2b2LU0AAdLPU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0R2b2LU0AAdLPU.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1100134437478531072,
+          "source_status_id_str": "1100134437478531072",
+          "source_user_id": 16815644,
+          "source_user_id_str": "16815644",
+          "type": "video",
+          "url": "https://t.co/4af9mCS06Z",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 96196,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1100134282494849025/vid/640x360/K3VXqh7ufJ_QQyCH.mp4?tag=9"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1100134282494849025/vid/1280x720/2mEXbskHxtyRYoEX.mp4?tag=9"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1100134282494849025/vid/320x180/PCIbATF7-XKu0VMx.mp4?tag=9"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1100134282494849025/pl/B5-7esNn4NSXTtgq.m3u8?tag=9"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 37810,
+    "favorited": false,
+    "full_text": "Jon Stewart \u201cListen up everybody, the Trump Justice Dept is doing an excellent job administrating the 911 compensation act\u201d This is why we voted for an outsider... Trump gets it done!  #MAGA #TheFive #MondayMotivation #MondayThoughts https://t.co/4af9mCS06Z",
+    "geo": null,
+    "id": 1100154617894191105,
+    "id_str": "1100154617894191105",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11280,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 23 21:05:41 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Love America-Pro Israel-Pro Life-#MAGA Trump Conservative-Dad-Uncle-Political-History-& Movie Junkie @LibertyU Grad-Followed by @staceydash",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 13442,
+      "follow_request_sent": false,
+      "followers_count": 5401,
+      "following": false,
+      "friends_count": 5215,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 271093564,
+      "id_str": "271093564",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 46,
+      "location": "Lynchburg,Va.",
+      "name": "Ryan Cale",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/271093564/1437844742",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/741775889386622976/sldAJ9oI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/741775889386622976/sldAJ9oI_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "rcale1776",
+      "statuses_count": 13402,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 58801522,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 100888,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40732,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

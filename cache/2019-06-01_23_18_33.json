@@ -1,0 +1,385 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jun 01 23:18:33 +0000 2019",
+  "display_text_range": [
+    0,
+    135
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Smu9eC9YAG",
+        "expanded_url": "https://twitter.com/toddstarnes/status/1133400460516319232/photo/1",
+        "id": 1133400459165745154,
+        "id_str": "1133400459165745154",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/D7qltmzWwAIWOQ8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D7qltmzWwAIWOQ8.jpg",
+        "sizes": {
+          "large": {
+            "h": 683,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 683,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 454,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1133400460516319232,
+        "source_status_id_str": "1133400460516319232",
+        "source_user_id": 15515169,
+        "source_user_id_str": "15515169",
+        "type": "photo",
+        "url": "https://t.co/Smu9eC9YAG"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "mailchi.mp/foxnews/050920\u2026",
+        "expanded_url": "https://mailchi.mp/foxnews/05092019-975685",
+        "indices": [
+          88,
+          111
+        ],
+        "url": "https://t.co/WS2nRB1oME"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 15515169,
+        "id_str": "15515169",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "toddstarnes",
+        "screen_name": "toddstarnes"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Smu9eC9YAG",
+        "expanded_url": "https://twitter.com/toddstarnes/status/1133400460516319232/photo/1",
+        "id": 1133400459165745154,
+        "id_str": "1133400459165745154",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/D7qltmzWwAIWOQ8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D7qltmzWwAIWOQ8.jpg",
+        "sizes": {
+          "large": {
+            "h": 683,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 683,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 454,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1133400460516319232,
+        "source_status_id_str": "1133400460516319232",
+        "source_user_id": 15515169,
+        "source_user_id_str": "15515169",
+        "type": "photo",
+        "url": "https://t.co/Smu9eC9YAG"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @toddstarnes: Franklin Graham Calls for National Day of Prayer for President Trump - https://t.co/WS2nRB1oME https://t.co/Smu9eC9YAG",
+  "geo": null,
+  "id": 1134962468051128321,
+  "id_str": "1134962468051128321",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 4219,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 28 15:51:42 +0000 2019",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Smu9eC9YAG",
+          "expanded_url": "https://twitter.com/toddstarnes/status/1133400460516319232/photo/1",
+          "id": 1133400459165745154,
+          "id_str": "1133400459165745154",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7qltmzWwAIWOQ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7qltmzWwAIWOQ8.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Smu9eC9YAG"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "mailchi.mp/foxnews/050920\u2026",
+          "expanded_url": "https://mailchi.mp/foxnews/05092019-975685",
+          "indices": [
+            71,
+            94
+          ],
+          "url": "https://t.co/WS2nRB1oME"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Smu9eC9YAG",
+          "expanded_url": "https://twitter.com/toddstarnes/status/1133400460516319232/photo/1",
+          "id": 1133400459165745154,
+          "id_str": "1133400459165745154",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/D7qltmzWwAIWOQ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D7qltmzWwAIWOQ8.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Smu9eC9YAG"
+        }
+      ]
+    },
+    "favorite_count": 16215,
+    "favorited": false,
+    "full_text": "Franklin Graham Calls for National Day of Prayer for President Trump - https://t.co/WS2nRB1oME https://t.co/Smu9eC9YAG",
+    "geo": null,
+    "id": 1133400460516319232,
+    "id_str": "1133400460516319232",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4219,
+    "retweeted": false,
+    "source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">MailChimp</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jul 21 14:09:17 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Fox News Channel #StarnesCountry #MAGA #ToddStarnesRadioShow",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "toddstarnes.com",
+              "expanded_url": "http://www.toddstarnes.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/DYS5t6aIfE"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3804,
+      "follow_request_sent": false,
+      "followers_count": 103219,
+      "following": false,
+      "friends_count": 13555,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 15515169,
+      "id_str": "15515169",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2362,
+      "location": "New York, NY",
+      "name": "toddstarnes",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15515169/1544414925",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1133030176055599105/O1ILMZmZ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133030176055599105/O1ILMZmZ_normal.png",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "toddstarnes",
+      "statuses_count": 67694,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/DYS5t6aIfE",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60741231,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103708,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559318619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42171,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

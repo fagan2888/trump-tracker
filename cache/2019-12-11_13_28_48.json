@@ -1,0 +1,635 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 11 13:28:48 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          106,
+          123
+        ],
+        "text": "KeepAmericaGreat"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22203756,
+        "id_str": "22203756",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Mike Pence",
+        "screen_name": "Mike_Pence"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Mike_Pence: Electric crowd here tonight in the Keystone State! Pennsylvania and American know that to #KeepAmericaGreat we need FOUR MO\u2026",
+  "geo": null,
+  "id": 1204754910958542849,
+  "id_str": "1204754910958542849",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3228,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 11 01:44:32 +0000 2019",
+    "display_text_range": [
+      0,
+      165
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            90,
+            107
+          ],
+          "text": "KeepAmericaGreat"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/k3JTcPYbrL",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1204577674548535296/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1204577639278641152,
+          "id_str": "1204577639278641152",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELeE-xWVAAA0EEg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELeE-xWVAAA0EEg.jpg",
+          "sizes": {
+            "large": {
+              "h": 1314,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 770,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 436,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/k3JTcPYbrL"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            145,
+            161
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/k3JTcPYbrL",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1204577674548535296/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1204577639278641152,
+          "id_str": "1204577639278641152",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELeE-xWVAAA0EEg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELeE-xWVAAA0EEg.jpg",
+          "sizes": {
+            "large": {
+              "h": 1314,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 770,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 436,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/k3JTcPYbrL"
+        },
+        {
+          "display_url": "pic.twitter.com/k3JTcPYbrL",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1204577674548535296/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1204577639274434560,
+          "id_str": "1204577639274434560",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELeE-xVU0AAvIo-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELeE-xVU0AAvIo-.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/k3JTcPYbrL"
+        },
+        {
+          "display_url": "pic.twitter.com/k3JTcPYbrL",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1204577674548535296/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1204577639282835456,
+          "id_str": "1204577639282835456",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELeE-xXVAAA2SsZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELeE-xXVAAA2SsZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/k3JTcPYbrL"
+        },
+        {
+          "display_url": "pic.twitter.com/k3JTcPYbrL",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1204577674548535296/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 470,
+                  "y": 1022
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 278,
+                  "y": 968
+                },
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 1144,
+                  "y": 980
+                },
+                {
+                  "h": 124,
+                  "w": 124,
+                  "x": 1740,
+                  "y": 1048
+                },
+                {
+                  "h": 144,
+                  "w": 144,
+                  "x": 444,
+                  "y": 1208
+                },
+                {
+                  "h": 178,
+                  "w": 178,
+                  "x": 796,
+                  "y": 772
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 275,
+                  "y": 598
+                },
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 162,
+                  "y": 567
+                },
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 670,
+                  "y": 574
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 1019,
+                  "y": 614
+                },
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 260,
+                  "y": 707
+                },
+                {
+                  "h": 104,
+                  "w": 104,
+                  "x": 466,
+                  "y": 452
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 470,
+                  "y": 1022
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 278,
+                  "y": 968
+                },
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 1144,
+                  "y": 980
+                },
+                {
+                  "h": 124,
+                  "w": 124,
+                  "x": 1740,
+                  "y": 1048
+                },
+                {
+                  "h": 144,
+                  "w": 144,
+                  "x": 444,
+                  "y": 1208
+                },
+                {
+                  "h": 178,
+                  "w": 178,
+                  "x": 796,
+                  "y": 772
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 156,
+                  "y": 339
+                },
+                {
+                  "h": 31,
+                  "w": 31,
+                  "x": 92,
+                  "y": 321
+                },
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 379,
+                  "y": 325
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 577,
+                  "y": 347
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 147,
+                  "y": 401
+                },
+                {
+                  "h": 59,
+                  "w": 59,
+                  "x": 264,
+                  "y": 256
+                }
+              ]
+            }
+          },
+          "id": 1204577639278596097,
+          "id_str": "1204577639278596097",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELeE-xWUUAEl5hJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELeE-xWUUAEl5hJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/k3JTcPYbrL"
+        }
+      ]
+    },
+    "favorite_count": 13557,
+    "favorited": false,
+    "full_text": "Electric crowd here tonight in the Keystone State! Pennsylvania and American know that to #KeepAmericaGreat we need FOUR MORE YEARS of President @realDonaldTrump! \ud83c\uddfa\ud83c\uddf8 https://t.co/k3JTcPYbrL",
+    "geo": null,
+    "id": 1204577674548535296,
+    "id_str": "1204577674548535296",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3228,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 27 23:04:51 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Vice President of the United States",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hy4Wdz"
+            }
+          ]
+        }
+      },
+      "favourites_count": 716,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 4039759,
+      "following": false,
+      "friends_count": 90,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 22203756,
+      "id_str": "22203756",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8612,
+      "location": "",
+      "name": "Mike Pence",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22203756/1576029048",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D6D6D6",
+      "profile_text_color": "002248",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Mike_Pence",
+      "statuses_count": 6649,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hy4Wdz",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67448885,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111273,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46961,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 12 17:48:10 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 40116885,
+        "id_str": "40116885",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Rich Lowry",
+        "screen_name": "RichLowry"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RichLowry: I know he won\u2019t do this, because obviously the political narrative is important to him and people around him, but Mueller sh\u2026",
+  "geo": null,
+  "id": 1127631564869963776,
+  "id_str": "1127631564869963776",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1126898489022189568,
+  "quoted_status_id_str": "1126898489022189568",
+  "quoted_status_permalink": {
+    "display": "twitter.com/brianstelter/s\u2026",
+    "expanded": "https://twitter.com/brianstelter/status/1126898489022189568",
+    "url": "https://t.co/oEIXoe5llc"
+  },
+  "retweet_count": 3746,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 10 17:41:34 +0000 2019",
+    "display_text_range": [
+      0,
+      234
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/brianstelter/s\u2026",
+          "expanded_url": "https://twitter.com/brianstelter/status/1126898489022189568",
+          "indices": [
+            211,
+            234
+          ],
+          "url": "https://t.co/oEIXoe5llc"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 14336,
+    "favorited": false,
+    "full_text": "I know he won\u2019t do this, because obviously the political narrative is important to him and people around him, but Mueller should say, \u201cI wrote a 400-page report. That\u2019s my testimony. Do with it what you will.\u201d\n\nhttps://t.co/oEIXoe5llc",
+    "geo": null,
+    "id": 1126905128420823040,
+    "id_str": "1126905128420823040",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri May 10 17:15:11 +0000 2019",
+      "display_text_range": [
+        0,
+        166
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 150686538,
+            "id_str": "150686538",
+            "indices": [
+              36,
+              47
+            ],
+            "name": "Jeremy Herb",
+            "screen_name": "jeremyherb"
+          }
+        ]
+      },
+      "favorite_count": 268,
+      "favorited": false,
+      "full_text": "Robert Mueller testimony update via @jeremyherb: Nadler says \"it won't be next week. But we're negotiating with him, we're talking to him and the Justice Department.\"",
+      "geo": null,
+      "id": 1126898489022189568,
+      "id_str": "1126898489022189568",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 107,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 24 18:41:42 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Anchor of @ReliableSources and @CNN's chief media correspondent. Formerly @nytimes, @tvnewser and Top of the Morning. Email: bstelter@gmail.com",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brianstelter.com",
+                "expanded_url": "http://www.brianstelter.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/oAdPr7RfVz"
+              }
+            ]
+          }
+        },
+        "favourites_count": 242918,
+        "follow_request_sent": false,
+        "followers_count": 647777,
+        "following": false,
+        "friends_count": 6372,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14515799,
+        "id_str": "14515799",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13974,
+        "location": "New York City",
+        "name": "Brian Stelter",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+        "profile_link_color": "D44700",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brianstelter",
+        "statuses_count": 179334,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/oAdPr7RfVz",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1126898489022189568,
+    "quoted_status_id_str": "1126898489022189568",
+    "quoted_status_permalink": {
+      "display": "twitter.com/brianstelter/s\u2026",
+      "expanded": "https://twitter.com/brianstelter/status/1126898489022189568",
+      "url": "https://t.co/oEIXoe5llc"
+    },
+    "retweet_count": 3746,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu May 14 23:28:39 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Editor of National Review. Syndicated columnist. Yankees/Capitals/Titans. Speaking opps (debates welcome): lowry.speaking@gmail.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nationalreview.com",
+              "expanded_url": "http://nationalreview.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/WtikQmN8Xk"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1375,
+      "follow_request_sent": false,
+      "followers_count": 172813,
+      "following": false,
+      "friends_count": 729,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 40116885,
+      "id_str": "40116885",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3469,
+      "location": "",
+      "name": "Rich Lowry",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/40116885/1500580884",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/888120187811012608/iEjzG4LF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/888120187811012608/iEjzG4LF_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RichLowry",
+      "statuses_count": 25033,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/WtikQmN8Xk",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60190621,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102946,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41842,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

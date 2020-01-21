@@ -1,0 +1,565 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 12 19:50:11 +0000 2019",
+  "display_text_range": [
+    0,
+    124
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/y6Wv2ZyK1E",
+        "expanded_url": "https://twitter.com/DiamondandSilk/status/1160868533598687232/video/1",
+        "id": 1160768194111582208,
+        "id_str": "1160768194111582208",
+        "indices": [
+          101,
+          124
+        ],
+        "media_url": "http://pbs.twimg.com/media/EBvjyNkWkAAhDpT.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EBvjyNkWkAAhDpT.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1160868533598687232,
+        "source_status_id_str": "1160868533598687232",
+        "source_user_id": 2908170952,
+        "source_user_id_str": "2908170952",
+        "type": "photo",
+        "url": "https://t.co/y6Wv2ZyK1E"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2908170952,
+        "id_str": "2908170952",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Diamond and Silk\u00ae",
+        "screen_name": "DiamondandSilk"
+      },
+      {
+        "id": 2908170952,
+        "id_str": "2908170952",
+        "indices": [
+          21,
+          36
+        ],
+        "name": "Diamond and Silk\u00ae",
+        "screen_name": "DiamondandSilk"
+      },
+      {
+        "id": 26487169,
+        "id_str": "26487169",
+        "indices": [
+          40,
+          49
+        ],
+        "name": "Lou Dobbs",
+        "screen_name": "LouDobbs"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "call_to_actions": {
+            "visit_site": {
+              "url": "https://www.diamondandsilkinc.com/chit-chat-tour/"
+            }
+          },
+          "description": "Diamond and Silk on Lou Dobbs.  The \"Race Card\"",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Dec 06 18:49:06 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "President Donald J Trump's Most Loyal Supporters. Host of D&S Chit Chat Live. Vloggers, Fox Nation Host, Public Figures & Speakers. \nhttps://t.co/17S7rQtlYU",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "AboutDiamondandSilk.com",
+                    "expanded_url": "http://AboutDiamondandSilk.com",
+                    "indices": [
+                      133,
+                      156
+                    ],
+                    "url": "https://t.co/17S7rQtlYU"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "DiamondandSilk.com",
+                    "expanded_url": "http://www.DiamondandSilk.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/xdbTGlyGDv"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 3269,
+            "follow_request_sent": false,
+            "followers_count": 1200458,
+            "following": false,
+            "friends_count": 47,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 2908170952,
+            "id_str": "2908170952",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 3130,
+            "location": "United States",
+            "name": "Diamond and Silk\u00ae",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2908170952/1486302134",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/982586846390751232/fuZ_Z1fz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/982586846390751232/fuZ_Z1fz_normal.jpg",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "DiamondandSilk",
+            "statuses_count": 10789,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/xdbTGlyGDv",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": "Diamond and Silk on Lou Dobbs"
+        },
+        "display_url": "pic.twitter.com/y6Wv2ZyK1E",
+        "expanded_url": "https://twitter.com/DiamondandSilk/status/1160868533598687232/video/1",
+        "id": 1160768194111582208,
+        "id_str": "1160768194111582208",
+        "indices": [
+          101,
+          124
+        ],
+        "media_url": "http://pbs.twimg.com/media/EBvjyNkWkAAhDpT.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EBvjyNkWkAAhDpT.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1160868533598687232,
+        "source_status_id_str": "1160868533598687232",
+        "source_user_id": 2908170952,
+        "source_user_id_str": "2908170952",
+        "type": "video",
+        "url": "https://t.co/y6Wv2ZyK1E",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 54955,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1160768194111582208/pl/QUaZgBeRblCaFAGw.m3u8?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1160768194111582208/vid/480x270/jBZM1bB314joCf3k.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1160768194111582208/vid/1280x720/8J1pIGMYomy2_pF3.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1160768194111582208/vid/640x360/MDukKkqNT-1LvkF2.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DiamondandSilk: .@DiamondandSilk on @LouDobbs talking about who's really playing the \"Race Card\" https://t.co/y6Wv2ZyK1E",
+  "geo": null,
+  "id": 1161001958381150211,
+  "id_str": "1161001958381150211",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 10275,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Aug 12 11:00:00 +0000 2019",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/y6Wv2ZyK1E",
+          "expanded_url": "https://twitter.com/DiamondandSilk/status/1160868533598687232/video/1",
+          "id": 1160768194111582208,
+          "id_str": "1160768194111582208",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBvjyNkWkAAhDpT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBvjyNkWkAAhDpT.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/y6Wv2ZyK1E"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2908170952,
+          "id_str": "2908170952",
+          "indices": [
+            1,
+            16
+          ],
+          "name": "Diamond and Silk\u00ae",
+          "screen_name": "DiamondandSilk"
+        },
+        {
+          "id": 26487169,
+          "id_str": "26487169",
+          "indices": [
+            20,
+            29
+          ],
+          "name": "Lou Dobbs",
+          "screen_name": "LouDobbs"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.diamondandsilkinc.com/chit-chat-tour/"
+              }
+            },
+            "description": "Diamond and Silk on Lou Dobbs.  The \"Race Card\"",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Diamond and Silk on Lou Dobbs"
+          },
+          "display_url": "pic.twitter.com/y6Wv2ZyK1E",
+          "expanded_url": "https://twitter.com/DiamondandSilk/status/1160868533598687232/video/1",
+          "id": 1160768194111582208,
+          "id_str": "1160768194111582208",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBvjyNkWkAAhDpT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBvjyNkWkAAhDpT.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/y6Wv2ZyK1E",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 54955,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1160768194111582208/pl/QUaZgBeRblCaFAGw.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1160768194111582208/vid/480x270/jBZM1bB314joCf3k.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1160768194111582208/vid/1280x720/8J1pIGMYomy2_pF3.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1160768194111582208/vid/640x360/MDukKkqNT-1LvkF2.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 34194,
+    "favorited": false,
+    "full_text": ".@DiamondandSilk on @LouDobbs talking about who's really playing the \"Race Card\" https://t.co/y6Wv2ZyK1E",
+    "geo": null,
+    "id": 1160868533598687232,
+    "id_str": "1160868533598687232",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10275,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Dec 06 18:49:06 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President Donald J Trump's Most Loyal Supporters. Host of D&S Chit Chat Live. Vloggers, Fox Nation Host, Public Figures & Speakers. \nhttps://t.co/17S7rQtlYU",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "AboutDiamondandSilk.com",
+              "expanded_url": "http://AboutDiamondandSilk.com",
+              "indices": [
+                133,
+                156
+              ],
+              "url": "https://t.co/17S7rQtlYU"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DiamondandSilk.com",
+              "expanded_url": "http://www.DiamondandSilk.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xdbTGlyGDv"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3269,
+      "follow_request_sent": false,
+      "followers_count": 1200458,
+      "following": false,
+      "friends_count": 47,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 2908170952,
+      "id_str": "2908170952",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3130,
+      "location": "United States",
+      "name": "Diamond and Silk\u00ae",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2908170952/1486302134",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/982586846390751232/fuZ_Z1fz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/982586846390751232/fuZ_Z1fz_normal.jpg",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "DiamondandSilk",
+      "statuses_count": 10789,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/xdbTGlyGDv",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63023732,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106744,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43425,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 25 02:18:38 +0000 2019",
+  "display_text_range": [
+    0,
+    61
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Ecz4K3sOwh",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1154214345259257856/video/1",
+        "id": 1154212429724827649,
+        "id_str": "1154212429724827649",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/media/EASXrR6WsAE54D0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EASXrR6WsAE54D0.jpg",
+        "sizes": {
+          "large": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "medium": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "small": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Ecz4K3sOwh"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 171632862,
+        "id_str": "171632862",
+        "indices": [
+          1,
+          12
+        ],
+        "name": "Jay Sekulow",
+        "screen_name": "JaySekulow"
+      },
+      {
+        "id": 770781940341288960,
+        "id_str": "770781940341288960",
+        "indices": [
+          17,
+          30
+        ],
+        "name": "Rudy Giuliani",
+        "screen_name": "RudyGiuliani"
+      },
+      {
+        "id": 41634520,
+        "id_str": "41634520",
+        "indices": [
+          34,
+          46
+        ],
+        "name": "Sean Hannity",
+        "screen_name": "seanhannity"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/Ecz4K3sOwh",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1154214345259257856/video/1",
+        "id": 1154212429724827649,
+        "id_str": "1154212429724827649",
+        "indices": [
+          62,
+          85
+        ],
+        "media_url": "http://pbs.twimg.com/media/EASXrR6WsAE54D0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EASXrR6WsAE54D0.jpg",
+        "sizes": {
+          "large": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "medium": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "small": {
+            "h": 270,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/Ecz4K3sOwh",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 594973,
+          "variants": [
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1154212429724827649/vid/480x270/mNLV0TTSQFPfCG0m.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1154212429724827649/pl/inCj28S4a1HUrkhm.m3u8?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1154212429724827649/vid/640x360/fziAjfIzOWz7GNkX.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 19922,
+  "favorited": false,
+  "full_text": ".@JaySekulow and @RudyGiuliani on @SeanHannity moments ago... https://t.co/Ecz4K3sOwh",
+  "geo": null,
+  "id": 1154214345259257856,
+  "id_str": "1154214345259257856",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 6023,
+  "retweeted": false,
+  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62282263,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105718,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43132,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

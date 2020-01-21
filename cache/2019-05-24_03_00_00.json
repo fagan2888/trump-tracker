@@ -1,0 +1,434 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 24 03:00:00 +0000 2019",
+  "display_text_range": [
+    0,
+    68
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/simonwiesentha\u2026",
+        "expanded_url": "https://twitter.com/simonwiesenthal/status/1131709757016829953",
+        "indices": [
+          45,
+          68
+        ],
+        "url": "https://t.co/EIKFo2UMLy"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1079776144524754944,
+        "id_str": "1079776144524754944",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Nikki Haley",
+        "screen_name": "NikkiHaley"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NikkiHaley: A great night. Thank you. \u2764\ufe0f https://t.co/EIKFo2UMLy",
+  "geo": null,
+  "id": 1131756705430278145,
+  "id_str": "1131756705430278145",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1131709757016829953,
+  "quoted_status_id_str": "1131709757016829953",
+  "quoted_status_permalink": {
+    "display": "twitter.com/simonwiesentha\u2026",
+    "expanded": "https://twitter.com/simonwiesenthal/status/1131709757016829953",
+    "url": "https://t.co/EIKFo2UMLy"
+  },
+  "retweet_count": 2803,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 24 00:40:02 +0000 2019",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/simonwiesentha\u2026",
+          "expanded_url": "https://twitter.com/simonwiesenthal/status/1131709757016829953",
+          "indices": [
+            29,
+            52
+          ],
+          "url": "https://t.co/EIKFo2UMLy"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 14028,
+    "favorited": false,
+    "full_text": "A great night. Thank you. \u2764\ufe0f https://t.co/EIKFo2UMLy",
+    "geo": null,
+    "id": 1131721483645009922,
+    "id_str": "1131721483645009922",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu May 23 23:53:26 +0000 2019",
+      "display_text_range": [
+        0,
+        231
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              117,
+              121
+            ],
+            "text": "SWC"
+          },
+          {
+            "indices": [
+              224,
+              231
+            ],
+            "text": "Israel"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/6ZkGMy8vDX",
+            "expanded_url": "https://twitter.com/simonwiesenthal/status/1131709757016829953/photo/1",
+            "id": 1131709280846065665,
+            "id_str": "1131709280846065665",
+            "indices": [
+              232,
+              255
+            ],
+            "media_url": "http://pbs.twimg.com/media/D7SjmEnXsAEvFzq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7SjmEnXsAEvFzq.jpg",
+            "sizes": {
+              "large": {
+                "h": 1717,
+                "resize": "fit",
+                "w": 1254
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 876
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 497
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/6ZkGMy8vDX"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1079776144524754944,
+            "id_str": "1079776144524754944",
+            "indices": [
+              9,
+              20
+            ],
+            "name": "Nikki Haley",
+            "screen_name": "NikkiHaley"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/6ZkGMy8vDX",
+            "expanded_url": "https://twitter.com/simonwiesenthal/status/1131709757016829953/photo/1",
+            "id": 1131709280846065665,
+            "id_str": "1131709280846065665",
+            "indices": [
+              232,
+              255
+            ],
+            "media_url": "http://pbs.twimg.com/media/D7SjmEnXsAEvFzq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D7SjmEnXsAEvFzq.jpg",
+            "sizes": {
+              "large": {
+                "h": 1717,
+                "resize": "fit",
+                "w": 1254
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 876
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 497
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/6ZkGMy8vDX"
+          }
+        ]
+      },
+      "favorite_count": 835,
+      "favorited": false,
+      "full_text": "Chicago- @NikkiHaley receiving the SWC\u2019s highest honor, the Humanitarian Laureate Award, from Rabbi Marvin Hier and \n#SWC Trustee Dawn Arnall for her courage and compassion in protecting global human rights and the State of #Israel https://t.co/6ZkGMy8vDX",
+      "geo": null,
+      "id": 1131709757016829953,
+      "id_str": "1131709757016829953",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 198,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 06 19:14:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Confronting anti-Semitism, hate, standing with Israel, defending the safety of Jews worldwide, teaching the lessons of the Holocaust",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wiesenthal.com",
+                "expanded_url": "http://www.wiesenthal.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/aPy6gyjg5u"
+              }
+            ]
+          }
+        },
+        "favourites_count": 350,
+        "follow_request_sent": false,
+        "followers_count": 23899,
+        "following": false,
+        "friends_count": 5,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 54301390,
+        "id_str": "54301390",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 436,
+        "location": "Internat'l Hdqrts-Los Angeles",
+        "name": "SimonWiesenthalCntr",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54301390/1454624320",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/695371005678587904/tWalLRwD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/695371005678587904/tWalLRwD_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "simonwiesenthal",
+        "statuses_count": 3019,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/aPy6gyjg5u",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1131709757016829953,
+    "quoted_status_id_str": "1131709757016829953",
+    "quoted_status_permalink": {
+      "display": "twitter.com/simonwiesentha\u2026",
+      "expanded": "https://twitter.com/simonwiesenthal/status/1131709757016829953",
+      "url": "https://t.co/EIKFo2UMLy"
+    },
+    "retweet_count": 2803,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Dec 31 16:27:48 +0000 2018",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Former U.S. Ambassador to the UN. 116th Governor of South Carolina. @ClemsonUniv Tiger. Proud American \ud83c\uddfa\ud83c\uddf8.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "standforamerica.com",
+              "expanded_url": "http://www.standforamerica.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RQOLqxwMNq"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1486,
+      "follow_request_sent": false,
+      "followers_count": 413596,
+      "following": false,
+      "friends_count": 495,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1079776144524754944,
+      "id_str": "1079776144524754944",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 923,
+      "location": "",
+      "name": "Nikki Haley",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079776144524754944/1546277091",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1124394031818133513/Fz9ZWKUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124394031818133513/Fz9ZWKUO_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "NikkiHaley",
+      "statuses_count": 476,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/RQOLqxwMNq",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60501074,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42042,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

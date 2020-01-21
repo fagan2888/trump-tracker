@@ -1,0 +1,332 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Sep 21 20:25:20 +0000 2018",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 130432806,
+        "id_str": "130432806",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Ramona Giwargis",
+        "screen_name": "RamonaGiwargis"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          39,
+          55
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RamonaGiwargis: The crowd roars as @realDonaldTrump takes the stage. Says he\u2019s thrilled to be back in Ne-vah-da. \u201cYou have to say that\u2026",
+  "geo": null,
+  "id": 1043234744962437120,
+  "id_str": "1043234744962437120",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4805,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 21 02:27:44 +0000 2018",
+    "display_text_range": [
+      0,
+      208
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/BTE7R7TCQp",
+          "expanded_url": "https://twitter.com/RamonaGiwargis/status/1042963560916111360/photo/1",
+          "id": 1042963533305004032,
+          "id_str": "1042963533305004032",
+          "indices": [
+            209,
+            232
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlZzsRUwAA5aUx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlZzsRUwAA5aUx.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/BTE7R7TCQp"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            19,
+            35
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/BTE7R7TCQp",
+          "expanded_url": "https://twitter.com/RamonaGiwargis/status/1042963560916111360/photo/1",
+          "id": 1042963533305004032,
+          "id_str": "1042963533305004032",
+          "indices": [
+            209,
+            232
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlZzsRUwAA5aUx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlZzsRUwAA5aUx.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/BTE7R7TCQp"
+        }
+      ]
+    },
+    "favorite_count": 20951,
+    "favorited": false,
+    "full_text": "The crowd roars as @realDonaldTrump takes the stage. Says he\u2019s thrilled to be back in Ne-vah-da. \u201cYou have to say that just right,\u201d he jokes. Says the state is home to hardworking people who respect the flag. https://t.co/BTE7R7TCQp",
+    "geo": null,
+    "id": 1042963560916111360,
+    "id_str": "1042963560916111360",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -115.15208904318945,
+              36.13190973383464
+            ],
+            [
+              -115.15208904318945,
+              36.13190973383464
+            ],
+            [
+              -115.15208904318945,
+              36.13190973383464
+            ],
+            [
+              -115.15208904318945,
+              36.13190973383464
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "",
+      "country_code": "",
+      "full_name": "North Hall LVCC",
+      "id": "07d9ec8d13883000",
+      "name": "North Hall LVCC",
+      "place_type": "poi",
+      "url": "https://api.twitter.com/1.1/geo/id/07d9ec8d13883000.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 4805,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 07 08:16:00 +0000 2010",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "State Government Reporter for @reviewjournal. Previously: @mercnews, @mercedsunstar. I'm Assyrian, @SJSU grad, an animal lover, big MJ fan & I keep God first.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ramonagiwargis.com",
+              "expanded_url": "http://www.ramonagiwargis.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/0rkQqqi9Ak"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5137,
+      "follow_request_sent": false,
+      "followers_count": 5406,
+      "following": false,
+      "friends_count": 4021,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 130432806,
+      "id_str": "130432806",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 178,
+      "location": "Las Vegas, NV",
+      "name": "Ramona Giwargis",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/130432806/1516000628",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/495732261229441024/oncAmkey_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/495732261229441024/oncAmkey_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RamonaGiwargis",
+      "statuses_count": 12411,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/0rkQqqi9Ak",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54580117,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93873,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39068,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

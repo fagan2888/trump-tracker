@@ -1,0 +1,315 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Nov 01 01:57:18 +0000 2019",
+  "display_text_range": [
+    0,
+    10
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/elianatrue/sta\u2026",
+        "expanded_url": "https://twitter.com/elianatrue/status/1190080077188481027",
+        "indices": [
+          11,
+          34
+        ],
+        "url": "https://t.co/8yUP8Pex8c"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 37882,
+  "favorited": false,
+  "full_text": "Thank you! https://t.co/8yUP8Pex8c",
+  "geo": null,
+  "id": 1190085372815929344,
+  "id_str": "1190085372815929344",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 01 01:36:15 +0000 2019",
+    "display_text_range": [
+      17,
+      86
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FFb7UJnerv",
+          "expanded_url": "https://twitter.com/elianatrue/status/1190080077188481027/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1190080075070418950,
+          "id_str": "1190080075070418950",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/EIQDheDXsAYOkcO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EIQDheDXsAYOkcO.jpg",
+          "sizes": {
+            "large": {
+              "h": 750,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 750,
+              "resize": "fit",
+              "w": 750
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FFb7UJnerv"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FFb7UJnerv",
+          "expanded_url": "https://twitter.com/elianatrue/status/1190080077188481027/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1190080075070418950,
+          "id_str": "1190080075070418950",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/EIQDheDXsAYOkcO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EIQDheDXsAYOkcO.jpg",
+          "sizes": {
+            "large": {
+              "h": 750,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 750,
+              "resize": "fit",
+              "w": 750
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FFb7UJnerv"
+        }
+      ]
+    },
+    "favorite_count": 5353,
+    "favorited": false,
+    "full_text": "@realDonaldTrump 5 MORE YEARS!!!\nThank you President Trump!!!\nBest POTUS EVER!!!\n\u2764\u2764\u2764\u2764\u2764 https://t.co/FFb7UJnerv",
+    "geo": null,
+    "id": 1190080077188481027,
+    "id_str": "1190080077188481027",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 1190079191355670529,
+    "in_reply_to_status_id_str": "1190079191355670529",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1786,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 07 01:16:55 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "#Trump2020 #MAGA #KAG #WWG1WGA \nRetweeted by President Trump!!!!\n\u2764\ud83d\ude00\u2764\ud83d\ude00\u2764\nFollowing #Jesus, whatever it takes! \nA Jewish believer in Jesus Christ.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 234552,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 85285,
+      "following": false,
+      "friends_count": 81579,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 72169850,
+      "id_str": "72169850",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 429,
+      "location": "AsfarastheEastisfromtheWest",
+      "name": "Pursuing Jesus",
+      "notifications": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/72169850/1416448975",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/535252529542873088/wHNkImj0_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/535252529542873088/wHNkImj0_normal.jpeg",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "B3E3D9",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "elianatrue",
+      "statuses_count": 304521,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1190080077188481027,
+  "quoted_status_id_str": "1190080077188481027",
+  "quoted_status_permalink": {
+    "display": "twitter.com/elianatrue/sta\u2026",
+    "expanded": "https://twitter.com/elianatrue/status/1190080077188481027",
+    "url": "https://t.co/8yUP8Pex8c"
+  },
+  "retweet_count": 9795,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66425535,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110361,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45705,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

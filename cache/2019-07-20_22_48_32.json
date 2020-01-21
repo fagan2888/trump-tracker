@@ -1,0 +1,296 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 20 22:48:32 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 866725756025667584,
+        "id_str": "866725756025667584",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "CEA",
+        "screen_name": "WhiteHouseCEA"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @WhiteHouseCEA: The Consumer Price Index (CPI) for prescription drugs decreased 2.0 percent in June from 12 months prior according to th\u2026",
+  "geo": null,
+  "id": 1152711919331160070,
+  "id_str": "1152711919331160070",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3144,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 11 13:47:15 +0000 2019",
+    "display_text_range": [
+      0,
+      217
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            209,
+            217
+          ],
+          "text": "BLSdata"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/8oKgpT4hDD",
+          "expanded_url": "https://twitter.com/WhiteHouseCEA/status/1149314209781620736/photo/1",
+          "id": 1149314007175782400,
+          "id_str": "1149314007175782400",
+          "indices": [
+            218,
+            241
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_MvAA0X4AAzG4P.png",
+          "media_url_https": "https://pbs.twimg.com/media/D_MvAA0X4AAzG4P.png",
+          "sizes": {
+            "large": {
+              "h": 352,
+              "resize": "fit",
+              "w": 583
+            },
+            "medium": {
+              "h": 352,
+              "resize": "fit",
+              "w": 583
+            },
+            "small": {
+              "h": 352,
+              "resize": "fit",
+              "w": 583
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8oKgpT4hDD"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/8oKgpT4hDD",
+          "expanded_url": "https://twitter.com/WhiteHouseCEA/status/1149314209781620736/photo/1",
+          "id": 1149314007175782400,
+          "id_str": "1149314007175782400",
+          "indices": [
+            218,
+            241
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_MvAA0X4AAzG4P.png",
+          "media_url_https": "https://pbs.twimg.com/media/D_MvAA0X4AAzG4P.png",
+          "sizes": {
+            "large": {
+              "h": 352,
+              "resize": "fit",
+              "w": 583
+            },
+            "medium": {
+              "h": 352,
+              "resize": "fit",
+              "w": 583
+            },
+            "small": {
+              "h": 352,
+              "resize": "fit",
+              "w": 583
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8oKgpT4hDD"
+        }
+      ]
+    },
+    "favorite_count": 10516,
+    "favorited": false,
+    "full_text": "The Consumer Price Index (CPI) for prescription drugs decreased 2.0 percent in June from 12 months prior according to the CPI release from @BLSgov today. This is the lowest 12-month change since January 1968. #BLSdata https://t.co/8oKgpT4hDD",
+    "geo": null,
+    "id": 1149314209781620736,
+    "id_str": "1149314209781620736",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3144,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 22 18:41:38 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Council of Economic Advisers | Tweets may be archived: https://t.co/ALEV9E9onn",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "WH.gov/privacy",
+              "expanded_url": "http://WH.gov/privacy",
+              "indices": [
+                55,
+                78
+              ],
+              "url": "https://t.co/ALEV9E9onn"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "whitehouse.gov/cea",
+              "expanded_url": "https://www.whitehouse.gov/cea",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/sPbfOAv1K8"
+            }
+          ]
+        }
+      },
+      "favourites_count": 21,
+      "follow_request_sent": false,
+      "followers_count": 11782,
+      "following": false,
+      "friends_count": 30,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 866725756025667584,
+      "id_str": "866725756025667584",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 174,
+      "location": "Washington, DC",
+      "name": "CEA",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/866725756025667584/1503586033",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/900729467349250051/oT0xhuSa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/900729467349250051/oT0xhuSa_normal.jpg",
+      "profile_link_color": "0C2644",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "WhiteHouseCEA",
+      "statuses_count": 760,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/sPbfOAv1K8",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62143369,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105505,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43040,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

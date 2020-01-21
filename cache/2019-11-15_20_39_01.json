@@ -1,0 +1,315 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Nov 15 20:39:01 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 109579534,
+        "id_str": "109579534",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Elise Stefanik",
+        "screen_name": "EliseStefanik"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @EliseStefanik: The facts are clear, confirmed by our witness, Ambassador Yovanovitch: defensive lethal aid was provided to Ukraine not\u2026",
+  "geo": null,
+  "id": 1195441093350973440,
+  "id_str": "1195441093350973440",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 14223,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 15 18:39:31 +0000 2019",
+    "display_text_range": [
+      0,
+      181
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/QBOSFg1pMV",
+          "expanded_url": "https://twitter.com/EliseStefanik/status/1195411018148712450/video/1",
+          "features": {},
+          "id": 1195410929237798919,
+          "id_str": "1195410929237798919",
+          "indices": [
+            182,
+            205
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195410929237798919/pu/img/Wu0WSbtghXpYVdj9.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195410929237798919/pu/img/Wu0WSbtghXpYVdj9.jpg",
+          "sizes": {
+            "large": {
+              "h": 632,
+              "resize": "fit",
+              "w": 1128
+            },
+            "medium": {
+              "h": 632,
+              "resize": "fit",
+              "w": 1128
+            },
+            "small": {
+              "h": 381,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/QBOSFg1pMV"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/QBOSFg1pMV",
+          "expanded_url": "https://twitter.com/EliseStefanik/status/1195411018148712450/video/1",
+          "features": {},
+          "id": 1195410929237798919,
+          "id_str": "1195410929237798919",
+          "indices": [
+            182,
+            205
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195410929237798919/pu/img/Wu0WSbtghXpYVdj9.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195410929237798919/pu/img/Wu0WSbtghXpYVdj9.jpg",
+          "sizes": {
+            "large": {
+              "h": 632,
+              "resize": "fit",
+              "w": 1128
+            },
+            "medium": {
+              "h": 632,
+              "resize": "fit",
+              "w": 1128
+            },
+            "small": {
+              "h": 381,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/QBOSFg1pMV",
+          "video_info": {
+            "aspect_ratio": [
+              141,
+              79
+            ],
+            "duration_millis": 133202,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1195410929237798919/pu/vid/480x270/XRo6-dVUW0pWxf96.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1195410929237798919/pu/vid/642x360/6Yjvm3PFixDxM6pY.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1195410929237798919/pu/pl/cG73Cg19sNDxlJpk.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1195410929237798919/pu/vid/1128x632/y6zS-KLLVUM91oMt.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 38819,
+    "favorited": false,
+    "full_text": "The facts are clear, confirmed by our witness, Ambassador Yovanovitch: defensive lethal aid was provided to Ukraine not by the Obama Administration, but by the Trump Administration. https://t.co/QBOSFg1pMV",
+    "geo": null,
+    "id": 1195411018148712450,
+    "id_str": "1195411018148712450",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 14223,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 29 14:56:38 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "#NY21 U.S. Congresswoman. New ideas\ud83d\udca1New Generation of Leadership \ud83d\udcab Real Results\ud83d\udd28Youngest GOP woman ever elected to Congress!\ud83d\ude4b\ud83c\udffb\ud83c\uddfa\ud83c\uddf8 Insta \ud83d\udcf8@EliseStefanik",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "eliseforcongress.com",
+              "expanded_url": "http://www.eliseforcongress.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uVn3gzeE2T"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1950,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 122913,
+      "following": false,
+      "friends_count": 2105,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 109579534,
+      "id_str": "109579534",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 799,
+      "location": "#NY21 ",
+      "name": "Elise Stefanik",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/109579534/1424490768",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/568981638944948224/E_DuAr6G_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/568981638944948224/E_DuAr6G_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "EliseStefanik",
+      "statuses_count": 8080,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uVn3gzeE2T",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66825938,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110721,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46167,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

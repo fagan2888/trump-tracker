@@ -1,0 +1,338 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 22 00:46:43 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1031566436957908997,
+        "id_str": "1031566436957908997",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Monica Crowley",
+        "screen_name": "TreasurySpox"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          53,
+          69
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TreasurySpox: It\u2019s been 1\ufe0f\u20e3 year since President @realDonaldTrump announced the new US-Mexico-Canada trade agreement. USMCA will be a w\u2026",
+  "geo": null,
+  "id": 1186443733019041793,
+  "id_str": "1186443733019041793",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8204,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 21 17:21:58 +0000 2019",
+    "display_text_range": [
+      0,
+      152
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            143,
+            152
+          ],
+          "text": "USMCAnow"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/N8b3cUAen0",
+          "expanded_url": "https://twitter.com/TreasurySpox/status/1186331807161167872/video/1",
+          "id": 1186331709295464448,
+          "id_str": "1186331709295464448",
+          "indices": [
+            153,
+            176
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1186331709295464448/pu/img/LTbxTui3n3aGgyNn.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1186331709295464448/pu/img/LTbxTui3n3aGgyNn.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/N8b3cUAen0"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            35,
+            51
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/N8b3cUAen0",
+          "expanded_url": "https://twitter.com/TreasurySpox/status/1186331807161167872/video/1",
+          "id": 1186331709295464448,
+          "id_str": "1186331709295464448",
+          "indices": [
+            153,
+            176
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1186331709295464448/pu/img/LTbxTui3n3aGgyNn.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1186331709295464448/pu/img/LTbxTui3n3aGgyNn.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/N8b3cUAen0",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 45700,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1186331709295464448/pu/vid/480x270/1u2InaFS981dFpmk.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1186331709295464448/pu/vid/640x360/35SXi0avQqusmVDX.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1186331709295464448/pu/vid/1280x720/3df5Dqg4J7vb94WD.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1186331709295464448/pu/pl/FeaFTLtEtPOw_xhh.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 24596,
+    "favorited": false,
+    "full_text": "It\u2019s been 1\ufe0f\u20e3 year since President @realDonaldTrump announced the new US-Mexico-Canada trade agreement. USMCA will be a win for all Americans. #USMCAnow https://t.co/N8b3cUAen0",
+    "geo": null,
+    "id": 1186331807161167872,
+    "id_str": "1186331807161167872",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8204,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 20 15:39:38 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Assistant Secretary for Public Affairs, @USTreasury. (Personal Account: @MonicaCrowley)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "treasury.gov",
+              "expanded_url": "http://www.treasury.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/VuTlH2TBgj"
+            }
+          ]
+        }
+      },
+      "favourites_count": 113,
+      "follow_request_sent": false,
+      "followers_count": 10558,
+      "following": false,
+      "friends_count": 113,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1031566436957908997,
+      "id_str": "1031566436957908997",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 62,
+      "location": "Washington, DC",
+      "name": "Monica Crowley",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031566436957908997/1534779950",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1154131246366306310/4lJc-967_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154131246366306310/4lJc-967_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TreasurySpox",
+      "statuses_count": 219,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/VuTlH2TBgj",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 66061320,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110117,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45404,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

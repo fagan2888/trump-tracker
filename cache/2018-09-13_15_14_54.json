@@ -1,0 +1,335 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Sep 13 15:14:54 +0000 2018",
+  "display_text_range": [
+    0,
+    16
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/uscg/status/10\u2026",
+        "expanded_url": "https://twitter.com/uscg/status/1039921383944413184",
+        "indices": [
+          17,
+          40
+        ],
+        "url": "https://t.co/PqddsoZg2I"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 15113565,
+        "id_str": "15113565",
+        "indices": [
+          10,
+          15
+        ],
+        "name": "U.S. Coast Guard",
+        "screen_name": "USCG"
+      }
+    ]
+  },
+  "favorite_count": 39912,
+  "favorited": false,
+  "full_text": "Thank you @USCG! https://t.co/PqddsoZg2I",
+  "geo": null,
+  "id": 1040257520026181634,
+  "id_str": "1040257520026181634",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 12 16:59:13 +0000 2018",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            90,
+            108
+          ],
+          "text": "HurricaneFlorence"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rWFvDJH9YJ",
+          "expanded_url": "https://twitter.com/USCG/status/1039921383944413184/video/1",
+          "id": 1039920673735553025,
+          "id_str": "1039920673735553025",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1039920673735553025/pu/img/xP9jPAcj4PeoTWmc.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1039920673735553025/pu/img/xP9jPAcj4PeoTWmc.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rWFvDJH9YJ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/rWFvDJH9YJ",
+          "expanded_url": "https://twitter.com/USCG/status/1039921383944413184/video/1",
+          "id": 1039920673735553025,
+          "id_str": "1039920673735553025",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1039920673735553025/pu/img/xP9jPAcj4PeoTWmc.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1039920673735553025/pu/img/xP9jPAcj4PeoTWmc.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/rWFvDJH9YJ",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 29730,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1039920673735553025/pu/vid/320x180/L6S3HSLTuATR4WM1.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1039920673735553025/pu/pl/MHuzn-hpUKmNO71C.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1039920673735553025/pu/vid/640x360/HN9HjUzXCnKtL5qv.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1039920673735553025/pu/vid/1280x720/6GWjOu86_uuakfp-.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 2580,
+    "favorited": false,
+    "full_text": "Two Air Station Miami MH-65 Dolphin helicopter crews fly to Savannah, GA to pre-stage for #HurricaneFlorence response efforts. The USCG pre-stages its assets and personnel near areas predicted to be impacted by the storm to be able to rapidly respond to post storm emergencies. https://t.co/rWFvDJH9YJ",
+    "geo": null,
+    "id": 1039921383944413184,
+    "id_str": "1039921383944413184",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 861,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jun 14 02:09:38 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account for the U.S. Coast Guard. If in distress, use VHF channel 16 or dial 911.\n\n(RT, follows \u2260 endorsements)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "uscg.mil",
+              "expanded_url": "http://www.uscg.mil",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/mO1N1UgcWd"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1355,
+      "follow_request_sent": false,
+      "followers_count": 356143,
+      "following": false,
+      "friends_count": 253,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 15113565,
+      "id_str": "15113565",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3196,
+      "location": "Washington, D.C.",
+      "name": "U.S. Coast Guard",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15113565/1536768129",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1020002746626379776/gyyjE-oT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020002746626379776/gyyjE-oT_normal.jpg",
+      "profile_link_color": "0D62F9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USCG",
+      "statuses_count": 20582,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/mO1N1UgcWd",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1039921383944413184,
+  "quoted_status_id_str": "1039921383944413184",
+  "quoted_status_permalink": {
+    "display": "twitter.com/uscg/status/10\u2026",
+    "expanded": "https://twitter.com/uscg/status/1039921383944413184",
+    "url": "https://t.co/PqddsoZg2I"
+  },
+  "retweet_count": 9333,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54426413,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93544,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38924,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 13 01:53:02 +0000 2019",
+  "display_text_range": [
+    0,
+    130
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/greschenthaler\u2026",
+        "expanded_url": "https://twitter.com/greschenthaler/status/1205281288963469312",
+        "indices": [
+          107,
+          130
+        ],
+        "url": "https://t.co/2IY3bjX82F"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 22508473,
+        "id_str": "22508473",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Oversight Committee Republicans",
+        "screen_name": "GOPoversight"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPoversight: No collusion. \nNo obstruction. \nNo pressure. \nNo pushing. \nNo quid pro quo. \nNo nothing! https://t.co/2IY3bjX82F",
+  "geo": null,
+  "id": 1205304591547609088,
+  "id_str": "1205304591547609088",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1205281288963469312,
+  "quoted_status_id_str": "1205281288963469312",
+  "quoted_status_permalink": {
+    "display": "twitter.com/greschenthaler\u2026",
+    "expanded": "https://twitter.com/greschenthaler/status/1205281288963469312",
+    "url": "https://t.co/2IY3bjX82F"
+  },
+  "retweet_count": 5438,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 13 00:33:26 +0000 2019",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/greschenthaler\u2026",
+          "expanded_url": "https://twitter.com/greschenthaler/status/1205281288963469312",
+          "indices": [
+            89,
+            112
+          ],
+          "url": "https://t.co/2IY3bjX82F"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 16038,
+    "favorited": false,
+    "full_text": "No collusion. \nNo obstruction. \nNo pressure. \nNo pushing. \nNo quid pro quo. \nNo nothing! https://t.co/2IY3bjX82F",
+    "geo": null,
+    "id": 1205284556720558080,
+    "id_str": "1205284556720558080",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Dec 13 00:20:26 +0000 2019",
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IBrlqs6Hgl",
+            "expanded_url": "https://twitter.com/GReschenthaler/status/1205281288963469312/video/1",
+            "features": {},
+            "id": 1205281234341027841,
+            "id_str": "1205281234341027841",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205281234341027841/pu/img/zgAuyrF16INFHYmm.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205281234341027841/pu/img/zgAuyrF16INFHYmm.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IBrlqs6Hgl"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              201,
+              217
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          },
+          {
+            "id": 1131917492,
+            "id_str": "1131917492",
+            "indices": [
+              262,
+              275
+            ],
+            "name": "House Judiciary GOP",
+            "screen_name": "JudiciaryGOP"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/IBrlqs6Hgl",
+            "expanded_url": "https://twitter.com/GReschenthaler/status/1205281288963469312/video/1",
+            "features": {},
+            "id": 1205281234341027841,
+            "id_str": "1205281234341027841",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205281234341027841/pu/img/zgAuyrF16INFHYmm.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205281234341027841/pu/img/zgAuyrF16INFHYmm.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/IBrlqs6Hgl",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 50669,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1205281234341027841/pu/pl/tZBC0Z92tFWiSTjJ.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1205281234341027841/pu/vid/480x270/OS1PBMT-sHHnB-dP.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1205281234341027841/pu/vid/1280x720/4eHNfC8wzfU7rS86.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1205281234341027841/pu/vid/640x360/LMX2Ek7ggZL7jhOG.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 2728,
+      "favorited": false,
+      "full_text": "Judiciary Dems just voted down my amendment to strike the obstruction of Congress charge, even though they have no case. The real obstruction lies with Schiff, Nadler, and the Dems who have railroaded @realDonaldTrump and rejected requests for fact witnesses by @JudiciaryGOP https://t.co/IBrlqs6Hgl",
+      "geo": null,
+      "id": 1205281288963469312,
+      "id_str": "1205281288963469312",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1278,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 16 22:15:01 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Representing the people of PA-14 in the U.S. House of Representatives.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reschenthaler.house.gov",
+                "expanded_url": "https://reschenthaler.house.gov/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/BBptULmIUQ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 8,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 13940,
+        "following": false,
+        "friends_count": 288,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4205133682,
+        "id_str": "4205133682",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 285,
+        "location": "",
+        "name": "Rep. Guy Reschenthaler",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4205133682/1546622428",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666382454689632258/edpSumxq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666382454689632258/edpSumxq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GReschenthaler",
+        "statuses_count": 1351,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/BBptULmIUQ",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1205281288963469312,
+    "quoted_status_id_str": "1205281288963469312",
+    "quoted_status_permalink": {
+      "display": "twitter.com/greschenthaler\u2026",
+      "expanded": "https://twitter.com/greschenthaler/status/1205281288963469312",
+      "url": "https://t.co/2IY3bjX82F"
+    },
+    "retweet_count": 5438,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 02 17:30:34 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "House Oversight Committee Republicans | Est. 1814 | Ranking Member @Jim_Jordan | https://t.co/ylzBTwEGzE",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/gopoversight",
+              "expanded_url": "http://instagram.com/gopoversight",
+              "indices": [
+                81,
+                104
+              ],
+              "url": "https://t.co/ylzBTwEGzE"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "republicans-oversight.house.gov",
+              "expanded_url": "http://republicans-oversight.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/udvm5PQnVL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 253,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 99879,
+      "following": false,
+      "friends_count": 12953,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 22508473,
+      "id_str": "22508473",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1593,
+      "location": "Washington D.C.",
+      "name": "Oversight Committee Republicans",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22508473/1547162412",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1101154310069649408/pqzIuZxV_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101154310069649408/pqzIuZxV_normal.png",
+      "profile_link_color": "134766",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GOPoversight",
+      "statuses_count": 11037,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/udvm5PQnVL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67491776,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47085,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

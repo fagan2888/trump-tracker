@@ -1,0 +1,375 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jun 26 10:41:00 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          87,
+          92
+        ],
+        "text": "LIVE"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 208155240,
+        "id_str": "208155240",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Maria Bartiromo",
+        "screen_name": "MariaBartiromo"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          51,
+          57
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          60,
+          76
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 2330590446,
+        "id_str": "2330590446",
+        "indices": [
+          94,
+          108
+        ],
+        "name": "Mornings with Maria",
+        "screen_name": "MorningsMaria"
+      },
+      {
+        "id": 56413858,
+        "id_str": "56413858",
+        "indices": [
+          112,
+          124
+        ],
+        "name": "FOX Business",
+        "screen_name": "FoxBusiness"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MariaBartiromo: Tomorrow exclusive join us as \u2066@POTUS\u2069 \u2066@realDonaldTrump\u2069 joins me #LIVE \u2066@MorningsMaria\u2069 \u2066\u2066@FoxBusiness\u2069 8am et https:\u2026",
+  "geo": null,
+  "id": 1143831520894996480,
+  "id_str": "1143831520894996480",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2888,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 26 02:46:46 +0000 2019",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            67,
+            72
+          ],
+          "text": "LIVE"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/I8huCcJsby",
+          "expanded_url": "https://twitter.com/MariaBartiromo/status/1143712175967674369/photo/1",
+          "id": 1143712172113088512,
+          "id_str": "1143712172113088512",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/D99IKTAXUAACaKO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D99IKTAXUAACaKO.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/I8huCcJsby"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            31,
+            37
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            40,
+            56
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 2330590446,
+          "id_str": "2330590446",
+          "indices": [
+            74,
+            88
+          ],
+          "name": "Mornings with Maria",
+          "screen_name": "MorningsMaria"
+        },
+        {
+          "id": 56413858,
+          "id_str": "56413858",
+          "indices": [
+            92,
+            104
+          ],
+          "name": "FOX Business",
+          "screen_name": "FoxBusiness"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/I8huCcJsby",
+          "expanded_url": "https://twitter.com/MariaBartiromo/status/1143712175967674369/photo/1",
+          "id": 1143712172113088512,
+          "id_str": "1143712172113088512",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/D99IKTAXUAACaKO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D99IKTAXUAACaKO.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/I8huCcJsby"
+        }
+      ]
+    },
+    "favorite_count": 13793,
+    "favorited": false,
+    "full_text": "Tomorrow exclusive join us as \u2066@POTUS\u2069 \u2066@realDonaldTrump\u2069 joins me #LIVE \u2066@MorningsMaria\u2069 \u2066\u2066@FoxBusiness\u2069 8am et https://t.co/I8huCcJsby",
+    "geo": null,
+    "id": 1143712175967674369,
+    "id_str": "1143712175967674369",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2888,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 26 18:58:26 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Anchor, Global Markets Editor Mornings with Maria @MorningsMaria 6-9 AM et M-F on @FoxBusiness & @SundayFutures 10:00 AM et Sundays @FoxNews 2-time Emmy winner",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "MariaBartiromo.com",
+              "expanded_url": "http://www.MariaBartiromo.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/P2XOPgzZZ9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16442,
+      "follow_request_sent": false,
+      "followers_count": 490986,
+      "following": false,
+      "friends_count": 1356,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 208155240,
+      "id_str": "208155240",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4481,
+      "location": "New York, NY",
+      "name": "Maria Bartiromo",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/208155240/1530113997",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/836620572259864576/2R_lcdhT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/836620572259864576/2R_lcdhT_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MariaBartiromo",
+      "statuses_count": 27311,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/P2XOPgzZZ9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61411871,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104634,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42579,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 20 12:21:12 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18956073,
+        "id_str": "18956073",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Washington Examiner",
+        "screen_name": "dcexaminer"
+      },
+      {
+        "id": 109579534,
+        "id_str": "109579534",
+        "indices": [
+          21,
+          35
+        ],
+        "name": "Elise Stefanik",
+        "screen_name": "EliseStefanik"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @dcexaminer: Rep. @EliseStefanik: \"No Quid Pro Quo?\"\n\nMorrison: \"Correct.\" \n\n\"No Bribery?\"\n\n\"Correct.\"\n\n\"No Extortion?\"\n\n\"Correct.\"\n\nSte\u2026",
+  "geo": null,
+  "id": 1197127753180622848,
+  "id_str": "1197127753180622848",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11662,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 20 00:49:58 +0000 2019",
+    "display_text_range": [
+      0,
+      242
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/JW3SZ8ii0f",
+          "expanded_url": "https://twitter.com/dcexaminer/status/1196953798855532544/video/1",
+          "features": {},
+          "id": 1196952877681577984,
+          "id_str": "1196952877681577984",
+          "indices": [
+            243,
+            266
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1196952877681577984/img/8ex17d37t4woqw3c.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1196952877681577984/img/8ex17d37t4woqw3c.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/JW3SZ8ii0f"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 109579534,
+          "id_str": "109579534",
+          "indices": [
+            5,
+            19
+          ],
+          "name": "Elise Stefanik",
+          "screen_name": "EliseStefanik"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            201,
+            217
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/JW3SZ8ii0f",
+          "expanded_url": "https://twitter.com/dcexaminer/status/1196953798855532544/video/1",
+          "features": {},
+          "id": 1196952877681577984,
+          "id_str": "1196952877681577984",
+          "indices": [
+            243,
+            266
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1196952877681577984/img/8ex17d37t4woqw3c.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1196952877681577984/img/8ex17d37t4woqw3c.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/JW3SZ8ii0f",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 126675,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1196952877681577984/pl/-RchwFfWWRgGxtzt.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1196952877681577984/vid/480x270/qKqxVdoVbAOzXrXY.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1196952877681577984/vid/640x360/fopcu_8sICMP_Cr_.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1196952877681577984/vid/1280x720/2iz15StjrcGmJ30i.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 35463,
+    "favorited": false,
+    "full_text": "Rep. @EliseStefanik: \"No Quid Pro Quo?\"\n\nMorrison: \"Correct.\" \n\n\"No Bribery?\"\n\n\"Correct.\"\n\n\"No Extortion?\"\n\n\"Correct.\"\n\nStefanik digs in against points House Democrats have been trying to make against @realDonaldTrump in impeachment hearings. https://t.co/JW3SZ8ii0f",
+    "geo": null,
+    "id": 1196953798855532544,
+    "id_str": "1196953798855532544",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11662,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 13 22:16:00 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Political news and commentary from the Washington Examiner. https://t.co/ou7lbgJSLh",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "washingtonexaminer.com",
+              "expanded_url": "http://www.washingtonexaminer.com",
+              "indices": [
+                60,
+                83
+              ],
+              "url": "https://t.co/ou7lbgJSLh"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "washingtonexaminer.com",
+              "expanded_url": "http://www.washingtonexaminer.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/yIzleEakTJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 503,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 190099,
+      "following": false,
+      "friends_count": 205,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18956073,
+      "id_str": "18956073",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4091,
+      "location": "Washington, DC",
+      "name": "Washington Examiner",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18956073/1551308627",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1049003685639081986/zX2rN7zN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049003685639081986/zX2rN7zN_normal.jpg",
+      "profile_link_color": "CA0613",
+      "profile_sidebar_border_color": "D9B17E",
+      "profile_sidebar_fill_color": "EADEAA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "dcexaminer",
+      "statuses_count": 432724,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/yIzleEakTJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66913842,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110793,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46324,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

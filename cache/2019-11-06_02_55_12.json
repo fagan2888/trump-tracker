@@ -1,0 +1,235 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 06 02:55:12 +0000 2019",
+  "display_text_range": [
+    0,
+    97
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "tampabay.com/news/florida/2\u2026",
+        "expanded_url": "https://www.tampabay.com/news/florida/2019/11/04/commissioners-call-new-york-times-fake-news-deny-library-funding-for-digital-subscriptions/",
+        "indices": [
+          74,
+          97
+        ],
+        "url": "https://t.co/cqixFuhHPP"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 14304462,
+        "id_str": "14304462",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Tampa Bay Times",
+        "screen_name": "TB_Times"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TB_Times: \u201cWhy the heck would we spend money on something like that?\u201d\nhttps://t.co/cqixFuhHPP",
+  "geo": null,
+  "id": 1191911882577383424,
+  "id_str": "1191911882577383424",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 3199,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 05 13:08:06 +0000 2019",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "tampabay.com/news/florida/2\u2026",
+          "expanded_url": "https://www.tampabay.com/news/florida/2019/11/04/commissioners-call-new-york-times-fake-news-deny-library-funding-for-digital-subscriptions/",
+          "indices": [
+            60,
+            83
+          ],
+          "url": "https://t.co/cqixFuhHPP"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 10567,
+    "favorited": false,
+    "full_text": "\u201cWhy the heck would we spend money on something like that?\u201d\nhttps://t.co/cqixFuhHPP",
+    "geo": null,
+    "id": 1191703737800241153,
+    "id_str": "1191703737800241153",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3199,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Apr 04 17:14:50 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Tampa Bay Times is Florida's largest and best newspaper. Have story ideas or tips? DM us. Visit https://t.co/zir2MZGEOQ",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "tampabay.com",
+              "expanded_url": "http://www.tampabay.com/",
+              "indices": [
+                100,
+                123
+              ],
+              "url": "https://t.co/zir2MZGEOQ"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tampabay.com",
+              "expanded_url": "http://www.tampabay.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/zir2MZGEOQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 11769,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 273034,
+      "following": false,
+      "friends_count": 5769,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 14304462,
+      "id_str": "14304462",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2835,
+      "location": "St. Petersburg, Florida",
+      "name": "Tampa Bay Times",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14304462/1560782200",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1066713591246725120/wFmoB0Xs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1066713591246725120/wFmoB0Xs_normal.jpg",
+      "profile_link_color": "208E75",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TB_Times",
+      "statuses_count": 203393,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/zir2MZGEOQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66572223,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110481,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45864,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

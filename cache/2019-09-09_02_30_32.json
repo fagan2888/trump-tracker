@@ -1,0 +1,368 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 09 02:30:32 +0000 2019",
+  "display_text_range": [
+    0,
+    90
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/westonloyd45/s\u2026",
+        "expanded_url": "https://twitter.com/westonloyd45/status/1170773278862036994",
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/RlHTCOv4JK"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: I look forward to visiting Alabama on Tuesday! \ud83c\uddfa\ud83c\uddf8 https://t.co/RlHTCOv4JK",
+  "geo": null,
+  "id": 1170887178446131200,
+  "id_str": "1170887178446131200",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1170773278862036994,
+  "quoted_status_id_str": "1170773278862036994",
+  "quoted_status_permalink": {
+    "display": "twitter.com/westonloyd45/s\u2026",
+    "expanded": "https://twitter.com/westonloyd45/status/1170773278862036994",
+    "url": "https://t.co/RlHTCOv4JK"
+  },
+  "retweet_count": 3313,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 09 02:11:32 +0000 2019",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/westonloyd45/s\u2026",
+          "expanded_url": "https://twitter.com/westonloyd45/status/1170773278862036994",
+          "indices": [
+            50,
+            73
+          ],
+          "url": "https://t.co/RlHTCOv4JK"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 16695,
+    "favorited": false,
+    "full_text": "I look forward to visiting Alabama on Tuesday! \ud83c\uddfa\ud83c\uddf8 https://t.co/RlHTCOv4JK",
+    "geo": null,
+    "id": 1170882400177577986,
+    "id_str": "1170882400177577986",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Sep 08 18:57:56 +0000 2019",
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "al.com/news/2019/09/i\u2026",
+            "expanded_url": "https://www.al.com/news/2019/09/ivanka-trump-to-visit-alabama-tech-park-for-announcement.html",
+            "indices": [
+              106,
+              129
+            ],
+            "url": "https://t.co/GEU7LwdMnR"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 52544275,
+            "id_str": "52544275",
+            "indices": [
+              1,
+              13
+            ],
+            "name": "Ivanka Trump",
+            "screen_name": "IvankaTrump"
+          },
+          {
+            "id": 15535059,
+            "id_str": "15535059",
+            "indices": [
+              85,
+              95
+            ],
+            "name": "Anna Claire Vollers",
+            "screen_name": "acvollers"
+          },
+          {
+            "id": 14528874,
+            "id_str": "14528874",
+            "indices": [
+              96,
+              105
+            ],
+            "name": "AL.com",
+            "screen_name": "aldotcom"
+          }
+        ]
+      },
+      "favorite_count": 1144,
+      "favorited": false,
+      "full_text": ".@IvankaTrump to visit Alabama tech park for announcement on Tuesday, Sept. 10 | h/t @acvollers @aldotcom https://t.co/GEU7LwdMnR",
+      "geo": null,
+      "id": 1170773278862036994,
+      "id_str": "1170773278862036994",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 211,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 02 01:06:51 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@WhiteHouse Director of Regional Communications | Tweets may be archived: https://t.co/eVVzoATsAR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wh.gov/privacy",
+                "expanded_url": "http://wh.gov/privacy",
+                "indices": [
+                  74,
+                  97
+                ],
+                "url": "https://t.co/eVVzoATsAR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "expanded_url": "http://whitehouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/NgUd6f90ER"
+              }
+            ]
+          }
+        },
+        "favourites_count": 56,
+        "follow_request_sent": false,
+        "followers_count": 646,
+        "following": false,
+        "friends_count": 249,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1046929471788470272,
+        "id_str": "1046929471788470272",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Washington, DC",
+        "name": "Weston Loyd",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1046929471788470272/1566597913",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1165024736868331520/b6wLCaRl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165024736868331520/b6wLCaRl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WestonLoyd45",
+        "statuses_count": 128,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/NgUd6f90ER",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1170773278862036994,
+    "quoted_status_id_str": "1170773278862036994",
+    "quoted_status_permalink": {
+      "display": "twitter.com/westonloyd45/s\u2026",
+      "expanded": "https://twitter.com/westonloyd45/status/1170773278862036994",
+      "url": "https://t.co/RlHTCOv4JK"
+    },
+    "retweet_count": 3313,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2070,
+      "follow_request_sent": false,
+      "followers_count": 6939180,
+      "following": false,
+      "friends_count": 1403,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 21434,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 15821,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 64099858,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108263,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44137,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

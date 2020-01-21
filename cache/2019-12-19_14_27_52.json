@@ -1,0 +1,346 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 14:27:52 +0000 2019",
+  "display_text_range": [
+    0,
+    90
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/MZHemingway/st\u2026",
+        "expanded_url": "https://twitter.com/MZHemingway/status/1119415252427390976",
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/1OAN4aXl9U"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 14989516,
+        "id_str": "14989516",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Ben Domenech",
+        "screen_name": "bdomenech"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @bdomenech: This April NYT report is interesting in retrospect: https://t.co/1OAN4aXl9U",
+  "geo": null,
+  "id": 1207668878081478656,
+  "id_str": "1207668878081478656",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1119415252427390976,
+  "quoted_status_id_str": "1119415252427390976",
+  "quoted_status_permalink": {
+    "display": "twitter.com/MZHemingway/st\u2026",
+    "expanded": "https://twitter.com/MZHemingway/status/1119415252427390976",
+    "url": "https://t.co/1OAN4aXl9U"
+  },
+  "retweet_count": 3353,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 14 21:43:37 +0000 2019",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/MZHemingway/st\u2026",
+          "expanded_url": "https://twitter.com/MZHemingway/status/1119415252427390976",
+          "indices": [
+            52,
+            75
+          ],
+          "url": "https://t.co/1OAN4aXl9U"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 10688,
+    "favorited": false,
+    "full_text": "This April NYT report is interesting in retrospect: https://t.co/1OAN4aXl9U",
+    "geo": null,
+    "id": 1205966597615214592,
+    "id_str": "1205966597615214592",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Apr 20 01:39:28 +0000 2019",
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "nytimes.com/2019/04/19/us/\u2026",
+            "expanded_url": "https://www.nytimes.com/2019/04/19/us/politics/steele-dossier-mueller-report.html",
+            "indices": [
+              255,
+              278
+            ],
+            "url": "https://t.co/JXvMJufRzX"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 11890,
+      "favorited": false,
+      "full_text": "NYT: \"Ha ha, funny story, you'll never believe it. That dossier we spent years defending as legitimate and a worthy basis for FISA wiretaps on citizens is so unfounded it might actually be Russian disinformation, just like the collusion skeptics warned.\" https://t.co/JXvMJufRzX",
+      "geo": null,
+      "id": 1119415252427390976,
+      "id_str": "1119415252427390976",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5192,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": false,
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 09 22:44:12 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior Editor, @FDRLST. Senior Journalism Fellow, @Hillsdale. Fox News Contributor.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/gp/product/162\u2026",
+                "expanded_url": "https://www.amazon.com/gp/product/1621579832/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeAS",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/JDWGFiqY5h"
+              }
+            ]
+          }
+        },
+        "favourites_count": 14856,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 396860,
+        "following": false,
+        "friends_count": 1369,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 18005085,
+        "id_str": "18005085",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3534,
+        "location": "Justice on Trial: The Kavanaugh Confirmation and the Future of the Supreme Court",
+        "name": "Mollie",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18005085/1563563189",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149515833900593154/VJN-UDOh_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149515833900593154/VJN-UDOh_normal.png",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MZHemingway",
+        "statuses_count": 94674,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JDWGFiqY5h",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1119415252427390976,
+    "quoted_status_id_str": "1119415252427390976",
+    "quoted_status_permalink": {
+      "display": "twitter.com/MZHemingway/st\u2026",
+      "expanded": "https://twitter.com/MZHemingway/status/1119415252427390976",
+      "url": "https://t.co/1OAN4aXl9U"
+    },
+    "retweet_count": 3353,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 03 05:07:00 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "You can tell a man\u2019s vices by his friends, his virtues by his enemies.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thefederalist.com",
+              "expanded_url": "http://thefederalist.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PnUnhkyJAf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 31473,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 93322,
+      "following": false,
+      "friends_count": 476,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 14989516,
+      "id_str": "14989516",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2040,
+      "location": "DC or NY",
+      "name": "Ben Domenech",
+      "notifications": false,
+      "profile_background_color": "95B740",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14989516/1348927242",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1145169592702124032/BD93w0TG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145169592702124032/BD93w0TG_normal.jpg",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "bdomenech",
+      "statuses_count": 85418,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PnUnhkyJAf",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jan 19 01:52:47 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ronna McDaniel",
+        "screen_name": "GOPChairwoman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPChairwoman: The entire premise of this story, which received wall-to-wall coverage, was based on \"evidence\" the reporters admitted t\u2026",
+  "geo": null,
+  "id": 1086441306841366530,
+  "id_str": "1086441306841366530",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1086419880025284608,
+  "quoted_status_id_str": "1086419880025284608",
+  "quoted_status_permalink": {
+    "display": "twitter.com/BuzzFeedNews/s\u2026",
+    "expanded": "https://twitter.com/BuzzFeedNews/status/1086419880025284608",
+    "url": "https://t.co/enaIVvSNPu"
+  },
+  "retweet_count": 7618,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 19 01:12:00 +0000 2019",
+    "display_text_range": [
+      0,
+      255
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/BuzzFeedNews/s\u2026",
+          "expanded_url": "https://twitter.com/BuzzFeedNews/status/1086419880025284608",
+          "indices": [
+            232,
+            255
+          ],
+          "url": "https://t.co/enaIVvSNPu"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 23379,
+    "favorited": false,
+    "full_text": "The entire premise of this story, which received wall-to-wall coverage, was based on \"evidence\" the reporters admitted they never even saw.\n\nWho could've predicted that the publishers of the phony dossier would get this wrong, too?\nhttps://t.co/enaIVvSNPu",
+    "geo": null,
+    "id": 1086431044138659840,
+    "id_str": "1086431044138659840",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Jan 19 00:27:38 +0000 2019",
+      "display_text_range": [
+        0,
+        106
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GWWfGtyhaE",
+            "expanded_url": "https://twitter.com/BuzzFeedNews/status/1086419880025284608/photo/1",
+            "id": 1086419736827580416,
+            "id_str": "1086419736827580416",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/DxO8_pqU0AAljGG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DxO8_pqU0AAljGG.jpg",
+            "sizes": {
+              "large": {
+                "h": 388,
+                "resize": "fit",
+                "w": 612
+              },
+              "medium": {
+                "h": 388,
+                "resize": "fit",
+                "w": 612
+              },
+              "small": {
+                "h": 388,
+                "resize": "fit",
+                "w": 612
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GWWfGtyhaE"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "buzzfeednews.com/article/jasonl\u2026",
+            "expanded_url": "https://www.buzzfeednews.com/article/jasonleopold/trump-russia-cohen-moscow-tower-mueller-investigation?bftwnews&utm_term=4ldqpgc#4ldqpgc",
+            "indices": [
+              83,
+              106
+            ],
+            "url": "https://t.co/BEoMKiDypn"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GWWfGtyhaE",
+            "expanded_url": "https://twitter.com/BuzzFeedNews/status/1086419880025284608/photo/1",
+            "id": 1086419736827580416,
+            "id_str": "1086419736827580416",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/DxO8_pqU0AAljGG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DxO8_pqU0AAljGG.jpg",
+            "sizes": {
+              "large": {
+                "h": 388,
+                "resize": "fit",
+                "w": 612
+              },
+              "medium": {
+                "h": 388,
+                "resize": "fit",
+                "w": 612
+              },
+              "small": {
+                "h": 388,
+                "resize": "fit",
+                "w": 612
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GWWfGtyhaE"
+          }
+        ]
+      },
+      "favorite_count": 7203,
+      "favorited": false,
+      "full_text": "UPDATE: A spokesperson for the special counsel is disputing BuzzFeed News\u2019 report. https://t.co/BEoMKiDypn https://t.co/GWWfGtyhaE",
+      "geo": null,
+      "id": 1086419880025284608,
+      "id_str": "1086419880025284608",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5723,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 18 15:46:37 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sign up for our daily newsletter (it's free) https://t.co/GNgF4LChlq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bzfd.it/2ONZJlS",
+                "expanded_url": "https://bzfd.it/2ONZJlS",
+                "indices": [
+                  45,
+                  68
+                ],
+                "url": "https://t.co/GNgF4LChlq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buzzfeednews.com",
+                "expanded_url": "https://www.buzzfeednews.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/TB5H6ABM1k"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2149,
+        "follow_request_sent": false,
+        "followers_count": 1304063,
+        "following": false,
+        "friends_count": 4786,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1020058453,
+        "id_str": "1020058453",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12285,
+        "location": "",
+        "name": "BuzzFeed News",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1020058453/1531917744",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1019562992403472390/GwGTPpI1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019562992403472390/GwGTPpI1_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "BuzzFeedNews",
+        "statuses_count": 154511,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/TB5H6ABM1k",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1086419880025284608,
+    "quoted_status_id_str": "1086419880025284608",
+    "quoted_status_permalink": {
+      "display": "twitter.com/BuzzFeedNews/s\u2026",
+      "expanded": "https://twitter.com/BuzzFeedNews/status/1086419880025284608",
+      "url": "https://t.co/enaIVvSNPu"
+    },
+    "retweet_count": 7618,
+    "retweeted": false,
+    "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5330,
+      "follow_request_sent": false,
+      "followers_count": 182440,
+      "following": false,
+      "friends_count": 2621,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1536,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1057996163444432898/nRBl8_Wo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057996163444432898/nRBl8_Wo_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 9545,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 57449860,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 99096,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1543104015",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40301,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

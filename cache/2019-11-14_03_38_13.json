@@ -1,0 +1,746 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 14 03:38:13 +0000 2019",
+  "display_text_range": [
+    0,
+    78
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/u5xlrDRx8p",
+        "expanded_url": "https://twitter.com/Scavino45/status/1194694895279247361/video/1",
+        "features": {},
+        "id": 1194694766425980932,
+        "id_str": "1194694766425980932",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194694766425980932/pu/img/ReF8ni5Ja0qALMJm.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194694766425980932/pu/img/ReF8ni5Ja0qALMJm.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1194694895279247361,
+        "source_status_id_str": "1194694895279247361",
+        "source_user_id": 823367015830323201,
+        "source_user_id_str": "823367015830323201",
+        "type": "photo",
+        "url": "https://t.co/u5xlrDRx8p"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/repdougcollins\u2026",
+        "expanded_url": "https://twitter.com/repdougcollins/status/1192170362231902209",
+        "indices": [
+          31,
+          54
+        ],
+        "url": "https://t.co/XI41TPSHEp"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 823367015830323201,
+        "id_str": "823367015830323201",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "Scavino45"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "can_media_tag": true,
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 23 03:09:28 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Assistant to President @realDonaldTrump, Director of Social Media @WhiteHouse\ud83c\uddfa\ud83c\uddf8 Personal Twitter: @DanScavino",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "WhiteHouse.gov",
+                    "expanded_url": "http://www.WhiteHouse.gov",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/wyOVgSLgBV"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1010,
+            "follow_request_sent": false,
+            "followed_by": false,
+            "followers_count": 438209,
+            "following": false,
+            "friends_count": 902,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 823367015830323201,
+            "id_str": "823367015830323201",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 2407,
+            "location": "1600 Pennsylvania Avenue ",
+            "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/823367015830323201/1572328564",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1180025841499148289/nXj4vRBe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180025841499148289/nXj4vRBe_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Scavino45",
+            "statuses_count": 4559,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/wyOVgSLgBV",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/u5xlrDRx8p",
+        "expanded_url": "https://twitter.com/Scavino45/status/1194694895279247361/video/1",
+        "features": {},
+        "id": 1194694766425980932,
+        "id_str": "1194694766425980932",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194694766425980932/pu/img/ReF8ni5Ja0qALMJm.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194694766425980932/pu/img/ReF8ni5Ja0qALMJm.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1194694895279247361,
+        "source_status_id_str": "1194694895279247361",
+        "source_user_id": 823367015830323201,
+        "source_user_id_str": "823367015830323201",
+        "type": "video",
+        "url": "https://t.co/u5xlrDRx8p",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 12867,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1194694766425980932/pu/vid/1280x720/uz6R8g95eSeX7CeY.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1194694766425980932/pu/pl/P_FwlH22I94RiMYg.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1194694766425980932/pu/vid/640x360/55bXuOtC7pIHu-1E.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1194694766425980932/pu/vid/480x270/vQU7vAc4pmENrEQ-.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Scavino45: Moments ago.... https://t.co/XI41TPSHEp https://t.co/u5xlrDRx8p",
+  "geo": null,
+  "id": 1194821812884049920,
+  "id_str": "1194821812884049920",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1192170362231902209,
+  "quoted_status_id_str": "1192170362231902209",
+  "quoted_status_permalink": {
+    "display": "twitter.com/repdougcollins\u2026",
+    "expanded": "https://twitter.com/repdougcollins/status/1192170362231902209",
+    "url": "https://t.co/XI41TPSHEp"
+  },
+  "retweet_count": 5598,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 13 19:13:54 +0000 2019",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/u5xlrDRx8p",
+          "expanded_url": "https://twitter.com/Scavino45/status/1194694895279247361/video/1",
+          "features": {},
+          "id": 1194694766425980932,
+          "id_str": "1194694766425980932",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194694766425980932/pu/img/ReF8ni5Ja0qALMJm.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194694766425980932/pu/img/ReF8ni5Ja0qALMJm.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/u5xlrDRx8p"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/repdougcollins\u2026",
+          "expanded_url": "https://twitter.com/repdougcollins/status/1192170362231902209",
+          "indices": [
+            16,
+            39
+          ],
+          "url": "https://t.co/XI41TPSHEp"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/u5xlrDRx8p",
+          "expanded_url": "https://twitter.com/Scavino45/status/1194694895279247361/video/1",
+          "features": {},
+          "id": 1194694766425980932,
+          "id_str": "1194694766425980932",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194694766425980932/pu/img/ReF8ni5Ja0qALMJm.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194694766425980932/pu/img/ReF8ni5Ja0qALMJm.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/u5xlrDRx8p",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 12867,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1194694766425980932/pu/vid/1280x720/uz6R8g95eSeX7CeY.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1194694766425980932/pu/pl/P_FwlH22I94RiMYg.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1194694766425980932/pu/vid/640x360/55bXuOtC7pIHu-1E.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1194694766425980932/pu/vid/480x270/vQU7vAc4pmENrEQ-.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16896,
+    "favorited": false,
+    "full_text": "Moments ago.... https://t.co/XI41TPSHEp https://t.co/u5xlrDRx8p",
+    "geo": null,
+    "id": 1194694895279247361,
+    "id_str": "1194694895279247361",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Nov 06 20:02:18 +0000 2019",
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BcIEt9No7m",
+            "expanded_url": "https://twitter.com/RepDougCollins/status/1192170362231902209/photo/1",
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "id": 1192170359803535361,
+            "id_str": "1192170359803535361",
+            "indices": [
+              185,
+              208
+            ],
+            "media_url": "http://pbs.twimg.com/media/EItwoDfW4AElvq5.png",
+            "media_url_https": "https://pbs.twimg.com/media/EItwoDfW4AElvq5.png",
+            "sizes": {
+              "large": {
+                "h": 132,
+                "resize": "fit",
+                "w": 623
+              },
+              "medium": {
+                "h": 132,
+                "resize": "fit",
+                "w": 623
+              },
+              "small": {
+                "h": 132,
+                "resize": "fit",
+                "w": 623
+              },
+              "thumb": {
+                "h": 132,
+                "resize": "crop",
+                "w": 132
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BcIEt9No7m"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              135,
+              151
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BcIEt9No7m",
+            "expanded_url": "https://twitter.com/RepDougCollins/status/1192170362231902209/photo/1",
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "id": 1192170359803535361,
+            "id_str": "1192170359803535361",
+            "indices": [
+              185,
+              208
+            ],
+            "media_url": "http://pbs.twimg.com/media/EItwoDfW4AElvq5.png",
+            "media_url_https": "https://pbs.twimg.com/media/EItwoDfW4AElvq5.png",
+            "sizes": {
+              "large": {
+                "h": 132,
+                "resize": "fit",
+                "w": 623
+              },
+              "medium": {
+                "h": 132,
+                "resize": "fit",
+                "w": 623
+              },
+              "small": {
+                "h": 132,
+                "resize": "fit",
+                "w": 623
+              },
+              "thumb": {
+                "h": 132,
+                "resize": "crop",
+                "w": 132
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BcIEt9No7m"
+          }
+        ]
+      },
+      "favorite_count": 29432,
+      "favorited": false,
+      "full_text": "Here\u2019s Ambassador Taylor testifying that Ukraine was not aware of a hold on military aid until the end of August, over one month after @realDonaldTrump\u2019s call with President Zelensky \u2192 https://t.co/BcIEt9No7m",
+      "geo": null,
+      "id": 1192170362231902209,
+      "id_str": "1192170362231902209",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 10997,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 04 13:43:55 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Working for Georgia's 9th Congressional District. Pastor, attorney, military chaplain. Ranking Member of @JudiciaryGOP.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dougcollins.house.gov",
+                "expanded_url": "http://dougcollins.house.gov/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/6yvc1EfV0T"
+              }
+            ]
+          }
+        },
+        "favourites_count": 603,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 167094,
+        "following": false,
+        "friends_count": 957,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1060487274,
+        "id_str": "1060487274",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1458,
+        "location": "Gainesville, Georgia",
+        "name": "Rep. Doug Collins",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060487274/1504726600",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024748216712146944/Hc_eYsbv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024748216712146944/Hc_eYsbv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RepDougCollins",
+        "statuses_count": 4176,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/6yvc1EfV0T",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1192170362231902209,
+    "quoted_status_id_str": "1192170362231902209",
+    "quoted_status_permalink": {
+      "display": "twitter.com/repdougcollins\u2026",
+      "expanded": "https://twitter.com/repdougcollins/status/1192170362231902209",
+      "url": "https://t.co/XI41TPSHEp"
+    },
+    "retweet_count": 5598,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 23 03:09:28 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Assistant to President @realDonaldTrump, Director of Social Media @WhiteHouse\ud83c\uddfa\ud83c\uddf8 Personal Twitter: @DanScavino",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1010,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 438209,
+      "following": false,
+      "friends_count": 902,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 823367015830323201,
+      "id_str": "823367015830323201",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2407,
+      "location": "1600 Pennsylvania Avenue ",
+      "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/823367015830323201/1572328564",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1180025841499148289/nXj4vRBe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180025841499148289/nXj4vRBe_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Scavino45",
+      "statuses_count": 4559,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66798877,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110680,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46128,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

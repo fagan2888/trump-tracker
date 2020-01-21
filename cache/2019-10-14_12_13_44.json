@@ -1,0 +1,276 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 14 12:13:44 +0000 2019",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/kDd9fzjPAh",
+        "expanded_url": "https://twitter.com/NextRevFNC/status/1183559856898396160/video/1",
+        "id": 1183555800083685376,
+        "id_str": "1183555800083685376",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/media/EGzZXCJW4AcqX37.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EGzZXCJW4AcqX37.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1183559856898396160,
+        "source_status_id_str": "1183559856898396160",
+        "source_user_id": 851526166100029442,
+        "source_user_id_str": "851526166100029442",
+        "type": "photo",
+        "url": "https://t.co/kDd9fzjPAh"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Apr 10 20:03:53 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "The Next Revolution with Steve Hilton focuses on the impact of the populist movement, both in the United States and throughout the world. Instagram: @NextRevFNC",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "foxnews.com/on-air/the-nex\u2026",
+                    "expanded_url": "http://www.foxnews.com/on-air/the-next-revolution-with-steve-hilton/index.html",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/NKSexqASJ4"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 556,
+            "follow_request_sent": false,
+            "followers_count": 41345,
+            "following": false,
+            "friends_count": 203,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 851526166100029442,
+            "id_str": "851526166100029442",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 235,
+            "location": "Los Angeles, CA",
+            "name": "The Next Revolution",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/851526166100029442/1499439721",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1139561116152020994/oj4bVZjv_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139561116152020994/oj4bVZjv_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "NextRevFNC",
+            "statuses_count": 3616,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/NKSexqASJ4",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/kDd9fzjPAh",
+        "expanded_url": "https://twitter.com/NextRevFNC/status/1183559856898396160/video/1",
+        "id": 1183555800083685376,
+        "id_str": "1183555800083685376",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/media/EGzZXCJW4AcqX37.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EGzZXCJW4AcqX37.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1183559856898396160,
+        "source_status_id_str": "1183559856898396160",
+        "source_user_id": 851526166100029442,
+        "source_user_id_str": "851526166100029442",
+        "type": "video",
+        "url": "https://t.co/kDd9fzjPAh",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 329228,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1183555800083685376/vid/1280x720/syhG8AfMqJMdoHYh.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1183555800083685376/vid/480x270/e7wMdyJSknAg3uiI.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1183555800083685376/vid/640x360/b_gecR_kVjmXzI8T.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1183555800083685376/pl/TAIRrghUvYPQxrdh.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 27421,
+  "favorited": false,
+  "full_text": "https://t.co/kDd9fzjPAh",
+  "geo": null,
+  "id": 1183717522874519552,
+  "id_str": "1183717522874519552",
+  "in_reply_to_screen_name": "realDonaldTrump",
+  "in_reply_to_status_id": 1183717423029067777,
+  "in_reply_to_status_id_str": "1183717423029067777",
+  "in_reply_to_user_id": 25073877,
+  "in_reply_to_user_id_str": "25073877",
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 9234,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65768772,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109870,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45201,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

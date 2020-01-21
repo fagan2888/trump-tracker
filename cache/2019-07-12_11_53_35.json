@@ -1,0 +1,338 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 12 11:53:35 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 70468535,
+        "id_str": "70468535",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Lila Rose",
+        "screen_name": "LilaGraceRose"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LilaGraceRose: Big Tech CEOs have testified before Congress that their social platforms don\u2019t discriminate based on \u201cpolitical viewpoin\u2026",
+  "geo": null,
+  "id": 1149647992346988546,
+  "id_str": "1149647992346988546",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8624,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 11 23:44:21 +0000 2019",
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            179,
+            192
+          ],
+          "text": "lifecensored"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tOjPp85dCW",
+          "expanded_url": "https://twitter.com/LilaGraceRose/status/1149464474480328705/video/1",
+          "id": 1149464285862486017,
+          "id_str": "1149464285862486017",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149464285862486017/pu/img/ctURQKv-w9DOA761.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149464285862486017/pu/img/ctURQKv-w9DOA761.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tOjPp85dCW"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            193,
+            209
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/tOjPp85dCW",
+          "expanded_url": "https://twitter.com/LilaGraceRose/status/1149464474480328705/video/1",
+          "id": 1149464285862486017,
+          "id_str": "1149464285862486017",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149464285862486017/pu/img/ctURQKv-w9DOA761.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149464285862486017/pu/img/ctURQKv-w9DOA761.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/tOjPp85dCW",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 109974,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149464285862486017/pu/vid/320x320/ASCqMYKtFjlrW3YB.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1149464285862486017/pu/pl/rvhRXBfi0L4oeKFc.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149464285862486017/pu/vid/480x480/g0MdVtxvZOQ-LHqt.mp4?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149464285862486017/pu/vid/720x720/USktps9WnKpetn3m.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16741,
+    "favorited": false,
+    "full_text": "Big Tech CEOs have testified before Congress that their social platforms don\u2019t discriminate based on \u201cpolitical viewpoint.\u201d\n\nI share at the White House today proof that they do.\n\n#lifecensored @realDonaldTrump https://t.co/tOjPp85dCW",
+    "geo": null,
+    "id": 1149464474480328705,
+    "id_str": "1149464474480328705",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8624,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 31 18:51:46 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Founder, President @LiveAction. Host, The Lila Rose Show, on Apple, Spotify, Google Play. Every life is worth fighting for https://t.co/WY684gCNHV",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/lilaroseoffici\u2026",
+              "expanded_url": "http://instagram.com/lilaroseofficial",
+              "indices": [
+                123,
+                146
+              ],
+              "url": "https://t.co/WY684gCNHV"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "LiveAction.org",
+              "expanded_url": "http://LiveAction.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/BBSeWCymNa"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4691,
+      "follow_request_sent": false,
+      "followers_count": 210021,
+      "following": false,
+      "friends_count": 817,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 70468535,
+      "id_str": "70468535",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1736,
+      "location": "Los Angeles, CA",
+      "name": "Lila Rose",
+      "notifications": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/70468535/1514403084",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1108976001260740608/sZEwZkDY_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108976001260740608/sZEwZkDY_normal.png",
+      "profile_link_color": "165C6C",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "613F59",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LilaGraceRose",
+      "statuses_count": 15323,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/BBSeWCymNa",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 61882786,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105181,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42870,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

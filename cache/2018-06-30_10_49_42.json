@@ -1,0 +1,408 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jun 30 10:49:42 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      },
+      {
+        "id": 988573326376427520,
+        "id_str": "988573326376427520",
+        "indices": [
+          27,
+          37
+        ],
+        "name": "Secretary Pompeo",
+        "screen_name": "SecPompeo"
+      },
+      {
+        "id": 9624742,
+        "id_str": "9624742",
+        "indices": [
+          112,
+          122
+        ],
+        "name": "Department of State",
+        "screen_name": "StateDept"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: Thank you @SecPompeo. \nIt was an honor to join you and your talented, passionate colleagues at @StateDept to honor the her\u2026",
+  "geo": null,
+  "id": 1013011689690845184,
+  "id_str": "1013011689690845184",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1012438524971376642,
+  "quoted_status_id_str": "1012438524971376642",
+  "quoted_status_permalink": {
+    "display": "twitter.com/secpompeo/stat\u2026",
+    "expanded": "https://twitter.com/secpompeo/status/1012438524971376642",
+    "url": "https://t.co/1YVkuOysiW"
+  },
+  "retweet_count": 7739,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 29 11:39:28 +0000 2018",
+    "display_text_range": [
+      0,
+      230
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            215,
+            230
+          ],
+          "text": "EndTrafficking"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/secpompeo/stat\u2026",
+          "expanded_url": "https://twitter.com/secpompeo/status/1012438524971376642",
+          "indices": [
+            231,
+            254
+          ],
+          "url": "https://t.co/1YVkuOysiW"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 988573326376427520,
+          "id_str": "988573326376427520",
+          "indices": [
+            10,
+            20
+          ],
+          "name": "Secretary Pompeo",
+          "screen_name": "SecPompeo"
+        },
+        {
+          "id": 9624742,
+          "id_str": "9624742",
+          "indices": [
+            95,
+            105
+          ],
+          "name": "Department of State",
+          "screen_name": "StateDept"
+        }
+      ]
+    },
+    "favorite_count": 38328,
+    "favorited": false,
+    "full_text": "Thank you @SecPompeo. \nIt was an honor to join you and your talented, passionate colleagues at @StateDept to honor the heros on the frontlines in the fight against human trafficking and release the 2018 TIP report. #EndTrafficking https://t.co/1YVkuOysiW",
+    "geo": null,
+    "id": 1012661827791212544,
+    "id_str": "1012661827791212544",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Jun 28 20:52:09 +0000 2018",
+      "display_text_range": [
+        0,
+        233
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              69,
+              86
+            ],
+            "text": "humantrafficking"
+          },
+          {
+            "indices": [
+              218,
+              233
+            ],
+            "text": "EndTrafficking"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/IvankaTrump/st\u2026",
+            "expanded_url": "https://twitter.com/IvankaTrump/status/1012402989926113280",
+            "indices": [
+              234,
+              257
+            ],
+            "url": "https://t.co/GXX0OZLS39"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 52544275,
+            "id_str": "52544275",
+            "indices": [
+              10,
+              22
+            ],
+            "name": "Ivanka Trump",
+            "screen_name": "IvankaTrump"
+          },
+          {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "indices": [
+              143,
+              149
+            ],
+            "name": "President Trump",
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "favorite_count": 14352,
+      "favorited": false,
+      "full_text": "Thank you @IvankaTrump for your advocacy on behalf of the victims of #humantrafficking. Your engagement on this issue illustrates the priority @POTUS and the Trump Administration place on fighting this horrific crime. #EndTrafficking https://t.co/GXX0OZLS39",
+      "geo": null,
+      "id": 1012438524971376642,
+      "id_str": "1012438524971376642",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 1012402989926113280,
+      "quoted_status_id_str": "1012402989926113280",
+      "quoted_status_permalink": {
+        "display": "twitter.com/IvankaTrump/st\u2026",
+        "expanded": "https://twitter.com/IvankaTrump/status/1012402989926113280",
+        "url": "https://t.co/GXX0OZLS39"
+      },
+      "retweet_count": 4864,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 24 00:20:22 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "70th U.S. Secretary of @StateDept, working alongside the world\u2019s finest diplomatic corps. Husband, father, Army veteran, and proud Kansan.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "state.gov",
+                "expanded_url": "http://www.state.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/eFqP1DyLiJ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 242279,
+        "following": false,
+        "friends_count": 30,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 988573326376427520,
+        "id_str": "988573326376427520",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1237,
+        "location": "",
+        "name": "Secretary Pompeo",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/988573326376427520/1525190402",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1014454396522934273/w_96hmja_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014454396522934273/w_96hmja_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SecPompeo",
+        "statuses_count": 214,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/eFqP1DyLiJ",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1012438524971376642,
+    "quoted_status_id_str": "1012438524971376642",
+    "quoted_status_permalink": {
+      "display": "twitter.com/secpompeo/stat\u2026",
+      "expanded": "https://twitter.com/secpompeo/status/1012438524971376642",
+      "url": "https://t.co/1YVkuOysiW"
+    },
+    "retweet_count": 7739,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1298,
+      "follow_request_sent": false,
+      "followers_count": 5630664,
+      "following": false,
+      "friends_count": 1231,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 20044,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/882351803441987585/HWNkH-EK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/882351803441987585/HWNkH-EK_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 14488,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 53070847,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 90402,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1530156698",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38175,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

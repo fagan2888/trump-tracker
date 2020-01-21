@@ -1,0 +1,504 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 24 04:04:32 +0000 2019",
+  "display_text_range": [
+    0,
+    105
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/XPRfWZyYc6",
+        "expanded_url": "https://twitter.com/cspan/status/1176194996116086784/video/1",
+        "id": 1176192629735862279,
+        "id_str": "1176192629735862279",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/EFKvGtcXsAMtxL9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EFKvGtcXsAMtxL9.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1176194996116086784,
+        "source_status_id_str": "1176194996116086784",
+        "source_user_id": 15675138,
+        "source_user_id_str": "15675138",
+        "type": "photo",
+        "url": "https://t.co/XPRfWZyYc6"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15675138,
+        "id_str": "15675138",
+        "indices": [
+          3,
+          9
+        ],
+        "name": "CSPAN",
+        "screen_name": "cspan"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "call_to_actions": {
+            "visit_site": {
+              "url": "https://www.c-span.org/"
+            }
+          },
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 31 14:29:10 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Capitol Hill. The White House. National Politics.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "c-span.org",
+                    "expanded_url": "http://www.c-span.org",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/L3A4afzX6T"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1483,
+            "follow_request_sent": false,
+            "followers_count": 1961134,
+            "following": false,
+            "friends_count": 8839,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 15675138,
+            "id_str": "15675138",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 13896,
+            "location": "Washington, D.C.",
+            "name": "CSPAN",
+            "notifications": false,
+            "profile_background_color": "04005F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1552903501",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+            "profile_link_color": "04007D",
+            "profile_sidebar_border_color": "00012B",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "cspan",
+            "statuses_count": 41277,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/L3A4afzX6T",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/XPRfWZyYc6",
+        "expanded_url": "https://twitter.com/cspan/status/1176194996116086784/video/1",
+        "id": 1176192629735862279,
+        "id_str": "1176192629735862279",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/EFKvGtcXsAMtxL9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EFKvGtcXsAMtxL9.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1176194996116086784,
+        "source_status_id_str": "1176194996116086784",
+        "source_user_id": 15675138,
+        "source_user_id_str": "15675138",
+        "type": "video",
+        "url": "https://t.co/XPRfWZyYc6",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 26126,
+          "variants": [
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1176192629735862279/vid/480x270/C-wC24tIQvgqrude.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1176192629735862279/pl/q5kLiTLW32Cdnjij.m3u8?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1176192629735862279/vid/640x360/5pT7-NHhFFmy9mw3.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1176192629735862279/vid/1280x720/G2vXLKKh_zE7qlXG.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @cspan: President Trump: \"I think I'll get a Nobel prize for a lot of things,\" https://t.co/XPRfWZyYc6",
+  "geo": null,
+  "id": 1176346653550362626,
+  "id_str": "1176346653550362626",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 3032,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 23 18:01:54 +0000 2019",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/XPRfWZyYc6",
+          "expanded_url": "https://twitter.com/cspan/status/1176194996116086784/video/1",
+          "id": 1176192629735862279,
+          "id_str": "1176192629735862279",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFKvGtcXsAMtxL9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFKvGtcXsAMtxL9.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/XPRfWZyYc6"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.c-span.org/"
+              }
+            },
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/XPRfWZyYc6",
+          "expanded_url": "https://twitter.com/cspan/status/1176194996116086784/video/1",
+          "id": 1176192629735862279,
+          "id_str": "1176192629735862279",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFKvGtcXsAMtxL9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFKvGtcXsAMtxL9.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/XPRfWZyYc6",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 26126,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1176192629735862279/vid/480x270/C-wC24tIQvgqrude.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1176192629735862279/pl/q5kLiTLW32Cdnjij.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1176192629735862279/vid/640x360/5pT7-NHhFFmy9mw3.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1176192629735862279/vid/1280x720/G2vXLKKh_zE7qlXG.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12545,
+    "favorited": false,
+    "full_text": "President Trump: \"I think I'll get a Nobel prize for a lot of things,\" https://t.co/XPRfWZyYc6",
+    "geo": null,
+    "id": 1176194996116086784,
+    "id_str": "1176194996116086784",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3032,
+    "retweeted": false,
+    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 31 14:29:10 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Capitol Hill. The White House. National Politics.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "c-span.org",
+              "expanded_url": "http://www.c-span.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L3A4afzX6T"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1483,
+      "follow_request_sent": false,
+      "followers_count": 1961134,
+      "following": false,
+      "friends_count": 8839,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 15675138,
+      "id_str": "15675138",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 13896,
+      "location": "Washington, D.C.",
+      "name": "CSPAN",
+      "notifications": false,
+      "profile_background_color": "04005F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1552903501",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+      "profile_link_color": "04007D",
+      "profile_sidebar_border_color": "00012B",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "cspan",
+      "statuses_count": 41277,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/L3A4afzX6T",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 64695343,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108778,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44468,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 22 23:33:41 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18266688,
+        "id_str": "18266688",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Tom Fitton",
+        "screen_name": "TomFitton"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          48,
+          64
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TomFitton: UNPRECEDENTED Spying Campaign on @RealDonaldTrump: DOJ/FBI/NSA/CIA/State -- \"all hands on deck\" in Obama administration's go\u2026",
+  "geo": null,
+  "id": 1120470760789893120,
+  "id_str": "1120470760789893120",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5560,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 22 21:25:40 +0000 2019",
+    "display_text_range": [
+      0,
+      205
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/U9zUVxwicv",
+          "expanded_url": "https://twitter.com/TomFitton/status/1120438544823201792/video/1",
+          "id": 1120396110017724416,
+          "id_str": "1120396110017724416",
+          "indices": [
+            206,
+            229
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4yYOPVXsAE21Tl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4yYOPVXsAE21Tl.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_user_id": 18247062,
+          "source_user_id_str": "18247062",
+          "type": "photo",
+          "url": "https://t.co/U9zUVxwicv"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            33,
+            49
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Fri Dec 19 18:04:57 +0000 2008",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government. Follow us on FB & Instagram: judicialwatch",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "judicialwatch.org",
+                      "expanded_url": "http://www.judicialwatch.org",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/JPjqvKy5es"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 1376,
+              "follow_request_sent": false,
+              "followers_count": 1073017,
+              "following": false,
+              "friends_count": 1968,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 18247062,
+              "id_str": "18247062",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 5084,
+              "location": "Washington, DC",
+              "name": "Judicial Watch \ud83d\udd0e",
+              "notifications": false,
+              "profile_background_color": "ABB8C2",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/18247062/1555347255",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1117833446578061314/PLsTrGYS_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117833446578061314/PLsTrGYS_normal.png",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "EEEEEE",
+              "profile_text_color": "30353B",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "JudicialWatch",
+              "statuses_count": 59727,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/JPjqvKy5es",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/U9zUVxwicv",
+          "expanded_url": "https://twitter.com/TomFitton/status/1120438544823201792/video/1",
+          "id": 1120396110017724416,
+          "id_str": "1120396110017724416",
+          "indices": [
+            206,
+            229
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4yYOPVXsAE21Tl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4yYOPVXsAE21Tl.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_user_id": 18247062,
+          "source_user_id_str": "18247062",
+          "type": "video",
+          "url": "https://t.co/U9zUVxwicv",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 196363,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1120396110017724416/vid/320x180/6JJC6djL49A7eR-t.mp4?tag=11"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1120396110017724416/vid/1280x720/_fW1DiD33TlQ4JuC.mp4?tag=11"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1120396110017724416/vid/640x360/DEKnCGKgJmHI5Lx6.mp4?tag=11"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1120396110017724416/pl/XfdzY0J1V-9c0-hZ.m3u8?tag=11"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16255,
+    "favorited": false,
+    "full_text": "UNPRECEDENTED Spying Campaign on @RealDonaldTrump: DOJ/FBI/NSA/CIA/State -- \"all hands on deck\" in Obama administration's going after Trump and then the corrupt targeting morphed into Mueller operation.... https://t.co/U9zUVxwicv",
+    "geo": null,
+    "id": 1120438544823201792,
+    "id_str": "1120438544823201792",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5560,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Dec 20 14:32:44 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President, Judicial Watch. (These are my personal views only!)  Author, New York Times best seller Clean House. \nhttps://t.co/midr73gi0A",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/tomfitton",
+              "expanded_url": "https://www.instagram.com/tomfitton",
+              "indices": [
+                113,
+                136
+              ],
+              "url": "https://t.co/midr73gi0A"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JudicialWatch.org",
+              "expanded_url": "http://www.JudicialWatch.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/ebnjxMYdbL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 447,
+      "follow_request_sent": false,
+      "followers_count": 529774,
+      "following": false,
+      "friends_count": 2999,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 18266688,
+      "id_str": "18266688",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 2301,
+      "location": "Washington, DC",
+      "name": "Tom Fitton",
+      "notifications": false,
+      "profile_background_color": "568448",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18266688/1527968436",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "ECD295",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TomFitton",
+      "statuses_count": 25410,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/ebnjxMYdbL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59851711,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102084,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41386,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

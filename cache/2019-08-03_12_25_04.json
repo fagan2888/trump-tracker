@@ -1,0 +1,347 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 03 12:25:04 +0000 2019",
+  "display_text_range": [
+    0,
+    64
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/senjohnhoeven/\u2026",
+        "expanded_url": "https://twitter.com/senjohnhoeven/status/1157426535692939266",
+        "indices": [
+          65,
+          88
+        ],
+        "url": "https://t.co/m2PjlbTHA9"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 51006,
+  "favorited": false,
+  "full_text": "Great working with you John. A big win for our amazing ranchers! https://t.co/m2PjlbTHA9",
+  "geo": null,
+  "id": 1157628447570706438,
+  "id_str": "1157628447570706438",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 02 23:02:44 +0000 2019",
+    "display_text_range": [
+      0,
+      258
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NPAQsUaJwe",
+          "expanded_url": "https://twitter.com/SenJohnHoeven/status/1157426535692939266/video/1",
+          "id": 1157426294533033990,
+          "id_str": "1157426294533033990",
+          "indices": [
+            259,
+            282
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157426294533033990/pu/img/G_9jbGYRexBTi_9T.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157426294533033990/pu/img/G_9jbGYRexBTi_9T.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NPAQsUaJwe"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            190,
+            196
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 842072478834909184,
+          "id_str": "842072478834909184",
+          "indices": [
+            198,
+            213
+          ],
+          "name": "Sec. Sonny Perdue",
+          "screen_name": "SecretarySonny"
+        },
+        {
+          "id": 862405301693296640,
+          "id_str": "862405301693296640",
+          "indices": [
+            218,
+            229
+          ],
+          "name": "USTR",
+          "screen_name": "USTradeRep"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/NPAQsUaJwe",
+          "expanded_url": "https://twitter.com/SenJohnHoeven/status/1157426535692939266/video/1",
+          "id": 1157426294533033990,
+          "id_str": "1157426294533033990",
+          "indices": [
+            259,
+            282
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157426294533033990/pu/img/G_9jbGYRexBTi_9T.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157426294533033990/pu/img/G_9jbGYRexBTi_9T.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/NPAQsUaJwe",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 111712,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1157426294533033990/pu/pl/qGRKV6TQlnlgs2Bm.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157426294533033990/pu/vid/1280x720/9TnZT2wGgB0TdwMZ.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157426294533033990/pu/vid/640x360/IN4z6-2sgNAYRtZ7.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157426294533033990/pu/vid/480x270/dQOhBHIHwtcnAYzK.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5022,
+    "favorited": false,
+    "full_text": "The US produces the highest quality beef anywhere in the world and with today's agreement, US ranchers will be able to almost triple the beef they are able to export to Europe. Thank you to @POTUS, @SecretarySonny and @USTradeRep for securing this agreement. https://t.co/NPAQsUaJwe",
+    "geo": null,
+    "id": 1157426535692939266,
+    "id_str": "1157426535692939266",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2100,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Sep 30 17:55:30 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official account of U.S. Senator John Hoeven of North Dakota. Chairman of #Agriculture Appropriations & @IndianCommittee.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "hoeven.senate.gov",
+              "expanded_url": "http://hoeven.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/S1wB3GGEfX"
+            }
+          ]
+        }
+      },
+      "favourites_count": 683,
+      "follow_request_sent": false,
+      "followers_count": 92631,
+      "following": false,
+      "friends_count": 702,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 382791093,
+      "id_str": "382791093",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1605,
+      "location": "North Dakota",
+      "name": "Senator John Hoeven",
+      "notifications": false,
+      "profile_background_color": "9E976D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/382791093/1553287177",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1085227990005493764/olR6Sayb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085227990005493764/olR6Sayb_normal.jpg",
+      "profile_link_color": "A1392B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenJohnHoeven",
+      "statuses_count": 3497,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/S1wB3GGEfX",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1157426535692939266,
+  "quoted_status_id_str": "1157426535692939266",
+  "quoted_status_permalink": {
+    "display": "twitter.com/senjohnhoeven/\u2026",
+    "expanded": "https://twitter.com/senjohnhoeven/status/1157426535692939266",
+    "url": "https://t.co/m2PjlbTHA9"
+  },
+  "retweet_count": 12706,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 62634029,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106232,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43313,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

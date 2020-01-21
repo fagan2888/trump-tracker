@@ -1,0 +1,396 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 17 13:47:43 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 264361128,
+        "id_str": "264361128",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Liz Wheeler",
+        "screen_name": "Liz_Wheeler"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Liz_Wheeler: \"Do you have any info regarding the POTUS accepting any bribes?\n\nYovanovich: \"No.\"\n\n\"Do you have any info regarding any cr\u2026",
+  "geo": null,
+  "id": 1196062362731732992,
+  "id_str": "1196062362731732992",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 12278,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 15 19:27:30 +0000 2019",
+    "display_text_range": [
+      0,
+      223
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5YLD6RmeXQ",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1195420974595870720/video/1",
+          "features": {},
+          "id": 1195420891284430848,
+          "id_str": "1195420891284430848",
+          "indices": [
+            200,
+            223
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195420891284430848/pu/img/a3pLTNP1xaO4UMGK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195420891284430848/pu/img/a3pLTNP1xaO4UMGK.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1195420974595870720,
+          "source_status_id_str": "1195420974595870720",
+          "source_user_id": 55329156,
+          "source_user_id_str": "55329156",
+          "type": "photo",
+          "url": "https://t.co/5YLD6RmeXQ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Thu Jul 09 19:08:45 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "#MAGA. Official RNC Research acct. Follow for latest on Democrats, pundits, & Trump's accomplishments. Subscribe to our YouTube page: https://t.co/OLjaWvAwOj",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "goo.gl/oryp5i",
+                      "expanded_url": "https://goo.gl/oryp5i",
+                      "indices": [
+                        134,
+                        157
+                      ],
+                      "url": "https://t.co/OLjaWvAwOj"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "gop.com/research/",
+                      "expanded_url": "https://gop.com/research/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/oeE4SVAXcg"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 0,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 64835,
+              "following": false,
+              "friends_count": 3434,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 55329156,
+              "id_str": "55329156",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1195,
+              "location": "Washington, DC",
+              "name": "RNC Research",
+              "notifications": false,
+              "profile_background_color": "CC0A0A",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/55329156/1526665097",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+              "profile_link_color": "F50808",
+              "profile_sidebar_border_color": "030303",
+              "profile_sidebar_fill_color": "8A8585",
+              "profile_text_color": "050505",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "RNCResearch",
+              "statuses_count": 17539,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/oeE4SVAXcg",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/5YLD6RmeXQ",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1195420974595870720/video/1",
+          "features": {},
+          "id": 1195420891284430848,
+          "id_str": "1195420891284430848",
+          "indices": [
+            200,
+            223
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195420891284430848/pu/img/a3pLTNP1xaO4UMGK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195420891284430848/pu/img/a3pLTNP1xaO4UMGK.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1195420974595870720,
+          "source_status_id_str": "1195420974595870720",
+          "source_user_id": 55329156,
+          "source_user_id_str": "55329156",
+          "type": "video",
+          "url": "https://t.co/5YLD6RmeXQ",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 29200,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1195420891284430848/pu/vid/480x270/R4oIh3zjctgWt-ae.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1195420891284430848/pu/vid/1280x720/soXD6wlR-EzeLXeM.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1195420891284430848/pu/pl/EPQB0YwGncHsBPSi.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1195420891284430848/pu/vid/640x360/tBAa4TItocar6CXk.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 37435,
+    "favorited": false,
+    "full_text": "\"Do you have any info regarding the POTUS accepting any bribes?\n\nYovanovich: \"No.\"\n\n\"Do you have any info regarding any criminal activity the POTUS has been involved with at all?\"\n\nYovanovich: \"No.\"\n\nhttps://t.co/5YLD6RmeXQ",
+    "geo": null,
+    "id": 1195423094199873536,
+    "id_str": "1195423094199873536",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12278,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 11 19:43:21 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of Tipping Point on @OANN. Author of \u201cTipping Points: How to Topple the Left\u2019s House of Cards\u201d available now!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/Tipping-Points\u2026",
+              "expanded_url": "https://www.amazon.com/Tipping-Points-Topple-Lefts-House/dp/1621579255/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ri2TlWLhK2"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7428,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 361572,
+      "following": false,
+      "friends_count": 750,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 264361128,
+      "id_str": "264361128",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1965,
+      "location": "",
+      "name": "Liz Wheeler",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/264361128/1556120120",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1035192110675243008/rOFScozb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035192110675243008/rOFScozb_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Liz_Wheeler",
+      "statuses_count": 32716,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/ri2TlWLhK2",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66871838,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110763,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46249,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

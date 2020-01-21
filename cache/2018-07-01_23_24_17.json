@@ -1,0 +1,444 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jul 01 23:24:17 +0000 2018",
+  "display_text_range": [
+    0,
+    95
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          24,
+          49
+        ],
+        "text": "TrumpDerangementSyndrome"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/thehill/status\u2026",
+        "expanded_url": "https://twitter.com/thehill/status/1012797119416152066",
+        "indices": [
+          72,
+          95
+        ],
+        "url": "https://t.co/qm86ya6PlJ"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 195271137,
+        "id_str": "195271137",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Larry Elder",
+        "screen_name": "larryelder"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @larryelder: BEWARE! #TrumpDerangementSyndrome can be career ending. https://t.co/qm86ya6PlJ",
+  "geo": null,
+  "id": 1013563976406437888,
+  "id_str": "1013563976406437888",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1012797119416152066,
+  "quoted_status_id_str": "1012797119416152066",
+  "quoted_status_permalink": {
+    "display": "twitter.com/thehill/status\u2026",
+    "expanded": "https://twitter.com/thehill/status/1012797119416152066",
+    "url": "https://t.co/qm86ya6PlJ"
+  },
+  "retweet_count": 12904,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 01 01:18:35 +0000 2018",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            8,
+            33
+          ],
+          "text": "TrumpDerangementSyndrome"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/thehill/status\u2026",
+          "expanded_url": "https://twitter.com/thehill/status/1012797119416152066",
+          "indices": [
+            56,
+            79
+          ],
+          "url": "https://t.co/qm86ya6PlJ"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 46257,
+    "favorited": false,
+    "full_text": "BEWARE! #TrumpDerangementSyndrome can be career ending. https://t.co/qm86ya6PlJ",
+    "geo": null,
+    "id": 1013230350384836608,
+    "id_str": "1013230350384836608",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jun 29 20:37:04 +0000 2018",
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Cxu1AHDfN6",
+            "expanded_url": "https://twitter.com/thehill/status/1012797119416152066/photo/1",
+            "id": 1012797117394538496,
+            "id_str": "1012797117394538496",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dg4tnLvXUAAZeba.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dg4tnLvXUAAZeba.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Cxu1AHDfN6"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "hill.cm/xShuzZv",
+            "expanded_url": "http://hill.cm/xShuzZv",
+            "indices": [
+              88,
+              111
+            ],
+            "url": "https://t.co/hjMo3NhoOV"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Cxu1AHDfN6",
+            "expanded_url": "https://twitter.com/thehill/status/1012797119416152066/photo/1",
+            "id": 1012797117394538496,
+            "id_str": "1012797117394538496",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dg4tnLvXUAAZeba.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dg4tnLvXUAAZeba.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Cxu1AHDfN6"
+          }
+        ]
+      },
+      "favorite_count": 3955,
+      "favorited": false,
+      "full_text": "Newspaper reporter resigns after wrongly claiming Capital Gazette shooter wore MAGA hat\nhttps://t.co/hjMo3NhoOV https://t.co/Cxu1AHDfN6",
+      "geo": null,
+      "id": 1012797119416152066,
+      "id_str": "1012797119416152066",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2049,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thehill.com",
+                "expanded_url": "http://www.thehill.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/t414UtTRv4"
+              }
+            ]
+          }
+        },
+        "favourites_count": 26,
+        "follow_request_sent": false,
+        "followers_count": 3103265,
+        "following": false,
+        "friends_count": 923,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1917731,
+        "id_str": "1917731",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24458,
+        "location": "Washington, DC",
+        "name": "The Hill",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+        "profile_link_color": "FF0021",
+        "profile_sidebar_border_color": "ADADAA",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thehill",
+        "statuses_count": 454696,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/t414UtTRv4",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1012797119416152066,
+    "quoted_status_id_str": "1012797119416152066",
+    "quoted_status_permalink": {
+      "display": "twitter.com/thehill/status\u2026",
+      "expanded": "https://twitter.com/thehill/status/1012797119416152066",
+      "url": "https://t.co/qm86ya6PlJ"
+    },
+    "retweet_count": 12904,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Sep 26 07:34:31 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Sage from South Central; Larry Elder Show; Salem/CRN; (KRLA L.A. 6-9p PT); 6-9p ET; (888) 971-SAGE; https://t.co/sXv5JWRKRA",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "elderstatement.com",
+              "expanded_url": "http://www.elderstatement.com",
+              "indices": [
+                100,
+                123
+              ],
+              "url": "https://t.co/sXv5JWRKRA"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "larryelder.com/membership",
+              "expanded_url": "http://www.larryelder.com/membership",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/htHywSGbPA"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3049,
+      "follow_request_sent": false,
+      "followers_count": 418755,
+      "following": false,
+      "friends_count": 50,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 195271137,
+      "id_str": "195271137",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 2824,
+      "location": "L.A., Calif.",
+      "name": "Larry Elder",
+      "notifications": false,
+      "profile_background_color": "1E1728",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/195271137/1421715440",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912342346317824/rbQxobXU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912342346317824/rbQxobXU_normal.jpeg",
+      "profile_link_color": "7B6DA3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "larryelder",
+      "statuses_count": 50981,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/htHywSGbPA",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 53070847,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 90402,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1530156698",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38175,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

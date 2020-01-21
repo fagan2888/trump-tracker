@@ -1,0 +1,484 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jan 18 13:04:17 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21220612,
+        "id_str": "21220612",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ashley Hayek - Text EMPOWER to 88022",
+        "screen_name": "ashleyhayek"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          98,
+          114
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ashleyhayek: First stop in the Hawkeye State! Women for Trump are excited to show support for @realDonaldTrump - a great panel with @La\u2026",
+  "geo": null,
+  "id": 1218519479031865345,
+  "id_str": "1218519479031865345",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5482,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 16 16:28:34 +0000 2020",
+    "display_text_range": [
+      0,
+      206
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            175,
+            189
+          ],
+          "text": "WomenForTrump"
+        },
+        {
+          "indices": [
+            190,
+            195
+          ],
+          "text": "Iowa"
+        },
+        {
+          "indices": [
+            196,
+            206
+          ],
+          "text": "LeadRight"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zuAuW6dsNU",
+          "expanded_url": "https://twitter.com/ashleyhayek/status/1217846113866305540/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "Kayleigh McEnany",
+                  "screen_name": "kayleighmcenany",
+                  "type": "user",
+                  "user_id": "259001548"
+                },
+                {
+                  "name": "Lara Trump",
+                  "screen_name": "LaraLeaTrump",
+                  "type": "user",
+                  "user_id": "75541946"
+                },
+                {
+                  "name": "Mercedes Schlapp",
+                  "screen_name": "mercedesschlapp",
+                  "type": "user",
+                  "user_id": "42670638"
+                },
+                {
+                  "name": "Kiera Wainer",
+                  "screen_name": "kewainer",
+                  "type": "user",
+                  "user_id": "1011344876401721344"
+                },
+                {
+                  "name": "Preya Samsundar",
+                  "screen_name": "psamsundar",
+                  "type": "user",
+                  "user_id": "794180390"
+                }
+              ]
+            },
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1217846091221295104,
+          "id_str": "1217846091221295104",
+          "indices": [
+            207,
+            230
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOaokUpX4AA4E4K.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOaokUpX4AA4E4K.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1738
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1018
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 577
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zuAuW6dsNU"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            81,
+            97
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 75541946,
+          "id_str": "75541946",
+          "indices": [
+            119,
+            132
+          ],
+          "name": "Lara Trump",
+          "screen_name": "LaraLeaTrump"
+        },
+        {
+          "id": 42670638,
+          "id_str": "42670638",
+          "indices": [
+            133,
+            149
+          ],
+          "name": "Mercedes Schlapp",
+          "screen_name": "mercedesschlapp"
+        },
+        {
+          "id": 259001548,
+          "id_str": "259001548",
+          "indices": [
+            156,
+            172
+          ],
+          "name": "Kayleigh McEnany",
+          "screen_name": "kayleighmcenany"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zuAuW6dsNU",
+          "expanded_url": "https://twitter.com/ashleyhayek/status/1217846113866305540/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "Kayleigh McEnany",
+                  "screen_name": "kayleighmcenany",
+                  "type": "user",
+                  "user_id": "259001548"
+                },
+                {
+                  "name": "Lara Trump",
+                  "screen_name": "LaraLeaTrump",
+                  "type": "user",
+                  "user_id": "75541946"
+                },
+                {
+                  "name": "Mercedes Schlapp",
+                  "screen_name": "mercedesschlapp",
+                  "type": "user",
+                  "user_id": "42670638"
+                },
+                {
+                  "name": "Kiera Wainer",
+                  "screen_name": "kewainer",
+                  "type": "user",
+                  "user_id": "1011344876401721344"
+                },
+                {
+                  "name": "Preya Samsundar",
+                  "screen_name": "psamsundar",
+                  "type": "user",
+                  "user_id": "794180390"
+                }
+              ]
+            },
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1217846091221295104,
+          "id_str": "1217846091221295104",
+          "indices": [
+            207,
+            230
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOaokUpX4AA4E4K.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOaokUpX4AA4E4K.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1738
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1018
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 577
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zuAuW6dsNU"
+        }
+      ]
+    },
+    "favorite_count": 21586,
+    "favorited": false,
+    "full_text": "First stop in the Hawkeye State! Women for Trump are excited to show support for @realDonaldTrump - a great panel with @LaraLeaTrump @mercedesschlapp &amp; @kayleighmcenany \n\n#WomenForTrump #Iowa #LeadRight https://t.co/zuAuW6dsNU",
+    "geo": null,
+    "id": 1217846113866305540,
+    "id_str": "1217846113866305540",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -96.399412,
+              42.563703
+            ],
+            [
+              -96.399412,
+              42.563703
+            ],
+            [
+              -96.399412,
+              42.563703
+            ],
+            [
+              -96.399412,
+              42.563703
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Country Celebrations Event Center",
+      "id": "0ab442fe09566000",
+      "name": "Country Celebrations Event Center",
+      "place_type": "poi",
+      "url": "https://api.twitter.com/1.1/geo/id/0ab442fe09566000.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 5482,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 18 17:59:48 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Proud Marine Wife \ud83d\udc8fMomma\ud83d\udc71\ud83c\udffb\u200d\u2640\ufe0f\ud83d\udc67\ud83c\udffc\ud83d\udc66\ud83c\udffc\ud83d\udc76\ud83c\udffcExecutive Director, #WomenforTrump @realdonaldtrump Campaign",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "women.donaldjtrump.com",
+              "expanded_url": "http://women.donaldjtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UwE21th1iE"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2782,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 5003,
+      "following": false,
+      "friends_count": 513,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 21220612,
+      "id_str": "21220612",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 31,
+      "location": "Washington, DC",
+      "name": "Ashley Hayek - Text EMPOWER to 88022",
+      "notifications": false,
+      "profile_background_color": "EDE9EC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21220612/1489465057",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1017629756299202561/8KiWZsc2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017629756299202561/8KiWZsc2_normal.jpg",
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ashleyhayek",
+      "statuses_count": 1987,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/UwE21th1iE",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71202598,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113529,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47957,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

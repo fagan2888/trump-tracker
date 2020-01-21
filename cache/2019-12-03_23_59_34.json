@@ -1,0 +1,367 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Dec 03 23:59:34 +0000 2019",
+  "display_text_range": [
+    0,
+    50
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/repmarkgreen/s\u2026",
+        "expanded_url": "https://twitter.com/repmarkgreen/status/1201553654358200320",
+        "indices": [
+          27,
+          50
+        ],
+        "url": "https://t.co/Mr1L4Vv3eA"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: True! https://t.co/Mr1L4Vv3eA",
+  "geo": null,
+  "id": 1202014544396111872,
+  "id_str": "1202014544396111872",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1201553654358200320,
+  "quoted_status_id_str": "1201553654358200320",
+  "quoted_status_permalink": {
+    "display": "twitter.com/repmarkgreen/s\u2026",
+    "expanded": "https://twitter.com/repmarkgreen/status/1201553654358200320",
+    "url": "https://t.co/Mr1L4Vv3eA"
+  },
+  "retweet_count": 15337,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 03 11:09:21 +0000 2019",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/repmarkgreen/s\u2026",
+          "expanded_url": "https://twitter.com/repmarkgreen/status/1201553654358200320",
+          "indices": [
+            6,
+            29
+          ],
+          "url": "https://t.co/Mr1L4Vv3eA"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 61225,
+    "favorited": false,
+    "full_text": "True! https://t.co/Mr1L4Vv3eA",
+    "geo": null,
+    "id": 1201820712245383170,
+    "id_str": "1201820712245383170",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Dec 02 17:28:09 +0000 2019",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "time.com/5742108/ukrain\u2026",
+            "expanded_url": "https://time.com/5742108/ukraine-zelensky-interview-trump-putin-europe/",
+            "indices": [
+              256,
+              279
+            ],
+            "url": "https://t.co/ZRsP0QXwBW"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "indices": [
+              76,
+              82
+            ],
+            "name": "President Trump",
+            "screen_name": "POTUS"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              83,
+              99
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "favorite_count": 47422,
+      "favorited": false,
+      "full_text": "President Zelensky has repeatedly said there was no pressure to investigate @POTUS @realDonaldTrump's political rivals. Again today:\n\n\u201cI never talked to the president from the position of a quid pro quo. That\u2019s not my thing.\u201d\n\nHow much clearer can he get?\nhttps://t.co/ZRsP0QXwBW",
+      "geo": null,
+      "id": 1201553654358200320,
+      "id_str": "1201553654358200320",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 17625,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 02 14:53:54 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mark Green is a physician, businessman, and combat veteran representing Tennessee\u2019s 7th District in Congress.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "markgreen.house.gov",
+                "expanded_url": "http://markgreen.house.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/tBr76gfx9G"
+              }
+            ]
+          }
+        },
+        "favourites_count": 320,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 28173,
+        "following": false,
+        "friends_count": 849,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1080477288955826176,
+        "id_str": "1080477288955826176",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 373,
+        "location": "",
+        "name": "Rep. Mark Green",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080477288955826176/1549298310",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080478006169268224/aB7vw1E2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080478006169268224/aB7vw1E2_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RepMarkGreen",
+        "statuses_count": 1040,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/tBr76gfx9G",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1201553654358200320,
+    "quoted_status_id_str": "1201553654358200320",
+    "quoted_status_permalink": {
+      "display": "twitter.com/repmarkgreen/s\u2026",
+      "expanded": "https://twitter.com/repmarkgreen/status/1201553654358200320",
+      "url": "https://t.co/Mr1L4Vv3eA"
+    },
+    "retweet_count": 15337,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 67268195,
+      "following": true,
+      "friends_count": 47,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 111017,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 46637,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67268195,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111017,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46637,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

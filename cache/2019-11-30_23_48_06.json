@@ -1,0 +1,660 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 30 23:48:06 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          73,
+          79
+        ],
+        "text": "USMCA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 729676086632656900,
+        "id_str": "729676086632656900",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Team Trump",
+        "screen_name": "TeamTrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          45,
+          61
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TeamTrump: One year ago today, President @realDonaldTrump signed the #USMCA with Canada and Mexico.\n\nIt now sits on Nancy Pelosi's desk\u2026",
+  "geo": null,
+  "id": 1200924495139221505,
+  "id_str": "1200924495139221505",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9822,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 30 15:06:18 +0000 2019",
+    "display_text_range": [
+      0,
+      221
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            58,
+            64
+          ],
+          "text": "USMCA"
+        },
+        {
+          "indices": [
+            212,
+            221
+          ],
+          "text": "USMCANow"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CJ9ZOm7HjS",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1200793180574224384/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 916,
+                  "y": 268
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 697,
+                  "y": 191
+                },
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 463,
+                  "y": 250
+                },
+                {
+                  "h": 104,
+                  "w": 104,
+                  "x": 1068,
+                  "y": 270
+                },
+                {
+                  "h": 97,
+                  "w": 97,
+                  "x": 649,
+                  "y": 285
+                },
+                {
+                  "h": 123,
+                  "w": 123,
+                  "x": 277,
+                  "y": 325
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 64,
+                  "w": 64,
+                  "x": 762,
+                  "y": 223
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 580,
+                  "y": 158
+                },
+                {
+                  "h": 73,
+                  "w": 73,
+                  "x": 385,
+                  "y": 208
+                },
+                {
+                  "h": 86,
+                  "w": 86,
+                  "x": 888,
+                  "y": 224
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 540,
+                  "y": 237
+                },
+                {
+                  "h": 102,
+                  "w": 102,
+                  "x": 230,
+                  "y": 270
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 916,
+                  "y": 268
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 697,
+                  "y": 191
+                },
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 463,
+                  "y": 250
+                },
+                {
+                  "h": 104,
+                  "w": 104,
+                  "x": 1068,
+                  "y": 270
+                },
+                {
+                  "h": 97,
+                  "w": 97,
+                  "x": 649,
+                  "y": 285
+                },
+                {
+                  "h": 123,
+                  "w": 123,
+                  "x": 277,
+                  "y": 325
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 431,
+                  "y": 126
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 328,
+                  "y": 90
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 218,
+                  "y": 117
+                },
+                {
+                  "h": 49,
+                  "w": 49,
+                  "x": 503,
+                  "y": 127
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 306,
+                  "y": 134
+                },
+                {
+                  "h": 58,
+                  "w": 58,
+                  "x": 130,
+                  "y": 153
+                }
+              ]
+            }
+          },
+          "id": 1200793171610996736,
+          "id_str": "1200793171610996736",
+          "indices": [
+            222,
+            245
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKoTBwqWkAA5GSL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKoTBwqWkAA5GSL.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 1442
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CJ9ZOm7HjS"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            30,
+            46
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 15764644,
+          "id_str": "15764644",
+          "indices": [
+            153,
+            167
+          ],
+          "name": "Nancy Pelosi",
+          "screen_name": "SpeakerPelosi"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CJ9ZOm7HjS",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1200793180574224384/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 916,
+                  "y": 268
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 697,
+                  "y": 191
+                },
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 463,
+                  "y": 250
+                },
+                {
+                  "h": 104,
+                  "w": 104,
+                  "x": 1068,
+                  "y": 270
+                },
+                {
+                  "h": 97,
+                  "w": 97,
+                  "x": 649,
+                  "y": 285
+                },
+                {
+                  "h": 123,
+                  "w": 123,
+                  "x": 277,
+                  "y": 325
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 64,
+                  "w": 64,
+                  "x": 762,
+                  "y": 223
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 580,
+                  "y": 158
+                },
+                {
+                  "h": 73,
+                  "w": 73,
+                  "x": 385,
+                  "y": 208
+                },
+                {
+                  "h": 86,
+                  "w": 86,
+                  "x": 888,
+                  "y": 224
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 540,
+                  "y": 237
+                },
+                {
+                  "h": 102,
+                  "w": 102,
+                  "x": 230,
+                  "y": 270
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 916,
+                  "y": 268
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 697,
+                  "y": 191
+                },
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 463,
+                  "y": 250
+                },
+                {
+                  "h": 104,
+                  "w": 104,
+                  "x": 1068,
+                  "y": 270
+                },
+                {
+                  "h": 97,
+                  "w": 97,
+                  "x": 649,
+                  "y": 285
+                },
+                {
+                  "h": 123,
+                  "w": 123,
+                  "x": 277,
+                  "y": 325
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 431,
+                  "y": 126
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 328,
+                  "y": 90
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 218,
+                  "y": 117
+                },
+                {
+                  "h": 49,
+                  "w": 49,
+                  "x": 503,
+                  "y": 127
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 306,
+                  "y": 134
+                },
+                {
+                  "h": 58,
+                  "w": 58,
+                  "x": 130,
+                  "y": 153
+                }
+              ]
+            }
+          },
+          "id": 1200793171610996736,
+          "id_str": "1200793171610996736",
+          "indices": [
+            222,
+            245
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKoTBwqWkAA5GSL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKoTBwqWkAA5GSL.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 1442
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CJ9ZOm7HjS"
+        }
+      ]
+    },
+    "favorite_count": 26857,
+    "favorited": false,
+    "full_text": "One year ago today, President @realDonaldTrump signed the #USMCA with Canada and Mexico.\n\nIt now sits on Nancy Pelosi's desk collecting dust!\n\nWhy won't @SpeakerPelosi pass the USMCA and help America's workers?\n\n#USMCANow https://t.co/CJ9ZOm7HjS",
+    "geo": null,
+    "id": 1200793180574224384,
+    "id_str": "1200793180574224384",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9822,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon May 09 14:15:10 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Welcome to Team Trump, the official Twitter for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hymxC9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2724,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1302407,
+      "following": false,
+      "friends_count": 93,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 729676086632656900,
+      "id_str": "729676086632656900",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3287,
+      "location": "USA",
+      "name": "Team Trump",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1564436211",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_link_color": "CB0606",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TeamTrump",
+      "statuses_count": 16387,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hymxC9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67180803,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111000,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46525,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

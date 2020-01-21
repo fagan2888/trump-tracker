@@ -1,0 +1,581 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 11 23:45:38 +0000 2019",
+  "display_text_range": [
+    0,
+    109
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/R6Yb95EzYX",
+        "expanded_url": "https://twitter.com/cspan/status/1115674485699616769/video/1",
+        "id": 1115670865868410880,
+        "id_str": "1115670865868410880",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/media/D3up9PkXkAAWSUD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D3up9PkXkAAWSUD.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1115674485699616769,
+        "source_status_id_str": "1115674485699616769",
+        "source_user_id": 15675138,
+        "source_user_id_str": "15675138",
+        "type": "photo",
+        "url": "https://t.co/R6Yb95EzYX"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21149655,
+        "id_str": "21149655",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Arthur Schwartz",
+        "screen_name": "ArthurSchwartz"
+      },
+      {
+        "id": 21059255,
+        "id_str": "21059255",
+        "indices": [
+          25,
+          33
+        ],
+        "name": "Ted Lieu",
+        "screen_name": "tedlieu"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "call_to_actions": {
+            "watch_now": {
+              "url": "https://cs.pn/2X3pmPF"
+            }
+          },
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 31 14:29:10 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Capitol Hill. The White House. National Politics.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "c-span.org",
+                    "expanded_url": "http://www.c-span.org",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/L3A4afzX6T"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1408,
+            "follow_request_sent": false,
+            "followers_count": 1948093,
+            "following": false,
+            "friends_count": 8872,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 15675138,
+            "id_str": "15675138",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 13788,
+            "location": "Washington, D.C.",
+            "name": "CSPAN",
+            "notifications": false,
+            "profile_background_color": "04005F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1552903501",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+            "profile_link_color": "04007D",
+            "profile_sidebar_border_color": "00012B",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "cspan",
+            "statuses_count": 38978,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/L3A4afzX6T",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/R6Yb95EzYX",
+        "expanded_url": "https://twitter.com/cspan/status/1115674485699616769/video/1",
+        "id": 1115670865868410880,
+        "id_str": "1115670865868410880",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/media/D3up9PkXkAAWSUD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D3up9PkXkAAWSUD.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1115674485699616769,
+        "source_status_id_str": "1115674485699616769",
+        "source_user_id": 15675138,
+        "source_user_id_str": "15675138",
+        "type": "video",
+        "url": "https://t.co/R6Yb95EzYX",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 125058,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1115670865868410880/vid/1280x720/vvVbje3RaSULiRfe.mp4?tag=11"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1115670865868410880/vid/320x180/xjpWqQJ2Ut9V-2gL.mp4?tag=11"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1115670865868410880/vid/640x360/i4luAm532SKydo0A.mp4?tag=11"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1115670865868410880/pl/L9agxW5p2pkejmLB.m3u8?tag=11"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ArthurSchwartz: Wow. @tedlieu got a well deserved ass kicking. Shame on you Ted.  https://t.co/R6Yb95EzYX",
+  "geo": null,
+  "id": 1116487502091649030,
+  "id_str": "1116487502091649030",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 11943,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 09 19:53:04 +0000 2019",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/R6Yb95EzYX",
+          "expanded_url": "https://twitter.com/cspan/status/1115674485699616769/video/1",
+          "id": 1115670865868410880,
+          "id_str": "1115670865868410880",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3up9PkXkAAWSUD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3up9PkXkAAWSUD.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1115674485699616769,
+          "source_status_id_str": "1115674485699616769",
+          "source_user_id": 15675138,
+          "source_user_id_str": "15675138",
+          "type": "photo",
+          "url": "https://t.co/R6Yb95EzYX"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 21059255,
+          "id_str": "21059255",
+          "indices": [
+            5,
+            13
+          ],
+          "name": "Ted Lieu",
+          "screen_name": "tedlieu"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "watch_now": {
+                "url": "https://cs.pn/2X3pmPF"
+              }
+            },
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Jul 31 14:29:10 +0000 2008",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Capitol Hill. The White House. National Politics.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "c-span.org",
+                      "expanded_url": "http://www.c-span.org",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/L3A4afzX6T"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 1408,
+              "follow_request_sent": false,
+              "followers_count": 1948093,
+              "following": false,
+              "friends_count": 8872,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 15675138,
+              "id_str": "15675138",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 13788,
+              "location": "Washington, D.C.",
+              "name": "CSPAN",
+              "notifications": false,
+              "profile_background_color": "04005F",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1552903501",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+              "profile_link_color": "04007D",
+              "profile_sidebar_border_color": "00012B",
+              "profile_sidebar_fill_color": "FFFFFF",
+              "profile_text_color": "000000",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "cspan",
+              "statuses_count": 38978,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/L3A4afzX6T",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/R6Yb95EzYX",
+          "expanded_url": "https://twitter.com/cspan/status/1115674485699616769/video/1",
+          "id": 1115670865868410880,
+          "id_str": "1115670865868410880",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3up9PkXkAAWSUD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3up9PkXkAAWSUD.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1115674485699616769,
+          "source_status_id_str": "1115674485699616769",
+          "source_user_id": 15675138,
+          "source_user_id_str": "15675138",
+          "type": "video",
+          "url": "https://t.co/R6Yb95EzYX",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 125058,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1115670865868410880/vid/1280x720/vvVbje3RaSULiRfe.mp4?tag=11"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1115670865868410880/vid/320x180/xjpWqQJ2Ut9V-2gL.mp4?tag=11"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1115670865868410880/vid/640x360/i4luAm532SKydo0A.mp4?tag=11"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1115670865868410880/pl/L9agxW5p2pkejmLB.m3u8?tag=11"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 42671,
+    "favorited": false,
+    "full_text": "Wow. @tedlieu got a well deserved ass kicking. Shame on you Ted.  https://t.co/R6Yb95EzYX",
+    "geo": null,
+    "id": 1115704197121544192,
+    "id_str": "1115704197121544192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11943,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 18 00:09:13 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 5133,
+      "follow_request_sent": false,
+      "followers_count": 54358,
+      "following": false,
+      "friends_count": 172,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 21149655,
+      "id_str": "21149655",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 527,
+      "location": "Washington, DC",
+      "name": "Arthur Schwartz",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21149655/1541552183",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1068507063364567042/td_R9AWw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068507063364567042/td_R9AWw_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "ArthurSchwartz",
+      "statuses_count": 6907,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 59626904,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101745,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41210,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

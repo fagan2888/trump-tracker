@@ -1,0 +1,394 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 10 23:02:52 +0000 2019",
+  "display_text_range": [
+    0,
+    191
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/nikkihaley/sta\u2026",
+        "expanded_url": "https://twitter.com/nikkihaley/status/1193546581288636417",
+        "indices": [
+          192,
+          215
+        ],
+        "url": "https://t.co/uHKAAlVuLt"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1079776144524754944,
+        "id_str": "1079776144524754944",
+        "indices": [
+          1,
+          12
+        ],
+        "name": "Nikki Haley",
+        "screen_name": "NikkiHaley"
+      }
+    ]
+  },
+  "favorite_count": 42261,
+  "favorited": false,
+  "full_text": ".@NikkiHaley is out with a new book, \u201cWith All Due Respect\u201d this week. Make sure you order your copy today, or stop by one of her book tour stops to get a copy and say hello. Good luck Nikki! https://t.co/uHKAAlVuLt",
+  "geo": null,
+  "id": 1193665354729431040,
+  "id_str": "1193665354729431040",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 10 15:10:54 +0000 2019",
+    "display_text_range": [
+      0,
+      284
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/dYbIKAfUMO",
+          "expanded_url": "https://twitter.com/NikkiHaley/status/1193546581288636417/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 198,
+                  "w": 198,
+                  "x": 850,
+                  "y": 662
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 498,
+                  "y": 387
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 198,
+                  "w": 198,
+                  "x": 850,
+                  "y": 662
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 65,
+                  "w": 65,
+                  "x": 282,
+                  "y": 219
+                }
+              ]
+            }
+          },
+          "id": 1193546570723217408,
+          "id_str": "1193546570723217408",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJBUSErX0AAHoPb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJBUSErX0AAHoPb.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/dYbIKAfUMO"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "nikkihaleybook.com",
+          "expanded_url": "http://www.nikkihaleybook.com",
+          "indices": [
+            256,
+            279
+          ],
+          "url": "https://t.co/IQq8YXBrtT"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/dYbIKAfUMO",
+          "expanded_url": "https://twitter.com/NikkiHaley/status/1193546581288636417/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 198,
+                  "w": 198,
+                  "x": 850,
+                  "y": 662
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 498,
+                  "y": 387
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 198,
+                  "w": 198,
+                  "x": 850,
+                  "y": 662
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 65,
+                  "w": 65,
+                  "x": 282,
+                  "y": 219
+                }
+              ]
+            }
+          },
+          "id": 1193546570723217408,
+          "id_str": "1193546570723217408",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJBUSErX0AAHoPb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJBUSErX0AAHoPb.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/dYbIKAfUMO"
+        }
+      ]
+    },
+    "favorite_count": 8607,
+    "favorited": false,
+    "full_text": "I\u2019m excited for the release of  \u201cWith All Due Respect\u201d this week. It is a personal book about my experiences in life and government. I hope you will check it out &amp; come see us on our book tour! To order yours today and to come see us on the road visit https://t.co/IQq8YXBrtT \u2764\ufe0f\ud83c\uddfa\ud83c\uddf8 https://t.co/dYbIKAfUMO",
+    "geo": null,
+    "id": 1193546581288636417,
+    "id_str": "1193546581288636417",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1528,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Dec 31 16:27:48 +0000 2018",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Former U.S. Ambassador to the UN. 116th Governor of South Carolina. @ClemsonUniv Tiger. Proud American \ud83c\uddfa\ud83c\uddf8.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "NikkiHaleyBook.com",
+              "expanded_url": "http://www.NikkiHaleyBook.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vK4V0Q2KpZ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3680,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 496203,
+      "following": false,
+      "friends_count": 492,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1079776144524754944,
+      "id_str": "1079776144524754944",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1313,
+      "location": "",
+      "name": "Nikki Haley",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079776144524754944/1559582702",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1124394031818133513/Fz9ZWKUO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124394031818133513/Fz9ZWKUO_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "NikkiHaley",
+      "statuses_count": 1043,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/vK4V0Q2KpZ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1193546581288636417,
+  "quoted_status_id_str": "1193546581288636417",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nikkihaley/sta\u2026",
+    "expanded": "https://twitter.com/nikkihaley/status/1193546581288636417",
+    "url": "https://t.co/uHKAAlVuLt"
+  },
+  "retweet_count": 10363,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66711791,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110612,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46004,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

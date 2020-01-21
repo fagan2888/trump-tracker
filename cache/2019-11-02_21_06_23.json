@@ -1,0 +1,396 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 02 21:06:23 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20118767,
+        "id_str": "20118767",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dr Gina",
+        "screen_name": "RealDrGina"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RealDrGina: Nancy &amp; Adam: We will worry about your ridiculous fake impeachment bs when ONE of your full-time candidates can fill a stad\u2026",
+  "geo": null,
+  "id": 1190736939013554178,
+  "id_str": "1190736939013554178",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9606,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 02 03:27:58 +0000 2019",
+    "display_text_range": [
+      0,
+      200
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/a9YHfLFSOu",
+          "expanded_url": "https://twitter.com/RealDrGina/status/1190470578249064448/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 300,
+                  "w": 300,
+                  "x": 436,
+                  "y": 58
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 296,
+                  "w": 296,
+                  "x": 430,
+                  "y": 57
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 300,
+                  "w": 300,
+                  "x": 436,
+                  "y": 58
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 167,
+                  "w": 167,
+                  "x": 244,
+                  "y": 32
+                }
+              ]
+            }
+          },
+          "id": 1190470566484070400,
+          "id_str": "1190470566484070400",
+          "indices": [
+            201,
+            224
+          ],
+          "media_url": "http://pbs.twimg.com/media/EIVmrD7XUAAsTCA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EIVmrD7XUAAsTCA.jpg",
+          "sizes": {
+            "large": {
+              "h": 672,
+              "resize": "fit",
+              "w": 1215
+            },
+            "medium": {
+              "h": 664,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 376,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/a9YHfLFSOu"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            140,
+            156
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/a9YHfLFSOu",
+          "expanded_url": "https://twitter.com/RealDrGina/status/1190470578249064448/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 300,
+                  "w": 300,
+                  "x": 436,
+                  "y": 58
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 296,
+                  "w": 296,
+                  "x": 430,
+                  "y": 57
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 300,
+                  "w": 300,
+                  "x": 436,
+                  "y": 58
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 167,
+                  "w": 167,
+                  "x": 244,
+                  "y": 32
+                }
+              ]
+            }
+          },
+          "id": 1190470566484070400,
+          "id_str": "1190470566484070400",
+          "indices": [
+            201,
+            224
+          ],
+          "media_url": "http://pbs.twimg.com/media/EIVmrD7XUAAsTCA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EIVmrD7XUAAsTCA.jpg",
+          "sizes": {
+            "large": {
+              "h": 672,
+              "resize": "fit",
+              "w": 1215
+            },
+            "medium": {
+              "h": 664,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 376,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/a9YHfLFSOu"
+        }
+      ]
+    },
+    "favorite_count": 34541,
+    "favorited": false,
+    "full_text": "Nancy &amp; Adam: We will worry about your ridiculous fake impeachment bs when ONE of your full-time candidates can fill a stadium like our @realDonaldTrump after working a 16 hour day for America! \ud83c\uddfa\ud83c\uddf8 https://t.co/a9YHfLFSOu",
+    "geo": null,
+    "id": 1190470578249064448,
+    "id_str": "1190470578249064448",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9606,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 05 03:51:40 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Obsessed w/the human psyche #MadPolitics! https://t.co/xAfR1EvC2P\u2022Co-chair #Women4Trump\u2022https://t.co/KEuwBDfbs2\u2022 \u2665\ufe0fYeshua \ud83c\uddee\ud83c\uddf1\u2022my babies\u2022boats\u2022\ud83d\udc3e rescue",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "tinyurl.com/ycbwfjyt",
+              "expanded_url": "https://tinyurl.com/ycbwfjyt",
+              "indices": [
+                42,
+                65
+              ],
+              "url": "https://t.co/xAfR1EvC2P"
+            },
+            {
+              "display_url": "citizenvoters.vote",
+              "expanded_url": "http://citizenvoters.vote",
+              "indices": [
+                88,
+                111
+              ],
+              "url": "https://t.co/KEuwBDfbs2"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DrGinaLoudon.com",
+              "expanded_url": "http://DrGinaLoudon.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/k25a1UsJu1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 50460,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 188154,
+      "following": false,
+      "friends_count": 43533,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 20118767,
+      "id_str": "20118767",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1453,
+      "location": "",
+      "name": "Dr Gina",
+      "notifications": false,
+      "profile_background_color": "07090B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20118767/1524127525",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1068648239640047616/bAlmSXOm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068648239640047616/bAlmSXOm_normal.jpg",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "C9C9C9",
+      "profile_text_color": "1C1F23",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RealDrGina",
+      "statuses_count": 49686,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/k25a1UsJu1",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66488068,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110397,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45762,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

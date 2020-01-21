@@ -1,0 +1,455 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 14 14:56:35 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 186646579,
+        "id_str": "186646579",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Ainsley Earhardt",
+        "screen_name": "ainsleyearhardt"
+      },
+      {
+        "id": 37764422,
+        "id_str": "37764422",
+        "indices": [
+          67,
+          77
+        ],
+        "name": "Fox Nation",
+        "screen_name": "foxnation"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ainsleyearhardt: \u201cThe Characters of Christmas\u201d is available on @foxnation today! I hope you watch. Thank you for your support, I\u2019m so g\u2026",
+  "geo": null,
+  "id": 1205864167179206658,
+  "id_str": "1205864167179206658",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4476,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 12 17:38:03 +0000 2019",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KNSuRgZnvI",
+          "expanded_url": "https://twitter.com/ainsleyearhardt/status/1205180024434896897/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 280,
+                  "w": 280,
+                  "x": 1064,
+                  "y": 784
+                },
+                {
+                  "h": 352,
+                  "w": 352,
+                  "x": 658,
+                  "y": 206
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 164,
+                  "w": 164,
+                  "x": 623,
+                  "y": 459
+                },
+                {
+                  "h": 206,
+                  "w": 206,
+                  "x": 385,
+                  "y": 120
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 280,
+                  "w": 280,
+                  "x": 1064,
+                  "y": 784
+                },
+                {
+                  "h": 352,
+                  "w": 352,
+                  "x": 658,
+                  "y": 206
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 92,
+                  "w": 92,
+                  "x": 353,
+                  "y": 260
+                },
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 218,
+                  "y": 68
+                }
+              ]
+            }
+          },
+          "id": 1205180020131586049,
+          "id_str": "1205180020131586049",
+          "indices": [
+            151,
+            174
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELmo185XYAEQKeF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELmo185XYAEQKeF.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/KNSuRgZnvI"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 37764422,
+          "id_str": "37764422",
+          "indices": [
+            46,
+            56
+          ],
+          "name": "Fox Nation",
+          "screen_name": "foxnation"
+        },
+        {
+          "id": 15513604,
+          "id_str": "15513604",
+          "indices": [
+            127,
+            141
+          ],
+          "name": "FOX & friends",
+          "screen_name": "foxandfriends"
+        },
+        {
+          "id": 1367531,
+          "id_str": "1367531",
+          "indices": [
+            142,
+            150
+          ],
+          "name": "Fox News",
+          "screen_name": "FoxNews"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KNSuRgZnvI",
+          "expanded_url": "https://twitter.com/ainsleyearhardt/status/1205180024434896897/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 280,
+                  "w": 280,
+                  "x": 1064,
+                  "y": 784
+                },
+                {
+                  "h": 352,
+                  "w": 352,
+                  "x": 658,
+                  "y": 206
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 164,
+                  "w": 164,
+                  "x": 623,
+                  "y": 459
+                },
+                {
+                  "h": 206,
+                  "w": 206,
+                  "x": 385,
+                  "y": 120
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 280,
+                  "w": 280,
+                  "x": 1064,
+                  "y": 784
+                },
+                {
+                  "h": 352,
+                  "w": 352,
+                  "x": 658,
+                  "y": 206
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 92,
+                  "w": 92,
+                  "x": 353,
+                  "y": 260
+                },
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 218,
+                  "y": 68
+                }
+              ]
+            }
+          },
+          "id": 1205180020131586049,
+          "id_str": "1205180020131586049",
+          "indices": [
+            151,
+            174
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELmo185XYAEQKeF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELmo185XYAEQKeF.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/KNSuRgZnvI"
+        }
+      ]
+    },
+    "favorite_count": 21976,
+    "favorited": false,
+    "full_text": "\u201cThe Characters of Christmas\u201d is available on @foxnation today! I hope you watch. Thank you for your support, I\u2019m so grateful! @foxandfriends @foxnews https://t.co/KNSuRgZnvI",
+    "geo": null,
+    "id": 1205180024434896897,
+    "id_str": "1205180024434896897",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4476,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat Sep 04 00:48:22 +0000 2010",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Hayden's Mama, Co-Host of @FOXandFriends from 6-9AM ET Mon-Fri on @FoxNews Channel, and author of 3 NY Times best sellers, including The Light Within Me.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bit.ly/lightwithinme",
+              "expanded_url": "http://bit.ly/lightwithinme",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/BjoNSHktz0"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5892,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 411031,
+      "following": false,
+      "friends_count": 503,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 186646579,
+      "id_str": "186646579",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1813,
+      "location": "New York, NY",
+      "name": "Ainsley Earhardt",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/186646579/1524564477",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/986605707188424705/4tdYgs1q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/986605707188424705/4tdYgs1q_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ainsleyearhardt",
+      "statuses_count": 10411,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/BjoNSHktz0",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67564787,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111455,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47133,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

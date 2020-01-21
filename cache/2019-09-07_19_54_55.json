@@ -1,0 +1,246 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Sep 07 19:54:55 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          54,
+          67
+        ],
+        "text": "unemployment"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 866725756025667584,
+        "id_str": "866725756025667584",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "CEA",
+        "screen_name": "WhiteHouseCEA"
+      },
+      {
+        "id": 612896910,
+        "id_str": "612896910",
+        "indices": [
+          28,
+          36
+        ],
+        "name": "BLS-Labor Statistics",
+        "screen_name": "BLS_gov"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @WhiteHouseCEA: New from @BLS_gov - in August, the #unemployment rate remained at 3.7%, and has been under 4% for 18 consecutive months,\u2026",
+  "geo": null,
+  "id": 1170425232861085696,
+  "id_str": "1170425232861085696",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3950,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 06 13:46:11 +0000 2019",
+    "display_text_range": [
+      0,
+      156
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            35,
+            48
+          ],
+          "text": "unemployment"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 612896910,
+          "id_str": "612896910",
+          "indices": [
+            9,
+            17
+          ],
+          "name": "BLS-Labor Statistics",
+          "screen_name": "BLS_gov"
+        }
+      ]
+    },
+    "favorite_count": 11990,
+    "favorited": false,
+    "full_text": "New from @BLS_gov - in August, the #unemployment rate remained at 3.7%, and has been under 4% for 18 consecutive months, the longest such streak since 1970!",
+    "geo": null,
+    "id": 1169970049148424192,
+    "id_str": "1169970049148424192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3950,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 22 18:41:38 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Council of Economic Advisers | Tweets may be archived: https://t.co/ALEV9E9onn",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "WH.gov/privacy",
+              "expanded_url": "http://WH.gov/privacy",
+              "indices": [
+                55,
+                78
+              ],
+              "url": "https://t.co/ALEV9E9onn"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "whitehouse.gov/cea",
+              "expanded_url": "https://www.whitehouse.gov/cea",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/sPbfOAv1K8"
+            }
+          ]
+        }
+      },
+      "favourites_count": 21,
+      "follow_request_sent": false,
+      "followers_count": 15843,
+      "following": false,
+      "friends_count": 30,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 866725756025667584,
+      "id_str": "866725756025667584",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 183,
+      "location": "Washington, DC",
+      "name": "CEA",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/866725756025667584/1503586033",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/900729467349250051/oT0xhuSa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/900729467349250051/oT0xhuSa_normal.jpg",
+      "profile_link_color": "0C2644",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "WhiteHouseCEA",
+      "statuses_count": 795,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/sPbfOAv1K8",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 64059761,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108241,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44124,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

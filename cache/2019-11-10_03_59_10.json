@@ -1,0 +1,393 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 10 03:59:10 +0000 2019",
+  "display_text_range": [
+    0,
+    25
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/realdonaldtrum\u2026",
+        "expanded_url": "https://twitter.com/realdonaldtrump/status/1192640102943674368",
+        "indices": [
+          26,
+          49
+        ],
+        "url": "https://t.co/ffS9kLtjxE"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 30109,
+  "favorited": false,
+  "full_text": "Make America Great Again! https://t.co/ffS9kLtjxE",
+  "geo": null,
+  "id": 1193377531828805632,
+  "id_str": "1193377531828805632",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 08 03:08:53 +0000 2019",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/z0I7wBsgTP",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1189715310766645254/video/1",
+          "features": {},
+          "id": 1189715184874590210,
+          "id_str": "1189715184874590210",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189715184874590210/pu/img/-vkv54UxRwwEf0jM.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189715184874590210/pu/img/-vkv54UxRwwEf0jM.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1189715310766645254,
+          "source_status_id_str": "1189715310766645254",
+          "source_user_id": 25073877,
+          "source_user_id_str": "25073877",
+          "type": "photo",
+          "url": "https://t.co/z0I7wBsgTP"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": false,
+              "contributors_enabled": false,
+              "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "Instagram.com/realDonaldTrump",
+                      "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/OMxB0x7xC5"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 6,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 66684379,
+              "following": true,
+              "friends_count": 47,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 25073877,
+              "id_str": "25073877",
+              "is_translation_enabled": true,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 110582,
+              "location": "Washington, DC",
+              "name": "Donald J. Trump",
+              "notifications": false,
+              "profile_background_color": "6D5C18",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "BDDCAD",
+              "profile_sidebar_fill_color": "C5CEC0",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "realDonaldTrump",
+              "statuses_count": 45984,
+              "time_zone": null,
+              "translator_type": "regular",
+              "url": "https://t.co/OMxB0x7xC5",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/z0I7wBsgTP",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1189715310766645254/video/1",
+          "features": {},
+          "id": 1189715184874590210,
+          "id_str": "1189715184874590210",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189715184874590210/pu/img/-vkv54UxRwwEf0jM.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189715184874590210/pu/img/-vkv54UxRwwEf0jM.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1189715310766645254,
+          "source_status_id_str": "1189715310766645254",
+          "source_user_id": 25073877,
+          "source_user_id_str": "25073877",
+          "type": "video",
+          "url": "https://t.co/z0I7wBsgTP",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 30123,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1189715184874590210/pu/vid/640x360/dJ7J1NzOtSS-he0N.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1189715184874590210/pu/vid/1280x720/GTwV6kENyfn2p8tj.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1189715184874590210/pu/pl/6Cx53-rmdqqwLADo.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1189715184874590210/pu/vid/480x270/MEL5fG3KJuM6_RO1.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 111154,
+    "favorited": false,
+    "full_text": "https://t.co/z0I7wBsgTP",
+    "geo": null,
+    "id": 1192640102943674368,
+    "id_str": "1192640102943674368",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 31923,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 66684379,
+      "following": true,
+      "friends_count": 47,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 110582,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 45984,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1192640102943674368,
+  "quoted_status_id_str": "1192640102943674368",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realdonaldtrum\u2026",
+    "expanded": "https://twitter.com/realdonaldtrump/status/1192640102943674368",
+    "url": "https://t.co/ffS9kLtjxE"
+  },
+  "retweet_count": 8512,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66684379,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110582,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45984,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

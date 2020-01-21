@@ -1,0 +1,621 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 28 04:03:26 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 88426758,
+        "id_str": "88426758",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "\u274c\ud83c\uddfa\ud83c\uddf8Steve\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8America First\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf9MAGA\ud83c\uddfa\ud83c\uddf8KAG",
+        "screen_name": "SJPFISH"
+      },
+      {
+        "id": 3696345736,
+        "id_str": "3696345736",
+        "indices": [
+          39,
+          48
+        ],
+        "name": "\ud83d\udcabEmmy\ud83d\udcab",
+        "screen_name": "Serremmy"
+      },
+      {
+        "id": 1184895890219327493,
+        "id_str": "1184895890219327493",
+        "indices": [
+          49,
+          58
+        ],
+        "name": "Cassy9MM",
+        "screen_name": "9mmcassy"
+      },
+      {
+        "id": 528999980,
+        "id_str": "528999980",
+        "indices": [
+          59,
+          66
+        ],
+        "name": "Renata\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+        "screen_name": "RL9631"
+      },
+      {
+        "id": 38351186,
+        "id_str": "38351186",
+        "indices": [
+          67,
+          80
+        ],
+        "name": "Racy \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf9\ud83c\uddfa\ud83c\uddf2",
+        "screen_name": "RacySicilian"
+      },
+      {
+        "id": 1028366243601018881,
+        "id_str": "1028366243601018881",
+        "indices": [
+          81,
+          94
+        ],
+        "name": "Gerald Sealey \ud83c\udf7bMAGA",
+        "screen_name": "SealeyGerald"
+      },
+      {
+        "id": 4863691509,
+        "id_str": "4863691509",
+        "indices": [
+          95,
+          109
+        ],
+        "name": "Mariana Hirmas",
+        "screen_name": "MarianaHirmas"
+      },
+      {
+        "id": 1197607278142246914,
+        "id_str": "1197607278142246914",
+        "indices": [
+          110,
+          125
+        ],
+        "name": "\u265b \ud835\udcd1\ud835\udcf5\ud835\udcf8\ud835\udcf7\ud835\udced\ud835\udcf2\ud835\udcee \u265b",
+        "screen_name": "InBlondWeTrust"
+      },
+      {
+        "id": 3526395106,
+        "id_str": "3526395106",
+        "indices": [
+          126,
+          137
+        ],
+        "name": "Mark Kirin \ud83d\udeab\u2744",
+        "screen_name": "markkirin_"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SJPFISH: Are You Fired \ud83d\udd25 Up Yet ! \n@Serremmy\n@9mmcassy\n@RL9631\n@RacySicilian\n@SealeyGerald\n@MarianaHirmas\n@InBlondWeTrust\n@markkirin_\n@\u2026",
+  "geo": null,
+  "id": 1210773223639412739,
+  "id_str": "1210773223639412739",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 923,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 21 15:24:38 +0000 2019",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/E7dJ0vIwoV",
+          "expanded_url": "https://twitter.com/SJPFISH/status/1208407442419339268/video/1",
+          "features": {},
+          "id": 1208407314727878657,
+          "id_str": "1208407314727878657",
+          "indices": [
+            254,
+            277
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208407314727878657/pu/img/hxrAzJWQqdqG9L7E.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208407314727878657/pu/img/hxrAzJWQqdqG9L7E.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1208407442419339268,
+          "source_status_id_str": "1208407442419339268",
+          "source_user_id": 88426758,
+          "source_user_id_str": "88426758",
+          "type": "photo",
+          "url": "https://t.co/E7dJ0vIwoV"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 3696345736,
+          "id_str": "3696345736",
+          "indices": [
+            26,
+            35
+          ],
+          "name": "\ud83d\udcabEmmy\ud83d\udcab",
+          "screen_name": "Serremmy"
+        },
+        {
+          "id": 1184895890219327493,
+          "id_str": "1184895890219327493",
+          "indices": [
+            36,
+            45
+          ],
+          "name": "Cassy9MM",
+          "screen_name": "9mmcassy"
+        },
+        {
+          "id": 528999980,
+          "id_str": "528999980",
+          "indices": [
+            46,
+            53
+          ],
+          "name": "Renata\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+          "screen_name": "RL9631"
+        },
+        {
+          "id": 38351186,
+          "id_str": "38351186",
+          "indices": [
+            54,
+            67
+          ],
+          "name": "Racy \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf9\ud83c\uddfa\ud83c\uddf2",
+          "screen_name": "RacySicilian"
+        },
+        {
+          "id": 1028366243601018881,
+          "id_str": "1028366243601018881",
+          "indices": [
+            68,
+            81
+          ],
+          "name": "Gerald Sealey \ud83c\udf7bMAGA",
+          "screen_name": "SealeyGerald"
+        },
+        {
+          "id": 4863691509,
+          "id_str": "4863691509",
+          "indices": [
+            82,
+            96
+          ],
+          "name": "Mariana Hirmas",
+          "screen_name": "MarianaHirmas"
+        },
+        {
+          "id": 1197607278142246914,
+          "id_str": "1197607278142246914",
+          "indices": [
+            97,
+            112
+          ],
+          "name": "\u265b \ud835\udcd1\ud835\udcf5\ud835\udcf8\ud835\udcf7\ud835\udced\ud835\udcf2\ud835\udcee \u265b",
+          "screen_name": "InBlondWeTrust"
+        },
+        {
+          "id": 3526395106,
+          "id_str": "3526395106",
+          "indices": [
+            113,
+            124
+          ],
+          "name": "Mark Kirin \ud83d\udeab\u2744",
+          "screen_name": "markkirin_"
+        },
+        {
+          "id": 1156569142973149184,
+          "id_str": "1156569142973149184",
+          "indices": [
+            125,
+            139
+          ],
+          "name": "The ETECP HARDCORE CONSERVATIVES NETWORK",
+          "screen_name": "EtheElephant1"
+        },
+        {
+          "id": 761358089991839744,
+          "id_str": "761358089991839744",
+          "indices": [
+            140,
+            151
+          ],
+          "name": "\ud83c\udf39 \ud835\udc77\ud835\udc82\ud835\udc95\ud835\udc95\ud835\udc8a \ud83c\udf39",
+          "screen_name": "Patti_Sc60"
+        },
+        {
+          "id": 1055819616629346305,
+          "id_str": "1055819616629346305",
+          "indices": [
+            152,
+            165
+          ],
+          "name": "\ud83c\udd98\ud835\ude71\ud835\ude95\ud835\ude9e\ud835\ude8e\ud835\ude82\ud835\ude9d\ud835\ude8a\ud835\ude9d\ud835\ude8e\ud83c\udd62\ud83c\udd5e\ud83c\udd62\ud83c\udd98",
+          "screen_name": "BlueStateSOS"
+        },
+        {
+          "id": 34381769,
+          "id_str": "34381769",
+          "indices": [
+            166,
+            178
+          ],
+          "name": "\ud83d\udee1\u2694\ud835\udcd9\ud835\udcea\ud835\udcee\ud835\udcf5\ud835\udd02\ud835\udcf7\u2694\ud83d\udee1",
+          "screen_name": "Jaelyn_Hope"
+        },
+        {
+          "id": 1148578124449402880,
+          "id_str": "1148578124449402880",
+          "indices": [
+            179,
+            195
+          ],
+          "name": "TheGreyBeardBiker.com \ud83c\uddfa\ud83c\uddf8 MAGA \u039c\u039f\u039b\u03a9\u039d \u039b\u0391\u0392\u0395 KAG2020",
+          "screen_name": "GreyBeard_Biker"
+        },
+        {
+          "id": 16385605,
+          "id_str": "16385605",
+          "indices": [
+            196,
+            205
+          ],
+          "name": "Dee  \ud83d\udcaf \ud83c\uddfa\ud83c\uddf8  \u2620\ufe0f",
+          "screen_name": "Derameth"
+        },
+        {
+          "id": 1083161504147337216,
+          "id_str": "1083161504147337216",
+          "indices": [
+            206,
+            220
+          ],
+          "name": "TodMAGAWarrior",
+          "screen_name": "KAGRevolution"
+        },
+        {
+          "id": 725292612,
+          "id_str": "725292612",
+          "indices": [
+            221,
+            229
+          ],
+          "name": "\ud83c\uddfa\ud83c\uddf8Space Force One \ud83c\uddfa\ud83c\uddf8",
+          "screen_name": "amicah1"
+        },
+        {
+          "id": 447200783,
+          "id_str": "447200783",
+          "indices": [
+            230,
+            241
+          ],
+          "name": "\u0bf9_\u1d2c\u1d9c\u1d57\u1d58\u1d43\u02e1\u02e1\u02b8 \ud83d\udd4a\ufe0f",
+          "screen_name": "G_Actually"
+        },
+        {
+          "id": 420026228,
+          "id_str": "420026228",
+          "indices": [
+            242,
+            253
+          ],
+          "name": "Doc Holliday",
+          "screen_name": "MarkPinnix"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Sun Nov 08 14:15:47 +0000 2009",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "#MAGA \ud83c\uddfa\ud83c\uddf8#BlueLivesMatter,#CONSERVATIVE, #REPUBLICAN, \ud83c\uddee\ud83c\uddf9#ITALIANSFORTRUMP- #MAGA #KAG #TRUMP2020 #VETS\ud83c\uddfa\ud83c\uddf8\ud83d\udc1f\ud83d\udc33\ud83c\uddfa\ud83c\uddf8\ud83d\udc2cIFB MAGA\ud83c\uddfa\ud83c\uddf8#BuildTheWall\ud83d\udc1f\ud83d\udc6e\ud83c\udfa3",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 0,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 45822,
+              "following": false,
+              "friends_count": 0,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 88426758,
+              "id_str": "88426758",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 43,
+              "location": "\ud83d\udc6eRetired Law Enforcement",
+              "name": "\u274c\ud83c\uddfa\ud83c\uddf8Steve\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8America First\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf9MAGA\ud83c\uddfa\ud83c\uddf8KAG",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/88426758/1547341932",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1201626853871702018/z2HlB-vl_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201626853871702018/z2HlB-vl_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "SJPFISH",
+              "statuses_count": 55656,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/E7dJ0vIwoV",
+          "expanded_url": "https://twitter.com/SJPFISH/status/1208407442419339268/video/1",
+          "features": {},
+          "id": 1208407314727878657,
+          "id_str": "1208407314727878657",
+          "indices": [
+            254,
+            277
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208407314727878657/pu/img/hxrAzJWQqdqG9L7E.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208407314727878657/pu/img/hxrAzJWQqdqG9L7E.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1208407442419339268,
+          "source_status_id_str": "1208407442419339268",
+          "source_user_id": 88426758,
+          "source_user_id_str": "88426758",
+          "type": "video",
+          "url": "https://t.co/E7dJ0vIwoV",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 69200,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1208407314727878657/pu/vid/480x270/z1bd61_Y29r1Qkgr.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1208407314727878657/pu/vid/640x360/a0dZPE4yQWcPByFE.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1208407314727878657/pu/pl/m5LW4XkUnizRN94g.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1208407314727878657/pu/vid/1280x720/P5Qis-WtESAknTCi.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 2887,
+    "favorited": false,
+    "full_text": "Are You Fired \ud83d\udd25 Up Yet ! \n@Serremmy\n@9mmcassy\n@RL9631\n@RacySicilian\n@SealeyGerald\n@MarianaHirmas\n@InBlondWeTrust\n@markkirin_\n@EtheElephant1\n@Patti_Sc60\n@BlueStateSOS\n@Jaelyn_Hope\n@GreyBeard_Biker\n@Derameth\n@KAGRevolution\n@amicah1\n@G_Actually\n@MarkPinnix https://t.co/E7dJ0vIwoV",
+    "geo": null,
+    "id": 1208407940455108609,
+    "id_str": "1208407940455108609",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 923,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 08 14:15:47 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "#MAGA \ud83c\uddfa\ud83c\uddf8#BlueLivesMatter,#CONSERVATIVE, #REPUBLICAN, \ud83c\uddee\ud83c\uddf9#ITALIANSFORTRUMP- #MAGA #KAG #TRUMP2020 #VETS\ud83c\uddfa\ud83c\uddf8\ud83d\udc1f\ud83d\udc33\ud83c\uddfa\ud83c\uddf8\ud83d\udc2cIFB MAGA\ud83c\uddfa\ud83c\uddf8#BuildTheWall\ud83d\udc1f\ud83d\udc6e\ud83c\udfa3",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 45822,
+      "following": false,
+      "friends_count": 0,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 88426758,
+      "id_str": "88426758",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 43,
+      "location": "\ud83d\udc6eRetired Law Enforcement",
+      "name": "\u274c\ud83c\uddfa\ud83c\uddf8Steve\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8America First\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf9MAGA\ud83c\uddfa\ud83c\uddf8KAG",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/88426758/1547341932",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1201626853871702018/z2HlB-vl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201626853871702018/z2HlB-vl_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SJPFISH",
+      "statuses_count": 55656,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67991008,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111802,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47528,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

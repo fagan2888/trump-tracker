@@ -1,0 +1,368 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 01 14:11:02 +0000 2019",
+  "display_text_range": [
+    0,
+    122
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          30,
+          46
+        ],
+        "text": "HurricaneDorian"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/iAbJpgRoFe",
+        "expanded_url": "https://twitter.com/weatherchannel/status/1168130448188420096/photo/1",
+        "id": 1168130446326214657,
+        "id_str": "1168130446326214657",
+        "indices": [
+          99,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/media/EDYIc7CXsAEtrsH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EDYIc7CXsAEtrsH.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1168130448188420096,
+        "source_status_id_str": "1168130448188420096",
+        "source_user_id": 20998647,
+        "source_user_id_str": "20998647",
+        "type": "photo",
+        "url": "https://t.co/iAbJpgRoFe"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20998647,
+        "id_str": "20998647",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "The Weather Channel",
+        "screen_name": "weatherchannel"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/iAbJpgRoFe",
+        "expanded_url": "https://twitter.com/weatherchannel/status/1168130448188420096/photo/1",
+        "id": 1168130446326214657,
+        "id_str": "1168130446326214657",
+        "indices": [
+          99,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/media/EDYIc7CXsAEtrsH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EDYIc7CXsAEtrsH.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1168130448188420096,
+        "source_status_id_str": "1168130448188420096",
+        "source_user_id": 20998647,
+        "source_user_id_str": "20998647",
+        "type": "photo",
+        "url": "https://t.co/iAbJpgRoFe"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @weatherchannel: BREAKING: #HurricaneDorian is now a Category 5 as it closes in on the Bahamas. https://t.co/iAbJpgRoFe",
+  "geo": null,
+  "id": 1168164365629100032,
+  "id_str": "1168164365629100032",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 6376,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 01 11:56:16 +0000 2019",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            10,
+            26
+          ],
+          "text": "HurricaneDorian"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iAbJpgRoFe",
+          "expanded_url": "https://twitter.com/weatherchannel/status/1168130448188420096/photo/1",
+          "id": 1168130446326214657,
+          "id_str": "1168130446326214657",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDYIc7CXsAEtrsH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDYIc7CXsAEtrsH.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iAbJpgRoFe"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iAbJpgRoFe",
+          "expanded_url": "https://twitter.com/weatherchannel/status/1168130448188420096/photo/1",
+          "id": 1168130446326214657,
+          "id_str": "1168130446326214657",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDYIc7CXsAEtrsH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDYIc7CXsAEtrsH.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iAbJpgRoFe"
+        }
+      ]
+    },
+    "favorite_count": 15788,
+    "favorited": false,
+    "full_text": "BREAKING: #HurricaneDorian is now a Category 5 as it closes in on the Bahamas. https://t.co/iAbJpgRoFe",
+    "geo": null,
+    "id": 1168130448188420096,
+    "id_str": "1168130448188420096",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6376,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Feb 16 16:21:12 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Daily weather news, tidbits, video and alerts from The Weather Channel. #ItsAmazingOutThere",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 14070,
+      "follow_request_sent": false,
+      "followers_count": 3617255,
+      "following": false,
+      "friends_count": 6267,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 20998647,
+      "id_str": "20998647",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 16540,
+      "location": "Atlanta, GA",
+      "name": "The Weather Channel",
+      "notifications": false,
+      "profile_background_color": "BEBEBE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20998647/1567195487",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1138070089872420865/N4O2nhQ9_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138070089872420865/N4O2nhQ9_normal.png",
+      "profile_link_color": "236CA3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "003399",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "weatherchannel",
+      "statuses_count": 101657,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63833084,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108023,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43972,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

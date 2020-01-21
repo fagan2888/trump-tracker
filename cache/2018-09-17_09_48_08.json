@@ -1,0 +1,431 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 17 09:48:08 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          29
+        ],
+        "text": "Florence"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16669075,
+        "id_str": "16669075",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "FEMA",
+        "screen_name": "fema"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @fema: Rain from #Florence these next few days will cause flooding in many parts of the Carolinas. Expect flash flooding at any time and\u2026",
+  "geo": null,
+  "id": 1041624837054185472,
+  "id_str": "1041624837054185472",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1040956344059289602,
+  "quoted_status_id_str": "1040956344059289602",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NWS/status/104\u2026",
+    "expanded": "https://twitter.com/NWS/status/1040956344059289602",
+    "url": "https://t.co/KI7H0Mfs5Z"
+  },
+  "retweet_count": 3667,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 15 13:57:27 +0000 2018",
+    "display_text_range": [
+      0,
+      197
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            10,
+            19
+          ],
+          "text": "Florence"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/NWS/status/104\u2026",
+          "expanded_url": "https://twitter.com/NWS/status/1040956344059289602",
+          "indices": [
+            198,
+            221
+          ],
+          "url": "https://t.co/KI7H0Mfs5Z"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 14294,
+    "favorited": false,
+    "full_text": "Rain from #Florence these next few days will cause flooding in many parts of the Carolinas. Expect flash flooding at any time and stay off the roads. Do NOT walk, swim or drive through floodwaters! https://t.co/KI7H0Mfs5Z",
+    "geo": null,
+    "id": 1040962804658917376,
+    "id_str": "1040962804658917376",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Sep 15 13:31:47 +0000 2018",
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              163,
+              172
+            ],
+            "text": "Florence"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vEgFEuTlZF",
+            "expanded_url": "https://twitter.com/NWS/status/1040956344059289602/photo/1",
+            "id": 1040956268263858178,
+            "id_str": "1040956268263858178",
+            "indices": [
+              173,
+              196
+            ],
+            "media_url": "http://pbs.twimg.com/media/DnI4NfSVYAIFF8y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DnI4NfSVYAIFF8y.jpg",
+            "sizes": {
+              "large": {
+                "h": 716,
+                "resize": "fit",
+                "w": 895
+              },
+              "medium": {
+                "h": 716,
+                "resize": "fit",
+                "w": 895
+              },
+              "small": {
+                "h": 544,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vEgFEuTlZF"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vEgFEuTlZF",
+            "expanded_url": "https://twitter.com/NWS/status/1040956344059289602/photo/1",
+            "id": 1040956268263858178,
+            "id_str": "1040956268263858178",
+            "indices": [
+              173,
+              196
+            ],
+            "media_url": "http://pbs.twimg.com/media/DnI4NfSVYAIFF8y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DnI4NfSVYAIFF8y.jpg",
+            "sizes": {
+              "large": {
+                "h": 716,
+                "resize": "fit",
+                "w": 895
+              },
+              "medium": {
+                "h": 716,
+                "resize": "fit",
+                "w": 895
+              },
+              "small": {
+                "h": 544,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vEgFEuTlZF"
+          }
+        ]
+      },
+      "favorite_count": 493,
+      "favorited": false,
+      "full_text": "It may be hard to believe...but there's MUCH more rain to come.\nParts of the Carolinas will see more than 15 inches of additional rain in the next couple of days. #Florence https://t.co/vEgFEuTlZF",
+      "geo": null,
+      "id": 1040956344059289602,
+      "id_str": "1040956344059289602",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 497,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 03 21:24:25 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official Twitter account for NOAA's National Weather Service. Details: http://t.co/mRyGMdRYT3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weather.gov/twitter",
+                "expanded_url": "http://weather.gov/twitter",
+                "indices": [
+                  71,
+                  93
+                ],
+                "url": "http://t.co/mRyGMdRYT3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weather.gov",
+                "expanded_url": "http://www.weather.gov",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/UDExAKE2TP"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1781,
+        "follow_request_sent": false,
+        "followers_count": 2744304,
+        "following": false,
+        "friends_count": 296,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 454313925,
+        "id_str": "454313925",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8096,
+        "location": "United States",
+        "name": "NWS",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/454313925/1536061294",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842835019613831170/vvWHIDxE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842835019613831170/vvWHIDxE_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NWS",
+        "statuses_count": 19970,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/UDExAKE2TP",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1040956344059289602,
+    "quoted_status_id_str": "1040956344059289602",
+    "quoted_status_permalink": {
+      "display": "twitter.com/NWS/status/104\u2026",
+      "expanded": "https://twitter.com/NWS/status/1040956344059289602",
+      "url": "https://t.co/KI7H0Mfs5Z"
+    },
+    "retweet_count": 3667,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 09 16:54:20 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Our story of supporting citizens & first responders before, during, and after emergencies. For emergencies, call your local fire/EMS/police or 9-1-1.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fema.gov",
+              "expanded_url": "http://www.fema.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pJoesev0fm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3052,
+      "follow_request_sent": false,
+      "followers_count": 721529,
+      "following": false,
+      "friends_count": 680,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16669075,
+      "id_str": "16669075",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10772,
+      "location": "United States",
+      "name": "FEMA",
+      "notifications": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16669075/1530889653",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_link_color": "2A91B0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DCDCE0",
+      "profile_text_color": "65686E",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fema",
+      "statuses_count": 14716,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pJoesev0fm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54506072,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93702,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39003,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

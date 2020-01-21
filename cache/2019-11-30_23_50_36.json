@@ -1,0 +1,988 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 30 23:50:36 +0000 2019",
+  "display_text_range": [
+    0,
+    25
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/whitehouse/sta\u2026",
+        "expanded_url": "https://twitter.com/whitehouse/status/1200593444944654336",
+        "indices": [
+          26,
+          49
+        ],
+        "url": "https://t.co/n6BNQY6dIx"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 35849,
+  "favorited": false,
+  "full_text": "An incredible experience! https://t.co/n6BNQY6dIx",
+  "geo": null,
+  "id": 1200925125169864709,
+  "id_str": "1200925125169864709",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 30 01:52:37 +0000 2019",
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Tf9sLrPs0m",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1200593444944654336/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 103,
+                  "y": 441
+                },
+                {
+                  "h": 56,
+                  "w": 56,
+                  "x": 727,
+                  "y": 256
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 806,
+                  "y": 177
+                },
+                {
+                  "h": 64,
+                  "w": 64,
+                  "x": 882,
+                  "y": 196
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 308,
+                  "y": 72
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 485,
+                  "y": 591
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 103,
+                  "y": 441
+                },
+                {
+                  "h": 56,
+                  "w": 56,
+                  "x": 727,
+                  "y": 256
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 806,
+                  "y": 177
+                },
+                {
+                  "h": 64,
+                  "w": 64,
+                  "x": 882,
+                  "y": 196
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 308,
+                  "y": 72
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 485,
+                  "y": 591
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 103,
+                  "y": 441
+                },
+                {
+                  "h": 56,
+                  "w": 56,
+                  "x": 727,
+                  "y": 256
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 806,
+                  "y": 177
+                },
+                {
+                  "h": 64,
+                  "w": 64,
+                  "x": 882,
+                  "y": 196
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 308,
+                  "y": 72
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 485,
+                  "y": 591
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 68,
+                  "y": 292
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 482,
+                  "y": 170
+                },
+                {
+                  "h": 51,
+                  "w": 51,
+                  "x": 535,
+                  "y": 117
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 585,
+                  "y": 130
+                },
+                {
+                  "h": 51,
+                  "w": 51,
+                  "x": 204,
+                  "y": 47
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 322,
+                  "y": 392
+                }
+              ]
+            }
+          },
+          "id": 1200593435373326337,
+          "id_str": "1200593435373326337",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKldXlMX0AEHkBQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKldXlMX0AEHkBQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Tf9sLrPs0m"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Tf9sLrPs0m",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1200593444944654336/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 103,
+                  "y": 441
+                },
+                {
+                  "h": 56,
+                  "w": 56,
+                  "x": 727,
+                  "y": 256
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 806,
+                  "y": 177
+                },
+                {
+                  "h": 64,
+                  "w": 64,
+                  "x": 882,
+                  "y": 196
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 308,
+                  "y": 72
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 485,
+                  "y": 591
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 103,
+                  "y": 441
+                },
+                {
+                  "h": 56,
+                  "w": 56,
+                  "x": 727,
+                  "y": 256
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 806,
+                  "y": 177
+                },
+                {
+                  "h": 64,
+                  "w": 64,
+                  "x": 882,
+                  "y": 196
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 308,
+                  "y": 72
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 485,
+                  "y": 591
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 103,
+                  "y": 441
+                },
+                {
+                  "h": 56,
+                  "w": 56,
+                  "x": 727,
+                  "y": 256
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 806,
+                  "y": 177
+                },
+                {
+                  "h": 64,
+                  "w": 64,
+                  "x": 882,
+                  "y": 196
+                },
+                {
+                  "h": 78,
+                  "w": 78,
+                  "x": 308,
+                  "y": 72
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 485,
+                  "y": 591
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 68,
+                  "y": 292
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 482,
+                  "y": 170
+                },
+                {
+                  "h": 51,
+                  "w": 51,
+                  "x": 535,
+                  "y": 117
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 585,
+                  "y": 130
+                },
+                {
+                  "h": 51,
+                  "w": 51,
+                  "x": 204,
+                  "y": 47
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 322,
+                  "y": 392
+                }
+              ]
+            }
+          },
+          "id": 1200593435373326337,
+          "id_str": "1200593435373326337",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKldXlMX0AEHkBQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKldXlMX0AEHkBQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Tf9sLrPs0m"
+        },
+        {
+          "display_url": "pic.twitter.com/Tf9sLrPs0m",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1200593444944654336/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 471,
+                  "y": 259
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 471,
+                  "y": 259
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 471,
+                  "y": 259
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 27,
+                  "w": 27,
+                  "x": 312,
+                  "y": 171
+                }
+              ]
+            }
+          },
+          "id": 1200593438464450561,
+          "id_str": "1200593438464450561",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKldXwtWoAEuNAw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKldXwtWoAEuNAw.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Tf9sLrPs0m"
+        },
+        {
+          "display_url": "pic.twitter.com/Tf9sLrPs0m",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1200593444944654336/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 486,
+                  "y": 368
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 560,
+                  "y": 286
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 486,
+                  "y": 368
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 560,
+                  "y": 286
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 486,
+                  "y": 368
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 560,
+                  "y": 286
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 322,
+                  "y": 244
+                },
+                {
+                  "h": 29,
+                  "w": 29,
+                  "x": 371,
+                  "y": 189
+                }
+              ]
+            }
+          },
+          "id": 1200593440616189952,
+          "id_str": "1200593440616189952",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKldX4uXkAAurtw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKldX4uXkAAurtw.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Tf9sLrPs0m"
+        },
+        {
+          "display_url": "pic.twitter.com/Tf9sLrPs0m",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1200593444944654336/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 46,
+                  "w": 46,
+                  "x": 952,
+                  "y": 84
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 300,
+                  "y": 22
+                },
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 689,
+                  "y": 133
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 80,
+                  "y": 61
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 116,
+                  "y": 92
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 46,
+                  "w": 46,
+                  "x": 952,
+                  "y": 84
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 300,
+                  "y": 22
+                },
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 689,
+                  "y": 133
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 80,
+                  "y": 61
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 116,
+                  "y": 92
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 46,
+                  "w": 46,
+                  "x": 952,
+                  "y": 84
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 300,
+                  "y": 22
+                },
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 689,
+                  "y": 133
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 80,
+                  "y": 61
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 116,
+                  "y": 92
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 30,
+                  "w": 30,
+                  "x": 632,
+                  "y": 55
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 199,
+                  "y": 14
+                },
+                {
+                  "h": 56,
+                  "w": 56,
+                  "x": 457,
+                  "y": 88
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 53,
+                  "y": 40
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 77,
+                  "y": 61
+                }
+              ]
+            }
+          },
+          "id": 1200593443690557442,
+          "id_str": "1200593443690557442",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKldYELWsAIHNa8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKldYELWsAIHNa8.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Tf9sLrPs0m"
+        }
+      ]
+    },
+    "favorite_count": 12830,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump spent Thanksgiving with some of our amazing troops in Afghanistan! \n\n\"As long as America\u2019s soldiers, sailors, airmen, Coast Guardsmen, and Marines are on the mission, our nation\u2019s adversaries do not have even a small hope of victory.\" https://t.co/Tf9sLrPs0m",
+    "geo": null,
+    "id": 1200593444944654336,
+    "id_str": "1200593444944654336",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3078,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">TheWhiteHouse</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "whitehouse.gov/privacy",
+              "expanded_url": "http://whitehouse.gov/privacy",
+              "indices": [
+                126,
+                149
+              ],
+              "url": "https://t.co/IURuMIrzxb"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 19407228,
+      "following": false,
+      "friends_count": 16,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 822215673812119553,
+      "id_str": "822215673812119553",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11798,
+      "location": "Washington, D.C.",
+      "name": "The White House",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WhiteHouse",
+      "statuses_count": 13681,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1200593444944654336,
+  "quoted_status_id_str": "1200593444944654336",
+  "quoted_status_permalink": {
+    "display": "twitter.com/whitehouse/sta\u2026",
+    "expanded": "https://twitter.com/whitehouse/status/1200593444944654336",
+    "url": "https://t.co/n6BNQY6dIx"
+  },
+  "retweet_count": 9088,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67180803,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111000,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46525,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

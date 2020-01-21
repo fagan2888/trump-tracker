@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jul 14 12:36:49 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52338305,
+        "id_str": "52338305",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Brandon Straka",
+        "screen_name": "usminority"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @usminority: \u201cIn January of 2017, I bitterly proclaimed on social media that I would never be able to understand how anybody could vote\u2026",
+  "geo": null,
+  "id": 1150383647385640969,
+  "id_str": "1150383647385640969",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 24641,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 12 04:32:20 +0000 2019",
+    "display_text_range": [
+      0,
+      283
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/m7P5bxbibY",
+          "expanded_url": "https://twitter.com/usminority/status/1149536949662674944/video/1",
+          "id": 1149536798856531971,
+          "id_str": "1149536798856531971",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149536798856531971/pu/img/oQxhBV2TQTc9NUyV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149536798856531971/pu/img/oQxhBV2TQTc9NUyV.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/m7P5bxbibY"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "youtu.be/ssNEJD3xC8A",
+          "expanded_url": "http://youtu.be/ssNEJD3xC8A",
+          "indices": [
+            260,
+            283
+          ],
+          "url": "https://t.co/HPihnCtVZn"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/m7P5bxbibY",
+          "expanded_url": "https://twitter.com/usminority/status/1149536949662674944/video/1",
+          "id": 1149536798856531971,
+          "id_str": "1149536798856531971",
+          "indices": [
+            284,
+            307
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149536798856531971/pu/img/oQxhBV2TQTc9NUyV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149536798856531971/pu/img/oQxhBV2TQTc9NUyV.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/m7P5bxbibY",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 140000,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1149536798856531971/pu/pl/Cp2EDFi3DQyOZdnF.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149536798856531971/pu/vid/640x360/kvb8749Qz7RYvJSC.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149536798856531971/pu/vid/480x270/ntbaInVDeAvaxp8f.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149536798856531971/pu/vid/1280x720/SEgE314rmpPnk73-.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 48651,
+    "favorited": false,
+    "full_text": "\u201cIn January of 2017, I bitterly proclaimed on social media that I would never be able to understand how anybody could vote for a man who stood before a cheering crowd &amp; mocked a reporter\u2019s disability. \nThat\u2019s when somebody sent me this...\u201d\nSEE FULL VIDEO: https://t.co/HPihnCtVZn https://t.co/m7P5bxbibY",
+    "geo": null,
+    "id": 1149536949662674944,
+    "id_str": "1149536949662674944",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 24641,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 07:52:26 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "#WalkAway Campaign Founder. BOOKING/PRESS INQUIRIES: bstrakabooking@gmail.com Former Liberal. Gay. Conservative. Outspoken. On a mission to #RedPill humanity \ud83d\udc8a",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WalkAwayCampaign.com",
+              "expanded_url": "http://WalkAwayCampaign.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dXT48dwaI9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 19059,
+      "follow_request_sent": false,
+      "followers_count": 207754,
+      "following": false,
+      "friends_count": 384,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 52338305,
+      "id_str": "52338305",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 610,
+      "location": "New York, USA",
+      "name": "Brandon Straka",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52338305/1547102017",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/998414118561316864/wT9_5MUw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/998414118561316864/wT9_5MUw_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "usminority",
+      "statuses_count": 6366,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dXT48dwaI9",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 61923078,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105259,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42934,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

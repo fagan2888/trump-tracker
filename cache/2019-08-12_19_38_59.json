@@ -1,0 +1,349 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 12 19:38:59 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 78558366,
+        "id_str": "78558366",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "US Embassy Warsaw",
+        "screen_name": "USEmbassyWarsaw"
+      },
+      {
+        "id": 1032221626857869312,
+        "id_str": "1032221626857869312",
+        "indices": [
+          22,
+          34
+        ],
+        "name": "Georgette Mosbacher",
+        "screen_name": "USAmbPoland"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USEmbassyWarsaw: .@USAmbPoland: \u201cPoland meets its 2% of GDP spending obligation towards NATO.  Germany does not.  We would welcome Amer\u2026",
+  "geo": null,
+  "id": 1160999140085645313,
+  "id_str": "1160999140085645313",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1159403786881916929,
+  "quoted_status_id_str": "1159403786881916929",
+  "quoted_status_permalink": {
+    "display": "twitter.com/USAmbPoland/st\u2026",
+    "expanded": "https://twitter.com/USAmbPoland/status/1159403786881916929",
+    "url": "https://t.co/kUfedr176p"
+  },
+  "retweet_count": 7109,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 08 13:56:19 +0000 2019",
+    "display_text_range": [
+      0,
+      160
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/USAmbPoland/st\u2026",
+          "expanded_url": "https://twitter.com/USAmbPoland/status/1159403786881916929",
+          "indices": [
+            161,
+            184
+          ],
+          "url": "https://t.co/kUfedr176p"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1032221626857869312,
+          "id_str": "1032221626857869312",
+          "indices": [
+            1,
+            13
+          ],
+          "name": "Georgette Mosbacher",
+          "screen_name": "USAmbPoland"
+        }
+      ]
+    },
+    "favorite_count": 21603,
+    "favorited": false,
+    "full_text": ".@USAmbPoland: \u201cPoland meets its 2% of GDP spending obligation towards NATO.  Germany does not.  We would welcome American troops in Germany to come to Poland.\u201d https://t.co/kUfedr176p",
+    "geo": null,
+    "id": 1159463349706510337,
+    "id_str": "1159463349706510337",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Aug 08 09:59:38 +0000 2019",
+      "display_text_range": [
+        0,
+        181
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 1754,
+      "favorited": false,
+      "full_text": "W przeciwie\u0144stwie do Niemiec, Polska wype\u0142nia zobowi\u0105zanie do wydatkowania 2% PKB na rzecz NATO.  Ch\u0119tnie by\u015bmy powitali w Polsce ameryka\u0144skich \u017co\u0142nierzy stacjonuj\u0105cych w Niemczech.",
+      "geo": null,
+      "id": 1159403786881916929,
+      "id_str": "1159403786881916929",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "pl",
+      "place": null,
+      "retweet_count": 468,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 22 11:03:08 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Oficjalne konto Georgette Mosbacher, Ambasador Stan\u00f3w Zjednoczonych w Rzeczypospolitej Polskiej",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pl.usembassy.gov/pl/",
+                "expanded_url": "https://pl.usembassy.gov/pl/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/aCFLMHR4kv"
+              }
+            ]
+          }
+        },
+        "favourites_count": 8,
+        "follow_request_sent": false,
+        "followers_count": 18086,
+        "following": false,
+        "friends_count": 407,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1032221626857869312,
+        "id_str": "1032221626857869312",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 47,
+        "location": "",
+        "name": "Georgette Mosbacher",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032221626857869312/1535014099",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1032223308434075649/ejNkiQ4A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032223308434075649/ejNkiQ4A_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "USAmbPoland",
+        "statuses_count": 433,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/aCFLMHR4kv",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1159403786881916929,
+    "quoted_status_id_str": "1159403786881916929",
+    "quoted_status_permalink": {
+      "display": "twitter.com/USAmbPoland/st\u2026",
+      "expanded": "https://twitter.com/USAmbPoland/status/1159403786881916929",
+      "url": "https://t.co/kUfedr176p"
+    },
+    "retweet_count": 7109,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Sep 30 09:25:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "http://t.co/VfkrWKXHnf\n\nRTs not endorsements",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Facebook.com/USEmbassyWarsaw",
+              "expanded_url": "http://Facebook.com/USEmbassyWarsaw",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/VfkrWKXHnf"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "pl.usembassy.gov/pl/",
+              "expanded_url": "http://pl.usembassy.gov/pl/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Uzseh0g1ou"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2734,
+      "follow_request_sent": false,
+      "followers_count": 36002,
+      "following": false,
+      "friends_count": 1477,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 78558366,
+      "id_str": "78558366",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 479,
+      "location": "Warsaw, Poland",
+      "name": "US Embassy Warsaw",
+      "notifications": false,
+      "profile_background_color": "DAE8F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78558366/1463044522",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/671629213024321536/AQih6xaY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/671629213024321536/AQih6xaY_normal.jpg",
+      "profile_link_color": "0C38D4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USEmbassyWarsaw",
+      "statuses_count": 10814,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Uzseh0g1ou",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63023732,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106744,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43425,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

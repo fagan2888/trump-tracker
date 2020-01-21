@@ -1,0 +1,556 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jan 02 04:26:41 +0000 2020",
+  "display_text_range": [
+    0,
+    39
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/TATrvfKL3Y",
+        "expanded_url": "https://twitter.com/realPowerTie/status/1146489783050473474/video/1",
+        "features": {},
+        "id": 1146489424118779913,
+        "id_str": "1146489424118779913",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146489424118779913/pu/img/ZEJm9xG-7sWV1jfX.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146489424118779913/pu/img/ZEJm9xG-7sWV1jfX.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 960
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1146489783050473474,
+        "source_status_id_str": "1146489783050473474",
+        "source_user_id": 919384988268630016,
+        "source_user_id_str": "919384988268630016",
+        "type": "photo",
+        "url": "https://t.co/TATrvfKL3Y"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "can_media_tag": true,
+            "contributors_enabled": false,
+            "created_at": "Sun Oct 15 02:10:37 +0000 2017",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Our mission is to create a more informed public, challenged and invigorated by a deeper understanding of silly videos. Inquiries: mypowertie@gmail.com",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/c/PowerTie",
+                    "expanded_url": "http://www.youtube.com/c/PowerTie",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/9ehvtLd28Q"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 5492,
+            "follow_request_sent": false,
+            "followed_by": false,
+            "followers_count": 21862,
+            "following": false,
+            "friends_count": 998,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 919384988268630016,
+            "id_str": "919384988268630016",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 116,
+            "location": "",
+            "name": "Power Tie",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/919384988268630016/1570299266",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1186399792164933633/r7Ms77AO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186399792164933633/r7Ms77AO_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "realPowerTie",
+            "statuses_count": 1940,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/9ehvtLd28Q",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/TATrvfKL3Y",
+        "expanded_url": "https://twitter.com/realPowerTie/status/1146489783050473474/video/1",
+        "features": {},
+        "id": 1146489424118779913,
+        "id_str": "1146489424118779913",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146489424118779913/pu/img/ZEJm9xG-7sWV1jfX.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146489424118779913/pu/img/ZEJm9xG-7sWV1jfX.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 960
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1146489783050473474,
+        "source_status_id_str": "1146489783050473474",
+        "source_user_id": 919384988268630016,
+        "source_user_id_str": "919384988268630016",
+        "type": "video",
+        "url": "https://t.co/TATrvfKL3Y",
+        "video_info": {
+          "aspect_ratio": [
+            4,
+            3
+          ],
+          "duration_millis": 72400,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1146489424118779913/pu/vid/480x360/T55SRGUZUsG3ODpc.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1146489424118779913/pu/vid/360x270/SF21AXe9_bK8f3dX.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1146489424118779913/pu/vid/960x720/kgItDfbMEiqRbEIL.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1146489424118779913/pu/pl/1dJG7j_SiMsVwPHl.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: https://t.co/TATrvfKL3Y",
+  "geo": null,
+  "id": 1212591013031763968,
+  "id_str": "1212591013031763968",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 5887,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 01 02:12:28 +0000 2020",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/TATrvfKL3Y",
+          "expanded_url": "https://twitter.com/realPowerTie/status/1146489783050473474/video/1",
+          "features": {},
+          "id": 1146489424118779913,
+          "id_str": "1146489424118779913",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146489424118779913/pu/img/ZEJm9xG-7sWV1jfX.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146489424118779913/pu/img/ZEJm9xG-7sWV1jfX.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1146489783050473474,
+          "source_status_id_str": "1146489783050473474",
+          "source_user_id": 919384988268630016,
+          "source_user_id_str": "919384988268630016",
+          "type": "photo",
+          "url": "https://t.co/TATrvfKL3Y"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Sun Oct 15 02:10:37 +0000 2017",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Our mission is to create a more informed public, challenged and invigorated by a deeper understanding of silly videos. Inquiries: mypowertie@gmail.com",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com/c/PowerTie",
+                      "expanded_url": "http://www.youtube.com/c/PowerTie",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/9ehvtLd28Q"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 5492,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 21862,
+              "following": false,
+              "friends_count": 998,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 919384988268630016,
+              "id_str": "919384988268630016",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 116,
+              "location": "",
+              "name": "Power Tie",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/919384988268630016/1570299266",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1186399792164933633/r7Ms77AO_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186399792164933633/r7Ms77AO_normal.jpg",
+              "profile_link_color": "E81C4F",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "realPowerTie",
+              "statuses_count": 1940,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/9ehvtLd28Q",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/TATrvfKL3Y",
+          "expanded_url": "https://twitter.com/realPowerTie/status/1146489783050473474/video/1",
+          "features": {},
+          "id": 1146489424118779913,
+          "id_str": "1146489424118779913",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146489424118779913/pu/img/ZEJm9xG-7sWV1jfX.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146489424118779913/pu/img/ZEJm9xG-7sWV1jfX.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1146489783050473474,
+          "source_status_id_str": "1146489783050473474",
+          "source_user_id": 919384988268630016,
+          "source_user_id_str": "919384988268630016",
+          "type": "video",
+          "url": "https://t.co/TATrvfKL3Y",
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              3
+            ],
+            "duration_millis": 72400,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1146489424118779913/pu/vid/480x360/T55SRGUZUsG3ODpc.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1146489424118779913/pu/vid/360x270/SF21AXe9_bK8f3dX.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1146489424118779913/pu/vid/960x720/kgItDfbMEiqRbEIL.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1146489424118779913/pu/pl/1dJG7j_SiMsVwPHl.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 15452,
+    "favorited": false,
+    "full_text": "https://t.co/TATrvfKL3Y",
+    "geo": null,
+    "id": 1212194851342757888,
+    "id_str": "1212194851342757888",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5887,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Personal account. Currently serving as Assistant to the President and Director of Social Media at the White House. For official announcements, go to @Scavino45.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2866,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 616829,
+      "following": false,
+      "friends_count": 813,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3693,
+      "location": "Washington, DC\u2708\ufe0fNew York",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1571389614",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10708,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 68148752,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111915,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47655,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

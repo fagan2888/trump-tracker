@@ -1,0 +1,250 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jan 09 22:10:22 +0000 2020",
+  "display_text_range": [
+    0,
+    10
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/stewardshipame\u2026",
+        "expanded_url": "https://twitter.com/stewardshipamer/status/1215304359984001025",
+        "indices": [
+          11,
+          34
+        ],
+        "url": "https://t.co/SqRmH7vP39"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 50268,
+  "favorited": false,
+  "full_text": "Thank you! https://t.co/SqRmH7vP39",
+  "geo": null,
+  "id": 1215395413630451712,
+  "id_str": "1215395413630451712",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 09 16:08:33 +0000 2020",
+    "display_text_range": [
+      17,
+      297
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            27,
+            43
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 8082,
+    "favorited": false,
+    "full_text": "@realDonaldTrump President @realDonaldTrump has achieved more in the first 3 years of his presidency than anyone ever; and he has done so while being subjected to the most monstrous, ferocious, and diabolical opposition attack against any president. Thus, he is the greatest president of all time.",
+    "geo": null,
+    "id": 1215304359984001025,
+    "id_str": "1215304359984001025",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 1215299143066947584,
+    "in_reply_to_status_id_str": "1215299143066947584",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 2150,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat Oct 22 22:08:01 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "https://t.co/xEiUqPsa8g  A Christian perspective on news & issues. Executive Editor. For theological perspectives visit Dr. RC Sproul  https://t.co/PVMbzW1BWD",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "StewardshipAmerica.com",
+              "expanded_url": "http://StewardshipAmerica.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xEiUqPsa8g"
+            },
+            {
+              "display_url": "ligonier.org",
+              "expanded_url": "http://www.ligonier.org",
+              "indices": [
+                135,
+                158
+              ],
+              "url": "https://t.co/PVMbzW1BWD"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "StewardshipAmerica.com",
+              "expanded_url": "http://StewardshipAmerica.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xEiUqPayJG"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6488,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 46051,
+      "following": false,
+      "friends_count": 170,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 789951468371521536,
+      "id_str": "789951468371521536",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 156,
+      "location": "New Mexico, USA",
+      "name": "Allen Sutton",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/789951468371521536/1477321534",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/790698914735267841/zRW81awr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/790698914735267841/zRW81awr_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "StewardshipAmer",
+      "statuses_count": 22826,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/xEiUqPayJG",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1215304359984001025,
+  "quoted_status_id_str": "1215304359984001025",
+  "quoted_status_permalink": {
+    "display": "twitter.com/stewardshipame\u2026",
+    "expanded": "https://twitter.com/stewardshipamer/status/1215304359984001025",
+    "url": "https://t.co/SqRmH7vP39"
+  },
+  "retweet_count": 10676,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70558641,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113115,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47772,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

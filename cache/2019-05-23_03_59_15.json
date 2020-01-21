@@ -1,0 +1,564 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu May 23 03:59:15 +0000 2019",
+  "display_text_range": [
+    0,
+    100
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/TomFitton/stat\u2026",
+        "expanded_url": "https://twitter.com/TomFitton/status/1082410474497548308",
+        "indices": [
+          77,
+          100
+        ],
+        "url": "https://t.co/JbxAxW3Sha"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 18266688,
+        "id_str": "18266688",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Tom Fitton",
+        "screen_name": "TomFitton"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          16,
+          32
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TomFitton: .@RealDonaldTrump faces a criminal conspiracy against him.... https://t.co/JbxAxW3Sha",
+  "geo": null,
+  "id": 1131409230588796928,
+  "id_str": "1131409230588796928",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1082410474497548308,
+  "quoted_status_id_str": "1082410474497548308",
+  "quoted_status_permalink": {
+    "display": "twitter.com/TomFitton/stat\u2026",
+    "expanded": "https://twitter.com/TomFitton/status/1082410474497548308",
+    "url": "https://t.co/JbxAxW3Sha"
+  },
+  "retweet_count": 3865,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 23 02:40:53 +0000 2019",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/TomFitton/stat\u2026",
+          "expanded_url": "https://twitter.com/TomFitton/status/1082410474497548308",
+          "indices": [
+            62,
+            85
+          ],
+          "url": "https://t.co/JbxAxW3Sha"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 10540,
+    "favorited": false,
+    "full_text": ".@RealDonaldTrump faces a criminal conspiracy against him.... https://t.co/JbxAxW3Sha",
+    "geo": null,
+    "id": 1131389506488360966,
+    "id_str": "1131389506488360966",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Jan 07 22:55:41 +0000 2019",
+      "display_text_range": [
+        0,
+        234
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/fNiOfkOCcR",
+            "expanded_url": "https://twitter.com/TomFitton/status/1082410474497548308/video/1",
+            "id": 1082327039493967875,
+            "id_str": "1082327039493967875",
+            "indices": [
+              235,
+              258
+            ],
+            "media_url": "http://pbs.twimg.com/media/DwV-aG1XgAEcvXN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwV-aG1XgAEcvXN.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_user_id": 18247062,
+            "source_user_id_str": "18247062",
+            "type": "photo",
+            "url": "https://t.co/fNiOfkOCcR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 18247062,
+            "id_str": "18247062",
+            "indices": [
+              220,
+              234
+            ],
+            "name": "Judicial Watch \ud83d\udd0e",
+            "screen_name": "JudicialWatch"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "watch_now": {
+                  "url": "https://www.youtube.com/watch?v=N5oTpF7nv0Y"
+                }
+              },
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Dec 19 18:04:57 +0000 2008",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government. Follow us on FB & Instagram: judicialwatch",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "judicialwatch.org",
+                        "expanded_url": "http://www.judicialwatch.org",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/JPjqvKy5es"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 1383,
+                "follow_request_sent": false,
+                "followers_count": 1105652,
+                "following": false,
+                "friends_count": 1963,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 18247062,
+                "id_str": "18247062",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 5179,
+                "location": "Washington, DC",
+                "name": "Judicial Watch \ud83d\udd0e",
+                "notifications": false,
+                "profile_background_color": "ABB8C2",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18247062/1557862227",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1117833446578061314/PLsTrGYS_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117833446578061314/PLsTrGYS_normal.png",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "EEEEEE",
+                "profile_text_color": "30353B",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "JudicialWatch",
+                "statuses_count": 60797,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/JPjqvKy5es",
+                "utc_offset": null,
+                "verified": true
+              },
+              "title": "The Upcoming Abusive Impeachment Effort Against President Trump"
+            },
+            "display_url": "pic.twitter.com/fNiOfkOCcR",
+            "expanded_url": "https://twitter.com/TomFitton/status/1082410474497548308/video/1",
+            "id": 1082327039493967875,
+            "id_str": "1082327039493967875",
+            "indices": [
+              235,
+              258
+            ],
+            "media_url": "http://pbs.twimg.com/media/DwV-aG1XgAEcvXN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DwV-aG1XgAEcvXN.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_user_id": 18247062,
+            "source_user_id_str": "18247062",
+            "type": "video",
+            "url": "https://t.co/fNiOfkOCcR",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 582867,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1082327039493967875/vid/320x180/ahDtqYpzrUAK0Lt8.mp4?tag=9"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1082327039493967875/vid/640x360/gbeelOu7rTrfS0vJ.mp4?tag=9"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1082327039493967875/pl/5v8sOjuSJFBj_1G4.m3u8?tag=9"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1082327039493967875/vid/1280x720/VBnmsDPyYt1DdG9l.mp4?tag=9"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 5065,
+      "favorited": false,
+      "full_text": "ABUSE OF POWER: Democrats seem intent on absurd impeachment effort targeting @RealdDonaldTrump -- when in fact the DNC and Hillary Clinton operatives FUSION GPS/Steele are actually tied to Russia intelligence collusion. @JudicialWatch https://t.co/fNiOfkOCcR",
+      "geo": null,
+      "id": 1082410474497548308,
+      "id_str": "1082410474497548308",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2471,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 20 14:32:44 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "President, Judicial Watch. (These are my personal views only!)  Author, New York Times best seller Clean House. \nhttps://t.co/midr73gi0A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tomfitton",
+                "expanded_url": "https://www.instagram.com/tomfitton",
+                "indices": [
+                  113,
+                  136
+                ],
+                "url": "https://t.co/midr73gi0A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "JudicialWatch.org",
+                "expanded_url": "http://www.JudicialWatch.org",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/ebnjxMYdbL"
+              }
+            ]
+          }
+        },
+        "favourites_count": 454,
+        "follow_request_sent": false,
+        "followers_count": 557832,
+        "following": false,
+        "friends_count": 3008,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 18266688,
+        "id_str": "18266688",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2374,
+        "location": "Washington, DC",
+        "name": "Tom Fitton",
+        "notifications": false,
+        "profile_background_color": "568448",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18266688/1527968436",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "ECD295",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TomFitton",
+        "statuses_count": 26136,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "http://t.co/ebnjxMYdbL",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1082410474497548308,
+    "quoted_status_id_str": "1082410474497548308",
+    "quoted_status_permalink": {
+      "display": "twitter.com/TomFitton/stat\u2026",
+      "expanded": "https://twitter.com/TomFitton/status/1082410474497548308",
+      "url": "https://t.co/JbxAxW3Sha"
+    },
+    "retweet_count": 3865,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Dec 20 14:32:44 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President, Judicial Watch. (These are my personal views only!)  Author, New York Times best seller Clean House. \nhttps://t.co/midr73gi0A",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/tomfitton",
+              "expanded_url": "https://www.instagram.com/tomfitton",
+              "indices": [
+                113,
+                136
+              ],
+              "url": "https://t.co/midr73gi0A"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JudicialWatch.org",
+              "expanded_url": "http://www.JudicialWatch.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/ebnjxMYdbL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 454,
+      "follow_request_sent": false,
+      "followers_count": 557832,
+      "following": false,
+      "friends_count": 3008,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 18266688,
+      "id_str": "18266688",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2374,
+      "location": "Washington, DC",
+      "name": "Tom Fitton",
+      "notifications": false,
+      "profile_background_color": "568448",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18266688/1527968436",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "ECD295",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TomFitton",
+      "statuses_count": 26136,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/ebnjxMYdbL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60464432,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103323,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42014,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

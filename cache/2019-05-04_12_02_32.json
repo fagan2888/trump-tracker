@@ -1,0 +1,544 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 04 12:02:32 +0000 2019",
+  "display_text_range": [
+    0,
+    125
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          91,
+          101
+        ],
+        "text": "Trump2020"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/SK91xliCUQ",
+        "expanded_url": "https://twitter.com/Speech7x7/status/1123921493224767490/video/1",
+        "id": 1123921331484090368,
+        "id_str": "1123921331484090368",
+        "indices": [
+          102,
+          125
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123921331484090368/pu/img/dSeK0uREwk89o5gF.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123921331484090368/pu/img/dSeK0uREwk89o5gF.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1123921493224767490,
+        "source_status_id_str": "1123921493224767490",
+        "source_user_id": 398811922,
+        "source_user_id_str": "398811922",
+        "type": "photo",
+        "url": "https://t.co/SK91xliCUQ"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3580248555,
+        "id_str": "3580248555",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Deep State Exposed\u00ae \u2b50\u2b50\u2b50\u2b50\u2b50",
+        "screen_name": "DeepStateExpose"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Oct 26 15:42:50 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 27780,
+            "follow_request_sent": false,
+            "followers_count": 21754,
+            "following": false,
+            "friends_count": 23584,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 398811922,
+            "id_str": "398811922",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 6,
+            "location": "\ud83c\uddfa\ud83c\uddf8",
+            "name": "ALX\u271d\ufe0f",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/398811922/1505492844",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/908726520893513729/Mz382cKS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/908726520893513729/Mz382cKS_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Speech7x7",
+            "statuses_count": 15297,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/SK91xliCUQ",
+        "expanded_url": "https://twitter.com/Speech7x7/status/1123921493224767490/video/1",
+        "id": 1123921331484090368,
+        "id_str": "1123921331484090368",
+        "indices": [
+          102,
+          125
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123921331484090368/pu/img/dSeK0uREwk89o5gF.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123921331484090368/pu/img/dSeK0uREwk89o5gF.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1123921493224767490,
+        "source_status_id_str": "1123921493224767490",
+        "source_user_id": 398811922,
+        "source_user_id_str": "398811922",
+        "type": "video",
+        "url": "https://t.co/SK91xliCUQ",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 21800,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1123921331484090368/pu/vid/480x270/d1RAfgvLLAFcUsSG.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1123921331484090368/pu/pl/0ZaKOpfcnVdqSWW_.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1123921331484090368/pu/vid/640x360/UIWISltdAJylkyXw.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1123921331484090368/pu/vid/1280x720/Mbj5AoaqLP5joePg.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DeepStateExpose: Retweet: The 'elite' proclaim America must submit to Islam or else!!! #Trump2020 https://t.co/SK91xliCUQ",
+  "geo": null,
+  "id": 1124645482553335808,
+  "id_str": "1124645482553335808",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 12871,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 03 19:39:22 +0000 2019",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            70,
+            80
+          ],
+          "text": "Trump2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SK91xliCUQ",
+          "expanded_url": "https://twitter.com/Speech7x7/status/1123921493224767490/video/1",
+          "id": 1123921331484090368,
+          "id_str": "1123921331484090368",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123921331484090368/pu/img/dSeK0uREwk89o5gF.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123921331484090368/pu/img/dSeK0uREwk89o5gF.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1123921493224767490,
+          "source_status_id_str": "1123921493224767490",
+          "source_user_id": 398811922,
+          "source_user_id_str": "398811922",
+          "type": "photo",
+          "url": "https://t.co/SK91xliCUQ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Wed Oct 26 15:42:50 +0000 2011",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 27780,
+              "follow_request_sent": false,
+              "followers_count": 21754,
+              "following": false,
+              "friends_count": 23584,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 398811922,
+              "id_str": "398811922",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 6,
+              "location": "\ud83c\uddfa\ud83c\uddf8",
+              "name": "ALX\u271d\ufe0f",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/398811922/1505492844",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/908726520893513729/Mz382cKS_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/908726520893513729/Mz382cKS_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "Speech7x7",
+              "statuses_count": 15297,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/SK91xliCUQ",
+          "expanded_url": "https://twitter.com/Speech7x7/status/1123921493224767490/video/1",
+          "id": 1123921331484090368,
+          "id_str": "1123921331484090368",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123921331484090368/pu/img/dSeK0uREwk89o5gF.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123921331484090368/pu/img/dSeK0uREwk89o5gF.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1123921493224767490,
+          "source_status_id_str": "1123921493224767490",
+          "source_user_id": 398811922,
+          "source_user_id_str": "398811922",
+          "type": "video",
+          "url": "https://t.co/SK91xliCUQ",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 21800,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1123921331484090368/pu/vid/480x270/d1RAfgvLLAFcUsSG.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1123921331484090368/pu/pl/0ZaKOpfcnVdqSWW_.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1123921331484090368/pu/vid/640x360/UIWISltdAJylkyXw.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1123921331484090368/pu/vid/1280x720/Mbj5AoaqLP5joePg.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 20174,
+    "favorited": false,
+    "full_text": "Retweet: The 'elite' proclaim America must submit to Islam or else!!! #Trump2020 https://t.co/SK91xliCUQ",
+    "geo": null,
+    "id": 1124398061957079042,
+    "id_str": "1124398061957079042",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12871,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 07 20:12:43 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Bestselling Author | Conservative | Trumper | Exposing the Deep State | RT'D by POTUS 9X | WWG1WGA |\n\n https://t.co/iQkNZfHUrQ\u2026",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "amazon.com/dp/1795877464/",
+              "expanded_url": "http://amazon.com/dp/1795877464/",
+              "indices": [
+                103,
+                126
+              ],
+              "url": "https://t.co/iQkNZfHUrQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 30094,
+      "follow_request_sent": false,
+      "followers_count": 292456,
+      "following": false,
+      "friends_count": 314589,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 3580248555,
+      "id_str": "3580248555",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1106,
+      "location": "North Of The Wall",
+      "name": "Deep State Exposed\u00ae \u2b50\u2b50\u2b50\u2b50\u2b50",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3580248555/1553490414",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1121468396648972289/dRePpOZe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121468396648972289/dRePpOZe_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DeepStateExpose",
+      "statuses_count": 51187,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59989661,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102390,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1556661350",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41627,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

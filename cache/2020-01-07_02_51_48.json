@@ -1,0 +1,385 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 07 02:51:48 +0000 2020",
+  "display_text_range": [
+    0,
+    49
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 27245742,
+        "id_str": "27245742",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Marc Thiessen",
+        "screen_name": "marcthiessen"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @marcthiessen: Every word Pompeo said is true.",
+  "geo": null,
+  "id": 1214379078117142529,
+  "id_str": "1214379078117142529",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1213851612504109056,
+  "quoted_status_id_str": "1213851612504109056",
+  "quoted_status_permalink": {
+    "display": "twitter.com/brhodes/status\u2026",
+    "expanded": "https://twitter.com/brhodes/status/1213851612504109056",
+    "url": "https://t.co/rhAPHbIoYL"
+  },
+  "retweet_count": 4231,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 05 23:18:21 +0000 2020",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/brhodes/status\u2026",
+          "expanded_url": "https://twitter.com/brhodes/status/1213851612504109056",
+          "indices": [
+            32,
+            55
+          ],
+          "url": "https://t.co/rhAPHbIoYL"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 13977,
+    "favorited": false,
+    "full_text": "Every word Pompeo said is true. https://t.co/rhAPHbIoYL",
+    "geo": null,
+    "id": 1213962973783437313,
+    "id_str": "1213962973783437313",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -71.518925,
+              41.629501
+            ],
+            [
+              -71.354415,
+              41.629501
+            ],
+            [
+              -71.354415,
+              41.76838
+            ],
+            [
+              -71.518925,
+              41.76838
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Warwick, RI",
+      "id": "d1871b0189c27a21",
+      "name": "Warwick",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/d1871b0189c27a21.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Jan 05 15:55:51 +0000 2020",
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/joshrogin/stat\u2026",
+            "expanded_url": "https://twitter.com/joshrogin/status/1213849806860369920",
+            "indices": [
+              256,
+              279
+            ],
+            "url": "https://t.co/G9KqYD9YAo"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 50801,
+      "favorited": false,
+      "full_text": "This is a lie, offensive, obscene and an absolute disgrace. This man and his boss have destroyed America\u2019s reputation and made a shambles of Iran policy in part because of their pathetic obsession with Barack Obama who they will never, ever measure up to. https://t.co/G9KqYD9YAo",
+      "geo": null,
+      "id": 1213851612504109056,
+      "id_str": "1213851612504109056",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 1213849806860369920,
+      "quoted_status_id_str": "1213849806860369920",
+      "quoted_status_permalink": {
+        "display": "twitter.com/joshrogin/stat\u2026",
+        "expanded": "https://twitter.com/joshrogin/status/1213849806860369920",
+        "url": "https://t.co/G9KqYD9YAo"
+      },
+      "retweet_count": 15239,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 14 19:38:18 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Pod Save The World, MSNBC, National Security Action, Author - The World As It Is: A Memoir of the Obama White House",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinrandomhouse.com/books/564509/t\u2026",
+                "expanded_url": "https://www.penguinrandomhouse.com/books/564509/the-world-as-it-is-by-ben-rhodes/9780525509356/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/xEoSUyNTFK"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3534,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 376196,
+        "following": false,
+        "friends_count": 1137,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 820354372827758592,
+        "id_str": "820354372827758592",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3679,
+        "location": "Washington, DC",
+        "name": "Ben Rhodes",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820354372827758592/1527630674",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/820355797641113600/6oCTdLPl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/820355797641113600/6oCTdLPl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brhodes",
+        "statuses_count": 5689,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/xEoSUyNTFK",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1213851612504109056,
+    "quoted_status_id_str": "1213851612504109056",
+    "quoted_status_permalink": {
+      "display": "twitter.com/brhodes/status\u2026",
+      "expanded": "https://twitter.com/brhodes/status/1213851612504109056",
+      "url": "https://t.co/rhAPHbIoYL"
+    },
+    "retweet_count": 4231,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 28 15:21:52 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "AEI Fellow, Fox News, Wash Post columnist, Co-host of \"What The Hell Is Going On?\"  https://t.co/nsW9nj1ZAG",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "podcasts.apple.com/us/podcast/wha\u2026",
+              "expanded_url": "https://podcasts.apple.com/us/podcast/what-the-hell-is-going-on/id1467993804",
+              "indices": [
+                84,
+                107
+              ],
+              "url": "https://t.co/nsW9nj1ZAG"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "aei.org/author/marc-a-\u2026",
+              "expanded_url": "http://www.aei.org/author/marc-a-thiessen/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/b9M5GHR3Bh"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1417,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 43373,
+      "following": false,
+      "friends_count": 1308,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 27245742,
+      "id_str": "27245742",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 930,
+      "location": "Washington, DC",
+      "name": "Marc Thiessen",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/27245742/1532021064",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1171534856213254145/BWQzLlfl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171534856213254145/BWQzLlfl_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "marcthiessen",
+      "statuses_count": 14459,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/b9M5GHR3Bh",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 69450042,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 112506,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47720,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

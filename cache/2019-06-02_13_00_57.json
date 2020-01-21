@@ -1,0 +1,372 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jun 02 13:00:57 +0000 2019",
+  "display_text_range": [
+    0,
+    104
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/postopinions/s\u2026",
+        "expanded_url": "https://twitter.com/postopinions/status/1134864448869601280",
+        "indices": [
+          81,
+          104
+        ],
+        "url": "https://t.co/myKaSEnbs7"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 27245742,
+        "id_str": "27245742",
+        "indices": [
+          66,
+          79
+        ],
+        "name": "Marc Thiessen",
+        "screen_name": "marcthiessen"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: THE TRUTH! The Witch Hunt is dead. Thank you @marcthiessen. https://t.co/myKaSEnbs7",
+  "geo": null,
+  "id": 1135169433020915715,
+  "id_str": "1135169433020915715",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1134864448869601280,
+  "quoted_status_id_str": "1134864448869601280",
+  "quoted_status_permalink": {
+    "display": "twitter.com/postopinions/s\u2026",
+    "expanded": "https://twitter.com/postopinions/status/1134864448869601280",
+    "url": "https://t.co/myKaSEnbs7"
+  },
+  "retweet_count": 15067,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 02 01:58:47 +0000 2019",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/postopinions/s\u2026",
+          "expanded_url": "https://twitter.com/postopinions/status/1134864448869601280",
+          "indices": [
+            60,
+            83
+          ],
+          "url": "https://t.co/myKaSEnbs7"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 27245742,
+          "id_str": "27245742",
+          "indices": [
+            45,
+            58
+          ],
+          "name": "Marc Thiessen",
+          "screen_name": "marcthiessen"
+        }
+      ]
+    },
+    "favorite_count": 58694,
+    "favorited": false,
+    "full_text": "THE TRUTH! The Witch Hunt is dead. Thank you @marcthiessen. https://t.co/myKaSEnbs7",
+    "geo": null,
+    "id": 1135002792312156161,
+    "id_str": "1135002792312156161",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Jun 01 16:49:04 +0000 2019",
+      "display_text_range": [
+        0,
+        100
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "wapo.st/2XbOLqM",
+            "expanded_url": "http://wapo.st/2XbOLqM",
+            "indices": [
+              77,
+              100
+            ],
+            "url": "https://t.co/V9TCxB4xh6"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 27245742,
+            "id_str": "27245742",
+            "indices": [
+              56,
+              69
+            ],
+            "name": "Marc Thiessen",
+            "screen_name": "marcthiessen"
+          }
+        ]
+      },
+      "favorite_count": 3676,
+      "favorited": false,
+      "full_text": "Robert Mueller should not have held a press conference, @marcthiessen writes https://t.co/V9TCxB4xh6",
+      "geo": null,
+      "id": 1134864448869601280,
+      "id_str": "1134864448869601280",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1747,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 09 21:29:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editorials, opinions, blogs, columns and reader submissions from the @washingtonpost Opinions section.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "washingtonpost.com/opinions",
+                "expanded_url": "http://www.washingtonpost.com/opinions",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OitrwLrGEi"
+              }
+            ]
+          }
+        },
+        "favourites_count": 260,
+        "follow_request_sent": false,
+        "followers_count": 44225,
+        "following": false,
+        "friends_count": 809,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 14345812,
+        "id_str": "14345812",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 978,
+        "location": "DC | NYC | UK |",
+        "name": "Washington Post Opinions",
+        "notifications": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14345812/1520363857",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1079779905976631302/XumWVfc3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079779905976631302/XumWVfc3_normal.jpg",
+        "profile_link_color": "0057EC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PostOpinions",
+        "statuses_count": 78641,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OitrwLrGEi",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1134864448869601280,
+    "quoted_status_id_str": "1134864448869601280",
+    "quoted_status_permalink": {
+      "display": "twitter.com/postopinions/s\u2026",
+      "expanded": "https://twitter.com/postopinions/status/1134864448869601280",
+      "url": "https://t.co/myKaSEnbs7"
+    },
+    "retweet_count": 15067,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7,
+      "follow_request_sent": false,
+      "followers_count": 60763500,
+      "following": true,
+      "friends_count": 47,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 103735,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559318619",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 42189,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60763500,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103735,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559318619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42189,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

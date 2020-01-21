@@ -1,0 +1,296 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 12 03:26:36 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 78965661,
+        "id_str": "78965661",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Pennsylvania Chamber",
+        "screen_name": "PAChamber"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PAChamber: Trade with Canada and Mexico supports more than 12 million American jobs in every state in the Union. In fact, 49 U.S. state\u2026",
+  "geo": null,
+  "id": 1149520407092875265,
+  "id_str": "1149520407092875265",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2019,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 10 16:59:14 +0000 2019",
+    "display_text_range": [
+      0,
+      236
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            203,
+            212
+          ],
+          "text": "USMCAnow"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3yQ8dnS6TT",
+          "expanded_url": "https://twitter.com/PAChamber/status/1149000136879738882/photo/1",
+          "id": 1149000131477475333,
+          "id_str": "1149000131477475333",
+          "indices": [
+            237,
+            260
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_IRiCuXkAUONAn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_IRiCuXkAUONAn.jpg",
+          "sizes": {
+            "large": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3yQ8dnS6TT"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "usmcacoalition.org",
+          "expanded_url": "https://www.usmcacoalition.org/",
+          "indices": [
+            213,
+            236
+          ],
+          "url": "https://t.co/22X5kjq1cw"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3yQ8dnS6TT",
+          "expanded_url": "https://twitter.com/PAChamber/status/1149000136879738882/photo/1",
+          "id": 1149000131477475333,
+          "id_str": "1149000131477475333",
+          "indices": [
+            237,
+            260
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_IRiCuXkAUONAn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_IRiCuXkAUONAn.jpg",
+          "sizes": {
+            "large": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3yQ8dnS6TT"
+        }
+      ]
+    },
+    "favorite_count": 7019,
+    "favorited": false,
+    "full_text": "Trade with Canada and Mexico supports more than 12 million American jobs in every state in the Union. In fact, 49 U.S. states count Canada or Mexico as one of their top three merchandise export markets. #USMCAnow https://t.co/22X5kjq1cw https://t.co/3yQ8dnS6TT",
+    "geo": null,
+    "id": 1149000136879738882,
+    "id_str": "1149000136879738882",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2019,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 01 18:06:14 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The statewide voice of business -- pa chamber",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "pachamber.org",
+              "expanded_url": "http://www.pachamber.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/HsbwpxSrAN"
+            }
+          ]
+        }
+      },
+      "favourites_count": 667,
+      "follow_request_sent": false,
+      "followers_count": 7563,
+      "following": false,
+      "friends_count": 602,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 78965661,
+      "id_str": "78965661",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 220,
+      "location": "Harrisburg, PA",
+      "name": "Pennsylvania Chamber",
+      "notifications": false,
+      "profile_background_color": "E6E6E6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78965661/1451940984",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/684114321358495744/hP2jiWrc_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/684114321358495744/hP2jiWrc_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PAChamber",
+      "statuses_count": 7464,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/HsbwpxSrAN",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61854768,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105163,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42825,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 20 10:57:24 +0000 2019",
+  "display_text_range": [
+    0,
+    151
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/kthopkins/stat\u2026",
+        "expanded_url": "https://twitter.com/kthopkins/status/1151738558501330945",
+        "indices": [
+          152,
+          175
+        ],
+        "url": "https://t.co/6IVKEffNnq"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 72725,
+  "favorited": false,
+  "full_text": "As you can see, I did nothing to lead people on, nor was I particularly happy with their chant. Just a very big and patriotic crowd. They love the USA! https://t.co/6IVKEffNnq",
+  "geo": null,
+  "id": 1152532958487748609,
+  "id_str": "1152532958487748609",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 18 06:20:45 +0000 2019",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            116,
+            126
+          ],
+          "text": "TeamTrump"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5n4O59HhQD",
+          "expanded_url": "https://twitter.com/thedailybeast/status/1151643937632935936/video/1",
+          "id": 1151643720950976512,
+          "id_str": "1151643720950976512",
+          "indices": [
+            130,
+            153
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1151643720950976512/img/BIbEJ8yR67NzYs48.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1151643720950976512/img/BIbEJ8yR67NzYs48.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1151643937632935936,
+          "source_status_id_str": "1151643937632935936",
+          "source_user_id": 16012783,
+          "source_user_id_str": "16012783",
+          "type": "photo",
+          "url": "https://t.co/5n4O59HhQD"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "Trump rally crowd launches into \"send her back\" chant over Ilhan Omar https://trib.al/Jxsf3a2",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Wed Aug 27 15:24:02 +0000 2008",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Independent. Intelligent. Influential. Send tips to tips@thedailybeast.com.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "thedailybeast.com",
+                      "expanded_url": "http://thedailybeast.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/68iIwjpBjB"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 2999,
+              "follow_request_sent": false,
+              "followers_count": 1226816,
+              "following": false,
+              "friends_count": 980,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 16012783,
+              "id_str": "16012783",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 24279,
+              "location": "New York, NY",
+              "name": "The Daily Beast",
+              "notifications": false,
+              "profile_background_color": "363636",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/16012783/1545064779",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1002604032903524352/46h0aSgT_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002604032903524352/46h0aSgT_normal.jpg",
+              "profile_link_color": "FF0000",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "F6F5EF",
+              "profile_text_color": "000000",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "thedailybeast",
+              "statuses_count": 290531,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/68iIwjpBjB",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": "Trump rally crowd launches into \"send her back\" chant over Ilhan Omar"
+          },
+          "display_url": "pic.twitter.com/5n4O59HhQD",
+          "expanded_url": "https://twitter.com/thedailybeast/status/1151643937632935936/video/1",
+          "id": 1151643720950976512,
+          "id_str": "1151643720950976512",
+          "indices": [
+            130,
+            153
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1151643720950976512/img/BIbEJ8yR67NzYs48.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1151643720950976512/img/BIbEJ8yR67NzYs48.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1151643937632935936,
+          "source_status_id_str": "1151643937632935936",
+          "source_user_id": 16012783,
+          "source_user_id_str": "16012783",
+          "type": "video",
+          "url": "https://t.co/5n4O59HhQD",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 28091,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1151643720950976512/vid/480x270/CsknNRCJ3iKSEHVu.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1151643720950976512/vid/1280x720/G7xUyfnOAJEzkxft.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1151643720950976512/vid/640x360/CdS1sHpO4DkCEF0X.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1151643720950976512/pl/CgRAR_SQgUb71Ku_.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 9625,
+    "favorited": false,
+    "full_text": "New Campaign slogan  for #2020? \n\n\u201cDon\u2019t love it? Leave it!\u201d \n\nSend her back is the new lock her up. \n\nWell done to #TeamTrump \n\n https://t.co/5n4O59HhQD",
+    "geo": null,
+    "id": 1151738558501330945,
+    "id_str": "1151738558501330945",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2714,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 20 22:01:54 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Milo\u2019s Mum. The Female Farage. Angry Ellen de Generes. The Biggest Bitch in Britain. katie@katiehopkins.co.uk",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 91,
+      "follow_request_sent": false,
+      "followers_count": 966870,
+      "following": false,
+      "friends_count": 87,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 21439144,
+      "id_str": "21439144",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3413,
+      "location": "",
+      "name": "Katie Hopkins",
+      "notifications": false,
+      "profile_background_color": "FF33CC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21439144/1559069376",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/915081489573974016/esP5WVn-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/915081489573974016/esP5WVn-_normal.jpg",
+      "profile_link_color": "0004FA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "00CCFF",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KTHopkins",
+      "statuses_count": 50449,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1151738558501330945,
+  "quoted_status_id_str": "1151738558501330945",
+  "quoted_status_permalink": {
+    "display": "twitter.com/kthopkins/stat\u2026",
+    "expanded": "https://twitter.com/kthopkins/status/1151738558501330945",
+    "url": "https://t.co/6IVKEffNnq"
+  },
+  "retweet_count": 16137,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62143369,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105505,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43040,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

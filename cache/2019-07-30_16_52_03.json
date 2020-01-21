@@ -1,0 +1,317 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jul 30 16:52:03 +0000 2019",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/thattrumpguy/s\u2026",
+        "expanded_url": "https://twitter.com/thattrumpguy/status/1149738639938732034",
+        "indices": [
+          16,
+          39
+        ],
+        "url": "https://t.co/Cq2w0we6kp"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 59282,
+  "favorited": false,
+  "full_text": "Thank you Eric! https://t.co/Cq2w0we6kp",
+  "geo": null,
+  "id": 1156246086803214337,
+  "id_str": "1156246086803214337",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 12 17:53:47 +0000 2019",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/BeA05zKswr",
+          "expanded_url": "https://twitter.com/ThatTrumpGuy/status/1149738639938732034/video/1",
+          "id": 748606984358879232,
+          "id_str": "748606984358879232",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CqEeSXwXYAActlt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CqEeSXwXYAActlt.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/BeA05zKswr"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 783214,
+          "id_str": "783214",
+          "indices": [
+            17,
+            25
+          ],
+          "name": "Twitter",
+          "screen_name": "Twitter"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "The Real Donald Trump."
+          },
+          "display_url": "pic.twitter.com/BeA05zKswr",
+          "expanded_url": "https://twitter.com/ThatTrumpGuy/status/1149738639938732034/video/1",
+          "id": 748606984358879232,
+          "id_str": "748606984358879232",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CqEeSXwXYAActlt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CqEeSXwXYAActlt.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/BeA05zKswr",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 507273,
+            "variants": [
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/748606984358879232/vid/320x180/N25A7cLfH5THrvW1.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/748606984358879232/pl/5th3qcl8n7gPVppH.m3u8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/748606984358879232/vid/640x360/1WMBAIA6Q5wp6zag.mp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/748606984358879232/vid/1280x720/Ft7WOuY91BSdUUUC.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 51809,
+    "favorited": false,
+    "full_text": "Here's the video @Twitter deleted from my feed 2 separate times. \n\nWe should share it again just to piss them off. https://t.co/BeA05zKswr",
+    "geo": null,
+    "id": 1149738639938732034,
+    "id_str": "1149738639938732034",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 35985,
+    "retweeted": false,
+    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 04 23:49:15 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This user has been deemed Pro-Trump and is hereby censored - @Twitter",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 31590,
+      "follow_request_sent": false,
+      "followers_count": 90564,
+      "following": false,
+      "friends_count": 12039,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 705902960967094272,
+      "id_str": "705902960967094272",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 411,
+      "location": "Somewhere in the USA\u2708\ufe0f",
+      "name": "Eric Spracklen \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/705902960967094272/1502729428",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1111297236946833409/_xVR3Ebm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111297236946833409/_xVR3Ebm_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ThatTrumpGuy",
+      "statuses_count": 29641,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1149738639938732034,
+  "quoted_status_id_str": "1149738639938732034",
+  "quoted_status_permalink": {
+    "display": "twitter.com/thattrumpguy/s\u2026",
+    "expanded": "https://twitter.com/thattrumpguy/status/1149738639938732034",
+    "url": "https://t.co/Cq2w0we6kp"
+  },
+  "retweet_count": 23542,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 62454966,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106017,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43251,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

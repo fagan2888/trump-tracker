@@ -1,0 +1,352 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 31 12:11:15 +0000 2019",
+  "display_text_range": [
+    0,
+    39
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/sencorygardner\u2026",
+        "expanded_url": "https://twitter.com/sencorygardner/status/1164267554476572677",
+        "indices": [
+          40,
+          63
+        ],
+        "url": "https://t.co/OmsGvWL9E3"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 19015,
+  "favorited": false,
+  "full_text": "Cory is doing a Great job for Colorado! https://t.co/OmsGvWL9E3",
+  "geo": null,
+  "id": 1167771830947590144,
+  "id_str": "1167771830947590144",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 21 20:06:30 +0000 2019",
+    "display_text_range": [
+      0,
+      271
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            55,
+            71
+          ],
+          "text": "GardnerFarmTour"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zjYSp7FETU",
+          "expanded_url": "https://twitter.com/SenCoryGardner/status/1164267554476572677/photo/1",
+          "id": 1164267548969525250,
+          "id_str": "1164267548969525250",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EChPKs_X4AIzaiS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EChPKs_X4AIzaiS.jpg",
+          "sizes": {
+            "large": {
+              "h": 498,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 498,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 498,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zjYSp7FETU"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zjYSp7FETU",
+          "expanded_url": "https://twitter.com/SenCoryGardner/status/1164267554476572677/photo/1",
+          "id": 1164267548969525250,
+          "id_str": "1164267548969525250",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EChPKs_X4AIzaiS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EChPKs_X4AIzaiS.jpg",
+          "sizes": {
+            "large": {
+              "h": 498,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 498,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 498,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zjYSp7FETU"
+        },
+        {
+          "display_url": "pic.twitter.com/zjYSp7FETU",
+          "expanded_url": "https://twitter.com/SenCoryGardner/status/1164267554476572677/photo/1",
+          "id": 1164267548973633537,
+          "id_str": "1164267548973633537",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EChPKtAWkAEeaGG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EChPKtAWkAEeaGG.jpg",
+          "sizes": {
+            "large": {
+              "h": 428,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 428,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 428,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zjYSp7FETU"
+        },
+        {
+          "display_url": "pic.twitter.com/zjYSp7FETU",
+          "expanded_url": "https://twitter.com/SenCoryGardner/status/1164267554476572677/photo/1",
+          "id": 1164267548982095872,
+          "id_str": "1164267548982095872",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EChPKtCXsAAJ5ez.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EChPKtCXsAAJ5ez.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zjYSp7FETU"
+        }
+      ]
+    },
+    "favorite_count": 394,
+    "favorited": false,
+    "full_text": "Thanks to Aero Applicators in Sterling for hosting the #GardnerFarmTour today. The Logan County Farm Bureau was able to join for a great discussion on working together to enhance mental health access and cut burdensome federal regulations to keep rural Colorado thriving. https://t.co/zjYSp7FETU",
+    "geo": null,
+    "id": 1164267554476572677,
+    "id_str": "1164267554476572677",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 113,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 07 17:02:56 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Proudly serving the state of Colorado in the United States Senate. This is my official Senate Twitter account.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 83,
+      "follow_request_sent": false,
+      "followers_count": 118922,
+      "following": false,
+      "friends_count": 273,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 235217558,
+      "id_str": "235217558",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2096,
+      "location": "Colorado",
+      "name": "Cory Gardner",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/235217558/1456516556",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm_normal.jpeg",
+      "profile_link_color": "003CB3",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenCoryGardner",
+      "statuses_count": 4713,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1164267554476572677,
+  "quoted_status_id_str": "1164267554476572677",
+  "quoted_status_permalink": {
+    "display": "twitter.com/sencorygardner\u2026",
+    "expanded": "https://twitter.com/sencorygardner/status/1164267554476572677",
+    "url": "https://t.co/OmsGvWL9E3"
+  },
+  "retweet_count": 4202,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63788709,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107986,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43935,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

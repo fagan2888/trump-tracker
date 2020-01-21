@@ -1,0 +1,380 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 18 11:19:03 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21439144,
+        "id_str": "21439144",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Katie Hopkins",
+        "screen_name": "KTHopkins"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KTHopkins: Trump\u2019s OVERFLOW crowd is bigger than any audience Bernie or Biden will ever see. \n\nStood outside at Rio Rancho to support t\u2026",
+  "geo": null,
+  "id": 1174281678191153152,
+  "id_str": "1174281678191153152",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 12249,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 17 04:55:44 +0000 2019",
+    "display_text_range": [
+      0,
+      205
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            167,
+            170
+          ],
+          "text": "NM"
+        },
+        {
+          "indices": [
+            171,
+            181
+          ],
+          "text": "Trump2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/onXHFdZtAT",
+          "expanded_url": "https://twitter.com/TimMurtaugh/status/1173776320532103168/video/1",
+          "id": 1173776185005731841,
+          "id_str": "1173776185005731841",
+          "indices": [
+            182,
+            205
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173776185005731841/pu/img/-mBZiYqpGkzzgv1t.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173776185005731841/pu/img/-mBZiYqpGkzzgv1t.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1173776320532103168,
+          "source_status_id_str": "1173776320532103168",
+          "source_user_id": 45676731,
+          "source_user_id_str": "45676731",
+          "type": "photo",
+          "url": "https://t.co/onXHFdZtAT"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Jun 08 21:31:05 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Director of Communications for @realDonaldTrump 2020 re-election campaign.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "DonaldJTrump.com",
+                      "expanded_url": "http://www.DonaldJTrump.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/mZB2hy4Wdz"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 59,
+              "follow_request_sent": false,
+              "followers_count": 76071,
+              "following": false,
+              "friends_count": 1314,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 45676731,
+              "id_str": "45676731",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 425,
+              "location": "Alexandria, VA",
+              "name": "Tim Murtaugh",
+              "notifications": false,
+              "profile_background_color": "131516",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/45676731/1565925944",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1099630438581178369/UpNS03R__normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099630438581178369/UpNS03R__normal.jpg",
+              "profile_link_color": "009999",
+              "profile_sidebar_border_color": "EEEEEE",
+              "profile_sidebar_fill_color": "EFEFEF",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "TimMurtaugh",
+              "statuses_count": 952,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/mZB2hy4Wdz",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/onXHFdZtAT",
+          "expanded_url": "https://twitter.com/TimMurtaugh/status/1173776320532103168/video/1",
+          "id": 1173776185005731841,
+          "id_str": "1173776185005731841",
+          "indices": [
+            182,
+            205
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173776185005731841/pu/img/-mBZiYqpGkzzgv1t.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173776185005731841/pu/img/-mBZiYqpGkzzgv1t.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1173776320532103168,
+          "source_status_id_str": "1173776320532103168",
+          "source_user_id": 45676731,
+          "source_user_id_str": "45676731",
+          "type": "video",
+          "url": "https://t.co/onXHFdZtAT",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 12167,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1173776185005731841/pu/pl/EY4Kpmq2JO97-w63.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1173776185005731841/pu/vid/480x270/db90U1m5GAUYqSCn.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1173776185005731841/pu/vid/1280x720/3u8JCYZwxNWsb0_M.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1173776185005731841/pu/vid/640x360/fPry3-g5dHk4X5vz.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 43098,
+    "favorited": false,
+    "full_text": "Trump\u2019s OVERFLOW crowd is bigger than any audience Bernie or Biden will ever see. \n\nStood outside at Rio Rancho to support their President. \n\nGo you good things, go.  #NM #Trump2020 https://t.co/onXHFdZtAT",
+    "geo": null,
+    "id": 1173822825188212736,
+    "id_str": "1173822825188212736",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12249,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 20 22:01:54 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Milo\u2019s Mum. The Female Farage. Angry Ellen de Generes. The Biggest Bitch in Britain. katie@katiehopkins.co.uk",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 92,
+      "follow_request_sent": false,
+      "followers_count": 1028003,
+      "following": false,
+      "friends_count": 78,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 21439144,
+      "id_str": "21439144",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3622,
+      "location": "",
+      "name": "Katie Hopkins",
+      "notifications": false,
+      "profile_background_color": "FF33CC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21439144/1565370706",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/915081489573974016/esP5WVn-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/915081489573974016/esP5WVn-_normal.jpg",
+      "profile_link_color": "0004FA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "00CCFF",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KTHopkins",
+      "statuses_count": 51027,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 64485223,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108696,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44403,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

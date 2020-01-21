@@ -1,0 +1,317 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed May 08 12:11:04 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 19739126,
+        "id_str": "19739126",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Kevin McCarthy",
+        "screen_name": "GOPLeader"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPLeader: Democrats and Republicans should be working together to lower the cost of prescription drugs. \n \nWhat are Democrats doing in\u2026",
+  "geo": null,
+  "id": 1126097182094970880,
+  "id_str": "1126097182094970880",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 13958,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 07 20:24:48 +0000 2019",
+    "display_text_range": [
+      0,
+      212
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0WS5zuSfCs",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1125859047163531271/video/1",
+          "id": 1125848042916196357,
+          "id_str": "1125848042916196357",
+          "indices": [
+            213,
+            236
+          ],
+          "media_url": "http://pbs.twimg.com/media/D5_RSQKW4AAOt8c.png",
+          "media_url_https": "https://pbs.twimg.com/media/D5_RSQKW4AAOt8c.png",
+          "sizes": {
+            "large": {
+              "h": 396,
+              "resize": "fit",
+              "w": 796
+            },
+            "medium": {
+              "h": 396,
+              "resize": "fit",
+              "w": 796
+            },
+            "small": {
+              "h": 338,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0WS5zuSfCs"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "watch_now": {
+                "url": "https://youtu.be/94Sb6qMugTs"
+              }
+            },
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "What Democrats are doing is ABSURD."
+          },
+          "display_url": "pic.twitter.com/0WS5zuSfCs",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1125859047163531271/video/1",
+          "id": 1125848042916196357,
+          "id_str": "1125848042916196357",
+          "indices": [
+            213,
+            236
+          ],
+          "media_url": "http://pbs.twimg.com/media/D5_RSQKW4AAOt8c.png",
+          "media_url_https": "https://pbs.twimg.com/media/D5_RSQKW4AAOt8c.png",
+          "sizes": {
+            "large": {
+              "h": 396,
+              "resize": "fit",
+              "w": 796
+            },
+            "medium": {
+              "h": 396,
+              "resize": "fit",
+              "w": 796
+            },
+            "small": {
+              "h": 338,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/0WS5zuSfCs",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 14581,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1125848042916196357/vid/640x360/qx0qQ84hUh95OR5M.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1125848042916196357/vid/480x270/Ox69Bg4nJagIUFlw.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1125848042916196357/vid/1280x720/Os9ba1KtvceAuQ8o.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1125848042916196357/pl/S4kukcWja-6CmgmV.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 45231,
+    "favorited": false,
+    "full_text": "Democrats and Republicans should be working together to lower the cost of prescription drugs. \n \nWhat are Democrats doing instead? Holding the Attorney General in contempt for NOT breaking the law.\n \nIt's ABSURD. https://t.co/0WS5zuSfCs",
+    "geo": null,
+    "id": 1125859047163531271,
+    "id_str": "1125859047163531271",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13958,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "republicanleader.gov",
+              "expanded_url": "http://republicanleader.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eB1lud6Yi3"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1690,
+      "follow_request_sent": false,
+      "followers_count": 274944,
+      "following": false,
+      "friends_count": 1389,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 19739126,
+      "id_str": "19739126",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3711,
+      "location": "Bakersfield, CA",
+      "name": "Kevin McCarthy",
+      "notifications": false,
+      "profile_background_color": "3B94D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1487260468",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1002234175032840193/HmPjp5w4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002234175032840193/HmPjp5w4_normal.jpg",
+      "profile_link_color": "0A2644",
+      "profile_sidebar_border_color": "FF0000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "122C73",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GOPLeader",
+      "statuses_count": 10217,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eB1lud6Yi3",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60115623,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102660,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41705,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

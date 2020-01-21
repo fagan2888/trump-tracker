@@ -1,0 +1,433 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 12 11:54:55 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          44,
+          62
+        ],
+        "text": "SocialMediaSummit"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 19739126,
+        "id_str": "19739126",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Kevin McCarthy",
+        "screen_name": "GOPLeader"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          25,
+          41
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPLeader: President @realDonaldTrump's #SocialMediaSummit was a very important event. Conservatives will NOT be silenced, and American\u2026",
+  "geo": null,
+  "id": 1149648328398782468,
+  "id_str": "1149648328398782468",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8634,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 12 01:57:43 +0000 2019",
+    "display_text_range": [
+      0,
+      159
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            29,
+            47
+          ],
+          "text": "SocialMediaSummit"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Udo8BcEth2",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1149498038970286080/photo/1",
+          "id": 1149497589391212544,
+          "id_str": "1149497589391212544",
+          "indices": [
+            160,
+            183
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_PV953UwAAU-7J.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_PV953UwAAU-7J.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1500
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 544,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Udo8BcEth2"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Udo8BcEth2",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1149498038970286080/photo/1",
+          "id": 1149497589391212544,
+          "id_str": "1149497589391212544",
+          "indices": [
+            160,
+            183
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_PV953UwAAU-7J.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_PV953UwAAU-7J.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1500
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 544,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Udo8BcEth2"
+        },
+        {
+          "display_url": "pic.twitter.com/Udo8BcEth2",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1149498038970286080/photo/1",
+          "id": 1149497673516367872,
+          "id_str": "1149497673516367872",
+          "indices": [
+            160,
+            183
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_PWCzQUwAAWTrq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_PWCzQUwAAWTrq.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1500
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 544,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Udo8BcEth2"
+        },
+        {
+          "display_url": "pic.twitter.com/Udo8BcEth2",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1149498038970286080/photo/1",
+          "id": 1149497697704878080,
+          "id_str": "1149497697704878080",
+          "indices": [
+            160,
+            183
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_PWENXUIAAgjC_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_PWENXUIAAgjC_.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1500
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 544,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Udo8BcEth2"
+        },
+        {
+          "display_url": "pic.twitter.com/Udo8BcEth2",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1149498038970286080/photo/1",
+          "id": 1149497955021275136,
+          "id_str": "1149497955021275136",
+          "indices": [
+            160,
+            183
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_PWTL8UwAAUk-4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_PWTL8UwAAUk-4.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1500
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 544,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Udo8BcEth2"
+        }
+      ]
+    },
+    "favorite_count": 19213,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump's #SocialMediaSummit was a very important event. Conservatives will NOT be silenced, and Americans' personal data MUST be protected. https://t.co/Udo8BcEth2",
+    "geo": null,
+    "id": 1149498038970286080,
+    "id_str": "1149498038970286080",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8634,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.\nhttps://t.co/ZqWsqD6L0T",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/repkevinmccart\u2026",
+              "expanded_url": "https://www.instagram.com/repkevinmccarthy/",
+              "indices": [
+                100,
+                123
+              ],
+              "url": "https://t.co/ZqWsqD6L0T"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "republicanleader.gov",
+              "expanded_url": "http://republicanleader.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eB1lud6Yi3"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1731,
+      "follow_request_sent": false,
+      "followers_count": 303240,
+      "following": false,
+      "friends_count": 1381,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 19739126,
+      "id_str": "19739126",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3832,
+      "location": "Bakersfield, CA",
+      "name": "Kevin McCarthy",
+      "notifications": false,
+      "profile_background_color": "3B94D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1561180371",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+      "profile_link_color": "0A2644",
+      "profile_sidebar_border_color": "FF0000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "122C73",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GOPLeader",
+      "statuses_count": 10589,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eB1lud6Yi3",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 61882786,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105181,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42870,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

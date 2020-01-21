@@ -1,0 +1,415 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 28 16:59:00 +0000 2019",
+  "display_text_range": [
+    0,
+    51
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/garyplayer/sta\u2026",
+        "expanded_url": "https://twitter.com/garyplayer/status/1188856716638773255",
+        "indices": [
+          52,
+          75
+        ],
+        "url": "https://t.co/GdmcpMG42s"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 32453930,
+        "id_str": "32453930",
+        "indices": [
+          40,
+          51
+        ],
+        "name": "Tiger Woods",
+        "screen_name": "TigerWoods"
+      }
+    ]
+  },
+  "favorite_count": 50738,
+  "favorited": false,
+  "full_text": "An AMAZING CHAMPION. Great going Tiger! @TigerWoods https://t.co/GdmcpMG42s",
+  "geo": null,
+  "id": 1188862744067481603,
+  "id_str": "1188862744067481603",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 28 16:35:03 +0000 2019",
+    "display_text_range": [
+      0,
+      254
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rsskRDixRU",
+          "expanded_url": "https://twitter.com/garyplayer/status/1188856716638773255/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 324,
+                  "y": 177
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 324,
+                  "y": 177
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 324,
+                  "y": 177
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 81,
+                  "w": 81,
+                  "x": 231,
+                  "y": 126
+                }
+              ]
+            }
+          },
+          "id": 1188856710653513728,
+          "id_str": "1188856710653513728",
+          "indices": [
+            255,
+            278
+          ],
+          "media_url": "http://pbs.twimg.com/media/EH-q4SdXkAA3CDJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EH-q4SdXkAA3CDJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 542,
+              "resize": "fit",
+              "w": 952
+            },
+            "medium": {
+              "h": 542,
+              "resize": "fit",
+              "w": 952
+            },
+            "small": {
+              "h": 387,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rsskRDixRU"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 32453930,
+          "id_str": "32453930",
+          "indices": [
+            26,
+            37
+          ],
+          "name": "Tiger Woods",
+          "screen_name": "TigerWoods"
+        },
+        {
+          "id": 14063426,
+          "id_str": "14063426",
+          "indices": [
+            90,
+            98
+          ],
+          "name": "PGA TOUR",
+          "screen_name": "PGATOUR"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rsskRDixRU",
+          "expanded_url": "https://twitter.com/garyplayer/status/1188856716638773255/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 324,
+                  "y": 177
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 324,
+                  "y": 177
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 114,
+                  "w": 114,
+                  "x": 324,
+                  "y": 177
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 81,
+                  "w": 81,
+                  "x": 231,
+                  "y": 126
+                }
+              ]
+            }
+          },
+          "id": 1188856710653513728,
+          "id_str": "1188856710653513728",
+          "indices": [
+            255,
+            278
+          ],
+          "media_url": "http://pbs.twimg.com/media/EH-q4SdXkAA3CDJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EH-q4SdXkAA3CDJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 542,
+              "resize": "fit",
+              "w": 952
+            },
+            "medium": {
+              "h": 542,
+              "resize": "fit",
+              "w": 952
+            },
+            "small": {
+              "h": 387,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rsskRDixRU"
+        }
+      ]
+    },
+    "favorite_count": 3933,
+    "favorited": false,
+    "full_text": "#82. Many Congratulations @TigerWoods on this remarkable achievement in tying Sam Snead's @PGATOUR record in the USA. You are like fine wine. I love that this came in Japan, which shows the global growth of our sport. We are now pulling for number 83! GP https://t.co/rsskRDixRU",
+    "geo": null,
+    "id": 1188856716638773255,
+    "id_str": "1188856716638773255",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 563,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 26 19:40:53 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Black Knight, Player, Grand Slam Golfer, Philanthropy, Course Design & Fitness. https://t.co/azQ3lGbXn6",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "garyplayer.com",
+              "expanded_url": "http://www.garyplayer.com",
+              "indices": [
+                84,
+                107
+              ],
+              "url": "https://t.co/azQ3lGbXn6"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "garyplayer.com",
+              "expanded_url": "http://garyplayer.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/66N4vOMM1L"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4156,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 405745,
+      "following": false,
+      "friends_count": 3004,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 26829777,
+      "id_str": "26829777",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1990,
+      "location": "A Global Brand",
+      "name": "Gary Player",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26829777/1489748603",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1097028105/gp_3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097028105/gp_3_normal.jpg",
+      "profile_link_color": "074F73",
+      "profile_sidebar_border_color": "FAFAFA",
+      "profile_sidebar_fill_color": "C3C3C3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "garyplayer",
+      "statuses_count": 26328,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/66N4vOMM1L",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1188856716638773255,
+  "quoted_status_id_str": "1188856716638773255",
+  "quoted_status_permalink": {
+    "display": "twitter.com/garyplayer/sta\u2026",
+    "expanded": "https://twitter.com/garyplayer/status/1188856716638773255",
+    "url": "https://t.co/GdmcpMG42s"
+  },
+  "retweet_count": 9369,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66369765,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45634,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 29 11:33:50 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 31127446,
+        "id_str": "31127446",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Mark Knoller",
+        "screen_name": "markknoller"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          127,
+          133
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @markknoller: Pres denounces attacks on police officers. \u201cAn attack on law enforcement is an attack on all Americans,\" says @POTUS. And\u2026",
+  "geo": null,
+  "id": 1189143298105118722,
+  "id_str": "1189143298105118722",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4150,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 28 16:06:22 +0000 2019",
+    "display_text_range": [
+      0,
+      248
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            110,
+            116
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "favorite_count": 16950,
+    "favorited": false,
+    "full_text": "Pres denounces attacks on police officers. \u201cAn attack on law enforcement is an attack on all Americans,\" says @POTUS. And he is cheered by his audience of police chiefs when he says that criminals who murder our police should get the death penalty.",
+    "geo": null,
+    "id": 1188849497113333760,
+    "id_str": "1188849497113333760",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 4150,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Apr 14 14:01:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "CBS News White House Correspondent",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cbsnews.com",
+              "expanded_url": "http://cbsnews.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/BCxDdZjO0a"
+            }
+          ]
+        }
+      },
+      "favourites_count": 20,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 325214,
+      "following": false,
+      "friends_count": 2241,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 31127446,
+      "id_str": "31127446",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9370,
+      "location": "Washington, D.C.",
+      "name": "Mark Knoller",
+      "notifications": false,
+      "profile_background_color": "0A0B0F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/31127446/1358276248",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/137394623/knoller_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/137394623/knoller_normal.jpg",
+      "profile_link_color": "DD4020",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EAEDF0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "markknoller",
+      "statuses_count": 135097,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/BCxDdZjO0a",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66369765,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45634,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

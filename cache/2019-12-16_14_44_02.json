@@ -1,0 +1,332 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Dec 16 14:44:02 +0000 2019",
+  "display_text_range": [
+    0,
+    32
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/DevinNunes/sta\u2026",
+        "expanded_url": "https://twitter.com/DevinNunes/status/1206077319187587073",
+        "indices": [
+          33,
+          56
+        ],
+        "url": "https://t.co/46jb64LalD"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 43463,
+  "favorited": false,
+  "full_text": "Thank you Devin. Great reflexes! https://t.co/46jb64LalD",
+  "geo": null,
+  "id": 1206585783383154688,
+  "id_str": "1206585783383154688",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 15 05:03:35 +0000 2019",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fwpd1FKHVC",
+          "expanded_url": "https://twitter.com/DevinNunes/status/1206077319187587073/video/1",
+          "features": {},
+          "id": 1206077251093024768,
+          "id_str": "1206077251093024768",
+          "indices": [
+            122,
+            145
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206077251093024768/pu/img/MW1ZgEn8QlSUl11Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206077251093024768/pu/img/MW1ZgEn8QlSUl11Z.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fwpd1FKHVC"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            15,
+            31
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/fwpd1FKHVC",
+          "expanded_url": "https://twitter.com/DevinNunes/status/1206077319187587073/video/1",
+          "features": {},
+          "id": 1206077251093024768,
+          "id_str": "1206077251093024768",
+          "indices": [
+            122,
+            145
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206077251093024768/pu/img/MW1ZgEn8QlSUl11Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206077251093024768/pu/img/MW1ZgEn8QlSUl11Z.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/fwpd1FKHVC",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 19586,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1206077251093024768/pu/vid/480x270/89iQk4uXlDJHrvPa.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1206077251093024768/pu/vid/640x360/bF5S2dJE49IIfib3.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1206077251093024768/pu/pl/cdq92Kp-HeAQn4Py.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1206077251093024768/pu/vid/1280x720/jy4qNa6ro1tERtai.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 57309,
+    "favorited": false,
+    "full_text": "I had to save \u2066@realDonaldTrump\u2069 from the Deep State operatives... or maybe it was just the AC turning on behind stage??? https://t.co/fwpd1FKHVC",
+    "geo": null,
+    "id": 1206077319187587073,
+    "id_str": "1206077319187587073",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 15244,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jul 07 02:04:34 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "RTs do not equal endorsement.  This is my personal Twitter account.  If you have questions about my official activities please visit my website.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nunes.house.gov",
+              "expanded_url": "http://www.nunes.house.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/nNrwohsqWS"
+            }
+          ]
+        }
+      },
+      "favourites_count": 255,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 780773,
+      "following": false,
+      "friends_count": 671,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 54412900,
+      "id_str": "54412900",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3012,
+      "location": "",
+      "name": "Devin Nunes",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738510058183593985/whpmEX7p_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738510058183593985/whpmEX7p_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DevinNunes",
+      "statuses_count": 2595,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/nNrwohsqWS",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1206077319187587073,
+  "quoted_status_id_str": "1206077319187587073",
+  "quoted_status_permalink": {
+    "display": "twitter.com/DevinNunes/sta\u2026",
+    "expanded": "https://twitter.com/DevinNunes/status/1206077319187587073",
+    "url": "https://t.co/46jb64LalD"
+  },
+  "retweet_count": 10350,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67609789,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111513,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47210,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

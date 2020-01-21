@@ -1,0 +1,409 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 13 02:19:26 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16523905,
+        "id_str": "16523905",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Robby Starbuck",
+        "screen_name": "robbystarbuck"
+      },
+      {
+        "id": 18166778,
+        "id_str": "18166778",
+        "indices": [
+          24,
+          35
+        ],
+        "name": "Rep. Jim Jordan",
+        "screen_name": "Jim_Jordan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @robbystarbuck: Rep. @Jim_Jordan let\u2019s loose on all of the elected Democrats in Congress who\u2019ve denied there\u2019s a crisis at the border an\u2026",
+  "geo": null,
+  "id": 1149865892429357056,
+  "id_str": "1149865892429357056",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6021,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 12 15:12:26 +0000 2019",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3CGmhJmk5Y",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1149696787751587840/video/1",
+          "id": 1149696638170087425,
+          "id_str": "1149696638170087425",
+          "indices": [
+            254,
+            277
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149696638170087425/pu/img/ag0r5yrAZW89efb7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149696638170087425/pu/img/ag0r5yrAZW89efb7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1149696787751587840,
+          "source_status_id_str": "1149696787751587840",
+          "source_user_id": 55329156,
+          "source_user_id_str": "55329156",
+          "type": "photo",
+          "url": "https://t.co/3CGmhJmk5Y"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 18166778,
+          "id_str": "18166778",
+          "indices": [
+            5,
+            16
+          ],
+          "name": "Rep. Jim Jordan",
+          "screen_name": "Jim_Jordan"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Jul 09 19:08:45 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "#MAGA. Official RNC Research acct. Follow for latest on Democrats, pundits, & Trump's accomplishments. Subscribe to our YouTube page: https://t.co/OLjaWvAwOj",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "goo.gl/oryp5i",
+                      "expanded_url": "https://goo.gl/oryp5i",
+                      "indices": [
+                        134,
+                        157
+                      ],
+                      "url": "https://t.co/OLjaWvAwOj"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "gop.com/research/",
+                      "expanded_url": "https://gop.com/research/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/oeE4SVAXcg"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 0,
+              "follow_request_sent": false,
+              "followers_count": 51606,
+              "following": false,
+              "friends_count": 3451,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 55329156,
+              "id_str": "55329156",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1095,
+              "location": "Washington, DC",
+              "name": "RNC Research",
+              "notifications": false,
+              "profile_background_color": "CC0A0A",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/55329156/1526665097",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+              "profile_link_color": "F50808",
+              "profile_sidebar_border_color": "030303",
+              "profile_sidebar_fill_color": "8A8585",
+              "profile_text_color": "050505",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "RNCResearch",
+              "statuses_count": 17021,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/oeE4SVAXcg",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/3CGmhJmk5Y",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1149696787751587840/video/1",
+          "id": 1149696638170087425,
+          "id_str": "1149696638170087425",
+          "indices": [
+            254,
+            277
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149696638170087425/pu/img/ag0r5yrAZW89efb7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149696638170087425/pu/img/ag0r5yrAZW89efb7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1149696787751587840,
+          "source_status_id_str": "1149696787751587840",
+          "source_user_id": 55329156,
+          "source_user_id_str": "55329156",
+          "type": "video",
+          "url": "https://t.co/3CGmhJmk5Y",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 118051,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149696638170087425/pu/vid/640x360/cKjr7P3UsudJqIjo.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149696638170087425/pu/vid/1280x720/1Lor0llflBCmzp8f.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1149696638170087425/pu/pl/dliHhJvDgVeiFRxW.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1149696638170087425/pu/vid/480x270/v1nhV_eWtnXdWJst.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16390,
+    "favorited": false,
+    "full_text": "Rep. @Jim_Jordan let\u2019s loose on all of the elected Democrats in Congress who\u2019ve denied there\u2019s a crisis at the border and prioritized political smear hearings like the one they had with Michael Cohen over the very real crisis at our southern border. \ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/3CGmhJmk5Y",
+    "geo": null,
+    "id": 1149698032763592706,
+    "id_str": "1149698032763592706",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6021,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Sep 30 04:41:29 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Director and Producer \u2022 Free Thinker \u2022 Prod. Co. Owner \u2022 Married to @iMatriarch \u2022 Futurist \u2022 Proud Dad \u2022 Cuban American\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/robbystarbuck",
+              "expanded_url": "http://www.youtube.com/robbystarbuck",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xNpZC61wdR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 88464,
+      "follow_request_sent": false,
+      "followers_count": 56454,
+      "following": false,
+      "friends_count": 6927,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 16523905,
+      "id_str": "16523905",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 368,
+      "location": "Nashville & Los Angeles",
+      "name": "Robby Starbuck",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16523905/1530157842",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006060034135023616/Q8pV6Nkh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006060034135023616/Q8pV6Nkh_normal.jpg",
+      "profile_link_color": "16BFF3",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "0A090B",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "robbystarbuck",
+      "statuses_count": 30388,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/xNpZC61wdR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 61882786,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105181,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42870,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 08 23:18:25 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 24822993,
+        "id_str": "24822993",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Tracy Beanz",
+        "screen_name": "tracybeanz"
+      },
+      {
+        "id": 54412900,
+        "id_str": "54412900",
+        "indices": [
+          24,
+          35
+        ],
+        "name": "Devin Nunes",
+        "screen_name": "DevinNunes"
+      },
+      {
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          52,
+          56
+        ],
+        "name": "CNN",
+        "screen_name": "CNN"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @tracybeanz: Reading @DevinNunes lawsuit against @cnn. It\u2019s something. This is how it started, but the facts in here are incontrovertibl\u2026",
+  "geo": null,
+  "id": 1203816127819853824,
+  "id_str": "1203816127819853824",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7320,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 07 21:38:36 +0000 2019",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            134,
+            143
+          ],
+          "text": "FakeNews"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/l5xWL8jum9",
+          "expanded_url": "https://twitter.com/tracybeanz/status/1203428622251577348/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1203428617545486337,
+          "id_str": "1203428617545486337",
+          "indices": [
+            144,
+            167
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELNv851WkAEM9g4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELNv851WkAEM9g4.jpg",
+          "sizes": {
+            "large": {
+              "h": 1529,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 975
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 552
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/l5xWL8jum9"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 54412900,
+          "id_str": "54412900",
+          "indices": [
+            8,
+            19
+          ],
+          "name": "Devin Nunes",
+          "screen_name": "DevinNunes"
+        },
+        {
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            36,
+            40
+          ],
+          "name": "CNN",
+          "screen_name": "CNN"
+        },
+        {
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            126,
+            130
+          ],
+          "name": "CNN",
+          "screen_name": "CNN"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/l5xWL8jum9",
+          "expanded_url": "https://twitter.com/tracybeanz/status/1203428622251577348/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1203428617545486337,
+          "id_str": "1203428617545486337",
+          "indices": [
+            144,
+            167
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELNv851WkAEM9g4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELNv851WkAEM9g4.jpg",
+          "sizes": {
+            "large": {
+              "h": 1529,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 975
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 552
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/l5xWL8jum9"
+        },
+        {
+          "display_url": "pic.twitter.com/l5xWL8jum9",
+          "expanded_url": "https://twitter.com/tracybeanz/status/1203428622251577348/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1203428617553924096,
+          "id_str": "1203428617553924096",
+          "indices": [
+            144,
+            167
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELNv853XUAA9DpR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELNv853XUAA9DpR.jpg",
+          "sizes": {
+            "large": {
+              "h": 1554,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 959
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 543
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/l5xWL8jum9"
+        }
+      ]
+    },
+    "favorite_count": 16340,
+    "favorited": false,
+    "full_text": "Reading @DevinNunes lawsuit against @cnn. It\u2019s something. This is how it started, but the facts in here are incontrovertible. @cnn is #FakeNews https://t.co/l5xWL8jum9",
+    "geo": null,
+    "id": 1203428622251577348,
+    "id_str": "1203428622251577348",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7320,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Mar 17 02:27:13 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Editor-in-Chief @UncoverDC & https://t.co/O2KvyKISDu | Host of the \u201cDark to Light\u201d podcast - found on all major podcasting platforms!",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "UncoverDC.com",
+              "expanded_url": "http://UncoverDC.com",
+              "indices": [
+                29,
+                52
+              ],
+              "url": "https://t.co/O2KvyKISDu"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "patreon.com/tracybeanz",
+              "expanded_url": "http://www.patreon.com/tracybeanz",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/m7HjHll4cR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 80485,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 167587,
+      "following": false,
+      "friends_count": 966,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 24822993,
+      "id_str": "24822993",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1101,
+      "location": "",
+      "name": "Tracy Beanz",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24822993/1564404815",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1191531022703312896/MuXU4F9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191531022703312896/MuXU4F9a_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "tracybeanz",
+      "statuses_count": 45370,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/m7HjHll4cR",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67353829,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111108,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46828,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

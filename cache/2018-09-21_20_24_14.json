@@ -1,0 +1,396 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Sep 21 20:24:14 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 264501955,
+        "id_str": "264501955",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Mike Tokes",
+        "screen_name": "MikeTokes"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MikeTokes: We are outside the Trump rally in Las Vegas. There are THOUSANDS of conservatives here and the line extends all the way arou\u2026",
+  "geo": null,
+  "id": 1043234467844771840,
+  "id_str": "1043234467844771840",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5603,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 21 01:05:08 +0000 2018",
+    "display_text_range": [
+      0,
+      164
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zC6HfkEVCD",
+          "expanded_url": "https://twitter.com/MikeTokes/status/1042942770963312640/photo/1",
+          "id": 1042942738348400640,
+          "id_str": "1042942738348400640",
+          "indices": [
+            165,
+            188
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlG5RBUYAADOKO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlG5RBUYAADOKO.jpg",
+          "sizes": {
+            "large": {
+              "h": 497,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 497,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 330,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zC6HfkEVCD"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zC6HfkEVCD",
+          "expanded_url": "https://twitter.com/MikeTokes/status/1042942770963312640/photo/1",
+          "id": 1042942738348400640,
+          "id_str": "1042942738348400640",
+          "indices": [
+            165,
+            188
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlG5RBUYAADOKO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlG5RBUYAADOKO.jpg",
+          "sizes": {
+            "large": {
+              "h": 497,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 497,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 330,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zC6HfkEVCD"
+        },
+        {
+          "display_url": "pic.twitter.com/zC6HfkEVCD",
+          "expanded_url": "https://twitter.com/MikeTokes/status/1042942770963312640/photo/1",
+          "id": 1042942743964672006,
+          "id_str": "1042942743964672006",
+          "indices": [
+            165,
+            188
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlG5l8V4AYKccU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlG5l8V4AYKccU.jpg",
+          "sizes": {
+            "large": {
+              "h": 497,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 497,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 330,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zC6HfkEVCD"
+        },
+        {
+          "display_url": "pic.twitter.com/zC6HfkEVCD",
+          "expanded_url": "https://twitter.com/MikeTokes/status/1042942770963312640/photo/1",
+          "id": 1042942750486757376,
+          "id_str": "1042942750486757376",
+          "indices": [
+            165,
+            188
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlG5-PVAAAhEok.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlG5-PVAAAhEok.jpg",
+          "sizes": {
+            "large": {
+              "h": 497,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 497,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 330,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zC6HfkEVCD"
+        },
+        {
+          "display_url": "pic.twitter.com/zC6HfkEVCD",
+          "expanded_url": "https://twitter.com/MikeTokes/status/1042942770963312640/photo/1",
+          "id": 1042942759861022721,
+          "id_str": "1042942759861022721",
+          "indices": [
+            165,
+            188
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlG6hKU8AE0UDa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlG6hKU8AE0UDa.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zC6HfkEVCD"
+        }
+      ]
+    },
+    "favorite_count": 20705,
+    "favorited": false,
+    "full_text": "We are outside the Trump rally in Las Vegas. There are THOUSANDS of conservatives here and the line extends all the way around the block. \n\nEveryone loves Trump! \ud83c\uddfa\ud83c\uddf8 https://t.co/zC6HfkEVCD",
+    "geo": null,
+    "id": 1042942770963312640,
+    "id_str": "1042942770963312640",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5603,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 12 00:56:35 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Political strategist. Entrepreneur. CEO: https://t.co/OCCa0bUzj8 - Social Media For Politicians & Organizations. Co-Founder @NewRightUS \ud83d\udce7:Michael@YukoSocial.com",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "YukoSocial.com",
+              "expanded_url": "http://YukoSocial.com",
+              "indices": [
+                41,
+                64
+              ],
+              "url": "https://t.co/OCCa0bUzj8"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/miketokes",
+              "expanded_url": "http://instagram.com/miketokes",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GcKeJ8ODHt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 73604,
+      "follow_request_sent": false,
+      "followers_count": 162708,
+      "following": false,
+      "friends_count": 4015,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 264501955,
+      "id_str": "264501955",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1166,
+      "location": "Los Angeles / Las Vegas",
+      "name": "Mike Tokes",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/264501955/1522786114",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/983195874393112577/acrCHKs__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/983195874393112577/acrCHKs__normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MikeTokes",
+      "statuses_count": 6656,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/GcKeJ8ODHt",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54580117,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93873,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39068,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

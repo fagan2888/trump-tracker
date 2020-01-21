@@ -1,0 +1,686 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 28 20:44:55 +0000 2019",
+  "display_text_range": [
+    0,
+    98
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          64,
+          74
+        ],
+        "text": "Trump2016"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/L4x4udy63J",
+        "expanded_url": "https://twitter.com/steph93065/status/674423766491922432/photo/1",
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "\u2764\ufe0f\ud83d\ude4fAustere CalFreedomMom \u2764\ufe0f\ud83c\uddfa\ud83c\uddf8",
+                "screen_name": "CalFreedomMom",
+                "type": "user",
+                "user_id": "162114552"
+              },
+              {
+                "name": "Linda Suhler, PhD",
+                "screen_name": "LindaSuhler",
+                "type": "user",
+                "user_id": "347627434"
+              },
+              {
+                "name": "BraveHeart",
+                "screen_name": "Braveheart_USA",
+                "type": "user",
+                "user_id": "972909709"
+              },
+              {
+                "name": "Lee Jackson  \u2b50 \u2b50 \u2b50",
+                "screen_name": "Stonewall_77",
+                "type": "user",
+                "user_id": "885733974"
+              }
+            ]
+          },
+          "large": {
+            "faces": [
+              {
+                "h": 55,
+                "w": 55,
+                "x": 86,
+                "y": 31
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 55,
+                "w": 55,
+                "x": 86,
+                "y": 31
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 55,
+                "w": 55,
+                "x": 86,
+                "y": 31
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 55,
+                "w": 55,
+                "x": 86,
+                "y": 31
+              }
+            ]
+          }
+        },
+        "id": 674423765904678912,
+        "id_str": "674423765904678912",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/CVwI14LUYAAQmsF.png",
+        "media_url_https": "https://pbs.twimg.com/media/CVwI14LUYAAQmsF.png",
+        "sizes": {
+          "large": {
+            "h": 395,
+            "resize": "fit",
+            "w": 539
+          },
+          "medium": {
+            "h": 395,
+            "resize": "fit",
+            "w": 539
+          },
+          "small": {
+            "h": 395,
+            "resize": "fit",
+            "w": 539
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 674423766491922432,
+        "source_status_id_str": "674423766491922432",
+        "source_user_id": 261749735,
+        "source_user_id_str": "261749735",
+        "type": "photo",
+        "url": "https://t.co/L4x4udy63J"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 261749735,
+        "id_str": "261749735",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Steph",
+        "screen_name": "steph93065"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          46,
+          62
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/L4x4udy63J",
+        "expanded_url": "https://twitter.com/steph93065/status/674423766491922432/photo/1",
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "\u2764\ufe0f\ud83d\ude4fAustere CalFreedomMom \u2764\ufe0f\ud83c\uddfa\ud83c\uddf8",
+                "screen_name": "CalFreedomMom",
+                "type": "user",
+                "user_id": "162114552"
+              },
+              {
+                "name": "Linda Suhler, PhD",
+                "screen_name": "LindaSuhler",
+                "type": "user",
+                "user_id": "347627434"
+              },
+              {
+                "name": "BraveHeart",
+                "screen_name": "Braveheart_USA",
+                "type": "user",
+                "user_id": "972909709"
+              },
+              {
+                "name": "Lee Jackson  \u2b50 \u2b50 \u2b50",
+                "screen_name": "Stonewall_77",
+                "type": "user",
+                "user_id": "885733974"
+              }
+            ]
+          },
+          "large": {
+            "faces": [
+              {
+                "h": 55,
+                "w": 55,
+                "x": 86,
+                "y": 31
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 55,
+                "w": 55,
+                "x": 86,
+                "y": 31
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 55,
+                "w": 55,
+                "x": 86,
+                "y": 31
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 55,
+                "w": 55,
+                "x": 86,
+                "y": 31
+              }
+            ]
+          }
+        },
+        "id": 674423765904678912,
+        "id_str": "674423765904678912",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/CVwI14LUYAAQmsF.png",
+        "media_url_https": "https://pbs.twimg.com/media/CVwI14LUYAAQmsF.png",
+        "sizes": {
+          "large": {
+            "h": 395,
+            "resize": "fit",
+            "w": 539
+          },
+          "medium": {
+            "h": 395,
+            "resize": "fit",
+            "w": 539
+          },
+          "small": {
+            "h": 395,
+            "resize": "fit",
+            "w": 539
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 674423766491922432,
+        "source_status_id_str": "674423766491922432",
+        "source_user_id": 261749735,
+        "source_user_id_str": "261749735",
+        "type": "photo",
+        "url": "https://t.co/L4x4udy63J"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @steph93065: Why I am a Trump Supporter...\n@realDonaldTrump \n#Trump2016 https://t.co/L4x4udy63J",
+  "geo": null,
+  "id": 1188919597161799680,
+  "id_str": "1188919597161799680",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 66482,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 09 03:02:10 +0000 2015",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            48,
+            58
+          ],
+          "text": "Trump2016"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/L4x4udy63J",
+          "expanded_url": "https://twitter.com/steph93065/status/674423766491922432/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "\u2764\ufe0f\ud83d\ude4fAustere CalFreedomMom \u2764\ufe0f\ud83c\uddfa\ud83c\uddf8",
+                  "screen_name": "CalFreedomMom",
+                  "type": "user",
+                  "user_id": "162114552"
+                },
+                {
+                  "name": "Linda Suhler, PhD",
+                  "screen_name": "LindaSuhler",
+                  "type": "user",
+                  "user_id": "347627434"
+                },
+                {
+                  "name": "BraveHeart",
+                  "screen_name": "Braveheart_USA",
+                  "type": "user",
+                  "user_id": "972909709"
+                },
+                {
+                  "name": "Lee Jackson  \u2b50 \u2b50 \u2b50",
+                  "screen_name": "Stonewall_77",
+                  "type": "user",
+                  "user_id": "885733974"
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 86,
+                  "y": 31
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 86,
+                  "y": 31
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 86,
+                  "y": 31
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 86,
+                  "y": 31
+                }
+              ]
+            }
+          },
+          "id": 674423765904678912,
+          "id_str": "674423765904678912",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/CVwI14LUYAAQmsF.png",
+          "media_url_https": "https://pbs.twimg.com/media/CVwI14LUYAAQmsF.png",
+          "sizes": {
+            "large": {
+              "h": 395,
+              "resize": "fit",
+              "w": 539
+            },
+            "medium": {
+              "h": 395,
+              "resize": "fit",
+              "w": 539
+            },
+            "small": {
+              "h": 395,
+              "resize": "fit",
+              "w": 539
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/L4x4udy63J"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            30,
+            46
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/L4x4udy63J",
+          "expanded_url": "https://twitter.com/steph93065/status/674423766491922432/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "\u2764\ufe0f\ud83d\ude4fAustere CalFreedomMom \u2764\ufe0f\ud83c\uddfa\ud83c\uddf8",
+                  "screen_name": "CalFreedomMom",
+                  "type": "user",
+                  "user_id": "162114552"
+                },
+                {
+                  "name": "Linda Suhler, PhD",
+                  "screen_name": "LindaSuhler",
+                  "type": "user",
+                  "user_id": "347627434"
+                },
+                {
+                  "name": "BraveHeart",
+                  "screen_name": "Braveheart_USA",
+                  "type": "user",
+                  "user_id": "972909709"
+                },
+                {
+                  "name": "Lee Jackson  \u2b50 \u2b50 \u2b50",
+                  "screen_name": "Stonewall_77",
+                  "type": "user",
+                  "user_id": "885733974"
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 86,
+                  "y": 31
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 86,
+                  "y": 31
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 86,
+                  "y": 31
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 86,
+                  "y": 31
+                }
+              ]
+            }
+          },
+          "id": 674423765904678912,
+          "id_str": "674423765904678912",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/CVwI14LUYAAQmsF.png",
+          "media_url_https": "https://pbs.twimg.com/media/CVwI14LUYAAQmsF.png",
+          "sizes": {
+            "large": {
+              "h": 395,
+              "resize": "fit",
+              "w": 539
+            },
+            "medium": {
+              "h": 395,
+              "resize": "fit",
+              "w": 539
+            },
+            "small": {
+              "h": 395,
+              "resize": "fit",
+              "w": 539
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/L4x4udy63J"
+        }
+      ]
+    },
+    "favorite_count": 70200,
+    "favorited": false,
+    "full_text": "Why I am a Trump Supporter...\n@realDonaldTrump \n#Trump2016 https://t.co/L4x4udy63J",
+    "geo": null,
+    "id": 674423766491922432,
+    "id_str": "674423766491922432",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 66482,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Mar 06 16:36:44 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "#MAGA2020 #TrumpForever #AirForceMom #MarineMom The only valid censorship of ideas is the right of people not to listen. @NewRightNetwork Contributor",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com",
+              "expanded_url": "https://www.donaldjtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/88QSmUzMWX"
+            }
+          ]
+        }
+      },
+      "favourites_count": 565355,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 321215,
+      "following": false,
+      "friends_count": 118571,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 261749735,
+      "id_str": "261749735",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1440,
+      "location": "California, USA",
+      "name": "Steph",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/261749735/1572186342",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1058159653991866368/6XaSXYo5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058159653991866368/6XaSXYo5_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "steph93065",
+      "statuses_count": 259092,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/88QSmUzMWX",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66369765,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45634,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

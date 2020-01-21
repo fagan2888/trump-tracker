@@ -1,0 +1,430 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 11 01:35:15 +0000 2018",
+  "display_text_range": [
+    0,
+    62
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          45,
+          62
+        ],
+        "text": "HurricaneMichael"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/fema/status/10\u2026",
+        "expanded_url": "https://twitter.com/fema/status/1050164476916523008",
+        "indices": [
+          63,
+          86
+        ],
+        "url": "https://t.co/vwN8BbrkkJ"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 16669075,
+        "id_str": "16669075",
+        "indices": [
+          13,
+          18
+        ],
+        "name": "FEMA",
+        "screen_name": "fema"
+      }
+    ]
+  },
+  "favorite_count": 21416,
+  "favorited": false,
+  "full_text": "Thank you to @FEMA and all First Responders! #HurricaneMichael https://t.co/vwN8BbrkkJ",
+  "geo": null,
+  "id": 1050198107969982464,
+  "id_str": "1050198107969982464",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 10 23:21:37 +0000 2018",
+    "display_text_range": [
+      0,
+      263
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            13,
+            21
+          ],
+          "text": "Michael"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yjLWyqranc",
+          "expanded_url": "https://twitter.com/fema/status/1050164476916523008/photo/1",
+          "id": 1050163719689383937,
+          "id_str": "1050163719689383937",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpLuVswWsAEqeRb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpLuVswWsAEqeRb.jpg",
+          "sizes": {
+            "large": {
+              "h": 750,
+              "resize": "fit",
+              "w": 1000
+            },
+            "medium": {
+              "h": 750,
+              "resize": "fit",
+              "w": 1000
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yjLWyqranc"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "fema.gov/hurricane-mich\u2026",
+          "expanded_url": "http://fema.gov/hurricane-michael-lifelines",
+          "indices": [
+            240,
+            263
+          ],
+          "url": "https://t.co/6g1cy82P3o"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yjLWyqranc",
+          "expanded_url": "https://twitter.com/fema/status/1050164476916523008/photo/1",
+          "id": 1050163719689383937,
+          "id_str": "1050163719689383937",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpLuVswWsAEqeRb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpLuVswWsAEqeRb.jpg",
+          "sizes": {
+            "large": {
+              "h": 750,
+              "resize": "fit",
+              "w": 1000
+            },
+            "medium": {
+              "h": 750,
+              "resize": "fit",
+              "w": 1000
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yjLWyqranc"
+        },
+        {
+          "display_url": "pic.twitter.com/yjLWyqranc",
+          "expanded_url": "https://twitter.com/fema/status/1050164476916523008/photo/1",
+          "id": 1050163731135680512,
+          "id_str": "1050163731135680512",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpLuWXZXUAAmen2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpLuWXZXUAAmen2.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yjLWyqranc"
+        },
+        {
+          "display_url": "pic.twitter.com/yjLWyqranc",
+          "expanded_url": "https://twitter.com/fema/status/1050164476916523008/photo/1",
+          "id": 1050163719701958656,
+          "id_str": "1050163719701958656",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpLuVszWkAAld5E.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpLuVszWkAAld5E.jpg",
+          "sizes": {
+            "large": {
+              "h": 1032,
+              "resize": "fit",
+              "w": 1556
+            },
+            "medium": {
+              "h": 796,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 451,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yjLWyqranc"
+        },
+        {
+          "display_url": "pic.twitter.com/yjLWyqranc",
+          "expanded_url": "https://twitter.com/fema/status/1050164476916523008/photo/1",
+          "id": 1050163719722987520,
+          "id_str": "1050163719722987520",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpLuVs4XcAAGNQH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpLuVs4XcAAGNQH.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yjLWyqranc"
+        }
+      ]
+    },
+    "favorite_count": 1054,
+    "favorited": false,
+    "full_text": "As Hurricane #Michael continues across land, many federal teams are in place along with private sector &amp; voluntary agency partners to support  state &amp; local officials with response efforts. This is a major team effort. \n\nMore info: https://t.co/6g1cy82P3o https://t.co/yjLWyqranc",
+    "geo": null,
+    "id": 1050164476916523008,
+    "id_str": "1050164476916523008",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 348,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 09 16:54:20 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Our story of supporting citizens & first responders before, during, and after emergencies. For emergencies, call your local fire/EMS/police or 9-1-1.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fema.gov",
+              "expanded_url": "http://www.fema.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pJoesev0fm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3085,
+      "follow_request_sent": false,
+      "followers_count": 735056,
+      "following": false,
+      "friends_count": 681,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16669075,
+      "id_str": "16669075",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10839,
+      "location": "United States",
+      "name": "FEMA",
+      "notifications": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16669075/1530889653",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_link_color": "2A91B0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DCDCE0",
+      "profile_text_color": "65686E",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fema",
+      "statuses_count": 15002,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pJoesev0fm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1050164476916523008,
+  "quoted_status_id_str": "1050164476916523008",
+  "quoted_status_permalink": {
+    "display": "twitter.com/fema/status/10\u2026",
+    "expanded": "https://twitter.com/fema/status/1050164476916523008",
+    "url": "https://t.co/vwN8BbrkkJ"
+  },
+  "retweet_count": 4853,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55028490,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39236,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

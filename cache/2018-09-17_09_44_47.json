@@ -1,0 +1,520 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 17 09:44:47 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 17019836,
+        "id_str": "17019836",
+        "indices": [
+          3,
+          9
+        ],
+        "name": "NCDOT",
+        "screen_name": "NCDOT"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NCDOT: This is the type of flooding much of our state is encountering. Travel is not safe, if not impassable! Help us keep limited rout\u2026",
+  "geo": null,
+  "id": 1041623996314394624,
+  "id_str": "1041623996314394624",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1041363610390474757,
+  "quoted_status_id_str": "1041363610390474757",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NCDOT_Scoast/s\u2026",
+    "expanded": "https://twitter.com/NCDOT_Scoast/status/1041363610390474757",
+    "url": "https://t.co/C7BwYgt0Wb"
+  },
+  "retweet_count": 2450,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 16 17:06:30 +0000 2018",
+    "display_text_range": [
+      0,
+      216
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            205,
+            216
+          ],
+          "text": "FlorenceNC"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/NCDOT_Scoast/s\u2026",
+          "expanded_url": "https://twitter.com/NCDOT_Scoast/status/1041363610390474757",
+          "indices": [
+            217,
+            240
+          ],
+          "url": "https://t.co/C7BwYgt0Wb"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 10185,
+    "favorited": false,
+    "full_text": "This is the type of flooding much of our state is encountering. Travel is not safe, if not impassable! Help us keep limited routes clear for emergency personnel and getting resources to those who need it. #FlorenceNC https://t.co/C7BwYgt0Wb",
+    "geo": null,
+    "id": 1041372766887403520,
+    "id_str": "1041372766887403520",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Sep 16 16:30:06 +0000 2018",
+      "display_text_range": [
+        0,
+        238
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              227,
+              238
+            ],
+            "text": "FlorenceNC"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IQQcBRHdSB",
+            "expanded_url": "https://twitter.com/NCDOT_Scoast/status/1041363610390474757/photo/1",
+            "id": 1041363604094824448,
+            "id_str": "1041363604094824448",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/media/DnOqrjgXsAANFnq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DnOqrjgXsAANFnq.jpg",
+            "sizes": {
+              "large": {
+                "h": 640,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 640,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 640,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IQQcBRHdSB"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/IQQcBRHdSB",
+            "expanded_url": "https://twitter.com/NCDOT_Scoast/status/1041363610390474757/photo/1",
+            "id": 1041363604094824448,
+            "id_str": "1041363604094824448",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/media/DnOqrjgXsAANFnq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DnOqrjgXsAANFnq.jpg",
+            "sizes": {
+              "large": {
+                "h": 640,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 640,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 640,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IQQcBRHdSB"
+          },
+          {
+            "display_url": "pic.twitter.com/IQQcBRHdSB",
+            "expanded_url": "https://twitter.com/NCDOT_Scoast/status/1041363610390474757/photo/1",
+            "id": 1041363605709631494,
+            "id_str": "1041363605709631494",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/media/DnOqrphXsAYtQZK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DnOqrphXsAYtQZK.jpg",
+            "sizes": {
+              "large": {
+                "h": 800,
+                "resize": "fit",
+                "w": 600
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IQQcBRHdSB"
+          },
+          {
+            "display_url": "pic.twitter.com/IQQcBRHdSB",
+            "expanded_url": "https://twitter.com/NCDOT_Scoast/status/1041363610390474757/photo/1",
+            "id": 1041363607198543873,
+            "id_str": "1041363607198543873",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/media/DnOqrvEWsAEQ5gb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DnOqrvEWsAEQ5gb.jpg",
+            "sizes": {
+              "large": {
+                "h": 800,
+                "resize": "fit",
+                "w": 620
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 620
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 527
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IQQcBRHdSB"
+          },
+          {
+            "display_url": "pic.twitter.com/IQQcBRHdSB",
+            "expanded_url": "https://twitter.com/NCDOT_Scoast/status/1041363610390474757/photo/1",
+            "id": 1041363608964354048,
+            "id_str": "1041363608964354048",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/media/DnOqr1pW0AAmKEw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DnOqr1pW0AAmKEw.jpg",
+            "sizes": {
+              "large": {
+                "h": 800,
+                "resize": "fit",
+                "w": 369
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 369
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/IQQcBRHdSB"
+          }
+        ]
+      },
+      "favorite_count": 194,
+      "favorited": false,
+      "full_text": "These are images from Jones County, where more than a dozen roads have been greatly impacted by flooding. This is the reason why we are urging people to stay off roads until water recedes and officials say it's safe to travel. #FlorenceNC https://t.co/IQQcBRHdSB",
+      "geo": null,
+      "id": 1041363610390474757,
+      "id_str": "1041363610390474757",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 141,
+      "retweeted": false,
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 20 13:04:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "NCDOT Traffic Updates for the Southern Coastal region",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tims.ncdot.gov/tims/RegionSum\u2026",
+                "expanded_url": "https://tims.ncdot.gov/tims/RegionSummary.aspx?re=9",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/iNshpx9Emw"
+              }
+            ]
+          }
+        },
+        "favourites_count": 14,
+        "follow_request_sent": false,
+        "followers_count": 2801,
+        "following": false,
+        "friends_count": 65,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 67308141,
+        "id_str": "67308141",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 98,
+        "location": "North Carolina",
+        "name": "NCDOT Southern Coast",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/372215754/scoast_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/372215754/scoast_normal.png",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NCDOT_Scoast",
+        "statuses_count": 55235,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/iNshpx9Emw",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1041363610390474757,
+    "quoted_status_id_str": "1041363610390474757",
+    "quoted_status_permalink": {
+      "display": "twitter.com/NCDOT_Scoast/s\u2026",
+      "expanded": "https://twitter.com/NCDOT_Scoast/status/1041363610390474757",
+      "url": "https://t.co/C7BwYgt0Wb"
+    },
+    "retweet_count": 2450,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 28 12:25:56 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter feed of the N.C. Department of Transportation.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ncdot.gov",
+              "expanded_url": "http://www.ncdot.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/VENII9yghK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3051,
+      "follow_request_sent": false,
+      "followers_count": 50210,
+      "following": false,
+      "friends_count": 3219,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 17019836,
+      "id_str": "17019836",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1088,
+      "location": "North Carolina",
+      "name": "NCDOT",
+      "notifications": false,
+      "profile_background_color": "DAE7E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17019836/1536680648",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/825004183417925633/_55-zMbf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/825004183417925633/_55-zMbf_normal.jpg",
+      "profile_link_color": "32768F",
+      "profile_sidebar_border_color": "F0A01F",
+      "profile_sidebar_fill_color": "D0E0F5",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NCDOT",
+      "statuses_count": 25363,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/VENII9yghK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54506072,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93702,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39003,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

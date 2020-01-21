@@ -1,0 +1,612 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 25 05:46:09 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25429371,
+        "id_str": "25429371",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Katrina Pierson",
+        "screen_name": "KatrinaPierson"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          40,
+          56
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KatrinaPierson: \u201cTrump 2020 baby!\u201d\n\n@realDonaldTrump will win in 2020, and he\u2019s going to do it with the help of millions of Black voter\u2026",
+  "geo": null,
+  "id": 1198840272936935424,
+  "id_str": "1198840272936935424",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1198600473663676416,
+  "quoted_status_id_str": "1198600473663676416",
+  "quoted_status_permalink": {
+    "display": "twitter.com/katrinapierson\u2026",
+    "expanded": "https://twitter.com/katrinapierson/status/1198600473663676416",
+    "url": "https://t.co/4bXrfW4jF2"
+  },
+  "retweet_count": 3838,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 24 13:56:54 +0000 2019",
+    "display_text_range": [
+      0,
+      165
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            136,
+            141
+          ],
+          "text": "woke"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/QCzuzXxBul",
+          "expanded_url": "https://twitter.com/KatrinaPierson/status/1198601389603205121/video/1",
+          "features": {},
+          "id": 1198601257189040130,
+          "id_str": "1198601257189040130",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198601257189040130/pu/img/Oq2xYx1QUaZ-3vYB.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198601257189040130/pu/img/Oq2xYx1QUaZ-3vYB.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/QCzuzXxBul"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/katrinapierson\u2026",
+          "expanded_url": "https://twitter.com/katrinapierson/status/1198600473663676416",
+          "indices": [
+            142,
+            165
+          ],
+          "url": "https://t.co/4bXrfW4jF2"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            20,
+            36
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 158414847,
+          "id_str": "158414847",
+          "indices": [
+            122,
+            135
+          ],
+          "name": "The Daily Show",
+          "screen_name": "TheDailyShow"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/QCzuzXxBul",
+          "expanded_url": "https://twitter.com/KatrinaPierson/status/1198601389603205121/video/1",
+          "features": {},
+          "id": 1198601257189040130,
+          "id_str": "1198601257189040130",
+          "indices": [
+            166,
+            189
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198601257189040130/pu/img/Oq2xYx1QUaZ-3vYB.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198601257189040130/pu/img/Oq2xYx1QUaZ-3vYB.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/QCzuzXxBul",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 24058,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1198601257189040130/pu/vid/640x360/1T204-BK6ppHBR9x.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1198601257189040130/pu/vid/1280x720/DGKkpSVSNzNA1Kt_.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1198601257189040130/pu/pl/_0r8XxYDP1Utrvki.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1198601257189040130/pu/vid/480x270/p2Sg0NWaQmfps78d.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12495,
+    "favorited": false,
+    "full_text": "\u201cTrump 2020 baby!\u201d\n\n@realDonaldTrump will win in 2020, and he\u2019s going to do it with the help of millions of Black voters! @TheDailyShow #woke https://t.co/4bXrfW4jF2 https://t.co/QCzuzXxBul",
+    "geo": null,
+    "id": 1198601389603205121,
+    "id_str": "1198601389603205121",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Nov 24 13:53:16 +0000 2019",
+      "display_text_range": [
+        0,
+        106
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              80,
+              85
+            ],
+            "text": "woke"
+          },
+          {
+            "indices": [
+              86,
+              106
+            ],
+            "text": "blackvoicesfortrump"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KsbSk9WiQK",
+            "expanded_url": "https://twitter.com/KatrinaPierson/status/1198600473663676416/video/1",
+            "features": {},
+            "id": 1198600373545717760,
+            "id_str": "1198600373545717760",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198600373545717760/pu/img/wSRqZrjyiQXab_Qj.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198600373545717760/pu/img/wSRqZrjyiQXab_Qj.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KsbSk9WiQK"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 158414847,
+            "id_str": "158414847",
+            "indices": [
+              42,
+              55
+            ],
+            "name": "The Daily Show",
+            "screen_name": "TheDailyShow"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/KsbSk9WiQK",
+            "expanded_url": "https://twitter.com/KatrinaPierson/status/1198600473663676416/video/1",
+            "features": {},
+            "id": 1198600373545717760,
+            "id_str": "1198600373545717760",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198600373545717760/pu/img/wSRqZrjyiQXab_Qj.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198600373545717760/pu/img/wSRqZrjyiQXab_Qj.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/KsbSk9WiQK",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 22055,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1198600373545717760/pu/vid/1280x720/ab1IA9jNRj6IpMgA.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1198600373545717760/pu/vid/480x270/FJplybZyNnKZX3Hk.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1198600373545717760/pu/vid/640x360/NCGo_nGz7xNVt0xb.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1198600373545717760/pu/pl/fxtJP6BKctFcIEyc.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 7070,
+      "favorited": false,
+      "full_text": "God bless Chris for speaking the truth on @TheDailyShow. He\u2019s absolutely right! #woke #blackvoicesfortrump https://t.co/KsbSk9WiQK",
+      "geo": null,
+      "id": 1198600473663676416,
+      "id_str": "1198600473663676416",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2483,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": false,
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 20 01:25:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sr. Advisor @TeamTrump 2020 - 2016 Campaign Spox @realDonaldTrump aka @POTUS #KAG2020\ud83c\uddfa\ud83c\uddf8 #woke",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "katrinapierson.com",
+                "expanded_url": "https://www.katrinapierson.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/pvs5wP8FBp"
+              }
+            ]
+          }
+        },
+        "favourites_count": 7085,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 529198,
+        "following": false,
+        "friends_count": 2294,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 25429371,
+        "id_str": "25429371",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3256,
+        "location": "Washington, DC",
+        "name": "Katrina Pierson",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25429371/1559870623",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1169235918609408000/fsstJK75_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169235918609408000/fsstJK75_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "191F22",
+        "profile_text_color": "4BB7DF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KatrinaPierson",
+        "statuses_count": 51498,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/pvs5wP8FBp",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1198600473663676416,
+    "quoted_status_id_str": "1198600473663676416",
+    "quoted_status_permalink": {
+      "display": "twitter.com/katrinapierson\u2026",
+      "expanded": "https://twitter.com/katrinapierson/status/1198600473663676416",
+      "url": "https://t.co/4bXrfW4jF2"
+    },
+    "retweet_count": 3838,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 20 01:25:06 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Sr. Advisor @TeamTrump 2020 - 2016 Campaign Spox @realDonaldTrump aka @POTUS #KAG2020\ud83c\uddfa\ud83c\uddf8 #woke",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "katrinapierson.com",
+              "expanded_url": "https://www.katrinapierson.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pvs5wP8FBp"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7085,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 529198,
+      "following": false,
+      "friends_count": 2294,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 25429371,
+      "id_str": "25429371",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3256,
+      "location": "Washington, DC",
+      "name": "Katrina Pierson",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25429371/1559870623",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1169235918609408000/fsstJK75_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169235918609408000/fsstJK75_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "191F22",
+      "profile_text_color": "4BB7DF",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KatrinaPierson",
+      "statuses_count": 51498,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pvs5wP8FBp",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67009030,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110871,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

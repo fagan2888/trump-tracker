@@ -1,0 +1,414 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 15 21:59:57 +0000 2019",
+  "display_text_range": [
+    0,
+    10
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/jim_jordan/sta\u2026",
+        "expanded_url": "https://twitter.com/jim_jordan/status/1205581534071271424",
+        "indices": [
+          11,
+          34
+        ],
+        "url": "https://t.co/NWaeaG1exu"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 35020,
+  "favorited": false,
+  "full_text": "Fake News! https://t.co/NWaeaG1exu",
+  "geo": null,
+  "id": 1206333098427846656,
+  "id_str": "1206333098427846656",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 13 20:13:31 +0000 2019",
+    "display_text_range": [
+      0,
+      259
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/T3wlal75Gc",
+          "expanded_url": "https://twitter.com/_WilliamsonBen/status/1205211760246087681/video/1",
+          "features": {},
+          "id": 1205211677911855106,
+          "id_str": "1205211677911855106",
+          "indices": [
+            236,
+            259
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205211677911855106/pu/img/vLiixr3wn3mWTzUe.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205211677911855106/pu/img/vLiixr3wn3mWTzUe.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1205211760246087681,
+          "source_status_id_str": "1205211760246087681",
+          "source_user_id": 445763068,
+          "source_user_id_str": "445763068",
+          "type": "photo",
+          "url": "https://t.co/T3wlal75Gc"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 963480595,
+          "id_str": "963480595",
+          "indices": [
+            129,
+            144
+          ],
+          "name": "Mark Meadows",
+          "screen_name": "RepMarkMeadows"
+        },
+        {
+          "id": 50325797,
+          "id_str": "50325797",
+          "indices": [
+            208,
+            218
+          ],
+          "name": "Chuck Todd",
+          "screen_name": "chucktodd"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Sat Dec 24 20:52:50 +0000 2011",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Communications Director for @RepMarkMeadows | North Carolina native",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/_williamsonben/",
+                      "expanded_url": "https://www.instagram.com/_williamsonben/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/9VB7gQF6f7"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 11376,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 2419,
+              "following": false,
+              "friends_count": 1618,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 445763068,
+              "id_str": "445763068",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 41,
+              "location": "Washington DC",
+              "name": "Ben Williamson",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/445763068/1564099392",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/999104037147443205/7nSo9gYr_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/999104037147443205/7nSo9gYr_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "_WilliamsonBen",
+              "statuses_count": 6100,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/9VB7gQF6f7",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/T3wlal75Gc",
+          "expanded_url": "https://twitter.com/_WilliamsonBen/status/1205211760246087681/video/1",
+          "features": {},
+          "id": 1205211677911855106,
+          "id_str": "1205211677911855106",
+          "indices": [
+            236,
+            259
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205211677911855106/pu/img/vLiixr3wn3mWTzUe.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205211677911855106/pu/img/vLiixr3wn3mWTzUe.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1205211760246087681,
+          "source_status_id_str": "1205211760246087681",
+          "source_user_id": 445763068,
+          "source_user_id_str": "445763068",
+          "type": "video",
+          "url": "https://t.co/T3wlal75Gc",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 68402,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205211677911855106/pu/vid/640x360/XXoIf-R5Rn6AU_Ek.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1205211677911855106/pu/pl/okfXhRIP-HcnmsME.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205211677911855106/pu/vid/1280x720/yStISp_3yvZH0W-V.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205211677911855106/pu/vid/480x270/Q8fCTNkiuSGNWTrz.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 61224,
+    "favorited": false,
+    "full_text": "Horowitz confirms Dossier was false, but the FBI misled the FISA court 17 times to get a warrant to spy on an American citizen.\n\n@RepMarkMeadows and I have been saying it for years. Watch this interview with @ChuckTodd from Feb. 2018.\n\nhttps://t.co/T3wlal75Gc",
+    "geo": null,
+    "id": 1205581534071271424,
+    "id_str": "1205581534071271424",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 22494,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 16 17:20:24 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Proudly serving Ohio's beautiful fourth district. Ranking Member on @GOPoversight. Fighting to #DoWhatWeSaid",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jordan.house.gov",
+              "expanded_url": "http://jordan.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wd2j7YpRZm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1563,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 981966,
+      "following": false,
+      "friends_count": 4348,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18166778,
+      "id_str": "18166778",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4507,
+      "location": "Washington, D.C. ",
+      "name": "Rep. Jim Jordan",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18166778/1406042839",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+      "profile_link_color": "4F90DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "BA0D1F",
+      "profile_text_color": "01050D",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Jim_Jordan",
+      "statuses_count": 3755,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wd2j7YpRZm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1205581534071271424,
+  "quoted_status_id_str": "1205581534071271424",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jim_jordan/sta\u2026",
+    "expanded": "https://twitter.com/jim_jordan/status/1205581534071271424",
+    "url": "https://t.co/NWaeaG1exu"
+  },
+  "retweet_count": 10555,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67589625,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111493,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47162,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

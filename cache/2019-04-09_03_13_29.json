@@ -1,0 +1,447 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Apr 09 03:13:29 +0000 2019",
+  "display_text_range": [
+    0,
+    91
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/cvpayne/status\u2026",
+        "expanded_url": "https://twitter.com/cvpayne/status/1115254119936286721",
+        "indices": [
+          68,
+          91
+        ],
+        "url": "https://t.co/GAezgi2RI5"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 729676086632656900,
+        "id_str": "729676086632656900",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Official Team Trump",
+        "screen_name": "TeamTrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          48,
+          64
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TeamTrump: BIGGER paychecks under President @realDonaldTrump! \ud83d\udcb0 https://t.co/GAezgi2RI5",
+  "geo": null,
+  "id": 1115452646591275014,
+  "id_str": "1115452646591275014",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1115254119936286721,
+  "quoted_status_id_str": "1115254119936286721",
+  "quoted_status_permalink": {
+    "display": "twitter.com/cvpayne/status\u2026",
+    "expanded": "https://twitter.com/cvpayne/status/1115254119936286721",
+    "url": "https://t.co/GAezgi2RI5"
+  },
+  "retweet_count": 3370,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 08 19:34:51 +0000 2019",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/cvpayne/status\u2026",
+          "expanded_url": "https://twitter.com/cvpayne/status/1115254119936286721",
+          "indices": [
+            53,
+            76
+          ],
+          "url": "https://t.co/GAezgi2RI5"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            33,
+            49
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 11988,
+    "favorited": false,
+    "full_text": "BIGGER paychecks under President @realDonaldTrump! \ud83d\udcb0 https://t.co/GAezgi2RI5",
+    "geo": null,
+    "id": 1115337228232929283,
+    "id_str": "1115337228232929283",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Apr 08 14:04:37 +0000 2019",
+      "display_text_range": [
+        17,
+        293
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              254,
+              271
+            ],
+            "text": "sharedprosperity"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XqelEfjGFp",
+            "expanded_url": "https://twitter.com/cvpayne/status/1115254119936286721/photo/1",
+            "id": 1115253533329297408,
+            "id_str": "1115253533329297408",
+            "indices": [
+              294,
+              317
+            ],
+            "media_url": "http://pbs.twimg.com/media/D3otLgCXkAAoTOU.png",
+            "media_url_https": "https://pbs.twimg.com/media/D3otLgCXkAAoTOU.png",
+            "sizes": {
+              "large": {
+                "h": 314,
+                "resize": "fit",
+                "w": 562
+              },
+              "medium": {
+                "h": 314,
+                "resize": "fit",
+                "w": 562
+              },
+              "small": {
+                "h": 314,
+                "resize": "fit",
+                "w": 562
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XqelEfjGFp"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 46681100,
+            "id_str": "46681100",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "Martha MacCallum",
+            "screen_name": "marthamaccallum"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XqelEfjGFp",
+            "expanded_url": "https://twitter.com/cvpayne/status/1115254119936286721/photo/1",
+            "id": 1115253533329297408,
+            "id_str": "1115253533329297408",
+            "indices": [
+              294,
+              317
+            ],
+            "media_url": "http://pbs.twimg.com/media/D3otLgCXkAAoTOU.png",
+            "media_url_https": "https://pbs.twimg.com/media/D3otLgCXkAAoTOU.png",
+            "sizes": {
+              "large": {
+                "h": 314,
+                "resize": "fit",
+                "w": 562
+              },
+              "medium": {
+                "h": 314,
+                "resize": "fit",
+                "w": 562
+              },
+              "small": {
+                "h": 314,
+                "resize": "fit",
+                "w": 562
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XqelEfjGFp"
+          }
+        ]
+      },
+      "favorite_count": 1557,
+      "favorited": false,
+      "full_text": "@marthamaccallum John Harwood knows better.  Creating 190,000 jobs at this stage of the economic cycle is mind boggling, something else the experts said was impossible.  Moreover, wages are soaring after being mediocre for a decade.  More important this #sharedprosperity cause by lower taxes. https://t.co/XqelEfjGFp",
+      "geo": null,
+      "id": 1115254119936286721,
+      "id_str": "1115254119936286721",
+      "in_reply_to_screen_name": "marthamaccallum",
+      "in_reply_to_status_id": 1114683516867043330,
+      "in_reply_to_status_id_str": "1114683516867043330",
+      "in_reply_to_user_id": 46681100,
+      "in_reply_to_user_id_str": "46681100",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 773,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 23 16:21:40 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Trying to make sense of this world while becoming the man my mother raised- I give a damn, love my family and country...and making people $$$$",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wstreet.com",
+                "expanded_url": "http://www.wstreet.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/hxcYA9YVjH"
+              }
+            ]
+          }
+        },
+        "favourites_count": 475,
+        "follow_request_sent": false,
+        "followers_count": 340084,
+        "following": false,
+        "friends_count": 15635,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 19400611,
+        "id_str": "19400611",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2092,
+        "location": "New Jersey & New York",
+        "name": "Charles V Payne",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469167577231413249/M94UBjHn_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469167577231413249/M94UBjHn_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cvpayne",
+        "statuses_count": 86616,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/hxcYA9YVjH",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1115254119936286721,
+    "quoted_status_id_str": "1115254119936286721",
+    "quoted_status_permalink": {
+      "display": "twitter.com/cvpayne/status\u2026",
+      "expanded": "https://twitter.com/cvpayne/status/1115254119936286721",
+      "url": "https://t.co/GAezgi2RI5"
+    },
+    "retweet_count": 3370,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 09 14:15:10 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Welcome To The Official #TeamTrump Account. Together, We WILL #MakeAmericaGreatAgain! #AmericaFirst",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hymxC9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2075,
+      "follow_request_sent": false,
+      "followers_count": 990304,
+      "following": false,
+      "friends_count": 37,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 729676086632656900,
+      "id_str": "729676086632656900",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 2553,
+      "location": "USA",
+      "name": "Official Team Trump",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1515418172",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TeamTrump",
+      "statuses_count": 11662,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hymxC9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59600893,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101713,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41172,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

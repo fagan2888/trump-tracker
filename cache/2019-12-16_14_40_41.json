@@ -1,0 +1,374 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Dec 16 14:40:41 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818948638890217473,
+        "id_str": "818948638890217473",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Rep. Matt Gaetz",
+        "screen_name": "RepMattGaetz"
+      },
+      {
+        "id": 29501253,
+        "id_str": "29501253",
+        "indices": [
+          93,
+          107
+        ],
+        "name": "Adam Schiff",
+        "screen_name": "RepAdamSchiff"
+      },
+      {
+        "id": 40302336,
+        "id_str": "40302336",
+        "indices": [
+          109,
+          124
+        ],
+        "name": "(((Rep. Nadler)))",
+        "screen_name": "RepJerryNadler"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepMattGaetz: This is an impeachment with no crime and with no direct evidence.\n\nWhy are @RepAdamSchiff, @RepJerryNadler, and @SpeakerP\u2026",
+  "geo": null,
+  "id": 1206584941145985024,
+  "id_str": "1206584941145985024",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11072,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 15 22:57:32 +0000 2019",
+    "display_text_range": [
+      0,
+      271
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PkPkKST76I",
+          "expanded_url": "https://twitter.com/RepMattGaetz/status/1206347586602459136/video/1",
+          "features": {},
+          "id": 1206344308422524930,
+          "id_str": "1206344308422524930",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EL3NJfgXkAEB74h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EL3NJfgXkAEB74h.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PkPkKST76I"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 29501253,
+          "id_str": "29501253",
+          "indices": [
+            75,
+            89
+          ],
+          "name": "Adam Schiff",
+          "screen_name": "RepAdamSchiff"
+        },
+        {
+          "id": 40302336,
+          "id_str": "40302336",
+          "indices": [
+            91,
+            106
+          ],
+          "name": "(((Rep. Nadler)))",
+          "screen_name": "RepJerryNadler"
+        },
+        {
+          "id": 15764644,
+          "id_str": "15764644",
+          "indices": [
+            112,
+            126
+          ],
+          "name": "Nancy Pelosi",
+          "screen_name": "SpeakerPelosi"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "watch_now": {
+                "url": "https://youtu.be/AtTW8fYUKCs"
+              }
+            },
+            "description": "Every Republican will vote against this impeachment. ",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Impeachment with No Crime"
+          },
+          "display_url": "pic.twitter.com/PkPkKST76I",
+          "expanded_url": "https://twitter.com/RepMattGaetz/status/1206347586602459136/video/1",
+          "features": {},
+          "id": 1206344308422524930,
+          "id_str": "1206344308422524930",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EL3NJfgXkAEB74h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EL3NJfgXkAEB74h.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/PkPkKST76I",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 59326,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1206344308422524930/pl/Z_miOZ6DxhvpoQeH.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1206344308422524930/vid/640x360/gRIVBnQw-IanxDz2.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1206344308422524930/vid/480x270/G1xtiQjLMi4VufUT.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1206344308422524930/vid/1280x720/-kA-ShU8JSDO0-0j.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 33066,
+    "favorited": false,
+    "full_text": "This is an impeachment with no crime and with no direct evidence.\n\nWhy are @RepAdamSchiff, @RepJerryNadler, and @SpeakerPelosi getting off the hook when they said impeachment had to be bipartisan and that there had to be compelling evidence? This impeachment has neither. https://t.co/PkPkKST76I",
+    "geo": null,
+    "id": 1206347586602459136,
+    "id_str": "1206347586602459136",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11072,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 22:32:25 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Gaetz.house.gov",
+              "expanded_url": "http://Gaetz.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GcjK1dZCtR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 559,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 530287,
+      "following": false,
+      "friends_count": 914,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 818948638890217473,
+      "id_str": "818948638890217473",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2015,
+      "location": "",
+      "name": "Rep. Matt Gaetz",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818948638890217473/1546465602",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080559825946374144/n1tU4WLx_normal.jpg",
+      "profile_link_color": "BB1A2A",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RepMattGaetz",
+      "statuses_count": 4760,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/GcjK1dZCtR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67609789,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111513,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47210,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

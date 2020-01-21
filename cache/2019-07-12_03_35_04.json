@@ -1,0 +1,455 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 12 03:35:04 +0000 2019",
+  "display_text_range": [
+    0,
+    51
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          14,
+          27
+        ],
+        "text": "PromisesKept"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/trumpwarroom/s\u2026",
+        "expanded_url": "https://twitter.com/trumpwarroom/status/1149477240289165313",
+        "indices": [
+          28,
+          51
+        ],
+        "url": "https://t.co/D1Sxb8MlV0"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 17685258,
+        "id_str": "17685258",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Brad Parscale",
+        "screen_name": "parscale"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @parscale: #PromisesKept https://t.co/D1Sxb8MlV0",
+  "geo": null,
+  "id": 1149522538784935936,
+  "id_str": "1149522538784935936",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1149477240289165313,
+  "quoted_status_id_str": "1149477240289165313",
+  "quoted_status_permalink": {
+    "display": "twitter.com/trumpwarroom/s\u2026",
+    "expanded": "https://twitter.com/trumpwarroom/status/1149477240289165313",
+    "url": "https://t.co/D1Sxb8MlV0"
+  },
+  "retweet_count": 3421,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 12 01:12:22 +0000 2019",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "text": "PromisesKept"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/trumpwarroom/s\u2026",
+          "expanded_url": "https://twitter.com/trumpwarroom/status/1149477240289165313",
+          "indices": [
+            14,
+            37
+          ],
+          "url": "https://t.co/D1Sxb8MlV0"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 12049,
+    "favorited": false,
+    "full_text": "#PromisesKept https://t.co/D1Sxb8MlV0",
+    "geo": null,
+    "id": 1149486626617249793,
+    "id_str": "1149486626617249793",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jul 12 00:35:04 +0000 2019",
+      "display_text_range": [
+        0,
+        138
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9j5sCypFMt",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1149477240289165313/video/1",
+            "id": 1149477058797432832,
+            "id_str": "1149477058797432832",
+            "indices": [
+              139,
+              162
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149477058797432832/pu/img/7I9eVdikQCs8waNG.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149477058797432832/pu/img/7I9eVdikQCs8waNG.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9j5sCypFMt"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/9j5sCypFMt",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1149477240289165313/video/1",
+            "id": 1149477058797432832,
+            "id_str": "1149477058797432832",
+            "indices": [
+              139,
+              162
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149477058797432832/pu/img/7I9eVdikQCs8waNG.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149477058797432832/pu/img/7I9eVdikQCs8waNG.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/9j5sCypFMt",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 24045,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1149477058797432832/pu/vid/1280x720/qSqpy2keohZUcMaU.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1149477058797432832/pu/vid/640x360/MON3a3oxz_1Ez5IH.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1149477058797432832/pu/vid/480x270/7s3l79ouMNLyyX28.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1149477058797432832/pu/pl/XEXapWtLpXCgbaRk.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 3833,
+      "favorited": false,
+      "full_text": "\u201cHundreds of jobs in eastern Pennsylvania have been saved thanks to a personal request from President Trump,\u201d ABC News Harrisburg reports. https://t.co/9j5sCypFMt",
+      "geo": null,
+      "id": 1149477240289165313,
+      "id_str": "1149477240289165313",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1362,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "donaldjtrump.com",
+                "expanded_url": "https://www.donaldjtrump.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mVHOxzYUNT"
+              }
+            ]
+          }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 198646,
+        "following": false,
+        "friends_count": 102,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1108472017144201216,
+        "id_str": "1108472017144201216",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 805,
+        "location": "MAGA Country",
+        "name": "Trump War Room",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1553284832",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TrumpWarRoom",
+        "statuses_count": 1295,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mVHOxzYUNT",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1149477240289165313,
+    "quoted_status_id_str": "1149477240289165313",
+    "quoted_status_permalink": {
+      "display": "twitter.com/trumpwarroom/s\u2026",
+      "expanded": "https://twitter.com/trumpwarroom/status/1149477240289165313",
+      "url": "https://t.co/D1Sxb8MlV0"
+    },
+    "retweet_count": 3421,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Nov 27 18:47:32 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Campaign Manager for @realdonaldtrump 2020 Presidential Campaign. It\u2019s pronounced \u201cPar\u201d - \u201cScale\u201d. I have the world\u2019s best boss!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com/get-involved/",
+              "expanded_url": "http://www.donaldjtrump.com/get-involved/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/tCuRLgA6VU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 834,
+      "follow_request_sent": false,
+      "followers_count": 308597,
+      "following": false,
+      "friends_count": 468,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 17685258,
+      "id_str": "17685258",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2121,
+      "location": "Washington, DC",
+      "name": "Brad Parscale",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17685258/1541960596",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1056687491422543873/ofDprGIw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056687491422543873/ofDprGIw_normal.jpg",
+      "profile_link_color": "AB2316",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "parscale",
+      "statuses_count": 3851,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/tCuRLgA6VU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61854768,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105163,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42825,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

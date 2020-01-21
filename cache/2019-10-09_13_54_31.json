@@ -1,0 +1,447 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 09 13:54:31 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: It\u2019s good that this partisan hit job is coming to light but based on the bullshit of the last 3 years did anyone really\u2026",
+  "geo": null,
+  "id": 1181930944917377024,
+  "id_str": "1181930944917377024",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1181682375425712128,
+  "quoted_status_id_str": "1181682375425712128",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jessebwatters/\u2026",
+    "expanded": "https://twitter.com/jessebwatters/status/1181682375425712128",
+    "url": "https://t.co/sPqx3kjiU1"
+  },
+  "retweet_count": 10782,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 09 13:09:34 +0000 2019",
+    "display_text_range": [
+      0,
+      158
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/jessebwatters/\u2026",
+          "expanded_url": "https://twitter.com/jessebwatters/status/1181682375425712128",
+          "indices": [
+            159,
+            182
+          ],
+          "url": "https://t.co/sPqx3kjiU1"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 36035,
+    "favorited": false,
+    "full_text": "It\u2019s good that this partisan hit job is coming to light but based on the bullshit of the last 3 years did anyone really not see this coming from moment one??? https://t.co/sPqx3kjiU1",
+    "geo": null,
+    "id": 1181919634716549120,
+    "id_str": "1181919634716549120",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Oct 08 21:26:47 +0000 2019",
+      "display_text_range": [
+        0,
+        198
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              190,
+              198
+            ],
+            "text": "TheFive"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9DElexEsJ8",
+            "expanded_url": "https://twitter.com/JesseBWatters/status/1181682375425712128/video/1",
+            "id": 1181682180600336385,
+            "id_str": "1181682180600336385",
+            "indices": [
+              199,
+              222
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1181682180600336385/pu/img/16ln9QQecKQbTaOk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1181682180600336385/pu/img/16ln9QQecKQbTaOk.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9DElexEsJ8"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              164,
+              180
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/9DElexEsJ8",
+            "expanded_url": "https://twitter.com/JesseBWatters/status/1181682375425712128/video/1",
+            "id": 1181682180600336385,
+            "id_str": "1181682180600336385",
+            "indices": [
+              199,
+              222
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1181682180600336385/pu/img/16ln9QQecKQbTaOk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1181682180600336385/pu/img/16ln9QQecKQbTaOk.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/9DElexEsJ8",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 62441,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1181682180600336385/pu/vid/1280x720/YNAapY3P1p50j7cM.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1181682180600336385/pu/vid/480x270/0R7FCP9NMmsNi5ti.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1181682180600336385/pu/vid/640x360/vpWCLROocJHMRq2y.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1181682180600336385/pu/pl/7re8VDma3JSZk8Ql.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 21548,
+      "favorited": false,
+      "full_text": "\u201cThe actual whistleblower himself, not only is he a registered Democrat, but he has a professional relationship with one of the democrats running against President @realdonaldtrump in 2020\u201d #TheFive https://t.co/9DElexEsJ8",
+      "geo": null,
+      "id": 1181682375425712128,
+      "id_str": "1181682375425712128",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 7830,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 14 01:23:16 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Co-Host of @TheFive & Host of @WattersWorld on Fox News Channel. Speaking engagements with Premiere.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/jessewatters/",
+                "expanded_url": "https://www.instagram.com/jessewatters/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rlbjtqJwnw"
+              }
+            ]
+          }
+        },
+        "favourites_count": 15468,
+        "follow_request_sent": false,
+        "followers_count": 983655,
+        "following": false,
+        "friends_count": 1057,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 56561449,
+        "id_str": "56561449",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2684,
+        "location": "",
+        "name": "Jesse Watters",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56561449/1455042293",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/697123861163192320/6ra0cPIS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/697123861163192320/6ra0cPIS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JesseBWatters",
+        "statuses_count": 10784,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/rlbjtqJwnw",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1181682375425712128,
+    "quoted_status_id_str": "1181682375425712128",
+    "quoted_status_permalink": {
+      "display": "twitter.com/jessebwatters/\u2026",
+      "expanded": "https://twitter.com/jessebwatters/status/1181682375425712128",
+      "url": "https://t.co/sPqx3kjiU1"
+    },
+    "retweet_count": 10782,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "centerstreet.com/titles/donald-\u2026",
+              "expanded_url": "https://www.centerstreet.com/titles/donald-trump-jr/triggered/9781546086031/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/p0wYduKA0W"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13058,
+      "follow_request_sent": false,
+      "followers_count": 3919758,
+      "following": false,
+      "friends_count": 1355,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11238,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1471620140",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 30258,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/p0wYduKA0W",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65561392,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109714,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45067,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

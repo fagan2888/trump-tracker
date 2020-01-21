@@ -1,0 +1,230 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 27 22:07:50 +0000 2018",
+  "display_text_range": [
+    0,
+    150
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ZU5MovNKt8",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1034200842868383744/video/1",
+        "id": 1034200698483879936,
+        "id_str": "1034200698483879936",
+        "indices": [
+          151,
+          174
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1034200698483879936/pu/img/fs-Bp7FrVNyo2XW7.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1034200698483879936/pu/img/fs-Bp7FrVNyo2XW7.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/ZU5MovNKt8"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818876014390603776,
+        "id_str": "818876014390603776",
+        "indices": [
+          1,
+          8
+        ],
+        "name": "Melania Trump",
+        "screen_name": "FLOTUS"
+      },
+      {
+        "id": 183165874,
+        "id_str": "183165874",
+        "indices": [
+          87,
+          97
+        ],
+        "name": "Uhuru Kenyatta",
+        "screen_name": "UKenyatta"
+      },
+      {
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "indices": [
+          132,
+          143
+        ],
+        "name": "The White House",
+        "screen_name": "WhiteHouse"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/ZU5MovNKt8",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1034200842868383744/video/1",
+        "id": 1034200698483879936,
+        "id_str": "1034200698483879936",
+        "indices": [
+          151,
+          174
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1034200698483879936/pu/img/fs-Bp7FrVNyo2XW7.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1034200698483879936/pu/img/fs-Bp7FrVNyo2XW7.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/ZU5MovNKt8",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 29436,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1034200698483879936/pu/vid/640x360/4h1Hemtq_uWztfW6.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1034200698483879936/pu/pl/cWrF_39Ert3hgVMo.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1034200698483879936/pu/vid/320x180/R7P2Ae6-tT3UvMk4.mp4?tag=5"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 43297,
+  "favorited": false,
+  "full_text": ".@FLOTUS Melania and I were honored to welcome the President of the Republic of Kenya, @UKenyatta and Mrs. Margaret Kenyatta to the @WhiteHouse today! https://t.co/ZU5MovNKt8",
+  "geo": null,
+  "id": 1034200842868383744,
+  "id_str": "1034200842868383744",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 10580,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54062872,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 92621,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1531968290",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38700,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

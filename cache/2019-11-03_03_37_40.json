@@ -1,0 +1,614 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 03 03:37:40 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: Despite the bullshit from blue checkmark Twitter, when we walked into the arena it was overwhelmingly positive. @danawh\u2026",
+  "geo": null,
+  "id": 1190835407908409345,
+  "id_str": "1190835407908409345",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1190822461140619264,
+  "quoted_status_id_str": "1190822461140619264",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nypost/status/\u2026",
+    "expanded": "https://twitter.com/nypost/status/1190822461140619264",
+    "url": "https://t.co/62dAdDimGD"
+  },
+  "retweet_count": 7972,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 03 03:31:02 +0000 2019",
+    "display_text_range": [
+      0,
+      205
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/nypost/status/\u2026",
+          "expanded_url": "https://twitter.com/nypost/status/1190822461140619264",
+          "indices": [
+            206,
+            229
+          ],
+          "url": "https://t.co/62dAdDimGD"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 21586418,
+          "id_str": "21586418",
+          "indices": [
+            112,
+            122
+          ],
+          "name": "Dana White",
+          "screen_name": "danawhite"
+        },
+        {
+          "id": 6446742,
+          "id_str": "6446742",
+          "indices": [
+            201,
+            205
+          ],
+          "name": "UFC",
+          "screen_name": "ufc"
+        }
+      ]
+    },
+    "favorite_count": 28837,
+    "favorited": false,
+    "full_text": "Despite the bullshit from blue checkmark Twitter, when we walked into the arena it was overwhelmingly positive. @danawhite said it was the most electrifying entrance he seen in 25 years of doing this. @ufc https://t.co/62dAdDimGD",
+    "geo": null,
+    "id": 1190833738676129792,
+    "id_str": "1190833738676129792",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Nov 03 02:46:13 +0000 2019",
+      "display_text_range": [
+        0,
+        85
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qfCQQjs1eK",
+            "expanded_url": "https://twitter.com/nypost/status/1190822461140619264/photo/1",
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 39,
+                    "w": 39,
+                    "x": 562,
+                    "y": 232
+                  },
+                  {
+                    "h": 57,
+                    "w": 57,
+                    "x": 595,
+                    "y": 230
+                  },
+                  {
+                    "h": 62,
+                    "w": 62,
+                    "x": 522,
+                    "y": 569
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "h": 39,
+                    "w": 39,
+                    "x": 562,
+                    "y": 232
+                  },
+                  {
+                    "h": 57,
+                    "w": 57,
+                    "x": 595,
+                    "y": 230
+                  },
+                  {
+                    "h": 62,
+                    "w": 62,
+                    "x": 522,
+                    "y": 569
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 39,
+                    "w": 39,
+                    "x": 562,
+                    "y": 232
+                  },
+                  {
+                    "h": 57,
+                    "w": 57,
+                    "x": 595,
+                    "y": 230
+                  },
+                  {
+                    "h": 62,
+                    "w": 62,
+                    "x": 522,
+                    "y": 569
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "h": 22,
+                    "w": 22,
+                    "x": 318,
+                    "y": 131
+                  },
+                  {
+                    "h": 32,
+                    "w": 32,
+                    "x": 337,
+                    "y": 130
+                  },
+                  {
+                    "h": 35,
+                    "w": 35,
+                    "x": 295,
+                    "y": 322
+                  }
+                ]
+              }
+            },
+            "id": 1190822458544328704,
+            "id_str": "1190822458544328704",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/EIamt4AXkAA6Z94.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EIamt4AXkAA6Z94.jpg",
+            "sizes": {
+              "large": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qfCQQjs1eK"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "trib.al/PWwWUxl",
+            "expanded_url": "https://trib.al/PWwWUxl",
+            "indices": [
+              62,
+              85
+            ],
+            "url": "https://t.co/prWFvWFbSN"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qfCQQjs1eK",
+            "expanded_url": "https://twitter.com/nypost/status/1190822461140619264/photo/1",
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 39,
+                    "w": 39,
+                    "x": 562,
+                    "y": 232
+                  },
+                  {
+                    "h": 57,
+                    "w": 57,
+                    "x": 595,
+                    "y": 230
+                  },
+                  {
+                    "h": 62,
+                    "w": 62,
+                    "x": 522,
+                    "y": 569
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "h": 39,
+                    "w": 39,
+                    "x": 562,
+                    "y": 232
+                  },
+                  {
+                    "h": 57,
+                    "w": 57,
+                    "x": 595,
+                    "y": 230
+                  },
+                  {
+                    "h": 62,
+                    "w": 62,
+                    "x": 522,
+                    "y": 569
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 39,
+                    "w": 39,
+                    "x": 562,
+                    "y": 232
+                  },
+                  {
+                    "h": 57,
+                    "w": 57,
+                    "x": 595,
+                    "y": 230
+                  },
+                  {
+                    "h": 62,
+                    "w": 62,
+                    "x": 522,
+                    "y": 569
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "h": 22,
+                    "w": 22,
+                    "x": 318,
+                    "y": 131
+                  },
+                  {
+                    "h": 32,
+                    "w": 32,
+                    "x": 337,
+                    "y": 130
+                  },
+                  {
+                    "h": 35,
+                    "w": 35,
+                    "x": 295,
+                    "y": 322
+                  }
+                ]
+              }
+            },
+            "id": 1190822458544328704,
+            "id_str": "1190822458544328704",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/EIamt4AXkAA6Z94.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EIamt4AXkAA6Z94.jpg",
+            "sizes": {
+              "large": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qfCQQjs1eK"
+          }
+        ]
+      },
+      "favorite_count": 2543,
+      "favorited": false,
+      "full_text": "More cheers than boos greet President Trump at UFC 244 at MSG https://t.co/prWFvWFbSN https://t.co/qfCQQjs1eK",
+      "geo": null,
+      "id": 1190822461140619264,
+      "id_str": "1190822461140619264",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 818,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 18 19:46:36 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Breaking news & features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nypost.com",
+                "expanded_url": "http://www.nypost.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/MwyanWdKnl"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2031,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 1513580,
+        "following": false,
+        "friends_count": 11745,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17469289,
+        "id_str": "17469289",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 18702,
+        "location": "New York, NY",
+        "name": "New York Post",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17469289/1444326181",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+        "profile_link_color": "CC3333",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nypost",
+        "statuses_count": 271938,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/MwyanWdKnl",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1190822461140619264,
+    "quoted_status_id_str": "1190822461140619264",
+    "quoted_status_permalink": {
+      "display": "twitter.com/nypost/status/\u2026",
+      "expanded": "https://twitter.com/nypost/status/1190822461140619264",
+      "url": "https://t.co/62dAdDimGD"
+    },
+    "retweet_count": 7972,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/Triggered-Left\u2026",
+              "expanded_url": "https://www.amazon.com/Triggered-Left-Thrives-Wants-Silence/dp/154608603X/ref=pd_sbs_14_2/144-799836",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bE07ztLMS5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13663,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 3991046,
+      "following": false,
+      "friends_count": 1366,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11337,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1571423068",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 30700,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/bE07ztLMS5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66488068,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110397,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45762,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

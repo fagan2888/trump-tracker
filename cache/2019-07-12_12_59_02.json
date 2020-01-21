@@ -1,0 +1,324 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 12 12:59:02 +0000 2019",
+  "display_text_range": [
+    0,
+    137
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          17,
+          23
+        ],
+        "text": "ICYMI"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: #ICYMI: We announced 14 NEW innovative activities in 22 countries impacting 100,000+ women along w/ the private sector.\u2026",
+  "geo": null,
+  "id": 1149664461780684800,
+  "id_str": "1149664461780684800",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5214,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 12 12:52:06 +0000 2019",
+    "display_text_range": [
+      0,
+      272
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "ICYMI"
+        },
+        {
+          "indices": [
+            267,
+            272
+          ],
+          "text": "WGDP"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wWxyb7B0T8",
+          "expanded_url": "https://twitter.com/IvankaTrump/status/1149662719722659843/photo/1",
+          "id": 1149662705420124162,
+          "id_str": "1149662705420124162",
+          "indices": [
+            273,
+            296
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_RsI7AUwAIs30V.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_RsI7AUwAIs30V.jpg",
+          "sizes": {
+            "large": {
+              "h": 959,
+              "resize": "fit",
+              "w": 1440
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wWxyb7B0T8"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wWxyb7B0T8",
+          "expanded_url": "https://twitter.com/IvankaTrump/status/1149662719722659843/photo/1",
+          "id": 1149662705420124162,
+          "id_str": "1149662705420124162",
+          "indices": [
+            273,
+            296
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_RsI7AUwAIs30V.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_RsI7AUwAIs30V.jpg",
+          "sizes": {
+            "large": {
+              "h": 959,
+              "resize": "fit",
+              "w": 1440
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wWxyb7B0T8"
+        },
+        {
+          "display_url": "pic.twitter.com/wWxyb7B0T8",
+          "expanded_url": "https://twitter.com/IvankaTrump/status/1149662719722659843/photo/1",
+          "id": 1149662705411747843,
+          "id_str": "1149662705411747843",
+          "indices": [
+            273,
+            296
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_RsI6-U8AMe6Wf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_RsI6-U8AMe6Wf.jpg",
+          "sizes": {
+            "large": {
+              "h": 1258,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 737,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 418,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wWxyb7B0T8"
+        }
+      ]
+    },
+    "favorite_count": 16476,
+    "favorited": false,
+    "full_text": "#ICYMI: We announced 14 NEW innovative activities in 22 countries impacting 100,000+ women along w/ the private sector. \n\nThrough WGDP\u2019s 3 core pillars we are committed to delivering real results that create transformational change for women in developing countries.\n#WGDP https://t.co/wWxyb7B0T8",
+    "geo": null,
+    "id": 1149662719722659843,
+    "id_str": "1149662719722659843",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5214,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1933,
+      "follow_request_sent": false,
+      "followers_count": 6653305,
+      "following": false,
+      "friends_count": 1400,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 21209,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 15653,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 61882786,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105181,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42870,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

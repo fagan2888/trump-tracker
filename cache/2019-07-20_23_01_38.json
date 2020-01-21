@@ -1,0 +1,345 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 20 23:01:38 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          51,
+          65
+        ],
+        "text": "WomenForTrump"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 478855762,
+        "id_str": "478855762",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Jessie Jane Duff",
+        "screen_name": "JessieJaneDuff"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          95,
+          111
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JessieJaneDuff: Meet 'The REAL Squad'.\n\nWe are #WomenForTrump.\n\nWomen stand with President @realDonaldTrump and nothing will stop @Team\u2026",
+  "geo": null,
+  "id": 1152715216800505857,
+  "id_str": "1152715216800505857",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6589,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 19 18:11:31 +0000 2019",
+    "display_text_range": [
+      0,
+      237
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            31,
+            45
+          ],
+          "text": "WomenForTrump"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bNooaXF8R0",
+          "expanded_url": "https://twitter.com/JessieJaneDuff/status/1152279816294547456/photo/1",
+          "id": 1152279802486951936,
+          "id_str": "1152279802486951936",
+          "indices": [
+            238,
+            261
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_24YBUXkAA6_LL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_24YBUXkAA6_LL.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 1229
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1152
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 653
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bNooaXF8R0"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "Women.DonaldJTrump.com",
+          "expanded_url": "http://Women.DonaldJTrump.com",
+          "indices": [
+            214,
+            237
+          ],
+          "url": "https://t.co/HST4N3apUl"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            75,
+            91
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 729676086632656900,
+          "id_str": "729676086632656900",
+          "indices": [
+            114,
+            124
+          ],
+          "name": "Team Trump",
+          "screen_name": "TeamTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bNooaXF8R0",
+          "expanded_url": "https://twitter.com/JessieJaneDuff/status/1152279816294547456/photo/1",
+          "id": 1152279802486951936,
+          "id_str": "1152279802486951936",
+          "indices": [
+            238,
+            261
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_24YBUXkAA6_LL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_24YBUXkAA6_LL.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 1229
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1152
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 653
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bNooaXF8R0"
+        }
+      ]
+    },
+    "favorite_count": 19870,
+    "favorited": false,
+    "full_text": "Meet 'The REAL Squad'.\n\nWe are #WomenForTrump.\n\nWomen stand with President @realDonaldTrump and nothing will stop @TeamTrump from winning again.\n\nAnd Democrats can NEVER tell us otherwise.\n\nSign up to help us here\u300bhttps://t.co/HST4N3apUl https://t.co/bNooaXF8R0",
+    "geo": null,
+    "id": 1152279816294547456,
+    "id_str": "1152279816294547456",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6589,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 30 18:53:52 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Gunnery Sergeant, U.S. Marine Corps retired | Trump Campaign Advisory Board | Senior Fellow London Center for Policy Research | https://t.co/lIZjhoZysA",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Women.DonaldJTrump.com",
+              "expanded_url": "http://Women.DonaldJTrump.com",
+              "indices": [
+                128,
+                151
+              ],
+              "url": "https://t.co/lIZjhoZysA"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JessieJaneDuff.com",
+              "expanded_url": "http://JessieJaneDuff.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/lQxy1NXQBk"
+            }
+          ]
+        }
+      },
+      "favourites_count": 123045,
+      "follow_request_sent": false,
+      "followers_count": 194158,
+      "following": false,
+      "friends_count": 59295,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 478855762,
+      "id_str": "478855762",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1488,
+      "location": "Washington, DC",
+      "name": "Jessie Jane Duff",
+      "notifications": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/478855762/1469749935",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1109987879642718208/f55OXTMP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109987879642718208/f55OXTMP_normal.jpg",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "DBE9ED",
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JessieJaneDuff",
+      "statuses_count": 98806,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/lQxy1NXQBk",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62143369,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105505,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43040,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

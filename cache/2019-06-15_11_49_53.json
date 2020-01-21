@@ -1,0 +1,449 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jun 15 11:49:53 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: As the worst Mayor in the history of New York City manages his bucket list in Iowa \u2014 he also remains steady at ZERO PERCENT\u2026",
+  "geo": null,
+  "id": 1139862587963858944,
+  "id_str": "1139862587963858944",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1137465947512590336,
+  "quoted_status_id_str": "1137465947512590336",
+  "quoted_status_permalink": {
+    "display": "twitter.com/billdeblasio/s\u2026",
+    "expanded": "https://twitter.com/billdeblasio/status/1137465947512590336",
+    "url": "https://t.co/K5HGvaoufR"
+  },
+  "retweet_count": 4510,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 09 17:49:07 +0000 2019",
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/billdeblasio/s\u2026",
+          "expanded_url": "https://twitter.com/billdeblasio/status/1137465947512590336",
+          "indices": [
+            210,
+            233
+          ],
+          "url": "https://t.co/K5HGvaoufR"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 13657922,
+          "id_str": "13657922",
+          "indices": [
+            138,
+            149
+          ],
+          "name": "Des Moines Register",
+          "screen_name": "DMRegister"
+        },
+        {
+          "id": 117096653,
+          "id_str": "117096653",
+          "indices": [
+            161,
+            168
+          ],
+          "name": "NYC PBA",
+          "screen_name": "NYCPBA"
+        }
+      ]
+    },
+    "favorite_count": 15567,
+    "favorited": false,
+    "full_text": "As the worst Mayor in the history of New York City manages his bucket list in Iowa \u2014 he also remains steady at ZERO PERCENT in a new Iowa @DMRegister poll. Sad! @NYCPBA is right - he is a total embarrassment!! https://t.co/K5HGvaoufR",
+    "geo": null,
+    "id": 1137778666644135936,
+    "id_str": "1137778666644135936",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Jun 08 21:06:29 +0000 2019",
+      "display_text_range": [
+        0,
+        100
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TJxITpQEDq",
+            "expanded_url": "https://twitter.com/BilldeBlasio/status/1137465947512590336/photo/1",
+            "id": 1137465893397684225,
+            "id_str": "1137465893397684225",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/D8kXNBgXYAE_-I9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8kXNBgXYAE_-I9.jpg",
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TJxITpQEDq"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 3287075162,
+            "id_str": "3287075162",
+            "indices": [
+              75,
+              85
+            ],
+            "name": "Story County Democrats of Iowa",
+            "screen_name": "StoryDems"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TJxITpQEDq",
+            "expanded_url": "https://twitter.com/BilldeBlasio/status/1137465947512590336/photo/1",
+            "id": 1137465893397684225,
+            "id_str": "1137465893397684225",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/D8kXNBgXYAE_-I9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8kXNBgXYAE_-I9.jpg",
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TJxITpQEDq"
+          }
+        ]
+      },
+      "favorite_count": 66,
+      "favorited": false,
+      "full_text": "I crossed speaking in a big tent on the prairie off my bucket list. Thanks @StoryDems for having me! https://t.co/TJxITpQEDq",
+      "geo": null,
+      "id": 1137465947512590336,
+      "id_str": "1137465947512590336",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": {
+        "attributes": {},
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -93.66664409637451,
+                42.0791137083561
+              ],
+              [
+                -93.66664409637451,
+                42.0791137083561
+              ],
+              [
+                -93.66664409637451,
+                42.0791137083561
+              ],
+              [
+                -93.66664409637451,
+                42.0791137083561
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "",
+        "country_code": "",
+        "full_name": "Alluvial Brewing Company",
+        "id": "07d9f31c47486001",
+        "name": "Alluvial Brewing Company",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9f31c47486001.json"
+      },
+      "possibly_sensitive": false,
+      "retweet_count": 21,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 27 21:35:21 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mayor of New York City and candidate for president. Fighting for working people, no matter how much money you make or where you live. Ads by de Blasio 2020.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "billdeblasio.com",
+                "expanded_url": "http://billdeblasio.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/2LvCb3Fm6C"
+              }
+            ]
+          }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 156523,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 476193064,
+        "id_str": "476193064",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2176,
+        "location": "New York, NY",
+        "name": "Bill de Blasio",
+        "notifications": false,
+        "profile_background_color": "6698FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/476193064/1558028818",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129060882678312961/jNBAnDqG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129060882678312961/jNBAnDqG_normal.png",
+        "profile_link_color": "800517",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BilldeBlasio",
+        "statuses_count": 1371,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/2LvCb3Fm6C",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1137465947512590336,
+    "quoted_status_id_str": "1137465947512590336",
+    "quoted_status_permalink": {
+      "display": "twitter.com/billdeblasio/s\u2026",
+      "expanded": "https://twitter.com/billdeblasio/status/1137465947512590336",
+      "url": "https://t.co/K5HGvaoufR"
+    },
+    "retweet_count": 4510,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "PERSONAL TWITTER HANDLE.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2937,
+      "follow_request_sent": false,
+      "followers_count": 532556,
+      "following": false,
+      "friends_count": 647,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3469,
+      "location": "Washington, DC\u2708\ufe0fNew York",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1541020604",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10461,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61043669,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104184,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559860593",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42418,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 24 00:49:59 +0000 2019",
+  "display_text_range": [
+    0,
+    54
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/johnnydollar01\u2026",
+        "expanded_url": "https://twitter.com/johnnydollar01/status/1164636581812215813",
+        "indices": [
+          31,
+          54
+        ],
+        "url": "https://t.co/F8N2BnPCRz"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 56561449,
+        "id_str": "56561449",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Jesse Watters",
+        "screen_name": "JesseBWatters"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JesseBWatters: Thank you!! https://t.co/F8N2BnPCRz",
+  "geo": null,
+  "id": 1165063670273105922,
+  "id_str": "1165063670273105922",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1164636581812215813,
+  "quoted_status_id_str": "1164636581812215813",
+  "quoted_status_permalink": {
+    "display": "twitter.com/johnnydollar01\u2026",
+    "expanded": "https://twitter.com/johnnydollar01/status/1164636581812215813",
+    "url": "https://t.co/F8N2BnPCRz"
+  },
+  "retweet_count": 2815,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 22 20:34:53 +0000 2019",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/johnnydollar01\u2026",
+          "expanded_url": "https://twitter.com/johnnydollar01/status/1164636581812215813",
+          "indices": [
+            12,
+            35
+          ],
+          "url": "https://t.co/F8N2BnPCRz"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 14912,
+    "favorited": false,
+    "full_text": "Thank you!! https://t.co/F8N2BnPCRz",
+    "geo": null,
+    "id": 1164637084646367236,
+    "id_str": "1164637084646367236",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -74.026675,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.877483
+            ],
+            [
+              -74.026675,
+              40.877483
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Manhattan, NY",
+      "id": "01a9a39529b27f36",
+      "name": "Manhattan",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Aug 22 20:32:53 +0000 2019",
+      "display_text_range": [
+        56,
+        294
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HFZNUIDTft",
+            "expanded_url": "https://twitter.com/johnnydollar01/status/1164636581812215813/photo/1",
+            "id": 1164636400534392832,
+            "id_str": "1164636400534392832",
+            "indices": [
+              295,
+              318
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECmeosJXkAAdN_f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECmeosJXkAAdN_f.jpg",
+            "sizes": {
+              "large": {
+                "h": 842,
+                "resize": "fit",
+                "w": 898
+              },
+              "medium": {
+                "h": 842,
+                "resize": "fit",
+                "w": 898
+              },
+              "small": {
+                "h": 638,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HFZNUIDTft"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "showbuzzdaily.com/articles/showb\u2026",
+            "expanded_url": "http://www.showbuzzdaily.com/articles/showbuzzdailys-top-150-wednesday-cable-originals-network-finals-8-21-2019.html?dg",
+            "indices": [
+              271,
+              294
+            ],
+            "url": "https://t.co/IBGLivgahb"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 334053327,
+            "id_str": "334053327",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "The Five",
+            "screen_name": "TheFive"
+          },
+          {
+            "id": 22703645,
+            "id_str": "22703645",
+            "indices": [
+              9,
+              23
+            ],
+            "name": "Tucker Carlson",
+            "screen_name": "TuckerCarlson"
+          },
+          {
+            "id": 41634520,
+            "id_str": "41634520",
+            "indices": [
+              24,
+              36
+            ],
+            "name": "Sean Hannity",
+            "screen_name": "seanhannity"
+          },
+          {
+            "id": 16129920,
+            "id_str": "16129920",
+            "indices": [
+              37,
+              44
+            ],
+            "name": "Rachel Maddow MSNBC",
+            "screen_name": "maddow"
+          },
+          {
+            "id": 18646108,
+            "id_str": "18646108",
+            "indices": [
+              45,
+              55
+            ],
+            "name": "Bret Baier",
+            "screen_name": "BretBaier"
+          },
+          {
+            "id": 334053327,
+            "id_str": "334053327",
+            "indices": [
+              68,
+              76
+            ],
+            "name": "The Five",
+            "screen_name": "TheFive"
+          },
+          {
+            "id": 27311044,
+            "id_str": "27311044",
+            "indices": [
+              191,
+              202
+            ],
+            "name": "Dana Perino",
+            "screen_name": "DanaPerino"
+          },
+          {
+            "id": 28628850,
+            "id_str": "28628850",
+            "indices": [
+              203,
+              215
+            ],
+            "name": "GregGutfeld",
+            "screen_name": "greggutfeld"
+          },
+          {
+            "id": 228747444,
+            "id_str": "228747444",
+            "indices": [
+              216,
+              232
+            ],
+            "name": "Juan Williams",
+            "screen_name": "TheJuanWilliams"
+          },
+          {
+            "id": 48459553,
+            "id_str": "48459553",
+            "indices": [
+              233,
+              246
+            ],
+            "name": "Katie Pavlich",
+            "screen_name": "KatiePavlich"
+          },
+          {
+            "id": 56561449,
+            "id_str": "56561449",
+            "indices": [
+              254,
+              268
+            ],
+            "name": "Jesse Watters",
+            "screen_name": "JesseBWatters"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HFZNUIDTft",
+            "expanded_url": "https://twitter.com/johnnydollar01/status/1164636581812215813/photo/1",
+            "id": 1164636400534392832,
+            "id_str": "1164636400534392832",
+            "indices": [
+              295,
+              318
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECmeosJXkAAdN_f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECmeosJXkAAdN_f.jpg",
+            "sizes": {
+              "large": {
+                "h": 842,
+                "resize": "fit",
+                "w": 898
+              },
+              "medium": {
+                "h": 842,
+                "resize": "fit",
+                "w": 898
+              },
+              "small": {
+                "h": 638,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HFZNUIDTft"
+          }
+        ]
+      },
+      "favorite_count": 1012,
+      "favorited": false,
+      "full_text": "@TheFive @TuckerCarlson @seanhannity @maddow @BretBaier Congrats to @TheFive - an afternoon program was #1 in cable news' key ad demo on Wednesday, beating ALL the primetime shows.\nWell done @DanaPerino @greggutfeld @TheJuanWilliams @KatiePavlich and Mr @JesseBWatters !\nhttps://t.co/IBGLivgahb https://t.co/HFZNUIDTft",
+      "geo": null,
+      "id": 1164636581812215813,
+      "id_str": "1164636581812215813",
+      "in_reply_to_screen_name": "johnnydollar01",
+      "in_reply_to_status_id": 1164635519281696768,
+      "in_reply_to_status_id_str": "1164635519281696768",
+      "in_reply_to_user_id": 19881465,
+      "in_reply_to_user_id_str": "19881465",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 151,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 01 22:44:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Blogger on all things cable news and your source for the truth about the Fox News Channel. I shouldn't have to point out RT does not necessarily mean agree.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "johnnydollar.us",
+                "expanded_url": "http://johnnydollar.us",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/s3K6G3QXEa"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4781,
+        "follow_request_sent": false,
+        "followers_count": 12059,
+        "following": false,
+        "friends_count": 485,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 19881465,
+        "id_str": "19881465",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 366,
+        "location": "USA",
+        "name": "johnny dollar",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19881465/1431366377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/235614078/jdlogo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/235614078/jdlogo_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "johnnydollar01",
+        "statuses_count": 144631,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/s3K6G3QXEa",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1164636581812215813,
+    "quoted_status_id_str": "1164636581812215813",
+    "quoted_status_permalink": {
+      "display": "twitter.com/johnnydollar01\u2026",
+      "expanded": "https://twitter.com/johnnydollar01/status/1164636581812215813",
+      "url": "https://t.co/F8N2BnPCRz"
+    },
+    "retweet_count": 2815,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jul 14 01:23:16 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Co-Host of @TheFive & Host of @WattersWorld on Fox News Channel. Speaking engagements with Premiere.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/jessewatters/",
+              "expanded_url": "https://www.instagram.com/jessewatters/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rlbjtqJwnw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 15501,
+      "follow_request_sent": false,
+      "followers_count": 938910,
+      "following": false,
+      "friends_count": 1046,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 56561449,
+      "id_str": "56561449",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2632,
+      "location": "",
+      "name": "Jesse Watters",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/56561449/1455042293",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/697123861163192320/6ra0cPIS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/697123861163192320/6ra0cPIS_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JesseBWatters",
+      "statuses_count": 10689,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/rlbjtqJwnw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63444751,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107449,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43743,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

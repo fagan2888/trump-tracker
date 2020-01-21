@@ -1,0 +1,356 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 03 16:34:25 +0000 2018",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      },
+      {
+        "id": 851808935397011456,
+        "id_str": "851808935397011456",
+        "indices": [
+          55,
+          66
+        ],
+        "name": "Gov. Kim Reynolds",
+        "screen_name": "IAGovernor"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: As the FIRST female Governor of Iowa, @IAGovernor cut taxes, balanced the budget (with a 127 m surplus!) &amp; fostered a pro-\u2026",
+  "geo": null,
+  "id": 1058759312808558592,
+  "id_str": "1058759312808558592",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1057984682753712128,
+  "quoted_status_id_str": "1057984682753712128",
+  "quoted_status_permalink": {
+    "display": "twitter.com/kimreynoldsia/\u2026",
+    "expanded": "https://twitter.com/kimreynoldsia/status/1057984682753712128",
+    "url": "https://t.co/dl3Li24Vs4"
+  },
+  "retweet_count": 9281,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 02 12:34:33 +0000 2018",
+    "display_text_range": [
+      0,
+      286
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/kimreynoldsia/\u2026",
+          "expanded_url": "https://twitter.com/kimreynoldsia/status/1057984682753712128",
+          "indices": [
+            287,
+            310
+          ],
+          "url": "https://t.co/dl3Li24Vs4"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 851808935397011456,
+          "id_str": "851808935397011456",
+          "indices": [
+            38,
+            49
+          ],
+          "name": "Gov. Kim Reynolds",
+          "screen_name": "IAGovernor"
+        }
+      ]
+    },
+    "favorite_count": 33513,
+    "favorited": false,
+    "full_text": "As the FIRST female Governor of Iowa, @IAGovernor cut taxes, balanced the budget (with a 127 m surplus!) &amp; fostered a pro-growth environment where incomes are rising &amp; unemployment is 2nd lowest in the Country!\n\nProud to be in Des Moines to support my friend. Vote for Reynolds! https://t.co/dl3Li24Vs4",
+    "geo": null,
+    "id": 1058336558942773248,
+    "id_str": "1058336558942773248",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Nov 01 13:16:19 +0000 2018",
+      "display_text_range": [
+        0,
+        142
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              102,
+              117
+            ],
+            "text": "KeepIowaMoving"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "desmoinesregister.com/story/news/pol\u2026",
+            "expanded_url": "https://www.desmoinesregister.com/story/news/politics/2018/11/01/ivanka-trump-kim-reynolds-iowa-governor-campaign-fred-hubbell-2018-midterms-president-donald-trump/1841301002/",
+            "indices": [
+              119,
+              142
+            ],
+            "url": "https://t.co/wLyTtBSy08"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 52544275,
+            "id_str": "52544275",
+            "indices": [
+              28,
+              40
+            ],
+            "name": "Ivanka Trump",
+            "screen_name": "IvankaTrump"
+          }
+        ]
+      },
+      "favorite_count": 928,
+      "favorited": false,
+      "full_text": "I look forward to welcoming @IvankaTrump back to Iowa and talking about pro-growth policies that will #KeepIowaMoving! https://t.co/wLyTtBSy08",
+      "geo": null,
+      "id": 1057984682753712128,
+      "id_str": "1057984682753712128",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 430,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 16 01:33:43 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Mom, wife, grandma, conservative, and rural Iowan. Honored to serve as your Governor.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/KimReynoldsIa",
+                "expanded_url": "http://facebook.com/KimReynoldsIa",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/uMvHcYGSNw"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2183,
+        "follow_request_sent": false,
+        "followers_count": 19420,
+        "following": false,
+        "friends_count": 4609,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 31591773,
+        "id_str": "31591773",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 397,
+        "location": "Iowa",
+        "name": "Kim Reynolds",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31591773/1470673640",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/762686637318868992/AYixg5F6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/762686637318868992/AYixg5F6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KimReynoldsIA",
+        "statuses_count": 5221,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/uMvHcYGSNw",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1057984682753712128,
+    "quoted_status_id_str": "1057984682753712128",
+    "quoted_status_permalink": {
+      "display": "twitter.com/kimreynoldsia/\u2026",
+      "expanded": "https://twitter.com/kimreynoldsia/status/1057984682753712128",
+      "url": "https://t.co/dl3Li24Vs4"
+    },
+    "retweet_count": 9281,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1442,
+      "follow_request_sent": false,
+      "followers_count": 5909232,
+      "following": false,
+      "friends_count": 1301,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 20454,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 14841,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 55601561,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 95552,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1540264974",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39535,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

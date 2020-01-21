@@ -1,0 +1,557 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 17 21:51:27 +0000 2019",
+  "display_text_range": [
+    0,
+    110
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/zYepQbVqn8",
+        "expanded_url": "https://twitter.com/MissDiagnosis/status/1107295210642591749/video/1",
+        "id": 1107294260968206338,
+        "id_str": "1107294260968206338",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107294260968206338/pu/img/-ARayhYl-sx71yhZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107294260968206338/pu/img/-ARayhYl-sx71yhZ.jpg",
+        "sizes": {
+          "large": {
+            "h": 450,
+            "resize": "fit",
+            "w": 850
+          },
+          "medium": {
+            "h": 450,
+            "resize": "fit",
+            "w": 850
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1107295210642591749,
+        "source_status_id_str": "1107295210642591749",
+        "source_user_id": 25928003,
+        "source_user_id_str": "25928003",
+        "type": "photo",
+        "url": "https://t.co/zYepQbVqn8"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 592730371,
+        "id_str": "592730371",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Jack Posobiec \u2618\ufe0f",
+        "screen_name": "JackPosobiec"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 23 01:42:25 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Brit- Am Muslim Physician Journalist @Spectator @TheDailyBeast @CNN @FoxNews Combating #Islamism Mashallah \u0645\u0627\u0634\u0627\u0621 \u0627\u0644\u0644\u0647 \u0644\u0627\u0642\u0648\u0629 \u0625\u0644\u0627 \u0628\u0627\u0644\u0644\u0647 @CFR_org \ud83d\udcf8",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "qantaahmed.com",
+                    "expanded_url": "http://www.qantaahmed.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/cgav1WHkur"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 43730,
+            "follow_request_sent": false,
+            "followers_count": 30780,
+            "following": false,
+            "friends_count": 9674,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 25928003,
+            "id_str": "25928003",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 367,
+            "location": "New York City",
+            "name": "Qanta Ahmed",
+            "notifications": false,
+            "profile_background_color": "16221C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25928003/1431464240",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/108083788/jma-7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/108083788/jma-7_normal.jpg",
+            "profile_link_color": "1E2B45",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MissDiagnosis",
+            "statuses_count": 72264,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/cgav1WHkur",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/zYepQbVqn8",
+        "expanded_url": "https://twitter.com/MissDiagnosis/status/1107295210642591749/video/1",
+        "id": 1107294260968206338,
+        "id_str": "1107294260968206338",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107294260968206338/pu/img/-ARayhYl-sx71yhZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107294260968206338/pu/img/-ARayhYl-sx71yhZ.jpg",
+        "sizes": {
+          "large": {
+            "h": 450,
+            "resize": "fit",
+            "w": 850
+          },
+          "medium": {
+            "h": 450,
+            "resize": "fit",
+            "w": 850
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1107295210642591749,
+        "source_status_id_str": "1107295210642591749",
+        "source_user_id": 25928003,
+        "source_user_id_str": "25928003",
+        "type": "video",
+        "url": "https://t.co/zYepQbVqn8",
+        "video_info": {
+          "aspect_ratio": [
+            17,
+            9
+          ],
+          "duration_millis": 45000,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1107294260968206338/pu/vid/340x180/df8gIgTvZRcUX01Q.mp4?tag=8"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1107294260968206338/pu/vid/850x450/hIS7P-mHA3fJVm3_.mp4?tag=8"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1107294260968206338/pu/pl/clzuSG-WYbptaa_v.m3u8?tag=8"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JackPosobiec: Why did CNN cut her off after she destroyed their Islamophobia hoax? https://t.co/zYepQbVqn8",
+  "geo": null,
+  "id": 1107399071377944576,
+  "id_str": "1107399071377944576",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 12839,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 17 16:32:59 +0000 2019",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zYepQbVqn8",
+          "expanded_url": "https://twitter.com/MissDiagnosis/status/1107295210642591749/video/1",
+          "id": 1107294260968206338,
+          "id_str": "1107294260968206338",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107294260968206338/pu/img/-ARayhYl-sx71yhZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107294260968206338/pu/img/-ARayhYl-sx71yhZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 450,
+              "resize": "fit",
+              "w": 850
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 850
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1107295210642591749,
+          "source_status_id_str": "1107295210642591749",
+          "source_user_id": 25928003,
+          "source_user_id_str": "25928003",
+          "type": "photo",
+          "url": "https://t.co/zYepQbVqn8"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Mar 23 01:42:25 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Brit- Am Muslim Physician Journalist @Spectator @TheDailyBeast @CNN @FoxNews Combating #Islamism Mashallah \u0645\u0627\u0634\u0627\u0621 \u0627\u0644\u0644\u0647 \u0644\u0627\u0642\u0648\u0629 \u0625\u0644\u0627 \u0628\u0627\u0644\u0644\u0647 @CFR_org \ud83d\udcf8",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "qantaahmed.com",
+                      "expanded_url": "http://www.qantaahmed.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/cgav1WHkur"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 43730,
+              "follow_request_sent": false,
+              "followers_count": 30780,
+              "following": false,
+              "friends_count": 9674,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 25928003,
+              "id_str": "25928003",
+              "is_translation_enabled": true,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 367,
+              "location": "New York City",
+              "name": "Qanta Ahmed",
+              "notifications": false,
+              "profile_background_color": "16221C",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/25928003/1431464240",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/108083788/jma-7_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/108083788/jma-7_normal.jpg",
+              "profile_link_color": "1E2B45",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "FFF7CC",
+              "profile_text_color": "0C3E53",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "MissDiagnosis",
+              "statuses_count": 72264,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/cgav1WHkur",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/zYepQbVqn8",
+          "expanded_url": "https://twitter.com/MissDiagnosis/status/1107295210642591749/video/1",
+          "id": 1107294260968206338,
+          "id_str": "1107294260968206338",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107294260968206338/pu/img/-ARayhYl-sx71yhZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107294260968206338/pu/img/-ARayhYl-sx71yhZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 450,
+              "resize": "fit",
+              "w": 850
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 850
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1107295210642591749,
+          "source_status_id_str": "1107295210642591749",
+          "source_user_id": 25928003,
+          "source_user_id_str": "25928003",
+          "type": "video",
+          "url": "https://t.co/zYepQbVqn8",
+          "video_info": {
+            "aspect_ratio": [
+              17,
+              9
+            ],
+            "duration_millis": 45000,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1107294260968206338/pu/vid/340x180/df8gIgTvZRcUX01Q.mp4?tag=8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1107294260968206338/pu/vid/850x450/hIS7P-mHA3fJVm3_.mp4?tag=8"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1107294260968206338/pu/pl/clzuSG-WYbptaa_v.m3u8?tag=8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 34640,
+    "favorited": false,
+    "full_text": "Why did CNN cut her off after she destroyed their Islamophobia hoax? https://t.co/zYepQbVqn8",
+    "geo": null,
+    "id": 1107318925128290305,
+    "id_str": "1107318925128290305",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12839,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 28 13:31:22 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@OANN Host. Catholic. National security conservative. Veteran Intel Officer. Mandarin Linguist. Bio: https://t.co/FX4CjHv1uU",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "everipedia.org/wiki/lang_en/j\u2026",
+              "expanded_url": "https://everipedia.org/wiki/lang_en/jack-posobiec/",
+              "indices": [
+                101,
+                124
+              ],
+              "url": "https://t.co/FX4CjHv1uU"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "oann.com",
+              "expanded_url": "http://oann.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/o6qMWKI1gN"
+            }
+          ]
+        }
+      },
+      "favourites_count": 90046,
+      "follow_request_sent": false,
+      "followers_count": 436003,
+      "following": false,
+      "friends_count": 996,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 592730371,
+      "id_str": "592730371",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3905,
+      "location": "Washington, DC",
+      "name": "Jack Posobiec \u2618\ufe0f",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/592730371/1552362528",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1102807789972480000/1L8NLd1L_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102807789972480000/1L8NLd1L_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JackPosobiec",
+      "statuses_count": 70638,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/o6qMWKI1gN",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59099682,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101255,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40949,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

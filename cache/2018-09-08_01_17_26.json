@@ -1,0 +1,373 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Sep 08 01:17:26 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 239005322,
+        "id_str": "239005322",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Caleb Hull",
+        "screen_name": "CalebJHull"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CalebJHull: \u201cI complained plenty about Fox News, but I never threatened to shut them down.\u201d\n\nIt\u2019s probably a good time to remind you th\u2026",
+  "geo": null,
+  "id": 1038234824719433734,
+  "id_str": "1038234824719433734",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 12234,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 07 18:01:31 +0000 2018",
+    "display_text_range": [
+      0,
+      275
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NU7TUY3YcS",
+          "expanded_url": "https://twitter.com/CBSEveningNews/status/1038109354648580096/video/1",
+          "id": 1038109283064459265,
+          "id_str": "1038109283064459265",
+          "indices": [
+            252,
+            275
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1038109283064459265/img/K00KcOHPVLHGf9ud.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1038109283064459265/img/K00KcOHPVLHGf9ud.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1038109354648580096,
+          "source_status_id_str": "1038109354648580096",
+          "source_user_id": 42958829,
+          "source_user_id_str": "42958829",
+          "type": "photo",
+          "url": "https://t.co/NU7TUY3YcS"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Wed May 27 20:08:03 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "The official account of The CBS Evening News with @JeffGlor, the longest running evening newscast.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "CBSEveningNews.com",
+                      "expanded_url": "http://CBSEveningNews.com",
+                      "indices": [
+                        0,
+                        22
+                      ],
+                      "url": "http://t.co/Mm7FlsMteV"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 1144,
+              "follow_request_sent": false,
+              "followers_count": 287449,
+              "following": false,
+              "friends_count": 1552,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 42958829,
+              "id_str": "42958829",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 4027,
+              "location": "\ud83d\udcfa 6:30pm ET",
+              "name": "CBS Evening News",
+              "notifications": false,
+              "profile_background_color": "FFFFFF",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/42958829/1517407846",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/938483676668682241/yD0g0Li__normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/938483676668682241/yD0g0Li__normal.jpg",
+              "profile_link_color": "2C537C",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "DDDEE4",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "CBSEveningNews",
+              "statuses_count": 85993,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "http://t.co/Mm7FlsMteV",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/NU7TUY3YcS",
+          "expanded_url": "https://twitter.com/CBSEveningNews/status/1038109354648580096/video/1",
+          "id": 1038109283064459265,
+          "id_str": "1038109283064459265",
+          "indices": [
+            252,
+            275
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1038109283064459265/img/K00KcOHPVLHGf9ud.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1038109283064459265/img/K00KcOHPVLHGf9ud.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1038109354648580096,
+          "source_status_id_str": "1038109354648580096",
+          "source_user_id": 42958829,
+          "source_user_id_str": "42958829",
+          "type": "video",
+          "url": "https://t.co/NU7TUY3YcS",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 112279,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1038109283064459265/vid/320x180/oJY-LPaQt32MUE_P.mp4?tag=8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1038109283064459265/vid/640x360/HKpLa0DUY7rgV2vH.mp4?tag=8"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1038109283064459265/pl/AzHcnjgerAGcv54l.m3u8?tag=8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 28811,
+    "favorited": false,
+    "full_text": "\u201cI complained plenty about Fox News, but I never threatened to shut them down.\u201d\n\nIt\u2019s probably a good time to remind you that Obama used the Espionage Act to go after whistleblowers who leaked to journalists more than all previous presidents combined. https://t.co/NU7TUY3YcS",
+    "geo": null,
+    "id": 1038125124581515264,
+    "id_str": "1038125124581515264",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12234,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jan 16 15:36:05 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Director of Content @TargetedVictory. I post a lot of puppy content. Past: Senior Editor @TheIJR, Video for The Chainsmokers. Opinions are my own.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/calebjhull/",
+              "expanded_url": "https://www.instagram.com/calebjhull/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MlHQz0hqvc"
+            }
+          ]
+        }
+      },
+      "favourites_count": 12469,
+      "follow_request_sent": false,
+      "followers_count": 35975,
+      "following": false,
+      "friends_count": 1000,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 239005322,
+      "id_str": "239005322",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 427,
+      "location": "DC/NYC",
+      "name": "Caleb Hull",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/239005322/1532544855",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1012757326791659522/Gm_wgDsk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012757326791659522/Gm_wgDsk_normal.jpg",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CalebJHull",
+      "statuses_count": 6814,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/MlHQz0hqvc",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54277476,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93109,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38837,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

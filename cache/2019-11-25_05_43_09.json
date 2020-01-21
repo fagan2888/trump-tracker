@@ -1,0 +1,1403 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 25 05:43:09 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "The White House",
+        "screen_name": "WhiteHouse"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          26,
+          42
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @WhiteHouse: President @realDonaldTrump welcomed outstanding student athletes and coaches from all over the Nation to the White House fo\u2026",
+  "geo": null,
+  "id": 1198839519719636992,
+  "id_str": "1198839519719636992",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2505,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 24 21:07:21 +0000 2019",
+    "display_text_range": [
+      0,
+      169
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/347AnR0KMk",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1198709716278530048/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 649,
+                  "y": 111
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 566,
+                  "y": 156
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 494,
+                  "y": 181
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 555,
+                  "y": 202
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 352,
+                  "y": 260
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 379,
+                  "y": 258
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 205,
+                  "y": 263
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 321,
+                  "y": 279
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 752,
+                  "y": 55
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 881,
+                  "y": 161
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 825,
+                  "y": 134
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 649,
+                  "y": 111
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 566,
+                  "y": 156
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 494,
+                  "y": 181
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 555,
+                  "y": 202
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 352,
+                  "y": 260
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 379,
+                  "y": 258
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 205,
+                  "y": 263
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 321,
+                  "y": 279
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 752,
+                  "y": 55
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 881,
+                  "y": 161
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 825,
+                  "y": 134
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 649,
+                  "y": 111
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 566,
+                  "y": 156
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 494,
+                  "y": 181
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 555,
+                  "y": 202
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 352,
+                  "y": 260
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 379,
+                  "y": 258
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 205,
+                  "y": 263
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 321,
+                  "y": 279
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 752,
+                  "y": 55
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 881,
+                  "y": 161
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 825,
+                  "y": 134
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 27,
+                  "w": 27,
+                  "x": 430,
+                  "y": 73
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 375,
+                  "y": 103
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 328,
+                  "y": 120
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 368,
+                  "y": 134
+                },
+                {
+                  "h": 21,
+                  "w": 21,
+                  "x": 233,
+                  "y": 172
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 251,
+                  "y": 171
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 136,
+                  "y": 174
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 213,
+                  "y": 185
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 499,
+                  "y": 36
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 585,
+                  "y": 106
+                },
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 547,
+                  "y": 88
+                }
+              ]
+            }
+          },
+          "id": 1198709707587964929,
+          "id_str": "1198709707587964929",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKKsIMWX0AE7Prz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKKsIMWX0AE7Prz.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/347AnR0KMk"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 31122496,
+          "id_str": "31122496",
+          "indices": [
+            125,
+            130
+          ],
+          "name": "NCAA",
+          "screen_name": "NCAA"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/347AnR0KMk",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1198709716278530048/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 649,
+                  "y": 111
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 566,
+                  "y": 156
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 494,
+                  "y": 181
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 555,
+                  "y": 202
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 352,
+                  "y": 260
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 379,
+                  "y": 258
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 205,
+                  "y": 263
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 321,
+                  "y": 279
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 752,
+                  "y": 55
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 881,
+                  "y": 161
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 825,
+                  "y": 134
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 649,
+                  "y": 111
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 566,
+                  "y": 156
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 494,
+                  "y": 181
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 555,
+                  "y": 202
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 352,
+                  "y": 260
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 379,
+                  "y": 258
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 205,
+                  "y": 263
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 321,
+                  "y": 279
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 752,
+                  "y": 55
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 881,
+                  "y": 161
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 825,
+                  "y": 134
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 649,
+                  "y": 111
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 566,
+                  "y": 156
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 494,
+                  "y": 181
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 555,
+                  "y": 202
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 352,
+                  "y": 260
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 379,
+                  "y": 258
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 205,
+                  "y": 263
+                },
+                {
+                  "h": 36,
+                  "w": 36,
+                  "x": 321,
+                  "y": 279
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 752,
+                  "y": 55
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 881,
+                  "y": 161
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 825,
+                  "y": 134
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 27,
+                  "w": 27,
+                  "x": 430,
+                  "y": 73
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 375,
+                  "y": 103
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 328,
+                  "y": 120
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 368,
+                  "y": 134
+                },
+                {
+                  "h": 21,
+                  "w": 21,
+                  "x": 233,
+                  "y": 172
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 251,
+                  "y": 171
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 136,
+                  "y": 174
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 213,
+                  "y": 185
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 499,
+                  "y": 36
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 585,
+                  "y": 106
+                },
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 547,
+                  "y": 88
+                }
+              ]
+            }
+          },
+          "id": 1198709707587964929,
+          "id_str": "1198709707587964929",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKKsIMWX0AE7Prz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKKsIMWX0AE7Prz.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/347AnR0KMk"
+        },
+        {
+          "display_url": "pic.twitter.com/347AnR0KMk",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1198709716278530048/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 53,
+                  "w": 53,
+                  "x": 646,
+                  "y": 160
+                },
+                {
+                  "h": 58,
+                  "w": 58,
+                  "x": 490,
+                  "y": 256
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 935,
+                  "y": 47
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 586,
+                  "y": 215
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 193,
+                  "y": 317
+                },
+                {
+                  "h": 102,
+                  "w": 102,
+                  "x": 677,
+                  "y": 146
+                },
+                {
+                  "h": 102,
+                  "w": 102,
+                  "x": 848,
+                  "y": 273
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 53,
+                  "w": 53,
+                  "x": 646,
+                  "y": 160
+                },
+                {
+                  "h": 58,
+                  "w": 58,
+                  "x": 490,
+                  "y": 256
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 935,
+                  "y": 47
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 586,
+                  "y": 215
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 193,
+                  "y": 317
+                },
+                {
+                  "h": 102,
+                  "w": 102,
+                  "x": 677,
+                  "y": 146
+                },
+                {
+                  "h": 102,
+                  "w": 102,
+                  "x": 848,
+                  "y": 273
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 53,
+                  "w": 53,
+                  "x": 646,
+                  "y": 160
+                },
+                {
+                  "h": 58,
+                  "w": 58,
+                  "x": 490,
+                  "y": 256
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 935,
+                  "y": 47
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 586,
+                  "y": 215
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 193,
+                  "y": 317
+                },
+                {
+                  "h": 102,
+                  "w": 102,
+                  "x": 677,
+                  "y": 146
+                },
+                {
+                  "h": 102,
+                  "w": 102,
+                  "x": 848,
+                  "y": 273
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 428,
+                  "y": 106
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 325,
+                  "y": 170
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 620,
+                  "y": 31
+                },
+                {
+                  "h": 46,
+                  "w": 46,
+                  "x": 389,
+                  "y": 142
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 128,
+                  "y": 210
+                },
+                {
+                  "h": 67,
+                  "w": 67,
+                  "x": 449,
+                  "y": 96
+                },
+                {
+                  "h": 67,
+                  "w": 67,
+                  "x": 563,
+                  "y": 181
+                }
+              ]
+            }
+          },
+          "id": 1198709710897254400,
+          "id_str": "1198709710897254400",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKKsIYrXkAA1STc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKKsIYrXkAA1STc.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/347AnR0KMk"
+        },
+        {
+          "display_url": "pic.twitter.com/347AnR0KMk",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1198709716278530048/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 34,
+                  "w": 34,
+                  "x": 649,
+                  "y": 163
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 558,
+                  "y": 211
+                },
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 502,
+                  "y": 221
+                },
+                {
+                  "h": 34,
+                  "w": 34,
+                  "x": 407,
+                  "y": 261
+                },
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 498,
+                  "y": 259
+                },
+                {
+                  "h": 34,
+                  "w": 34,
+                  "x": 431,
+                  "y": 272
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 800,
+                  "y": 133
+                },
+                {
+                  "h": 46,
+                  "w": 46,
+                  "x": 571,
+                  "y": 243
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 661,
+                  "y": 231
+                },
+                {
+                  "h": 69,
+                  "w": 69,
+                  "x": 916,
+                  "y": 85
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 34,
+                  "w": 34,
+                  "x": 649,
+                  "y": 163
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 558,
+                  "y": 211
+                },
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 502,
+                  "y": 221
+                },
+                {
+                  "h": 34,
+                  "w": 34,
+                  "x": 407,
+                  "y": 261
+                },
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 498,
+                  "y": 259
+                },
+                {
+                  "h": 34,
+                  "w": 34,
+                  "x": 431,
+                  "y": 272
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 800,
+                  "y": 133
+                },
+                {
+                  "h": 46,
+                  "w": 46,
+                  "x": 571,
+                  "y": 243
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 661,
+                  "y": 231
+                },
+                {
+                  "h": 69,
+                  "w": 69,
+                  "x": 916,
+                  "y": 85
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 34,
+                  "w": 34,
+                  "x": 649,
+                  "y": 163
+                },
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 558,
+                  "y": 211
+                },
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 502,
+                  "y": 221
+                },
+                {
+                  "h": 34,
+                  "w": 34,
+                  "x": 407,
+                  "y": 261
+                },
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 498,
+                  "y": 259
+                },
+                {
+                  "h": 34,
+                  "w": 34,
+                  "x": 431,
+                  "y": 272
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 800,
+                  "y": 133
+                },
+                {
+                  "h": 46,
+                  "w": 46,
+                  "x": 571,
+                  "y": 243
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 661,
+                  "y": 231
+                },
+                {
+                  "h": 69,
+                  "w": 69,
+                  "x": 916,
+                  "y": 85
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 22,
+                  "w": 22,
+                  "x": 430,
+                  "y": 108
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 370,
+                  "y": 140
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 333,
+                  "y": 146
+                },
+                {
+                  "h": 22,
+                  "w": 22,
+                  "x": 270,
+                  "y": 173
+                },
+                {
+                  "h": 26,
+                  "w": 26,
+                  "x": 330,
+                  "y": 171
+                },
+                {
+                  "h": 22,
+                  "w": 22,
+                  "x": 286,
+                  "y": 180
+                },
+                {
+                  "h": 31,
+                  "w": 31,
+                  "x": 531,
+                  "y": 88
+                },
+                {
+                  "h": 30,
+                  "w": 30,
+                  "x": 379,
+                  "y": 161
+                },
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 438,
+                  "y": 153
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 608,
+                  "y": 56
+                }
+              ]
+            }
+          },
+          "id": 1198709714596638720,
+          "id_str": "1198709714596638720",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKKsImdXsAAn4dX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKKsImdXsAAn4dX.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/347AnR0KMk"
+        }
+      ]
+    },
+    "favorite_count": 9740,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump welcomed outstanding student athletes and coaches from all over the Nation to the White House for @NCAA Collegiate National Champions Day! \u26bd\ud83c\udfd2\u26be https://t.co/347AnR0KMk",
+    "geo": null,
+    "id": 1198709716278530048,
+    "id_str": "1198709716278530048",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2505,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">TheWhiteHouse</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "whitehouse.gov/privacy",
+              "expanded_url": "http://whitehouse.gov/privacy",
+              "indices": [
+                126,
+                149
+              ],
+              "url": "https://t.co/IURuMIrzxb"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 19385914,
+      "following": false,
+      "friends_count": 16,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 822215673812119553,
+      "id_str": "822215673812119553",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11770,
+      "location": "Washington, D.C.",
+      "name": "The White House",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WhiteHouse",
+      "statuses_count": 13595,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67009030,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110871,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

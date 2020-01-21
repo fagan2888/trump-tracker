@@ -1,0 +1,354 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jan 12 13:28:34 +0000 2020",
+  "display_text_range": [
+    0,
+    160
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/wta/status/121\u2026",
+        "expanded_url": "https://twitter.com/wta/status/1216236014835920896",
+        "indices": [
+          161,
+          184
+        ],
+        "url": "https://t.co/55ZhYVTpUU"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 26589987,
+        "id_str": "26589987",
+        "indices": [
+          19,
+          34
+        ],
+        "name": "Serena Williams",
+        "screen_name": "serenawilliams"
+      }
+    ]
+  },
+  "favorite_count": 48603,
+  "favorited": false,
+  "full_text": "Congratulations to @serenawilliams on another big win. She is a great player and an even greater person. Our members in Virginia (Tennis) will never forget you! https://t.co/55ZhYVTpUU",
+  "geo": null,
+  "id": 1216351262742061056,
+  "id_str": "1216351262742061056",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 12 05:50:37 +0000 2020",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/EUnWlLAQQe",
+          "expanded_url": "https://twitter.com/WTA/status/1216236014835920896/video/1",
+          "features": {},
+          "id": 1216235959399763968,
+          "id_str": "1216235959399763968",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/EODwKMLVUAA8-_G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EODwKMLVUAA8-_G.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/EUnWlLAQQe"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 26589987,
+          "id_str": "26589987",
+          "indices": [
+            33,
+            48
+          ],
+          "name": "Serena Williams",
+          "screen_name": "serenawilliams"
+        },
+        {
+          "id": 380791714,
+          "id_str": "380791714",
+          "indices": [
+            81,
+            93
+          ],
+          "name": "ASB Classic",
+          "screen_name": "ASB_Classic"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/EUnWlLAQQe",
+          "expanded_url": "https://twitter.com/WTA/status/1216236014835920896/video/1",
+          "features": {},
+          "id": 1216235959399763968,
+          "id_str": "1216235959399763968",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/EODwKMLVUAA8-_G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EODwKMLVUAA8-_G.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/EUnWlLAQQe",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 42383,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1216235959399763968/vid/1280x720/GmPCvxKMq-XLCHZr.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1216235959399763968/vid/640x360/umernI9jhxLASbcI.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1216235959399763968/pl/tgbBoG2YxKIOu7BV.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1216235959399763968/vid/480x270/5etSRU0w_KBFOCNu.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 20979,
+    "favorited": false,
+    "full_text": "A first title in three years for @serenawilliams !\n\nShe beats Pegula 6-3, 6-4 at @ASB_Classic ! https://t.co/EUnWlLAQQe",
+    "geo": null,
+    "id": 1216236014835920896,
+    "id_str": "1216236014835920896",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5632,
+    "retweeted": false,
+    "source": "<a href=\"http://wsc-sports.com\" rel=\"nofollow\">WSC Sports</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Nov 04 15:21:46 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Women's Tennis Association - Home of Women's Professional Tennis \ud83c\udfbe | Spanish: @WTA_Espanol",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "wtatennis.com",
+              "expanded_url": "http://www.wtatennis.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/y9ADTkrSXf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4143,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 823305,
+      "following": false,
+      "friends_count": 562,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 17158140,
+      "id_str": "17158140",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5579,
+      "location": "Worldwide",
+      "name": "WTA",
+      "notifications": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17158140/1577983238",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1213208441042427906/CaJA-_vy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213208441042427906/CaJA-_vy_normal.jpg",
+      "profile_link_color": "773DBD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WTA",
+      "statuses_count": 87794,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/y9ADTkrSXf",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1216236014835920896,
+  "quoted_status_id_str": "1216236014835920896",
+  "quoted_status_permalink": {
+    "display": "twitter.com/wta/status/121\u2026",
+    "expanded": "https://twitter.com/wta/status/1216236014835920896",
+    "url": "https://t.co/55ZhYVTpUU"
+  },
+  "retweet_count": 8011,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70836734,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113263,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47854,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

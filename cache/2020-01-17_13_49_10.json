@@ -1,0 +1,341 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 17 13:49:10 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 413327979,
+        "id_str": "413327979",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Scott Ford",
+        "screen_name": "ScottFordTVGuy"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ScottFordTVGuy: The love and energy at a Trump Rally. What a special memory in my life to experience my first-ever rally for @realDonal\u2026",
+  "geo": null,
+  "id": 1218168385684606976,
+  "id_str": "1218168385684606976",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11713,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 01 22:52:19 +0000 2019",
+    "display_text_range": [
+      0,
+      250
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            167,
+            172
+          ],
+          "text": "MAGA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/o7XfDOyAWg",
+          "expanded_url": "https://twitter.com/ScottFordTVGuy/status/1157061525875691520/video/1",
+          "features": {},
+          "id": 1157060845311934464,
+          "id_str": "1157060845311934464",
+          "indices": [
+            251,
+            274
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157060845311934464/pu/img/HyEjxzR2P9HmYmQU.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157060845311934464/pu/img/HyEjxzR2P9HmYmQU.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/o7XfDOyAWg"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            109,
+            125
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 67064945,
+          "id_str": "67064945",
+          "indices": [
+            228,
+            236
+          ],
+          "name": "John Pence",
+          "screen_name": "jepence"
+        },
+        {
+          "id": 75541946,
+          "id_str": "75541946",
+          "indices": [
+            237,
+            250
+          ],
+          "name": "Lara Trump",
+          "screen_name": "LaraLeaTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/o7XfDOyAWg",
+          "expanded_url": "https://twitter.com/ScottFordTVGuy/status/1157061525875691520/video/1",
+          "features": {},
+          "id": 1157060845311934464,
+          "id_str": "1157060845311934464",
+          "indices": [
+            251,
+            274
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157060845311934464/pu/img/HyEjxzR2P9HmYmQU.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157060845311934464/pu/img/HyEjxzR2P9HmYmQU.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/o7XfDOyAWg",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 20629,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157060845311934464/pu/vid/480x270/3OoAT9_g-hlPi14_.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157060845311934464/pu/vid/1280x720/MqtR_5VqyN4gUrDY.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1157060845311934464/pu/pl/7lChANkYJpfZ2PFg.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157060845311934464/pu/vid/640x360/Bg4jSQyDyrwawqGr.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 30910,
+    "favorited": false,
+    "full_text": "The love and energy at a Trump Rally. What a special memory in my life to experience my first-ever rally for @realDonaldTrump. If you are a Democrat do experience the #MAGA movement. Life changing! Save your future. Vote Trump!\n@jepence @LaraLeaTrump https://t.co/o7XfDOyAWg",
+    "geo": null,
+    "id": 1157061525875691520,
+    "id_str": "1157061525875691520",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11713,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Nov 15 19:09:39 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Age, 40. Left handed, OCD, GAY, HIV + \ncar-free, downtown lifestyle (views expressed are my own) Passions:Politics/Volunteering/Dogs/Public Transit/Travel",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 123910,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 52271,
+      "following": false,
+      "friends_count": 4483,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 413327979,
+      "id_str": "413327979",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 691,
+      "location": "Cincinnati, Ohio",
+      "name": "Scott Ford",
+      "notifications": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/413327979/1560778931",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1121927992480075777/gdZWMDXu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121927992480075777/gdZWMDXu_normal.jpg",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ScottFordTVGuy",
+      "statuses_count": 207808,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71146089,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113466,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47937,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

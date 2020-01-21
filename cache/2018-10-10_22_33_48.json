@@ -1,0 +1,495 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 10 22:33:48 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          91,
+          99
+        ],
+        "text": "Michael"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16669075,
+        "id_str": "16669075",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "FEMA",
+        "screen_name": "fema"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @fema: It\u2019s extremely important to keep sheltering in a safe place and to stay aware as #Michael continues to move inland! https://t.co/\u2026",
+  "geo": null,
+  "id": 1050152447119908864,
+  "id_str": "1050152447119908864",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1050139114237030400,
+  "quoted_status_id_str": "1050139114237030400",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nws/status/105\u2026",
+    "expanded": "https://twitter.com/nws/status/1050139114237030400",
+    "url": "https://t.co/pGvp1bzxal"
+  },
+  "retweet_count": 2596,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 10 21:43:52 +0000 2018",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            81,
+            89
+          ],
+          "text": "Michael"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/nws/status/105\u2026",
+          "expanded_url": "https://twitter.com/nws/status/1050139114237030400",
+          "indices": [
+            116,
+            139
+          ],
+          "url": "https://t.co/pGvp1bzxal"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 9582,
+    "favorited": false,
+    "full_text": "It\u2019s extremely important to keep sheltering in a safe place and to stay aware as #Michael continues to move inland! https://t.co/pGvp1bzxal",
+    "geo": null,
+    "id": 1050139877763887104,
+    "id_str": "1050139877763887104",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Oct 10 21:40:50 +0000 2018",
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              3,
+              11
+            ],
+            "text": "Michael"
+          },
+          {
+            "indices": [
+              249,
+              254
+            ],
+            "text": "flwx"
+          },
+          {
+            "indices": [
+              255,
+              260
+            ],
+            "text": "alwx"
+          },
+          {
+            "indices": [
+              261,
+              266
+            ],
+            "text": "gawx"
+          },
+          {
+            "indices": [
+              267,
+              272
+            ],
+            "text": "scwx"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/O1xlN217en",
+            "expanded_url": "https://twitter.com/NWS/status/1050139114237030400/photo/1",
+            "id": 1050138248901578752,
+            "id_str": "1050138248901578752",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/DpLXLGrUUAAR3Ve.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DpLXLGrUUAAR3Ve.jpg",
+            "sizes": {
+              "large": {
+                "h": 1154,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 676,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/O1xlN217en"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/O1xlN217en",
+            "expanded_url": "https://twitter.com/NWS/status/1050139114237030400/photo/1",
+            "id": 1050138248901578752,
+            "id_str": "1050138248901578752",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/DpLXLGrUUAAR3Ve.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DpLXLGrUUAAR3Ve.jpg",
+            "sizes": {
+              "large": {
+                "h": 1154,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 676,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/O1xlN217en"
+          },
+          {
+            "display_url": "pic.twitter.com/O1xlN217en",
+            "expanded_url": "https://twitter.com/NWS/status/1050139114237030400/photo/1",
+            "id": 1050138647880556544,
+            "id_str": "1050138647880556544",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/DpLXiU_UYAAdL5P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DpLXiU_UYAAdL5P.jpg",
+            "sizes": {
+              "large": {
+                "h": 1071,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 628,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 356,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/O1xlN217en"
+          }
+        ]
+      },
+      "favorite_count": 216,
+      "favorited": false,
+      "full_text": "As #Michael moves farther inland into Georgia and areas less familiar with extreme winds, trees become a clear and present danger. Minimize your risk in single story homes by staying in interior rooms AWAY FROM LARGE TREES and overhanging branches. #flwx #alwx #gawx #scwx https://t.co/O1xlN217en",
+      "geo": null,
+      "id": 1050139114237030400,
+      "id_str": "1050139114237030400",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 186,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 03 21:24:25 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official Twitter account for NOAA's National Weather Service. Details: http://t.co/mRyGMdRYT3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weather.gov/twitter",
+                "expanded_url": "http://weather.gov/twitter",
+                "indices": [
+                  71,
+                  93
+                ],
+                "url": "http://t.co/mRyGMdRYT3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weather.gov",
+                "expanded_url": "http://www.weather.gov",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/UDExAKE2TP"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1835,
+        "follow_request_sent": false,
+        "followers_count": 2752101,
+        "following": false,
+        "friends_count": 296,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 454313925,
+        "id_str": "454313925",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8175,
+        "location": "United States",
+        "name": "NWS",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/454313925/1536061294",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842835019613831170/vvWHIDxE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842835019613831170/vvWHIDxE_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NWS",
+        "statuses_count": 20216,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/UDExAKE2TP",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1050139114237030400,
+    "quoted_status_id_str": "1050139114237030400",
+    "quoted_status_permalink": {
+      "display": "twitter.com/nws/status/105\u2026",
+      "expanded": "https://twitter.com/nws/status/1050139114237030400",
+      "url": "https://t.co/pGvp1bzxal"
+    },
+    "retweet_count": 2596,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 09 16:54:20 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Our story of supporting citizens & first responders before, during, and after emergencies. For emergencies, call your local fire/EMS/police or 9-1-1.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fema.gov",
+              "expanded_url": "http://www.fema.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pJoesev0fm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3085,
+      "follow_request_sent": false,
+      "followers_count": 735056,
+      "following": false,
+      "friends_count": 681,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16669075,
+      "id_str": "16669075",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10839,
+      "location": "United States",
+      "name": "FEMA",
+      "notifications": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16669075/1530889653",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_link_color": "2A91B0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DCDCE0",
+      "profile_text_color": "65686E",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fema",
+      "statuses_count": 15002,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pJoesev0fm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55028490,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39236,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Apr 14 19:10:18 +0000 2019",
+  "display_text_range": [
+    0,
+    96
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/chatbycc/statu\u2026",
+        "expanded_url": "https://twitter.com/chatbycc/status/1117494973270843394",
+        "indices": [
+          97,
+          120
+        ],
+        "url": "https://t.co/41MtJtYEjq"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 121843,
+  "favorited": false,
+  "full_text": "Love people who are great under pressure. What a fantastic life comeback for a really great guy! https://t.co/41MtJtYEjq",
+  "geo": null,
+  "id": 1117505376486866944,
+  "id_str": "1117505376486866944",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 14 18:28:58 +0000 2019",
+    "display_text_range": [
+      41,
+      120
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gBvgivFJW6",
+          "expanded_url": "https://twitter.com/ChatByCC/status/1117494973270843394/photo/1",
+          "id": 1117494970355724290,
+          "id_str": "1117494970355724290",
+          "indices": [
+            121,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4IjwTpWsAI5kHm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4IjwTpWsAI5kHm.jpg",
+          "sizes": {
+            "large": {
+              "h": 408,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 408,
+              "resize": "fit",
+              "w": 750
+            },
+            "small": {
+              "h": 370,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gBvgivFJW6"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 23505298,
+          "id_str": "23505298",
+          "indices": [
+            17,
+            28
+          ],
+          "name": "Masters Tournament",
+          "screen_name": "TheMasters"
+        },
+        {
+          "id": 32453930,
+          "id_str": "32453930",
+          "indices": [
+            29,
+            40
+          ],
+          "name": "Tiger Woods",
+          "screen_name": "TigerWoods"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gBvgivFJW6",
+          "expanded_url": "https://twitter.com/ChatByCC/status/1117494973270843394/photo/1",
+          "id": 1117494970355724290,
+          "id_str": "1117494970355724290",
+          "indices": [
+            121,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4IjwTpWsAI5kHm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4IjwTpWsAI5kHm.jpg",
+          "sizes": {
+            "large": {
+              "h": 408,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 408,
+              "resize": "fit",
+              "w": 750
+            },
+            "small": {
+              "h": 370,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gBvgivFJW6"
+        }
+      ]
+    },
+    "favorite_count": 4207,
+    "favorited": false,
+    "full_text": "@realDonaldTrump @TheMasters @TigerWoods Congratulations to President Trump\u2019s friend Tiger Woods on winning The Masters! https://t.co/gBvgivFJW6",
+    "geo": null,
+    "id": 1117494973270843394,
+    "id_str": "1117494973270843394",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 1117494716516507650,
+    "in_reply_to_status_id_str": "1117494716516507650",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1023,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Aug 02 14:55:41 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President Trump loves America as much as I do. It\u2019s our duty to leave our Country-to our children-better than we found it\u2014Views represent only me. TRUMP 2020!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com",
+              "expanded_url": "http://donaldjtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/O5S0tGL6kR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 122955,
+      "follow_request_sent": false,
+      "followers_count": 287917,
+      "following": false,
+      "friends_count": 34125,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 732980827,
+      "id_str": "732980827",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1510,
+      "location": "Trump\u2019s America",
+      "name": "CC",
+      "notifications": false,
+      "profile_background_color": "163182",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/732980827/1554339473",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1116496457194852353/2CDVCpU4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116496457194852353/2CDVCpU4_normal.jpg",
+      "profile_link_color": "A80202",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ChatByCC",
+      "statuses_count": 375793,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/O5S0tGL6kR",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1117494973270843394,
+  "quoted_status_id_str": "1117494973270843394",
+  "quoted_status_permalink": {
+    "display": "twitter.com/chatbycc/statu\u2026",
+    "expanded": "https://twitter.com/chatbycc/status/1117494973270843394",
+    "url": "https://t.co/41MtJtYEjq"
+  },
+  "retweet_count": 22250,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 59683740,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101842,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41248,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

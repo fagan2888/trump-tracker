@@ -1,0 +1,337 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 17 03:14:02 +0000 2018",
+  "display_text_range": [
+    0,
+    111
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/jerrybrowngov/\u2026",
+        "expanded_url": "https://twitter.com/jerrybrowngov/status/1063561072731279360",
+        "indices": [
+          112,
+          135
+        ],
+        "url": "https://t.co/UuXWAadmov"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 19418459,
+        "id_str": "19418459",
+        "indices": [
+          10,
+          24
+        ],
+        "name": "Jerry Brown",
+        "screen_name": "JerryBrownGov"
+      },
+      {
+        "id": 11347122,
+        "id_str": "11347122",
+        "indices": [
+          58,
+          70
+        ],
+        "name": "Gavin Newsom",
+        "screen_name": "GavinNewsom"
+      }
+    ]
+  },
+  "favorite_count": 19415,
+  "favorited": false,
+  "full_text": "Thank you @JerryBrownGov. Look forward to joining you and @GavinNewsom tomorrow in California. We are with you! https://t.co/UuXWAadmov",
+  "geo": null,
+  "id": 1063631319739953152,
+  "id_str": "1063631319739953152",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 16 22:34:54 +0000 2018",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/EWjPBdbC4E",
+          "expanded_url": "https://twitter.com/JerryBrownGov/status/1063561072731279360/photo/1",
+          "id": 1063559921046679553,
+          "id_str": "1063559921046679553",
+          "indices": [
+            137,
+            160
+          ],
+          "media_url": "http://pbs.twimg.com/media/DsKGHPtUcAE_zv7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DsKGHPtUcAE_zv7.jpg",
+          "sizes": {
+            "large": {
+              "h": 1146,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 672,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 381,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/EWjPBdbC4E"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 11347122,
+          "id_str": "11347122",
+          "indices": [
+            9,
+            21
+          ],
+          "name": "Gavin Newsom",
+          "screen_name": "GavinNewsom"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            38,
+            44
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/EWjPBdbC4E",
+          "expanded_url": "https://twitter.com/JerryBrownGov/status/1063561072731279360/photo/1",
+          "id": 1063559921046679553,
+          "id_str": "1063559921046679553",
+          "indices": [
+            137,
+            160
+          ],
+          "media_url": "http://pbs.twimg.com/media/DsKGHPtUcAE_zv7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DsKGHPtUcAE_zv7.jpg",
+          "sizes": {
+            "large": {
+              "h": 1146,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 672,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 381,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/EWjPBdbC4E"
+        }
+      ]
+    },
+    "favorite_count": 3403,
+    "favorited": false,
+    "full_text": "Tomorrow @GavinNewsom and I will join @POTUS during his visit to the state. Now is a time to pull together for the people of California. https://t.co/EWjPBdbC4E",
+    "geo": null,
+    "id": 1063561072731279360,
+    "id_str": "1063561072731279360",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 829,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 23 22:42:45 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "On Facebook at: http://t.co/ZhAotX27jb",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "facebook.com/jerrybrown",
+              "expanded_url": "http://facebook.com/jerrybrown",
+              "indices": [
+                16,
+                38
+              ],
+              "url": "http://t.co/ZhAotX27jb"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jerrybrown.org",
+              "expanded_url": "http://www.jerrybrown.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/1K8ra1Cvbg"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4,
+      "follow_request_sent": false,
+      "followers_count": 1108964,
+      "following": false,
+      "friends_count": 17,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 19418459,
+      "id_str": "19418459",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 6103,
+      "location": "California",
+      "name": "Jerry Brown",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19418459/1398447193",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/533387964772929536/bzWw-mHV_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/533387964772929536/bzWw-mHV_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JerryBrownGov",
+      "statuses_count": 2225,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/1K8ra1Cvbg",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1063561072731279360,
+  "quoted_status_id_str": "1063561072731279360",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jerrybrowngov/\u2026",
+    "expanded": "https://twitter.com/jerrybrowngov/status/1063561072731279360",
+    "url": "https://t.co/UuXWAadmov"
+  },
+  "retweet_count": 4702,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 55734265,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 96152,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1540264974",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39698,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

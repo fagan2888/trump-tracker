@@ -1,0 +1,674 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 31 12:40:13 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3067264802,
+        "id_str": "3067264802",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Cable News Watch",
+        "screen_name": "CableNewsWatch"
+      },
+      {
+        "id": 3195591187,
+        "id_str": "3195591187",
+        "indices": [
+          39,
+          55
+        ],
+        "name": "Greg Gutfeld Show",
+        "screen_name": "GregGutfeldShow"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CableNewsWatch: \ud83c\udf89\ud83c\udf7e Congratulations @GregGutfeldShow \n#1 show in cable news Saturday 18-49 &amp; 25-54 demos\nAlso 1.8M tuned in to the \"King\u2026",
+  "geo": null,
+  "id": 1189884783255535621,
+  "id_str": "1189884783255535621",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4871,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 29 17:30:00 +0000 2019",
+    "display_text_range": [
+      0,
+      270
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0SfjeoCXTL",
+          "expanded_url": "https://twitter.com/CableNewsWatch/status/1189232933074280448/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 661,
+                  "y": 91
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 590,
+                  "y": 169
+                },
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 405,
+                  "y": 172
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 772,
+                  "y": 174
+                },
+                {
+                  "h": 48,
+                  "w": 48,
+                  "x": 710,
+                  "y": 106
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 562,
+                  "y": 81
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 661,
+                  "y": 91
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 590,
+                  "y": 169
+                },
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 405,
+                  "y": 172
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 772,
+                  "y": 174
+                },
+                {
+                  "h": 48,
+                  "w": 48,
+                  "x": 710,
+                  "y": 106
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 562,
+                  "y": 81
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 661,
+                  "y": 91
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 590,
+                  "y": 169
+                },
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 405,
+                  "y": 172
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 772,
+                  "y": 174
+                },
+                {
+                  "h": 48,
+                  "w": 48,
+                  "x": 710,
+                  "y": 106
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 562,
+                  "y": 81
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 454,
+                  "y": 62
+                },
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 405,
+                  "y": 116
+                },
+                {
+                  "h": 27,
+                  "w": 27,
+                  "x": 278,
+                  "y": 118
+                },
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 530,
+                  "y": 119
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 488,
+                  "y": 72
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 386,
+                  "y": 55
+                }
+              ]
+            }
+          },
+          "id": 1189232427954135040,
+          "id_str": "1189232427954135040",
+          "indices": [
+            271,
+            294
+          ],
+          "media_url": "http://pbs.twimg.com/media/EIEAl6eU4AAIhz0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EIEAl6eU4AAIhz0.jpg",
+          "sizes": {
+            "large": {
+              "h": 555,
+              "resize": "fit",
+              "w": 989
+            },
+            "medium": {
+              "h": 555,
+              "resize": "fit",
+              "w": 989
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0SfjeoCXTL"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "foxnews.com/gutfeld",
+          "expanded_url": "http://foxnews.com/gutfeld",
+          "indices": [
+            247,
+            270
+          ],
+          "url": "https://t.co/dbwYCAQatZ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 3195591187,
+          "id_str": "3195591187",
+          "indices": [
+            19,
+            35
+          ],
+          "name": "Greg Gutfeld Show",
+          "screen_name": "GregGutfeldShow"
+        },
+        {
+          "id": 28628850,
+          "id_str": "28628850",
+          "indices": [
+            141,
+            153
+          ],
+          "name": "GregGutfeld",
+          "screen_name": "greggutfeld"
+        },
+        {
+          "id": 170861207,
+          "id_str": "170861207",
+          "indices": [
+            154,
+            163
+          ],
+          "name": "Kat Timpf",
+          "screen_name": "KatTimpf"
+        },
+        {
+          "id": 221514083,
+          "id_str": "221514083",
+          "indices": [
+            164,
+            176
+          ],
+          "name": "Tyrus",
+          "screen_name": "PlanetTyrus"
+        },
+        {
+          "id": 21116962,
+          "id_str": "21116962",
+          "indices": [
+            178,
+            187
+          ],
+          "name": "Joe Machi",
+          "screen_name": "joemachi"
+        },
+        {
+          "id": 405004997,
+          "id_str": "405004997",
+          "indices": [
+            194,
+            206
+          ],
+          "name": "Pete Hegseth",
+          "screen_name": "PeteHegseth"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0SfjeoCXTL",
+          "expanded_url": "https://twitter.com/CableNewsWatch/status/1189232933074280448/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 661,
+                  "y": 91
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 590,
+                  "y": 169
+                },
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 405,
+                  "y": 172
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 772,
+                  "y": 174
+                },
+                {
+                  "h": 48,
+                  "w": 48,
+                  "x": 710,
+                  "y": 106
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 562,
+                  "y": 81
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 661,
+                  "y": 91
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 590,
+                  "y": 169
+                },
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 405,
+                  "y": 172
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 772,
+                  "y": 174
+                },
+                {
+                  "h": 48,
+                  "w": 48,
+                  "x": 710,
+                  "y": 106
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 562,
+                  "y": 81
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 661,
+                  "y": 91
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 590,
+                  "y": 169
+                },
+                {
+                  "h": 40,
+                  "w": 40,
+                  "x": 405,
+                  "y": 172
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 772,
+                  "y": 174
+                },
+                {
+                  "h": 48,
+                  "w": 48,
+                  "x": 710,
+                  "y": 106
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 562,
+                  "y": 81
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 454,
+                  "y": 62
+                },
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 405,
+                  "y": 116
+                },
+                {
+                  "h": 27,
+                  "w": 27,
+                  "x": 278,
+                  "y": 118
+                },
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 530,
+                  "y": 119
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 488,
+                  "y": 72
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 386,
+                  "y": 55
+                }
+              ]
+            }
+          },
+          "id": 1189232427954135040,
+          "id_str": "1189232427954135040",
+          "indices": [
+            271,
+            294
+          ],
+          "media_url": "http://pbs.twimg.com/media/EIEAl6eU4AAIhz0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EIEAl6eU4AAIhz0.jpg",
+          "sizes": {
+            "large": {
+              "h": 555,
+              "resize": "fit",
+              "w": 989
+            },
+            "medium": {
+              "h": 555,
+              "resize": "fit",
+              "w": 989
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0SfjeoCXTL"
+        }
+      ]
+    },
+    "favorite_count": 17925,
+    "favorited": false,
+    "full_text": "\ud83c\udf89\ud83c\udf7e Congratulations @GregGutfeldShow \n#1 show in cable news Saturday 18-49 &amp; 25-54 demos\nAlso 1.8M tuned in to the \"King Of Late Night\" \n\n@greggutfeld @KatTimpf @PlanetTyrus \n@joemachi &amp; @PeteHegseth \n\nWanna be part of the studio audience?\nhttps://t.co/dbwYCAQatZ https://t.co/0SfjeoCXTL",
+    "geo": null,
+    "id": 1189232933074280448,
+    "id_str": "1189232933074280448",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4871,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Sun Mar 08 00:02:04 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Keeping The Cable News World Honest",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 812,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 2105,
+      "following": false,
+      "friends_count": 510,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 3067264802,
+      "id_str": "3067264802",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 14,
+      "location": "NYC",
+      "name": "Cable News Watch",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3067264802/1554843041",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1108781976545312769/eG7Kfqff_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108781976545312769/eG7Kfqff_normal.png",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "CableNewsWatch",
+      "statuses_count": 2053,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66425535,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110361,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45705,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

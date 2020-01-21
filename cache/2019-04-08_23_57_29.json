@@ -1,0 +1,341 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 08 23:57:29 +0000 2019",
+  "display_text_range": [
+    0,
+    154
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/baylorwbb/stat\u2026",
+        "expanded_url": "https://twitter.com/baylorwbb/status/1115045592911228929",
+        "indices": [
+          155,
+          178
+        ],
+        "url": "https://t.co/cogqxFgnRn"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 44400,
+  "favorited": false,
+  "full_text": "Congratulations to the Baylor Lady Bears on their amazing win last night against Notre Dame to become the 2019 NCAA Women\u2019s Basketball National Champions! https://t.co/cogqxFgnRn",
+  "geo": null,
+  "id": 1115403322129883136,
+  "id_str": "1115403322129883136",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 08 00:16:00 +0000 2019",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            41,
+            47
+          ],
+          "text": "SicEm"
+        },
+        {
+          "indices": [
+            50,
+            54
+          ],
+          "text": "TTT"
+        },
+        {
+          "indices": [
+            57,
+            68
+          ],
+          "text": "wFinalFour"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Fvzf4kyKU6",
+          "expanded_url": "https://twitter.com/BaylorWBB/status/1115045592911228929/video/1",
+          "id": 1115044589814071296,
+          "id_str": "1115044589814071296",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1115044589814071296/img/6edOsVK8TdHF9Ugb.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1115044589814071296/img/6edOsVK8TdHF9Ugb.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Fvzf4kyKU6"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/Fvzf4kyKU6",
+          "expanded_url": "https://twitter.com/BaylorWBB/status/1115045592911228929/video/1",
+          "id": 1115044589814071296,
+          "id_str": "1115044589814071296",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1115044589814071296/img/6edOsVK8TdHF9Ugb.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1115044589814071296/img/6edOsVK8TdHF9Ugb.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Fvzf4kyKU6",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 5923,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1115044589814071296/vid/640x360/JAaiyllmQgCnknDZ.mp4?tag=11"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1115044589814071296/vid/320x180/l-7wCKx5iUENWfnI.mp4?tag=11"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1115044589814071296/vid/1280x720/J8FvglwiWQA6aWDq.mp4?tag=11"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1115044589814071296/pl/WRqwCobIt7ACMnQI.m3u8?tag=11"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 11544,
+    "favorited": false,
+    "full_text": "Your Lady Bears are National Champions!\n\n#SicEm | #TTT | #wFinalFour\n\n\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6 https://t.co/Fvzf4kyKU6",
+    "geo": null,
+    "id": 1115045592911228929,
+    "id_str": "1115045592911228929",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4071,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 20 16:14:32 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter account for three-time NCAA Champion (2005, 2012, 2019) \ud83c\udfc6\ud83c\udfc6\ud83c\udfc6Baylor Lady Bears.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BaylorBears.com",
+              "expanded_url": "http://BaylorBears.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5liWyYyIIs"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1610,
+      "follow_request_sent": false,
+      "followers_count": 40381,
+      "following": false,
+      "friends_count": 97,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 21409003,
+      "id_str": "21409003",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 253,
+      "location": "",
+      "name": "Baylor Lady Bears",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21409003/1537491926",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1042942843462078464/Q_k9bPGs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042942843462078464/Q_k9bPGs_normal.jpg",
+      "profile_link_color": "003015",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FDBC30",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "BaylorWBB",
+      "statuses_count": 13933,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/5liWyYyIIs",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1115045592911228929,
+  "quoted_status_id_str": "1115045592911228929",
+  "quoted_status_permalink": {
+    "display": "twitter.com/baylorwbb/stat\u2026",
+    "expanded": "https://twitter.com/baylorwbb/status/1115045592911228929",
+    "url": "https://t.co/cogqxFgnRn"
+  },
+  "retweet_count": 7802,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59600893,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101713,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41172,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 31 11:54:05 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1080870981877534720,
+        "id_str": "1080870981877534720",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Senator Mike Braun",
+        "screen_name": "SenatorBraun"
+      },
+      {
+        "id": 2968170376,
+        "id_str": "2968170376",
+        "indices": [
+          46,
+          55
+        ],
+        "name": "Senate Ag Committee",
+        "screen_name": "SenateAg"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenatorBraun: Representing Indiana on the @SenateAg Committee means it\u2019s so important to sit down with Hoosier farmers to dig into what\u2026",
+  "geo": null,
+  "id": 1167767510969737216,
+  "id_str": "1167767510969737216",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2107,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 29 14:41:52 +0000 2019",
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/K9kPnaJd7A",
+          "expanded_url": "https://twitter.com/SenatorBraun/status/1167084961528254466/photo/1",
+          "id": 1167084953814876161,
+          "id_str": "1167084953814876161",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDJRlP7WwAE0_2i.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDJRlP7WwAE0_2i.jpg",
+          "sizes": {
+            "large": {
+              "h": 1134,
+              "resize": "fit",
+              "w": 2015
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/K9kPnaJd7A"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2968170376,
+          "id_str": "2968170376",
+          "indices": [
+            28,
+            37
+          ],
+          "name": "Senate Ag Committee",
+          "screen_name": "SenateAg"
+        },
+        {
+          "id": 61853389,
+          "id_str": "61853389",
+          "indices": [
+            191,
+            196
+          ],
+          "name": "Dept. of Agriculture",
+          "screen_name": "USDA"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/K9kPnaJd7A",
+          "expanded_url": "https://twitter.com/SenatorBraun/status/1167084961528254466/photo/1",
+          "id": 1167084953814876161,
+          "id_str": "1167084953814876161",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDJRlP7WwAE0_2i.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDJRlP7WwAE0_2i.jpg",
+          "sizes": {
+            "large": {
+              "h": 1134,
+              "resize": "fit",
+              "w": 2015
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/K9kPnaJd7A"
+        },
+        {
+          "display_url": "pic.twitter.com/K9kPnaJd7A",
+          "expanded_url": "https://twitter.com/SenatorBraun/status/1167084961528254466/photo/1",
+          "id": 1167084953814937600,
+          "id_str": "1167084953814937600",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDJRlP7XsAAQ9fi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDJRlP7XsAAQ9fi.jpg",
+          "sizes": {
+            "large": {
+              "h": 1151,
+              "resize": "fit",
+              "w": 2047
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/K9kPnaJd7A"
+        },
+        {
+          "display_url": "pic.twitter.com/K9kPnaJd7A",
+          "expanded_url": "https://twitter.com/SenatorBraun/status/1167084961528254466/photo/1",
+          "id": 1167084953814933505,
+          "id_str": "1167084953814933505",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDJRlP7XoAEuhxw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDJRlP7XoAEuhxw.jpg",
+          "sizes": {
+            "large": {
+              "h": 1134,
+              "resize": "fit",
+              "w": 2015
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/K9kPnaJd7A"
+        }
+      ]
+    },
+    "favorite_count": 9055,
+    "favorited": false,
+    "full_text": "Representing Indiana on the @SenateAg Committee means it\u2019s so important to sit down with Hoosier farmers to dig into what affects them every day - especially with international insights from @USDA Under Secretary for Trade &amp; Foreign Ag Affairs Ted McKinney. https://t.co/K9kPnaJd7A",
+    "geo": null,
+    "id": 1167084961528254466,
+    "id_str": "1167084961528254466",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -86.096551,
+              39.441909
+            ],
+            [
+              -86.010161,
+              39.441909
+            ],
+            [
+              -86.010161,
+              39.542581
+            ],
+            [
+              -86.096551,
+              39.542581
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Franklin, IN",
+      "id": "271351c1a7aca06e",
+      "name": "Franklin",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/271351c1a7aca06e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 2107,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 03 16:58:18 +0000 2019",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Main Street entrepreneur & Hoosier U.S. Senator from Jasper, IN.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "braun.senate.gov",
+              "expanded_url": "http://braun.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ChBgzUcPIG"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9,
+      "follow_request_sent": false,
+      "followers_count": 6393,
+      "following": false,
+      "friends_count": 111,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1080870981877534720,
+      "id_str": "1080870981877534720",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 203,
+      "location": "Jasper, IN",
+      "name": "Senator Mike Braun",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080870981877534720/1560287247",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080872040184401924/tXytvVUd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080872040184401924/tXytvVUd_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SenatorBraun",
+      "statuses_count": 567,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/ChBgzUcPIG",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63788709,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107986,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43935,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

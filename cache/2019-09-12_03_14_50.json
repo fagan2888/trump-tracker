@@ -1,0 +1,491 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Sep 12 03:14:50 +0000 2019",
+  "display_text_range": [
+    0,
+    83
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/toddstarnes/st\u2026",
+        "expanded_url": "https://twitter.com/toddstarnes/status/1171403760771436544",
+        "indices": [
+          60,
+          83
+        ],
+        "url": "https://t.co/zPnh5p82do"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 75541946,
+        "id_str": "75541946",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Lara Trump",
+        "screen_name": "LaraLeaTrump"
+      },
+      {
+        "id": 15515169,
+        "id_str": "15515169",
+        "indices": [
+          44,
+          56
+        ],
+        "name": "toddstarnes",
+        "screen_name": "toddstarnes"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LaraLeaTrump: Congrats on the new book, @toddstarnes \ud83c\uddfa\ud83c\uddf8 https://t.co/zPnh5p82do",
+  "geo": null,
+  "id": 1171985492377776128,
+  "id_str": "1171985492377776128",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1171403760771436544,
+  "quoted_status_id_str": "1171403760771436544",
+  "quoted_status_permalink": {
+    "display": "twitter.com/toddstarnes/st\u2026",
+    "expanded": "https://twitter.com/toddstarnes/status/1171403760771436544",
+    "url": "https://t.co/zPnh5p82do"
+  },
+  "retweet_count": 1776,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 10 17:14:44 +0000 2019",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/toddstarnes/st\u2026",
+          "expanded_url": "https://twitter.com/toddstarnes/status/1171403760771436544",
+          "indices": [
+            42,
+            65
+          ],
+          "url": "https://t.co/zPnh5p82do"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 15515169,
+          "id_str": "15515169",
+          "indices": [
+            26,
+            38
+          ],
+          "name": "toddstarnes",
+          "screen_name": "toddstarnes"
+        }
+      ]
+    },
+    "favorite_count": 6736,
+    "favorited": false,
+    "full_text": "Congrats on the new book, @toddstarnes \ud83c\uddfa\ud83c\uddf8 https://t.co/zPnh5p82do",
+    "geo": null,
+    "id": 1171472084431597568,
+    "id_str": "1171472084431597568",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -74.026675,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.877483
+            ],
+            [
+              -74.026675,
+              40.877483
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Manhattan, NY",
+      "id": "01a9a39529b27f36",
+      "name": "Manhattan",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Sep 10 12:43:14 +0000 2019",
+      "display_text_range": [
+        0,
+        147
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              103,
+              116
+            ],
+            "text": "CultureJihad"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dBVIozdnZw",
+            "expanded_url": "https://twitter.com/toddstarnes/status/1171403760771436544/photo/1",
+            "id": 1171403384378789888,
+            "id_str": "1171403384378789888",
+            "indices": [
+              148,
+              171
+            ],
+            "media_url": "http://pbs.twimg.com/media/EEGpK_aWkAAZf95.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EEGpK_aWkAAZf95.jpg",
+            "sizes": {
+              "large": {
+                "h": 480,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 480,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 480,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dBVIozdnZw"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "amzn.to/32AgDHf",
+            "expanded_url": "https://amzn.to/32AgDHf",
+            "indices": [
+              124,
+              147
+            ],
+            "url": "https://t.co/oXw4OkG96F"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              11,
+              27
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dBVIozdnZw",
+            "expanded_url": "https://twitter.com/toddstarnes/status/1171403760771436544/photo/1",
+            "id": 1171403384378789888,
+            "id_str": "1171403384378789888",
+            "indices": [
+              148,
+              171
+            ],
+            "media_url": "http://pbs.twimg.com/media/EEGpK_aWkAAZf95.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EEGpK_aWkAAZf95.jpg",
+            "sizes": {
+              "large": {
+                "h": 480,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 480,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 480,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dBVIozdnZw"
+          }
+        ]
+      },
+      "favorite_count": 374,
+      "favorited": false,
+      "full_text": "Thank you, @realDonaldTrump, for defending religious liberty and standing up to the socialists.  Order #CultureJihad today: https://t.co/oXw4OkG96F https://t.co/dBVIozdnZw",
+      "geo": null,
+      "id": 1171403760771436544,
+      "id_str": "1171403760771436544",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 166,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 21 14:09:17 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fox News Channel #StarnesCountry #MAGA #ToddStarnesRadioShow",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toddstarnes.com",
+                "expanded_url": "http://www.toddstarnes.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/DYS5t6aIfE"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4186,
+        "follow_request_sent": false,
+        "followers_count": 107621,
+        "following": false,
+        "friends_count": 13863,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 15515169,
+        "id_str": "15515169",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2349,
+        "location": "New York, NY",
+        "name": "toddstarnes",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15515169/1560440829",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1133030176055599105/O1ILMZmZ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133030176055599105/O1ILMZmZ_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "toddstarnes",
+        "statuses_count": 68699,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/DYS5t6aIfE",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1171403760771436544,
+    "quoted_status_id_str": "1171403760771436544",
+    "quoted_status_permalink": {
+      "display": "twitter.com/toddstarnes/st\u2026",
+      "expanded": "https://twitter.com/toddstarnes/status/1171403760771436544",
+      "url": "https://t.co/zPnh5p82do"
+    },
+    "retweet_count": 1776,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Sep 19 12:49:26 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "NC girl in NYC #MAGA",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com",
+              "expanded_url": "http://www.donaldjtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/XjVAWvUQuR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5830,
+      "follow_request_sent": false,
+      "followers_count": 610302,
+      "following": false,
+      "friends_count": 479,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 75541946,
+      "id_str": "75541946",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1845,
+      "location": "New York City",
+      "name": "Lara Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/75541946/1535755233",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1035658620246077440/ZDmmMCxQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035658620246077440/ZDmmMCxQ_normal.jpg",
+      "profile_link_color": "B300A7",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LaraLeaTrump",
+      "statuses_count": 3343,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/XjVAWvUQuR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 64213430,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108384,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44240,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

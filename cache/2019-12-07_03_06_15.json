@@ -1,0 +1,755 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 07 03:06:15 +0000 2019",
+  "display_text_range": [
+    0,
+    143
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          28,
+          32
+        ],
+        "text": "ICC"
+      },
+      {
+        "indices": [
+          111,
+          120
+        ],
+        "text": "American"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 171632862,
+        "id_str": "171632862",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Jay Sekulow",
+        "screen_name": "JaySekulow"
+      },
+      {
+        "id": 20791372,
+        "id_str": "20791372",
+        "indices": [
+          53,
+          58
+        ],
+        "name": "ACLJ",
+        "screen_name": "ACLJ"
+      },
+      {
+        "id": 272049596,
+        "id_str": "272049596",
+        "indices": [
+          65,
+          70
+        ],
+        "name": "Cristina Jacinto",
+        "screen_name": "eclj"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JaySekulow: I am at the #ICC with members of the @ACLJ &amp; @ECLJ\u2019s legal team to defend the interests of #American soldiers.\n\nOur heroes\u2026",
+  "geo": null,
+  "id": 1203148690560552960,
+  "id_str": "1203148690560552960",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2697,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 06 16:19:56 +0000 2019",
+    "display_text_range": [
+      0,
+      242
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            12,
+            16
+          ],
+          "text": "ICC"
+        },
+        {
+          "indices": [
+            95,
+            104
+          ],
+          "text": "American"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iQVAjFsT2B",
+          "expanded_url": "https://twitter.com/JaySekulow/status/1202986038777565186/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 138,
+                  "w": 138,
+                  "x": 326,
+                  "y": 334
+                },
+                {
+                  "h": 142,
+                  "w": 142,
+                  "x": 976,
+                  "y": 376
+                },
+                {
+                  "h": 130,
+                  "w": 130,
+                  "x": 1312,
+                  "y": 382
+                },
+                {
+                  "h": 158,
+                  "w": 158,
+                  "x": 1612,
+                  "y": 276
+                },
+                {
+                  "h": 144,
+                  "w": 144,
+                  "x": 628,
+                  "y": 310
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 191,
+                  "y": 195
+                },
+                {
+                  "h": 83,
+                  "w": 83,
+                  "x": 571,
+                  "y": 220
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 768,
+                  "y": 223
+                },
+                {
+                  "h": 92,
+                  "w": 92,
+                  "x": 944,
+                  "y": 161
+                },
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 367,
+                  "y": 181
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 138,
+                  "w": 138,
+                  "x": 326,
+                  "y": 334
+                },
+                {
+                  "h": 142,
+                  "w": 142,
+                  "x": 976,
+                  "y": 376
+                },
+                {
+                  "h": 130,
+                  "w": 130,
+                  "x": 1312,
+                  "y": 382
+                },
+                {
+                  "h": 158,
+                  "w": 158,
+                  "x": 1612,
+                  "y": 276
+                },
+                {
+                  "h": 144,
+                  "w": 144,
+                  "x": 628,
+                  "y": 310
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 108,
+                  "y": 110
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 324,
+                  "y": 124
+                },
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 435,
+                  "y": 126
+                },
+                {
+                  "h": 52,
+                  "w": 52,
+                  "x": 535,
+                  "y": 91
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 208,
+                  "y": 102
+                }
+              ]
+            }
+          },
+          "id": 1202986032297324545,
+          "id_str": "1202986032297324545",
+          "indices": [
+            243,
+            266
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELHdbDTWsAEA4xw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELHdbDTWsAEA4xw.jpg",
+          "sizes": {
+            "large": {
+              "h": 1138,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 667,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 378,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iQVAjFsT2B"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 20791372,
+          "id_str": "20791372",
+          "indices": [
+            37,
+            42
+          ],
+          "name": "ACLJ",
+          "screen_name": "ACLJ"
+        },
+        {
+          "id": 272049596,
+          "id_str": "272049596",
+          "indices": [
+            49,
+            54
+          ],
+          "name": "Cristina Jacinto",
+          "screen_name": "eclj"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iQVAjFsT2B",
+          "expanded_url": "https://twitter.com/JaySekulow/status/1202986038777565186/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 138,
+                  "w": 138,
+                  "x": 326,
+                  "y": 334
+                },
+                {
+                  "h": 142,
+                  "w": 142,
+                  "x": 976,
+                  "y": 376
+                },
+                {
+                  "h": 130,
+                  "w": 130,
+                  "x": 1312,
+                  "y": 382
+                },
+                {
+                  "h": 158,
+                  "w": 158,
+                  "x": 1612,
+                  "y": 276
+                },
+                {
+                  "h": 144,
+                  "w": 144,
+                  "x": 628,
+                  "y": 310
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 191,
+                  "y": 195
+                },
+                {
+                  "h": 83,
+                  "w": 83,
+                  "x": 571,
+                  "y": 220
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 768,
+                  "y": 223
+                },
+                {
+                  "h": 92,
+                  "w": 92,
+                  "x": 944,
+                  "y": 161
+                },
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 367,
+                  "y": 181
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 138,
+                  "w": 138,
+                  "x": 326,
+                  "y": 334
+                },
+                {
+                  "h": 142,
+                  "w": 142,
+                  "x": 976,
+                  "y": 376
+                },
+                {
+                  "h": 130,
+                  "w": 130,
+                  "x": 1312,
+                  "y": 382
+                },
+                {
+                  "h": 158,
+                  "w": 158,
+                  "x": 1612,
+                  "y": 276
+                },
+                {
+                  "h": 144,
+                  "w": 144,
+                  "x": 628,
+                  "y": 310
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 108,
+                  "y": 110
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 324,
+                  "y": 124
+                },
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 435,
+                  "y": 126
+                },
+                {
+                  "h": 52,
+                  "w": 52,
+                  "x": 535,
+                  "y": 91
+                },
+                {
+                  "h": 47,
+                  "w": 47,
+                  "x": 208,
+                  "y": 102
+                }
+              ]
+            }
+          },
+          "id": 1202986032297324545,
+          "id_str": "1202986032297324545",
+          "indices": [
+            243,
+            266
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELHdbDTWsAEA4xw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELHdbDTWsAEA4xw.jpg",
+          "sizes": {
+            "large": {
+              "h": 1138,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 667,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 378,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iQVAjFsT2B"
+        },
+        {
+          "display_url": "pic.twitter.com/iQVAjFsT2B",
+          "expanded_url": "https://twitter.com/JaySekulow/status/1202986038777565186/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 195,
+                  "w": 195,
+                  "x": 1275,
+                  "y": 245
+                },
+                {
+                  "h": 248,
+                  "w": 248,
+                  "x": 656,
+                  "y": 232
+                },
+                {
+                  "h": 254,
+                  "w": 254,
+                  "x": 143,
+                  "y": 112
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 146,
+                  "w": 146,
+                  "x": 956,
+                  "y": 183
+                },
+                {
+                  "h": 186,
+                  "w": 186,
+                  "x": 492,
+                  "y": 174
+                },
+                {
+                  "h": 190,
+                  "w": 190,
+                  "x": 107,
+                  "y": 84
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 195,
+                  "w": 195,
+                  "x": 1275,
+                  "y": 245
+                },
+                {
+                  "h": 248,
+                  "w": 248,
+                  "x": 656,
+                  "y": 232
+                },
+                {
+                  "h": 254,
+                  "w": 254,
+                  "x": 143,
+                  "y": 112
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 541,
+                  "y": 104
+                },
+                {
+                  "h": 105,
+                  "w": 105,
+                  "x": 278,
+                  "y": 98
+                },
+                {
+                  "h": 107,
+                  "w": 107,
+                  "x": 60,
+                  "y": 47
+                }
+              ]
+            }
+          },
+          "id": 1202986032293142529,
+          "id_str": "1202986032293142529",
+          "indices": [
+            243,
+            266
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELHdbDSW4AEMl32.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELHdbDSW4AEMl32.jpg",
+          "sizes": {
+            "large": {
+              "h": 1086,
+              "resize": "fit",
+              "w": 1600
+            },
+            "medium": {
+              "h": 815,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 462,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iQVAjFsT2B"
+        }
+      ]
+    },
+    "favorite_count": 7622,
+    "favorited": false,
+    "full_text": "I am at the #ICC with members of the @ACLJ &amp; @ECLJ\u2019s legal team to defend the interests of #American soldiers.\n\nOur heroes are being attacked - not with weapons, but with threats of legal action from a body with no jurisdiction over them. https://t.co/iQVAjFsT2B",
+    "geo": null,
+    "id": 1202986038777565186,
+    "id_str": "1202986038777565186",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2697,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jul 27 20:18:48 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Chief Counsel @ACLJ. #1 NY Times Best Selling author. #RiseofISIS & #Undemocratic. Dedicated to defending the #Constitution.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "aclj.us/JerusalemBook",
+              "expanded_url": "https://aclj.us/JerusalemBook",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bRW2rERYpi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 187,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 407107,
+      "following": false,
+      "friends_count": 163,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 171632862,
+      "id_str": "171632862",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1956,
+      "location": "Washington, DC",
+      "name": "Jay Sekulow",
+      "notifications": false,
+      "profile_background_color": "ECE6DA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/171632862/1490129455",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590952848990478336/rdaLnb0e_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590952848990478336/rdaLnb0e_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E5DCD3",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JaySekulow",
+      "statuses_count": 13961,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/bRW2rERYpi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67309429,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111079,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46700,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

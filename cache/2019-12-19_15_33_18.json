@@ -1,0 +1,323 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 15:33:18 +0000 2019",
+  "display_text_range": [
+    0,
+    104
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/msnbc/status/1\u2026",
+        "expanded_url": "https://twitter.com/msnbc/status/1207411432565956609",
+        "indices": [
+          105,
+          128
+        ],
+        "url": "https://t.co/KpaWqpStpP"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 46182,
+  "favorited": false,
+  "full_text": "Our great Congressman Gohmert is a TRUE patriot fighting back against people that must hate our Country! https://t.co/KpaWqpStpP",
+  "geo": null,
+  "id": 1207685345225129985,
+  "id_str": "1207685345225129985",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 18 21:24:52 +0000 2019",
+    "display_text_range": [
+      0,
+      262
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2Jo3018Uw3",
+          "expanded_url": "https://twitter.com/MSNBC/status/1207411432565956609/video/1",
+          "features": {},
+          "id": 1207411236360654851,
+          "id_str": "1207411236360654851",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMGWS26W4AEKBS1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMGWS26W4AEKBS1.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2Jo3018Uw3"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "embeddable": true,
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/2Jo3018Uw3",
+          "expanded_url": "https://twitter.com/MSNBC/status/1207411432565956609/video/1",
+          "features": {},
+          "id": 1207411236360654851,
+          "id_str": "1207411236360654851",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMGWS26W4AEKBS1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMGWS26W4AEKBS1.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/2Jo3018Uw3",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 96678,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1207411236360654851/pl/HTKn_sdt9rWF97Ku.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1207411236360654851/vid/640x360/xJy2B1YyEpXvAejM.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1207411236360654851/vid/1280x720/potCosUAYFZ9zupD.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1207411236360654851/vid/480x270/vJkNNfyiVjWd8APk.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 7295,
+    "favorited": false,
+    "full_text": "WATCH: After Rep. Gohmert says Ukraine interfered in the 2016 election, Chairman Nadler says he's \"deeply concerned that any member of the House would spout Russian propaganda on the floor of the House.\"\n\nGohmert then re-approaches the dais to respond to Nadler. https://t.co/2Jo3018Uw3",
+    "geo": null,
+    "id": 1207411432565956609,
+    "id_str": "1207411432565956609",
+    "in_reply_to_screen_name": "MSNBC",
+    "in_reply_to_status_id": 1207392965913698305,
+    "in_reply_to_status_id_str": "1207392965913698305",
+    "in_reply_to_user_id": 2836421,
+    "in_reply_to_user_id_str": "2836421",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2928,
+    "retweeted": false,
+    "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 29 13:15:41 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The place for in-depth analysis, political commentary and informed perspectives.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "msnbc.com",
+              "expanded_url": "http://msnbc.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5TAF6ijWwt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 707,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 2828243,
+      "following": false,
+      "friends_count": 671,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2836421,
+      "id_str": "2836421",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 23422,
+      "location": "",
+      "name": "MSNBC",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836421/1562086301",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+      "profile_link_color": "0CB1C7",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MSNBC",
+      "statuses_count": 189805,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/5TAF6ijWwt",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1207411432565956609,
+  "quoted_status_id_str": "1207411432565956609",
+  "quoted_status_permalink": {
+    "display": "twitter.com/msnbc/status/1\u2026",
+    "expanded": "https://twitter.com/msnbc/status/1207411432565956609",
+    "url": "https://t.co/KpaWqpStpP"
+  },
+  "retweet_count": 13880,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

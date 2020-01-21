@@ -1,0 +1,342 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 17 19:27:38 +0000 2018",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/USNatArchives/\u2026",
+        "expanded_url": "https://twitter.com/USNatArchives/status/1041632865853890560",
+        "indices": [
+          24,
+          47
+        ],
+        "url": "https://t.co/9KiLowP3Hh"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 45147,
+  "favorited": false,
+  "full_text": "Happy Constitution Day! https://t.co/9KiLowP3Hh",
+  "geo": null,
+  "id": 1041770673218236416,
+  "id_str": "1041770673218236416",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 17 10:20:02 +0000 2018",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            6,
+            22
+          ],
+          "text": "ConstitutionDay"
+        },
+        {
+          "indices": [
+            46,
+            59
+          ],
+          "text": "Constitution"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CWRMA7Adoi",
+          "expanded_url": "https://twitter.com/USNatArchives/status/1041632865853890560/video/1",
+          "id": 1041631661128118273,
+          "id_str": "1041631661128118273",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1041631661128118273/pu/img/cKg69fzACX5A4B_V.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1041631661128118273/pu/img/cKg69fzACX5A4B_V.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1078
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1078
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CWRMA7Adoi"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 7152572,
+          "id_str": "7152572",
+          "indices": [
+            83,
+            99
+          ],
+          "name": "Library of Congress",
+          "screen_name": "librarycongress"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/CWRMA7Adoi",
+          "expanded_url": "https://twitter.com/USNatArchives/status/1041632865853890560/video/1",
+          "id": 1041631661128118273,
+          "id_str": "1041631661128118273",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1041631661128118273/pu/img/cKg69fzACX5A4B_V.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1041631661128118273/pu/img/cKg69fzACX5A4B_V.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1078
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1078
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/CWRMA7Adoi",
+          "video_info": {
+            "aspect_ratio": [
+              539,
+              360
+            ],
+            "duration_millis": 96797,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1041631661128118273/pu/vid/1078x720/n9k2zVChLWWI3qgd.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1041631661128118273/pu/pl/Cu1EhGzBgEQauv6i.m3u8?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1041631661128118273/pu/vid/538x360/qH5nLBWRu10YBKrB.mp4?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1041631661128118273/pu/vid/268x180/T-VmkTUs1Mtx38Vz.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 2788,
+    "favorited": false,
+    "full_text": "Happy #ConstitutionDay! Did you know that the #Constitution used to be part of the @librarycongress? https://t.co/CWRMA7Adoi",
+    "geo": null,
+    "id": 1041632865853890560,
+    "id_str": "1041632865853890560",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1616,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 04 16:35:04 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The nation's record keeper. Follow us for live tweeting of events, two-way conversations, and help with questions.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "archives.gov/social-media/t\u2026",
+              "expanded_url": "http://www.archives.gov/social-media/twitter.html",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/gjmniRBr5k"
+            }
+          ]
+        }
+      },
+      "favourites_count": 28049,
+      "follow_request_sent": false,
+      "followers_count": 175659,
+      "following": false,
+      "friends_count": 301,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 101802390,
+      "id_str": "101802390",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3377,
+      "location": "Washington, D.C.",
+      "name": "US National Archives",
+      "notifications": false,
+      "profile_background_color": "989582",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/101802390/1529612873",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963519859307892736/OOsXp_hr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963519859307892736/OOsXp_hr_normal.jpg",
+      "profile_link_color": "050E5D",
+      "profile_sidebar_border_color": "050E5D",
+      "profile_sidebar_fill_color": "D6E1E6",
+      "profile_text_color": "121212",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "USNatArchives",
+      "statuses_count": 32288,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/gjmniRBr5k",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1041632865853890560,
+  "quoted_status_id_str": "1041632865853890560",
+  "quoted_status_permalink": {
+    "display": "twitter.com/USNatArchives/\u2026",
+    "expanded": "https://twitter.com/USNatArchives/status/1041632865853890560",
+    "url": "https://t.co/9KiLowP3Hh"
+  },
+  "retweet_count": 12115,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54506072,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93702,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39003,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

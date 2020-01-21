@@ -1,0 +1,316 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 11 15:47:44 +0000 2019",
+  "display_text_range": [
+    0,
+    17
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/whitehousecea/\u2026",
+        "expanded_url": "https://twitter.com/whitehousecea/status/1182303821407670274",
+        "indices": [
+          18,
+          41
+        ],
+        "url": "https://t.co/dbc6AgzNPx"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 37864,
+  "favorited": false,
+  "full_text": "Really good news! https://t.co/dbc6AgzNPx",
+  "geo": null,
+  "id": 1182684215189614592,
+  "id_str": "1182684215189614592",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 10 14:36:11 +0000 2019",
+    "display_text_range": [
+      0,
+      272
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FYBqqH4Vmi",
+          "expanded_url": "https://twitter.com/WhiteHouseCEA/status/1182303821407670274/photo/1",
+          "id": 1182303818551369728,
+          "id_str": "1182303818551369728",
+          "indices": [
+            273,
+            296
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGhjDxFXoAAnBMe.png",
+          "media_url_https": "https://pbs.twimg.com/media/EGhjDxFXoAAnBMe.png",
+          "sizes": {
+            "large": {
+              "h": 359,
+              "resize": "fit",
+              "w": 585
+            },
+            "medium": {
+              "h": 359,
+              "resize": "fit",
+              "w": 585
+            },
+            "small": {
+              "h": 359,
+              "resize": "fit",
+              "w": 585
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FYBqqH4Vmi"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "whitehouse.gov/wp-content/upl\u2026",
+          "expanded_url": "https://www.whitehouse.gov/wp-content/uploads/2019/10/Measuring-Prescription-Drug-Prices-A-Primer-on-the-CPI-Prescription-Drug-Index.pdf",
+          "indices": [
+            249,
+            272
+          ],
+          "url": "https://t.co/9fUT3MhB2J"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            155,
+            171
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FYBqqH4Vmi",
+          "expanded_url": "https://twitter.com/WhiteHouseCEA/status/1182303821407670274/photo/1",
+          "id": 1182303818551369728,
+          "id_str": "1182303818551369728",
+          "indices": [
+            273,
+            296
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGhjDxFXoAAnBMe.png",
+          "media_url_https": "https://pbs.twimg.com/media/EGhjDxFXoAAnBMe.png",
+          "sizes": {
+            "large": {
+              "h": 359,
+              "resize": "fit",
+              "w": 585
+            },
+            "medium": {
+              "h": 359,
+              "resize": "fit",
+              "w": 585
+            },
+            "small": {
+              "h": 359,
+              "resize": "fit",
+              "w": 585
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FYBqqH4Vmi"
+        }
+      ]
+    },
+    "favorite_count": 2980,
+    "favorited": false,
+    "full_text": "Great news for American patients! Prescription drug prices FELL again last month and are now 2.3% below their peak. Increased generic drug approvals under @realDonaldTrump continue driving price reductions. Read our recent report on falling prices: https://t.co/9fUT3MhB2J https://t.co/FYBqqH4Vmi",
+    "geo": null,
+    "id": 1182303821407670274,
+    "id_str": "1182303821407670274",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1267,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 22 18:41:38 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Council of Economic Advisers | Tweets may be archived: https://t.co/ALEV9E9onn",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "WH.gov/privacy",
+              "expanded_url": "http://WH.gov/privacy",
+              "indices": [
+                55,
+                78
+              ],
+              "url": "https://t.co/ALEV9E9onn"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "whitehouse.gov/cea",
+              "expanded_url": "https://www.whitehouse.gov/cea",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/sPbfOAv1K8"
+            }
+          ]
+        }
+      },
+      "favourites_count": 21,
+      "follow_request_sent": false,
+      "followers_count": 16901,
+      "following": false,
+      "friends_count": 30,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 866725756025667584,
+      "id_str": "866725756025667584",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 192,
+      "location": "Washington, DC",
+      "name": "CEA",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/866725756025667584/1503586033",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/900729467349250051/oT0xhuSa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/900729467349250051/oT0xhuSa_normal.jpg",
+      "profile_link_color": "0C2644",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "WhiteHouseCEA",
+      "statuses_count": 820,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/sPbfOAv1K8",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1182303821407670274,
+  "quoted_status_id_str": "1182303821407670274",
+  "quoted_status_permalink": {
+    "display": "twitter.com/whitehousecea/\u2026",
+    "expanded": "https://twitter.com/whitehousecea/status/1182303821407670274",
+    "url": "https://t.co/dbc6AgzNPx"
+  },
+  "retweet_count": 10561,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65611493,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109762,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45125,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

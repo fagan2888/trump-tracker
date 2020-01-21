@@ -1,0 +1,296 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jun 17 02:18:01 +0000 2019",
+  "display_text_range": [
+    0,
+    44
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/netanyahu/stat\u2026",
+        "expanded_url": "https://twitter.com/netanyahu/status/1140301007840337921",
+        "indices": [
+          45,
+          68
+        ],
+        "url": "https://t.co/ozLz84g3i0"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 34843,
+  "favorited": false,
+  "full_text": "Thank you Mr. Prime Minister, a great honor! https://t.co/ozLz84g3i0",
+  "geo": null,
+  "id": 1140443450321657866,
+  "id_str": "1140443450321657866",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 16 16:52:00 +0000 2019",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/lvG8MJxtxq",
+          "expanded_url": "https://twitter.com/netanyahu/status/1140301007840337921/photo/1",
+          "id": 1140300608534134784,
+          "id_str": "1140300608534134784",
+          "indices": [
+            134,
+            157
+          ],
+          "media_url": "http://pbs.twimg.com/media/D9MpXKTWwAAhPvA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D9MpXKTWwAAhPvA.jpg",
+          "sizes": {
+            "large": {
+              "h": 1066,
+              "resize": "fit",
+              "w": 1600
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lvG8MJxtxq"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            95,
+            111
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/lvG8MJxtxq",
+          "expanded_url": "https://twitter.com/netanyahu/status/1140301007840337921/photo/1",
+          "id": 1140300608534134784,
+          "id_str": "1140300608534134784",
+          "indices": [
+            134,
+            157
+          ],
+          "media_url": "http://pbs.twimg.com/media/D9MpXKTWwAAhPvA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D9MpXKTWwAAhPvA.jpg",
+          "sizes": {
+            "large": {
+              "h": 1066,
+              "resize": "fit",
+              "w": 1600
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lvG8MJxtxq"
+        }
+      ]
+    },
+    "favorite_count": 7300,
+    "favorited": false,
+    "full_text": "Establishing a new community in the Golan Heights named after a friend of Israel, US President @realDonaldTrump. A historic day! \ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 https://t.co/lvG8MJxtxq",
+    "geo": null,
+    "id": 1140301007840337921,
+    "id_str": "1140301007840337921",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2253,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 30 06:40:51 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "\u05e8\u05d0\u05e9 \u05de\u05de\u05e9\u05dc\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d9\u05d5''\u05e8 \u05d4\u05dc\u05d9\u05db\u05d5\u05d3 \u2022 Prime Minister of Israel, Chairman of the Likud Party",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "netanyahu.org.il",
+              "expanded_url": "http://netanyahu.org.il",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QIxHzGNSzU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 41,
+      "follow_request_sent": false,
+      "followers_count": 1616479,
+      "following": false,
+      "friends_count": 34,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 17061263,
+      "id_str": "17061263",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7950,
+      "location": "Israel",
+      "name": "Benjamin Netanyahu",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17061263/1544556355",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096353845809238016/ds_-S78p_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096353845809238016/ds_-S78p_normal.jpg",
+      "profile_link_color": "32A0FA",
+      "profile_sidebar_border_color": "9E9E9E",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "4D4D4D",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "netanyahu",
+      "statuses_count": 4720,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/QIxHzGNSzU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1140301007840337921,
+  "quoted_status_id_str": "1140301007840337921",
+  "quoted_status_permalink": {
+    "display": "twitter.com/netanyahu/stat\u2026",
+    "expanded": "https://twitter.com/netanyahu/status/1140301007840337921",
+    "url": "https://t.co/ozLz84g3i0"
+  },
+  "retweet_count": 8027,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61067972,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104199,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559860593",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42435,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

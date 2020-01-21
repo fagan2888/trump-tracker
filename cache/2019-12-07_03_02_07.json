@@ -1,0 +1,425 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 07 03:02:07 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2312829909,
+        "id_str": "2312829909",
+        "indices": [
+          3,
+          9
+        ],
+        "name": "CQ Now",
+        "screen_name": "CQnow"
+      },
+      {
+        "id": 1060487274,
+        "id_str": "1060487274",
+        "indices": [
+          35,
+          50
+        ],
+        "name": "Rep. Doug Collins",
+        "screen_name": "RepDougCollins"
+      },
+      {
+        "id": 818948638890217473,
+        "id_str": "818948638890217473",
+        "indices": [
+          55,
+          68
+        ],
+        "name": "Rep. Matt Gaetz",
+        "screen_name": "RepMattGaetz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CQnow: House Judiciary members\u00a0@RepDougCollins and\u00a0@RepMattGaetz huddle before the start of the panel's hearing on the impeachment inqu\u2026",
+  "geo": null,
+  "id": 1203147647512653824,
+  "id_str": "1203147647512653824",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1750,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 07 02:45:00 +0000 2019",
+    "display_text_range": [
+      0,
+      171
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            156,
+            171
+          ],
+          "text": "PhotosotheWeek"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/7PTmfIESMg",
+          "expanded_url": "https://twitter.com/CQnow/status/1203143340071350273/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 90,
+                  "y": 189
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 90,
+                  "y": 189
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 90,
+                  "y": 189
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 90,
+                  "y": 189
+                }
+              ]
+            }
+          },
+          "id": 1203045307594006528,
+          "id_str": "1203045307594006528",
+          "indices": [
+            172,
+            195
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELITVU_XYAALB4J.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELITVU_XYAALB4J.jpg",
+          "sizes": {
+            "large": {
+              "h": 400,
+              "resize": "fit",
+              "w": 600
+            },
+            "medium": {
+              "h": 400,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 400,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/7PTmfIESMg"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1060487274,
+          "id_str": "1060487274",
+          "indices": [
+            24,
+            39
+          ],
+          "name": "Rep. Doug Collins",
+          "screen_name": "RepDougCollins"
+        },
+        {
+          "id": 818948638890217473,
+          "id_str": "818948638890217473",
+          "indices": [
+            44,
+            57
+          ],
+          "name": "Rep. Matt Gaetz",
+          "screen_name": "RepMattGaetz"
+        },
+        {
+          "id": 22830647,
+          "id_str": "22830647",
+          "indices": [
+            139,
+            155
+          ],
+          "name": "Bill Clark",
+          "screen_name": "billclarkphotos"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/7PTmfIESMg",
+          "expanded_url": "https://twitter.com/CQnow/status/1203143340071350273/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 90,
+                  "y": 189
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 90,
+                  "y": 189
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 90,
+                  "y": 189
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 88,
+                  "w": 88,
+                  "x": 90,
+                  "y": 189
+                }
+              ]
+            }
+          },
+          "id": 1203045307594006528,
+          "id_str": "1203045307594006528",
+          "indices": [
+            172,
+            195
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELITVU_XYAALB4J.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELITVU_XYAALB4J.jpg",
+          "sizes": {
+            "large": {
+              "h": 400,
+              "resize": "fit",
+              "w": 600
+            },
+            "medium": {
+              "h": 400,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 400,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/7PTmfIESMg"
+        }
+      ]
+    },
+    "favorite_count": 6565,
+    "favorited": false,
+    "full_text": "House Judiciary members\u00a0@RepDougCollins and\u00a0@RepMattGaetz huddle before the start of the panel's hearing on the impeachment inquiry.\n\n\ud83d\udcf8 by\u00a0@billclarkphotos #PhotosotheWeek https://t.co/7PTmfIESMg",
+    "geo": null,
+    "id": 1203143340071350273,
+    "id_str": "1203143340071350273",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1750,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 29 22:05:04 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News and intelligence from the CQ newsroom \u2014 placing you inside the halls of the Capitol one tweet at a time.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "info.cq.com",
+              "expanded_url": "http://info.cq.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ixDnaOqOau"
+            }
+          ]
+        }
+      },
+      "favourites_count": 710,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 20275,
+      "following": false,
+      "friends_count": 3626,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2312829909,
+      "id_str": "2312829909",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 820,
+      "location": "Washington, D.C.",
+      "name": "CQ Now",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2312829909/1475185212",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/918180859278176256/YFfHps2g_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/918180859278176256/YFfHps2g_normal.jpg",
+      "profile_link_color": "91D2FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "CQnow",
+      "statuses_count": 75262,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/ixDnaOqOau",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67309429,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111079,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46700,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

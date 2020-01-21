@@ -1,0 +1,404 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jul 28 18:18:43 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21439144,
+        "id_str": "21439144",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Katie Hopkins",
+        "screen_name": "KTHopkins"
+      },
+      {
+        "id": 22197119,
+        "id_str": "22197119",
+        "indices": [
+          87,
+          103
+        ],
+        "name": "Baltimore Police",
+        "screen_name": "BaltimorePolice"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KTHopkins: Trump: Baltimore is a violent place. \n\n(Highest homicide rate in USA /  @BaltimorePolice civilian employee assaulted in stre\u2026",
+  "geo": null,
+  "id": 1155543119691206657,
+  "id_str": "1155543119691206657",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 13103,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 28 07:19:22 +0000 2019",
+    "display_text_range": [
+      0,
+      264
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            223,
+            238
+          ],
+          "text": "WeAreBaltimore"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DOWFv6WKq5",
+          "expanded_url": "https://twitter.com/ATFBaltimore/status/1154594791994343424/video/1",
+          "id": 1154594349231030272,
+          "id_str": "1154594349231030272",
+          "indices": [
+            241,
+            264
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1154594349231030272/pu/img/Z2g67oUfcYeBXcja.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1154594349231030272/pu/img/Z2g67oUfcYeBXcja.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1154594791994343424,
+          "source_status_id_str": "1154594791994343424",
+          "source_user_id": 950492691183304705,
+          "source_user_id_str": "950492691183304705",
+          "type": "photo",
+          "url": "https://t.co/DOWFv6WKq5"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 22197119,
+          "id_str": "22197119",
+          "indices": [
+            72,
+            88
+          ],
+          "name": "Baltimore Police",
+          "screen_name": "BaltimorePolice"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Jan 08 22:21:31 +0000 2018",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Official account for ATF's Baltimore Field Division, covering the states of Maryland and Delaware. 888-ATF-TIPS https://t.co/PZjyNIcqhj",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "justice.gov/doj/privacy-po\u2026",
+                      "expanded_url": "http://www.justice.gov/doj/privacy-policy",
+                      "indices": [
+                        112,
+                        135
+                      ],
+                      "url": "https://t.co/PZjyNIcqhj"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "atf.gov/baltimore-fiel\u2026",
+                      "expanded_url": "http://atf.gov/baltimore-field-division",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/DPnNt4Ph12"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 1293,
+              "follow_request_sent": false,
+              "followers_count": 1806,
+              "following": false,
+              "friends_count": 261,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 950492691183304705,
+              "id_str": "950492691183304705",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 56,
+              "location": "Baltimore, MD",
+              "name": "ATF Baltimore",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/950492691183304705/1557434346",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1032292344421404672/FiE6Ufun_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032292344421404672/FiE6Ufun_normal.jpg",
+              "profile_link_color": "FF691F",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "ATFBaltimore",
+              "statuses_count": 488,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/DPnNt4Ph12",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/DOWFv6WKq5",
+          "expanded_url": "https://twitter.com/ATFBaltimore/status/1154594791994343424/video/1",
+          "id": 1154594349231030272,
+          "id_str": "1154594349231030272",
+          "indices": [
+            241,
+            264
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1154594349231030272/pu/img/Z2g67oUfcYeBXcja.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1154594349231030272/pu/img/Z2g67oUfcYeBXcja.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1154594791994343424,
+          "source_status_id_str": "1154594791994343424",
+          "source_user_id": 950492691183304705,
+          "source_user_id_str": "950492691183304705",
+          "type": "video",
+          "url": "https://t.co/DOWFv6WKq5",
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              3
+            ],
+            "duration_millis": 49650,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1154594349231030272/pu/vid/960x720/qsAOSDj8Kq75eRYt.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1154594349231030272/pu/vid/360x270/qZIQx_y7G-PmrLw1.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1154594349231030272/pu/pl/JipYqwh6xRSgWVSQ.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1154594349231030272/pu/vid/480x360/C6_Plww6fR5aIVHa.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 29781,
+    "favorited": false,
+    "full_text": "Trump: Baltimore is a violent place. \n\n(Highest homicide rate in USA /  @BaltimorePolice civilian employee assaulted in street/ proper sh*thole)\n\nThe left: \n\nTweet a close up pic of a flower / share a hashtag. Feel better. #WeAreBaltimore\n\n https://t.co/DOWFv6WKq5",
+    "geo": null,
+    "id": 1155377191091408896,
+    "id_str": "1155377191091408896",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13103,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 20 22:01:54 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Milo\u2019s Mum. The Female Farage. Angry Ellen de Generes. The Biggest Bitch in Britain. katie@katiehopkins.co.uk",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 91,
+      "follow_request_sent": false,
+      "followers_count": 972168,
+      "following": false,
+      "friends_count": 86,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 21439144,
+      "id_str": "21439144",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3452,
+      "location": "",
+      "name": "Katie Hopkins",
+      "notifications": false,
+      "profile_background_color": "FF33CC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21439144/1559069376",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/915081489573974016/esP5WVn-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/915081489573974016/esP5WVn-_normal.jpg",
+      "profile_link_color": "0004FA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "00CCFF",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KTHopkins",
+      "statuses_count": 50512,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62400172,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105931,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43201,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

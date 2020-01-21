@@ -1,0 +1,379 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 10 12:50:06 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          37
+        ],
+        "text": "HurricaneMichael"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 160946337,
+        "id_str": "160946337",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "The FAA",
+        "screen_name": "FAANews"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FAANews: Due to #HurricaneMichael, flights in your area could be delayed and possibly cancelled. Please continue to check the status of\u2026",
+  "geo": null,
+  "id": 1050005552443609088,
+  "id_str": "1050005552443609088",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1049757555537440769,
+  "quoted_status_id_str": "1049757555537440769",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NYCAviation/st\u2026",
+    "expanded": "https://twitter.com/NYCAviation/status/1049757555537440769",
+    "url": "https://t.co/GfBQTE5LF4"
+  },
+  "retweet_count": 2520,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 09 20:37:53 +0000 2018",
+    "display_text_range": [
+      0,
+      254
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            7,
+            24
+          ],
+          "text": "HurricaneMichael"
+        },
+        {
+          "indices": [
+            234,
+            242
+          ],
+          "text": "FlySafe"
+        },
+        {
+          "indices": [
+            243,
+            254
+          ],
+          "text": "TravelSafe"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "Fly.FAA.gov",
+          "expanded_url": "http://www.Fly.FAA.gov",
+          "indices": [
+            209,
+            232
+          ],
+          "url": "https://t.co/TUgXxG0jZc"
+        },
+        {
+          "display_url": "twitter.com/NYCAviation/st\u2026",
+          "expanded_url": "https://twitter.com/NYCAviation/status/1049757555537440769",
+          "indices": [
+            255,
+            278
+          ],
+          "url": "https://t.co/GfBQTE5LF4"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 9792,
+    "favorited": false,
+    "full_text": "Due to #HurricaneMichael, flights in your area could be delayed and possibly cancelled. Please continue to check the status of your flight with your airline. You can also check the status of major airports at https://t.co/TUgXxG0jZc. #FlySafe #TravelSafe https://t.co/GfBQTE5LF4",
+    "geo": null,
+    "id": 1049760885215043586,
+    "id_str": "1049760885215043586",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Oct 09 20:24:39 +0000 2018",
+      "display_text_range": [
+        0,
+        228
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              34,
+              51
+            ],
+            "text": "HurricaneMichael"
+          },
+          {
+            "indices": [
+              210,
+              217
+            ],
+            "text": "AvGeek"
+          },
+          {
+            "indices": [
+              218,
+              228
+            ],
+            "text": "Hurricane"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 39,
+      "favorited": false,
+      "full_text": "Many airlines have expanded their #HurricaneMichael weather waivers to include inland and east coast airports, however the list varies widely from airline to airline for airports outside the Florida Panhandle. #AvGeek #Hurricane",
+      "geo": null,
+      "id": 1049757555537440769,
+      "id_str": "1049757555537440769",
+      "in_reply_to_screen_name": "NYCAviation",
+      "in_reply_to_status_id": 1049754700629909507,
+      "in_reply_to_status_id_str": "1049754700629909507",
+      "in_reply_to_user_id": 51381252,
+      "in_reply_to_user_id_str": "51381252",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 31,
+      "retweeted": false,
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 27 07:53:20 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Educating & entertaining on all things aviation: news, analysis, consulting, photos, planespotting, weather & travel updates, beyond NYC! RIP EIC @MattMolnar.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nycaviation.com",
+                "expanded_url": "http://nycaviation.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/TocV5hjs7L"
+              }
+            ]
+          }
+        },
+        "favourites_count": 5467,
+        "follow_request_sent": false,
+        "followers_count": 56376,
+        "following": false,
+        "friends_count": 2472,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51381252,
+        "id_str": "51381252",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1772,
+        "location": "Headquartered in New York, NY",
+        "name": "NYCAviation",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51381252/1475544112",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1853372923/nyca-square-blurb_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1853372923/nyca-square-blurb_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NYCAviation",
+        "statuses_count": 39086,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/TocV5hjs7L",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1049757555537440769,
+    "quoted_status_id_str": "1049757555537440769",
+    "quoted_status_permalink": {
+      "display": "twitter.com/NYCAviation/st\u2026",
+      "expanded": "https://twitter.com/NYCAviation/status/1049757555537440769",
+      "url": "https://t.co/GfBQTE5LF4"
+    },
+    "retweet_count": 2520,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 29 15:04:53 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Welcome to the official twitter account of the Federal Aviation Administration. Following or RT does not mean endorsement.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "faa.gov",
+              "expanded_url": "http://www.faa.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bu7hc8Ln7O"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2691,
+      "follow_request_sent": false,
+      "followers_count": 275313,
+      "following": false,
+      "friends_count": 1256,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 160946337,
+      "id_str": "160946337",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3275,
+      "location": "Washington, D.C.",
+      "name": "The FAA",
+      "notifications": false,
+      "profile_background_color": "0097D7",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/160946337/1401551477",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/775690421309739009/004I2jDO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/775690421309739009/004I2jDO_normal.jpg",
+      "profile_link_color": "006FB9",
+      "profile_sidebar_border_color": "A5ACAF",
+      "profile_sidebar_fill_color": "E2E4E4",
+      "profile_text_color": "37424A",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FAANews",
+      "statuses_count": 10589,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/bu7hc8Ln7O",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 55028490,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39236,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

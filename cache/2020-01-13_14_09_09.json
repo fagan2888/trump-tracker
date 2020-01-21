@@ -1,0 +1,451 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jan 13 14:09:09 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 4791119002,
+        "id_str": "4791119002",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Mohammad Mozafari",
+        "screen_name": "mohmd_mozafari"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @mohmd_mozafari: \ud83d\udd34The Iranian people are being killed in the streets by the Islamic Republic, but Nancy Pelosi in the USA supports those\u2026",
+  "geo": null,
+  "id": 1216723865352704000,
+  "id_str": "1216723865352704000",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1216378286592360453,
+  "quoted_status_id_str": "1216378286592360453",
+  "quoted_status_permalink": {
+    "display": "twitter.com/RNCResearch/st\u2026",
+    "expanded": "https://twitter.com/RNCResearch/status/1216378286592360453",
+    "url": "https://t.co/gGCyoLYkYX"
+  },
+  "retweet_count": 14312,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 13 11:20:09 +0000 2020",
+    "display_text_range": [
+      0,
+      176
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            156,
+            176
+          ],
+          "text": "NancyPelosiFakeNews"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/RNCResearch/st\u2026",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1216378286592360453",
+          "indices": [
+            177,
+            200
+          ],
+          "url": "https://t.co/gGCyoLYkYX"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 36130,
+    "favorited": false,
+    "full_text": "\ud83d\udd34The Iranian people are being killed in the streets by the Islamic Republic, but Nancy Pelosi in the USA supports those who kill the Iranian people.  Why?\n\n#NancyPelosiFakeNews https://t.co/gGCyoLYkYX",
+    "geo": null,
+    "id": 1216681333734416384,
+    "id_str": "1216681333734416384",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Jan 12 15:15:57 +0000 2020",
+      "display_text_range": [
+        0,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/q9YwCUZrQ9",
+            "expanded_url": "https://twitter.com/RNCResearch/status/1216378286592360453/video/1",
+            "features": {},
+            "id": 1216378134251167746,
+            "id_str": "1216378134251167746",
+            "indices": [
+              123,
+              146
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216378134251167746/pu/img/9sgLXTNl1CsFKmtF.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216378134251167746/pu/img/9sgLXTNl1CsFKmtF.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/q9YwCUZrQ9"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/pNG3masj1Ek",
+            "expanded_url": "https://youtu.be/pNG3masj1Ek",
+            "indices": [
+              99,
+              122
+            ],
+            "url": "https://t.co/weKuQ6fSlO"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/q9YwCUZrQ9",
+            "expanded_url": "https://twitter.com/RNCResearch/status/1216378286592360453/video/1",
+            "features": {},
+            "id": 1216378134251167746,
+            "id_str": "1216378134251167746",
+            "indices": [
+              123,
+              146
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216378134251167746/pu/img/9sgLXTNl1CsFKmtF.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216378134251167746/pu/img/9sgLXTNl1CsFKmtF.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/q9YwCUZrQ9",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 62029,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1216378134251167746/pu/vid/1280x720/IbTa9gLXFs8fdhf9.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1216378134251167746/pu/vid/640x360/l6TueUv7vE8gDyy5.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1216378134251167746/pu/vid/480x270/avJ_48eIxHUJQn-4.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1216378134251167746/pu/pl/HxcGUQHLDrYUcXYU.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 7818,
+      "favorited": false,
+      "full_text": "Pelosi dismisses protests in Iran against regime, \"different reasons why people are in the street\"\nhttps://t.co/weKuQ6fSlO https://t.co/q9YwCUZrQ9",
+      "geo": null,
+      "id": 1216378286592360453,
+      "id_str": "1216378286592360453",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4119,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 09 19:08:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#MAGA. Official RNC Research acct. Follow for latest on Democrats, pundits, & Trump's accomplishments. Subscribe to our YouTube page: https://t.co/OLjaWvAwOj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goo.gl/oryp5i",
+                "expanded_url": "https://goo.gl/oryp5i",
+                "indices": [
+                  134,
+                  157
+                ],
+                "url": "https://t.co/OLjaWvAwOj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gop.com/research/",
+                "expanded_url": "https://gop.com/research/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/oeE4SVAXcg"
+              }
+            ]
+          }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 70500,
+        "following": false,
+        "friends_count": 3422,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 55329156,
+        "id_str": "55329156",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1231,
+        "location": "Washington, DC",
+        "name": "RNC Research",
+        "notifications": false,
+        "profile_background_color": "CC0A0A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55329156/1526665097",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+        "profile_link_color": "F50808",
+        "profile_sidebar_border_color": "030303",
+        "profile_sidebar_fill_color": "8A8585",
+        "profile_text_color": "050505",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RNCResearch",
+        "statuses_count": 18025,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/oeE4SVAXcg",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1216378286592360453,
+    "quoted_status_id_str": "1216378286592360453",
+    "quoted_status_permalink": {
+      "display": "twitter.com/RNCResearch/st\u2026",
+      "expanded": "https://twitter.com/RNCResearch/status/1216378286592360453",
+      "url": "https://t.co/gGCyoLYkYX"
+    },
+    "retweet_count": 14312,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 13 05:09:42 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Journalist , #IranProtests",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 25947,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 38265,
+      "following": false,
+      "friends_count": 1158,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 4791119002,
+      "id_str": "4791119002",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 195,
+      "location": "Netherland ",
+      "name": "Mohammad Mozafari",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4791119002/1578918976",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1208348626914861057/YXhowq8L_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208348626914861057/YXhowq8L_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "mohmd_mozafari",
+      "statuses_count": 18109,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70910858,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113322,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47877,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

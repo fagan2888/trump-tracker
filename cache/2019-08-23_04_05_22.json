@@ -1,0 +1,414 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Aug 23 04:05:22 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          18,
+          28
+        ],
+        "text": "Democrats"
+      },
+      {
+        "indices": [
+          58,
+          69
+        ],
+        "text": "GunControl"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 281610530,
+        "id_str": "281610530",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Varney & Co.",
+        "screen_name": "Varneyco"
+      },
+      {
+        "id": 1472931361,
+        "id_str": "1472931361",
+        "indices": [
+          71,
+          85
+        ],
+        "name": "David Asman",
+        "screen_name": "DavidAsmanfox"
+      },
+      {
+        "id": 384910109,
+        "id_str": "384910109",
+        "indices": [
+          99,
+          111
+        ],
+        "name": "Kimberley Strassel",
+        "screen_name": "KimStrassel"
+      },
+      {
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          115,
+          119
+        ],
+        "name": "The Wall Street Journal",
+        "screen_name": "WSJ"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Varneyco: Are #Democrats too extreme when it comes to #GunControl? @DavidAsmanfox is joined by @KimStrassel of @WSJ to discuss how gun\u2026",
+  "geo": null,
+  "id": 1164750452342308864,
+  "id_str": "1164750452342308864",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1705,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Aug 12 17:51:17 +0000 2019",
+    "display_text_range": [
+      0,
+      212
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            4,
+            14
+          ],
+          "text": "Democrats"
+        },
+        {
+          "indices": [
+            44,
+            55
+          ],
+          "text": "GunControl"
+        },
+        {
+          "indices": [
+            146,
+            162
+          ],
+          "text": "SecondAmendment"
+        },
+        {
+          "indices": [
+            203,
+            212
+          ],
+          "text": "VarneyCo"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SkZ03JEqZB",
+          "expanded_url": "https://twitter.com/Varneyco/status/1160972036182855683/video/1",
+          "id": 1160971904204836864,
+          "id_str": "1160971904204836864",
+          "indices": [
+            213,
+            236
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160971904204836864/pu/img/AB5nUg1WEgBhPkrR.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160971904204836864/pu/img/AB5nUg1WEgBhPkrR.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SkZ03JEqZB"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1472931361,
+          "id_str": "1472931361",
+          "indices": [
+            57,
+            71
+          ],
+          "name": "David Asman",
+          "screen_name": "DavidAsmanfox"
+        },
+        {
+          "id": 384910109,
+          "id_str": "384910109",
+          "indices": [
+            85,
+            97
+          ],
+          "name": "Kimberley Strassel",
+          "screen_name": "KimStrassel"
+        },
+        {
+          "id": 3108351,
+          "id_str": "3108351",
+          "indices": [
+            101,
+            105
+          ],
+          "name": "The Wall Street Journal",
+          "screen_name": "WSJ"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/SkZ03JEqZB",
+          "expanded_url": "https://twitter.com/Varneyco/status/1160972036182855683/video/1",
+          "id": 1160971904204836864,
+          "id_str": "1160971904204836864",
+          "indices": [
+            213,
+            236
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160971904204836864/pu/img/AB5nUg1WEgBhPkrR.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160971904204836864/pu/img/AB5nUg1WEgBhPkrR.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/SkZ03JEqZB",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 136270,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1160971904204836864/pu/pl/MCWy6ScSDFYZdWOn.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1160971904204836864/pu/vid/640x360/jfUUtBLMoiKvdqW0.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1160971904204836864/pu/vid/480x270/jY_lnhgmDEOvwvhL.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1160971904204836864/pu/vid/1280x720/QDrreEVG9AeI5m87.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5099,
+    "favorited": false,
+    "full_text": "Are #Democrats too extreme when it comes to #GunControl? @DavidAsmanfox is joined by @KimStrassel of @WSJ to discuss how gun control isn't just a #SecondAmendment issue, but a due process issue as well. #VarneyCo https://t.co/SkZ03JEqZB",
+    "geo": null,
+    "id": 1160972036182855683,
+    "id_str": "1160972036182855683",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1705,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 13 16:27:54 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Airing Weekdays at 9AM ET on the Fox Business Network. Note: These tweets come from Varney & Co. production team, not Stuart himself.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxbusiness.com/person/v/stuar\u2026",
+              "expanded_url": "http://www.foxbusiness.com/person/v/stuart-varney.html",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UT25ycG2zy"
+            }
+          ]
+        }
+      },
+      "favourites_count": 943,
+      "follow_request_sent": false,
+      "followers_count": 629891,
+      "following": false,
+      "friends_count": 721,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 281610530,
+      "id_str": "281610530",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1939,
+      "location": "New York",
+      "name": "Varney & Co.",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/281610530/1542396577",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/462238346727526401/9vqChgMI_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/462238346727526401/9vqChgMI_normal.png",
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E3D29A",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Varneyco",
+      "statuses_count": 16114,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/UT25ycG2zy",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63373506,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107285,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43706,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

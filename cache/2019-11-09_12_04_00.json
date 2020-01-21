@@ -1,0 +1,387 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 09 12:04:00 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          63,
+          75
+        ],
+        "text": "impeachment"
+      },
+      {
+        "indices": [
+          109,
+          120
+        ],
+        "text": "employment"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 281610530,
+        "id_str": "281610530",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Varney & Co.",
+        "screen_name": "Varneyco"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Varneyco: STU: \"As we start the new week, look beneath the #impeachment headlines, and you'll see a full #employment economy that's muc\u2026",
+  "geo": null,
+  "id": 1193137158829301760,
+  "id_str": "1193137158829301760",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5123,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 21 16:22:59 +0000 2019",
+    "display_text_range": [
+      0,
+      244
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            49,
+            61
+          ],
+          "text": "impeachment"
+        },
+        {
+          "indices": [
+            95,
+            106
+          ],
+          "text": "employment"
+        },
+        {
+          "indices": [
+            141,
+            148
+          ],
+          "text": "Europe"
+        },
+        {
+          "indices": [
+            152,
+            158
+          ],
+          "text": "Japan"
+        },
+        {
+          "indices": [
+            177,
+            186
+          ],
+          "text": "democrat"
+        },
+        {
+          "indices": [
+            213,
+            226
+          ],
+          "text": "2020Election"
+        },
+        {
+          "indices": [
+            227,
+            234
+          ],
+          "text": "MyTake"
+        },
+        {
+          "indices": [
+            235,
+            244
+          ],
+          "text": "VarneyCo"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NOrqXRteUb",
+          "expanded_url": "https://twitter.com/Varneyco/status/1186316965192839170/video/1",
+          "features": {},
+          "id": 1186316768291241986,
+          "id_str": "1186316768291241986",
+          "indices": [
+            245,
+            268
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1186316768291241986/pu/img/yktpm-Sb9h0d2yHE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1186316768291241986/pu/img/yktpm-Sb9h0d2yHE.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NOrqXRteUb"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/NOrqXRteUb",
+          "expanded_url": "https://twitter.com/Varneyco/status/1186316965192839170/video/1",
+          "features": {},
+          "id": 1186316768291241986,
+          "id_str": "1186316768291241986",
+          "indices": [
+            245,
+            268
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1186316768291241986/pu/img/yktpm-Sb9h0d2yHE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1186316768291241986/pu/img/yktpm-Sb9h0d2yHE.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/NOrqXRteUb",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 135168,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1186316768291241986/pu/vid/640x360/AalvlywUSp5qEyFT.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1186316768291241986/pu/pl/HGEbE99fg-IwbTax.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1186316768291241986/pu/vid/1280x720/xfWUNZrBVsEmTntG.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1186316768291241986/pu/vid/480x270/c0aliDz2Z8p5lm5k.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 14974,
+    "favorited": false,
+    "full_text": "STU: \"As we start the new week, look beneath the #impeachment headlines, and you'll see a full #employment economy that's much stronger than #Europe or #Japan, and you'll see a #democrat party that's struggling.\" #2020Election #MyTake #VarneyCo https://t.co/NOrqXRteUb",
+    "geo": null,
+    "id": 1186316965192839170,
+    "id_str": "1186316965192839170",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5123,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 13 16:27:54 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Airing Weekdays at 9AM ET on the Fox Business Network. Note: These tweets come from Varney & Co. production team, not Stuart himself.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxbusiness.com/person/v/stuar\u2026",
+              "expanded_url": "http://www.foxbusiness.com/person/v/stuart-varney.html",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UT25ycG2zy"
+            }
+          ]
+        }
+      },
+      "favourites_count": 981,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 636566,
+      "following": false,
+      "friends_count": 723,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 281610530,
+      "id_str": "281610530",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1982,
+      "location": "New York",
+      "name": "Varney & Co.",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/281610530/1542396577",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/462238346727526401/9vqChgMI_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/462238346727526401/9vqChgMI_normal.png",
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E3D29A",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Varneyco",
+      "statuses_count": 16171,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/UT25ycG2zy",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66684379,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110582,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45984,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

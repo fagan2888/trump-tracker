@@ -1,0 +1,291 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jun 06 07:38:28 +0000 2019",
+  "display_text_range": [
+    0,
+    155
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          102,
+          122
+        ],
+        "text": "DDay75thAnniversary"
+      },
+      {
+        "indices": [
+          123,
+          130
+        ],
+        "text": "DDay75"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/rg15c32Gow",
+        "expanded_url": "https://twitter.com/DeptofDefense/status/1136437551575834624/video/1",
+        "id": 1136335330087440385,
+        "id_str": "1136335330087440385",
+        "indices": [
+          132,
+          155
+        ],
+        "media_url": "http://pbs.twimg.com/media/D8UT4OeXsAAuIDh.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D8UT4OeXsAAuIDh.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1136437551575834624,
+        "source_status_id_str": "1136437551575834624",
+        "source_user_id": 66369181,
+        "source_user_id_str": "66369181",
+        "type": "photo",
+        "url": "https://t.co/rg15c32Gow"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 17 14:43:00 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official account of the U.S. Department of Defense. Following, RTs, links, and likes \u2260 endorsement. #KnowYourMil",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "defense.gov",
+                    "expanded_url": "http://www.defense.gov",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/nx8Zxh4nEZ"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 3598,
+            "follow_request_sent": false,
+            "followers_count": 5820307,
+            "following": false,
+            "friends_count": 698,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 66369181,
+            "id_str": "66369181",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 13900,
+            "location": "Washington, DC",
+            "name": "U.S. Dept of Defense",
+            "notifications": false,
+            "profile_background_color": "003875",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/66369181/1557498246",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/992451978054729734/CGtMu6Ji_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/992451978054729734/CGtMu6Ji_normal.jpg",
+            "profile_link_color": "355D92",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DEDEDE",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DeptofDefense",
+            "statuses_count": 25449,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "https://t.co/nx8Zxh4nEZ",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/rg15c32Gow",
+        "expanded_url": "https://twitter.com/DeptofDefense/status/1136437551575834624/video/1",
+        "id": 1136335330087440385,
+        "id_str": "1136335330087440385",
+        "indices": [
+          132,
+          155
+        ],
+        "media_url": "http://pbs.twimg.com/media/D8UT4OeXsAAuIDh.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D8UT4OeXsAAuIDh.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1136437551575834624,
+        "source_status_id_str": "1136437551575834624",
+        "source_user_id": 66369181,
+        "source_user_id_str": "66369181",
+        "type": "video",
+        "url": "https://t.co/rg15c32Gow",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 299800,
+          "variants": [
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1136335330087440385/vid/480x270/iaklgnME5gF24K4n.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1136335330087440385/vid/640x360/-X-NZeXdGzul2NnG.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1136335330087440385/vid/1280x720/ykStPAalgt-21sdr.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1136335330087440385/pl/bKandckO6hHgD6SP.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 4988,
+  "favorited": false,
+  "full_text": "Heading over to Normandy to celebrate some of the bravest that ever lived. We are eternally grateful! #DDay75thAnniversary #DDay75 \nhttps://t.co/rg15c32Gow",
+  "geo": null,
+  "id": 1136537825300570112,
+  "id_str": "1136537825300570112",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1339,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60860655,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103924,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559737264",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42227,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

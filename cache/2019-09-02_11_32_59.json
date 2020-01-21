@@ -1,0 +1,314 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 02 11:32:59 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          83,
+          90
+        ],
+        "text": "Dorian"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 299798272,
+        "id_str": "299798272",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "National Hurricane Center",
+        "screen_name": "NHC_Atlantic"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NHC_Atlantic: Here are the 5 AM Monday, September 2 Key Messages for Hurricane #Dorian. Life-threatening storm surge and hurricane-forc\u2026",
+  "geo": null,
+  "id": 1168486977764757504,
+  "id_str": "1168486977764757504",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3465,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 02 09:00:31 +0000 2019",
+    "display_text_range": [
+      0,
+      245
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            65,
+            72
+          ],
+          "text": "Dorian"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ft5D7w6hB8",
+          "expanded_url": "https://twitter.com/NHC_Atlantic/status/1168448607848034304/photo/1",
+          "id": 1168448599643963393,
+          "id_str": "1168448599643963393",
+          "indices": [
+            246,
+            269
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDcpz4gUwAE3Ojv.png",
+          "media_url_https": "https://pbs.twimg.com/media/EDcpz4gUwAE3Ojv.png",
+          "sizes": {
+            "large": {
+              "h": 681,
+              "resize": "fit",
+              "w": 897
+            },
+            "medium": {
+              "h": 681,
+              "resize": "fit",
+              "w": 897
+            },
+            "small": {
+              "h": 516,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ft5D7w6hB8"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "hurricanes.gov",
+          "expanded_url": "http://hurricanes.gov",
+          "indices": [
+            207,
+            230
+          ],
+          "url": "https://t.co/tW4KeFW0gB"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ft5D7w6hB8",
+          "expanded_url": "https://twitter.com/NHC_Atlantic/status/1168448607848034304/photo/1",
+          "id": 1168448599643963393,
+          "id_str": "1168448599643963393",
+          "indices": [
+            246,
+            269
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDcpz4gUwAE3Ojv.png",
+          "media_url_https": "https://pbs.twimg.com/media/EDcpz4gUwAE3Ojv.png",
+          "sizes": {
+            "large": {
+              "h": 681,
+              "resize": "fit",
+              "w": 897
+            },
+            "medium": {
+              "h": 681,
+              "resize": "fit",
+              "w": 897
+            },
+            "small": {
+              "h": 516,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ft5D7w6hB8"
+        }
+      ]
+    },
+    "favorite_count": 10521,
+    "favorited": false,
+    "full_text": "Here are the 5 AM Monday, September 2 Key Messages for Hurricane #Dorian. Life-threatening storm surge and hurricane-force winds are expected along portions of the Florida east coast through mid-week. Visit https://t.co/tW4KeFW0gB for more info. https://t.co/Ft5D7w6hB8",
+    "geo": null,
+    "id": 1168448607848034304,
+    "id_str": "1168448607848034304",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3465,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 16 17:59:24 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "This is the primary official Twitter account for the National Hurricane Center, focusing on the Atlantic basin. For more details: https://t.co/mRyGMdRYT3",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "weather.gov/twitter",
+              "expanded_url": "http://weather.gov/twitter",
+              "indices": [
+                130,
+                153
+              ],
+              "url": "https://t.co/mRyGMdRYT3"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nhc.noaa.gov",
+              "expanded_url": "http://www.nhc.noaa.gov/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/5gzYJFziuU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4,
+      "follow_request_sent": false,
+      "followers_count": 706051,
+      "following": false,
+      "friends_count": 73,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 299798272,
+      "id_str": "299798272",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 10502,
+      "location": "Miami, FL",
+      "name": "National Hurricane Center",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/299798272/1361991526",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/892736587397816320/nTDra-V-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/892736587397816320/nTDra-V-_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NHC_Atlantic",
+      "statuses_count": 7906,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/5gzYJFziuU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63957805,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108156,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44046,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 28 02:28:02 +0000 2019",
+  "display_text_range": [
+    0,
+    116
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/text88022/stat\u2026",
+        "expanded_url": "https://twitter.com/text88022/status/1210560047148937216",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/IMi4a0Dx4f"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1209936918,
+        "id_str": "1209936918",
+        "indices": [
+          0,
+          5
+        ],
+        "name": "One America News",
+        "screen_name": "OANN"
+      }
+    ]
+  },
+  "favorite_count": 20796,
+  "favorited": false,
+  "full_text": "@OANN is doing incredible reporting. If Lamestream Media did the same, they would get respect back. At All-Time Low! https://t.co/IMi4a0Dx4f",
+  "geo": null,
+  "id": 1210749216307286016,
+  "id_str": "1210749216307286016",
+  "in_reply_to_screen_name": "OANN",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1209936918,
+  "in_reply_to_user_id_str": "1209936918",
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 27 13:56:21 +0000 2019",
+    "display_text_range": [
+      0,
+      286
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cqonzm4tGk",
+          "expanded_url": "https://twitter.com/bobby17781896/status/1208845355606888449/video/1",
+          "features": {},
+          "id": 1208845290960109570,
+          "id_str": "1208845290960109570",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208845290960109570/pu/img/lirGROwo-bqP1FNN.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208845290960109570/pu/img/lirGROwo-bqP1FNN.jpg",
+          "sizes": {
+            "large": {
+              "h": 414,
+              "resize": "fit",
+              "w": 736
+            },
+            "medium": {
+              "h": 414,
+              "resize": "fit",
+              "w": 736
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1208845355606888449,
+          "source_status_id_str": "1208845355606888449",
+          "source_user_id": 1198280137315274752,
+          "source_user_id_str": "1198280137315274752",
+          "type": "photo",
+          "url": "https://t.co/cqonzm4tGk"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1209936918,
+          "id_str": "1209936918",
+          "indices": [
+            1,
+            6
+          ],
+          "name": "One America News",
+          "screen_name": "OANN"
+        },
+        {
+          "id": 15764644,
+          "id_str": "15764644",
+          "indices": [
+            242,
+            256
+          ],
+          "name": "Nancy Pelosi",
+          "screen_name": "SpeakerPelosi"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Sat Nov 23 16:40:34 +0000 2019",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "ClimateChange =Weather , Russian Collusion =10M Dossier , Ukraine = Fear Dread Panic , Democrats =Drones Robots Sheep , Honor Is The Property Of The US Military",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 1913,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 5458,
+              "following": false,
+              "friends_count": 5797,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 1198280137315274752,
+              "id_str": "1198280137315274752",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 2,
+              "location": "California, USA",
+              "name": "bobby",
+              "notifications": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1198280137315274752/1574974729",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1202074539804393474/AOD1jUrk_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202074539804393474/AOD1jUrk_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "bobby17781896",
+              "statuses_count": 548,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/cqonzm4tGk",
+          "expanded_url": "https://twitter.com/bobby17781896/status/1208845355606888449/video/1",
+          "features": {},
+          "id": 1208845290960109570,
+          "id_str": "1208845290960109570",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208845290960109570/pu/img/lirGROwo-bqP1FNN.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208845290960109570/pu/img/lirGROwo-bqP1FNN.jpg",
+          "sizes": {
+            "large": {
+              "h": 414,
+              "resize": "fit",
+              "w": 736
+            },
+            "medium": {
+              "h": 414,
+              "resize": "fit",
+              "w": 736
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1208845355606888449,
+          "source_status_id_str": "1208845355606888449",
+          "source_user_id": 1198280137315274752,
+          "source_user_id_str": "1198280137315274752",
+          "type": "video",
+          "url": "https://t.co/cqonzm4tGk",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 32717,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1208845290960109570/pu/vid/736x414/3mfLDmX6oIIx4Cz2.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1208845290960109570/pu/pl/_3piWsuW1Zv5Nioz.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1208845290960109570/pu/vid/480x270/okl2s_O4a1TTDUTx.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 11829,
+    "favorited": false,
+    "full_text": ".@OANN took an unprecedented step of flying 3  senior former Ukrainian officials to the US.  These officials provided first-hand knowledge of the interference &amp;  collusion between DNC &amp; Ukraine during 2016 Presidential campaign\n\nWhat @SpeakerPelosi fears https://t.co/cqonzm4tGk",
+    "geo": null,
+    "id": 1210560047148937216,
+    "id_str": "1210560047148937216",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7978,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Nov 11 18:40:29 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "I\u2019m a wife, mom, & USAF #VET who is proud to be an American #AmericaFirst #KAG #Trump2020",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 13027,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 216609,
+      "following": false,
+      "friends_count": 37908,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 4165642155,
+      "id_str": "4165642155",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 246,
+      "location": "",
+      "name": "Constitutional Republic TEXT TRUMP 88022",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4165642155/1577113831",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1208400969341509633/I-uz4Tdp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208400969341509633/I-uz4Tdp_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Text88022",
+      "statuses_count": 177302,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1210560047148937216,
+  "quoted_status_id_str": "1210560047148937216",
+  "quoted_status_permalink": {
+    "display": "twitter.com/text88022/stat\u2026",
+    "expanded": "https://twitter.com/text88022/status/1210560047148937216",
+    "url": "https://t.co/IMi4a0Dx4f"
+  },
+  "retweet_count": 10425,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 68014452,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111815,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47581,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 19 03:29:51 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 202952121,
+        "id_str": "202952121",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Oliver McGee PhD MBA",
+        "screen_name": "OliverMcGee"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          25,
+          31
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 1088924523548663809,
+        "id_str": "1088924523548663809",
+        "indices": [
+          50,
+          57
+        ],
+        "name": "Prince",
+        "screen_name": "prince"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          64,
+          80
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @OliverMcGee: Retweet @POTUS isn't RACIST when @Prince wrote @realDonaldTrump Black Version! \ud83d\ude06\n\nDonald Trump: Black Version\nMaybe that's\u2026",
+  "geo": null,
+  "id": 1163291961488543751,
+  "id_str": "1163291961488543751",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3756,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 18 20:34:41 +0000 2019",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3vPaU7AKde",
+          "expanded_url": "https://twitter.com/OliverMcGee/status/1163187480952279041/video/1",
+          "id": 1163183375047376902,
+          "id_str": "1163183375047376902",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1163183375047376902/img/wR28bDitaujC6SWf.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1163183375047376902/img/wR28bDitaujC6SWf.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3vPaU7AKde"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            8,
+            14
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 1088924523548663809,
+          "id_str": "1088924523548663809",
+          "indices": [
+            33,
+            40
+          ],
+          "name": "Prince",
+          "screen_name": "prince"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            47,
+            63
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            248,
+            259
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/3vPaU7AKde",
+          "expanded_url": "https://twitter.com/OliverMcGee/status/1163187480952279041/video/1",
+          "id": 1163183375047376902,
+          "id_str": "1163183375047376902",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1163183375047376902/img/wR28bDitaujC6SWf.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1163183375047376902/img/wR28bDitaujC6SWf.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/3vPaU7AKde",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 272706,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1163183375047376902/vid/480x270/UZhQc6EAUvcsqt7F.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1163183375047376902/pl/mj4AiuaDC5fZfH5a.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1163183375047376902/vid/1280x720/ubeSaI5s4skPmiML.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1163183375047376902/vid/640x360/biiT4UdaACr7-4zt.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 10867,
+    "favorited": false,
+    "full_text": "Retweet @POTUS isn't RACIST when @Prince wrote @realDonaldTrump Black Version! \ud83d\ude06\n\nDonald Trump: Black Version\nMaybe that's WHAT YOU NEED\nA man that fulfills YOUR EVERY WISH\nYOUR EVERY DREAM\n\nDonald Trump: Black Version\nCOME ON TAKE A CHANCE\nA 2020 @WhiteHouse\nA Real Bromance! \ud83d\ude02 https://t.co/3vPaU7AKde",
+    "geo": null,
+    "id": 1163187480952279041,
+    "id_str": "1163187480952279041",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3756,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Oct 15 05:20:45 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "FMR Sr Advisor @WhiteHouse, FMR US Dep Asst Secretary\ud83c\uddfa\ud83c\uddf8#MAGA|Guest @SkyNews @BBCWorld @LBC\ud83c\uddec\ud83c\udde7|@FoxNews|@MSNBC|@CNN|@CGTNOfficial\ud83c\udde8\ud83c\uddf3|BookMe ogmcgee@yahoo.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "OliverMcGee.org",
+              "expanded_url": "http://www.OliverMcGee.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8g76FMYmJB"
+            }
+          ]
+        }
+      },
+      "favourites_count": 536057,
+      "follow_request_sent": false,
+      "followers_count": 193926,
+      "following": false,
+      "friends_count": 147815,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 202952121,
+      "id_str": "202952121",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1236,
+      "location": "Washington, DC, USA",
+      "name": "Oliver McGee PhD MBA",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/202952121/1461301545",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2963669853/52457122be447a2bf80f30fd63ed5768_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2963669853/52457122be447a2bf80f30fd63ed5768_normal.jpeg",
+      "profile_link_color": "0009B3",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "OliverMcGee",
+      "statuses_count": 14401,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8g76FMYmJB",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63244998,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107033,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43599,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

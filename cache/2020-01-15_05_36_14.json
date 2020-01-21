@@ -1,0 +1,410 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 15 05:36:14 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 890319316327047168,
+        "id_str": "890319316327047168",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Stump for Trump",
+        "screen_name": "StumpforTrump"
+      },
+      {
+        "id": 432895323,
+        "id_str": "432895323",
+        "indices": [
+          20,
+          36
+        ],
+        "name": "Lindsey Graham",
+        "screen_name": "LindseyGrahamSC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @StumpforTrump: .@LindseyGrahamSC: \u201cI\u2019m really over with this. This whole thing is a joke. Nothing happened here. We\u2019re not going to imp\u2026",
+  "geo": null,
+  "id": 1217319558710734849,
+  "id_str": "1217319558710734849",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5620,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 14 23:46:02 +0000 2019",
+    "display_text_range": [
+      0,
+      202
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/JGpN1nqNJ3",
+          "expanded_url": "https://twitter.com/thehill/status/1195072660197130241/video/1",
+          "features": {},
+          "id": 1195005561034756097,
+          "id_str": "1195005561034756097",
+          "indices": [
+            179,
+            202
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1195005561034756097/img/lJEePBSLBr36qSAR.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1195005561034756097/img/lJEePBSLBr36qSAR.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1195072660197130241,
+          "source_status_id_str": "1195072660197130241",
+          "source_user_id": 1917731,
+          "source_user_id_str": "1917731",
+          "type": "photo",
+          "url": "https://t.co/JGpN1nqNJ3"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 432895323,
+          "id_str": "432895323",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Lindsey Graham",
+          "screen_name": "LindseyGrahamSC"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": true,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "thehill.com",
+                      "expanded_url": "http://www.thehill.com",
+                      "indices": [
+                        0,
+                        22
+                      ],
+                      "url": "http://t.co/t414UtTRv4"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 10,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 3511810,
+              "following": false,
+              "friends_count": 259,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 1917731,
+              "id_str": "1917731",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 26813,
+              "location": "Washington, DC",
+              "name": "The Hill",
+              "notifications": false,
+              "profile_background_color": "9AE4E8",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+              "profile_link_color": "FF0021",
+              "profile_sidebar_border_color": "ADADAA",
+              "profile_sidebar_fill_color": "EBEBEB",
+              "profile_text_color": "000000",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "thehill",
+              "statuses_count": 679000,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "http://t.co/t414UtTRv4",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/JGpN1nqNJ3",
+          "expanded_url": "https://twitter.com/thehill/status/1195072660197130241/video/1",
+          "features": {},
+          "id": 1195005561034756097,
+          "id_str": "1195005561034756097",
+          "indices": [
+            179,
+            202
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1195005561034756097/img/lJEePBSLBr36qSAR.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1195005561034756097/img/lJEePBSLBr36qSAR.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1195072660197130241,
+          "source_status_id_str": "1195072660197130241",
+          "source_user_id": 1917731,
+          "source_user_id_str": "1917731",
+          "type": "video",
+          "url": "https://t.co/JGpN1nqNJ3",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 25025,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1195005561034756097/vid/480x270/6I6JrsKL2klasVhF.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1195005561034756097/vid/640x360/Z0x3xh8rHAu566wG.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1195005561034756097/pl/Mg759J-wHrJFAnAF.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1195005561034756097/vid/1280x720/mpfAWwV3M22Epg_s.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 14652,
+    "favorited": false,
+    "full_text": ".@LindseyGrahamSC: \u201cI\u2019m really over with this. This whole thing is a joke. Nothing happened here. We\u2019re not going to impeach this President over this. It\u2019s over, it\u2019s done with.\u201d https://t.co/JGpN1nqNJ3",
+    "geo": null,
+    "id": 1195125768344539136,
+    "id_str": "1195125768344539136",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5620,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 26 21:14:01 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Re-elect President Trump to Keep America Great! #MAGA #KAG \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com",
+              "expanded_url": "https://www.donaldjtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/88QSmUic5p"
+            }
+          ]
+        }
+      },
+      "favourites_count": 75937,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 138322,
+      "following": false,
+      "friends_count": 131702,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 890319316327047168,
+      "id_str": "890319316327047168",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 291,
+      "location": "",
+      "name": "Stump for Trump",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/890319316327047168/1570808157",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1061141947132338176/inEM01Zk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061141947132338176/inEM01Zk_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "StumpforTrump",
+      "statuses_count": 20208,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/88QSmUic5p",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70972856,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113364,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47898,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

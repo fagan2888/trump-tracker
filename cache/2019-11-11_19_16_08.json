@@ -1,0 +1,495 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 11 19:16:08 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 26829777,
+        "id_str": "26829777",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Gary Player",
+        "screen_name": "garyplayer"
+      },
+      {
+        "id": 1330543374,
+        "id_str": "1330543374",
+        "indices": [
+          50,
+          66
+        ],
+        "name": "Charles Schwab Cup Championship",
+        "screen_name": "SchwabCupFinale"
+      },
+      {
+        "id": 710512127866351616,
+        "id_str": "710512127866351616",
+        "indices": [
+          92,
+          105
+        ],
+        "name": "Jeff Maggert",
+        "screen_name": "Jeff_Maggert"
+      },
+      {
+        "id": 39528024,
+        "id_str": "39528024",
+        "indices": [
+          113,
+          127
+        ],
+        "name": "PGA TOUR Champions",
+        "screen_name": "ChampionsTour"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @garyplayer: What a night at the season ending @SchwabCupFinale. Congratulations to both @Jeff_Maggert on his @ChampionsTour win and @Sc\u2026",
+  "geo": null,
+  "id": 1193970684155826178,
+  "id_str": "1193970684155826178",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2836,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 11 17:53:19 +0000 2019",
+    "display_text_range": [
+      0,
+      235
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tWnVR4odEL",
+          "expanded_url": "https://twitter.com/garyplayer/status/1193949840578957313/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 107,
+                  "w": 107,
+                  "x": 717,
+                  "y": 109
+                },
+                {
+                  "h": 117,
+                  "w": 117,
+                  "x": 153,
+                  "y": 83
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 107,
+                  "w": 107,
+                  "x": 717,
+                  "y": 109
+                },
+                {
+                  "h": 117,
+                  "w": 117,
+                  "x": 153,
+                  "y": 83
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 107,
+                  "w": 107,
+                  "x": 717,
+                  "y": 109
+                },
+                {
+                  "h": 117,
+                  "w": 117,
+                  "x": 153,
+                  "y": 83
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 73,
+                  "w": 73,
+                  "x": 495,
+                  "y": 75
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 105,
+                  "y": 57
+                }
+              ]
+            }
+          },
+          "id": 1193949834664914944,
+          "id_str": "1193949834664914944",
+          "indices": [
+            236,
+            259
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJHDDH7WsAA_UsI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJHDDH7WsAA_UsI.jpg",
+          "sizes": {
+            "large": {
+              "h": 552,
+              "resize": "fit",
+              "w": 984
+            },
+            "medium": {
+              "h": 552,
+              "resize": "fit",
+              "w": 984
+            },
+            "small": {
+              "h": 381,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tWnVR4odEL"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1330543374,
+          "id_str": "1330543374",
+          "indices": [
+            34,
+            50
+          ],
+          "name": "Charles Schwab Cup Championship",
+          "screen_name": "SchwabCupFinale"
+        },
+        {
+          "id": 710512127866351616,
+          "id_str": "710512127866351616",
+          "indices": [
+            76,
+            89
+          ],
+          "name": "Jeff Maggert",
+          "screen_name": "Jeff_Maggert"
+        },
+        {
+          "id": 39528024,
+          "id_str": "39528024",
+          "indices": [
+            97,
+            111
+          ],
+          "name": "PGA TOUR Champions",
+          "screen_name": "ChampionsTour"
+        },
+        {
+          "id": 747961900017692672,
+          "id_str": "747961900017692672",
+          "indices": [
+            120,
+            134
+          ],
+          "name": "Scott McCarron",
+          "screen_name": "ScottMccarron"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tWnVR4odEL",
+          "expanded_url": "https://twitter.com/garyplayer/status/1193949840578957313/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 107,
+                  "w": 107,
+                  "x": 717,
+                  "y": 109
+                },
+                {
+                  "h": 117,
+                  "w": 117,
+                  "x": 153,
+                  "y": 83
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 107,
+                  "w": 107,
+                  "x": 717,
+                  "y": 109
+                },
+                {
+                  "h": 117,
+                  "w": 117,
+                  "x": 153,
+                  "y": 83
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 107,
+                  "w": 107,
+                  "x": 717,
+                  "y": 109
+                },
+                {
+                  "h": 117,
+                  "w": 117,
+                  "x": 153,
+                  "y": 83
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 73,
+                  "w": 73,
+                  "x": 495,
+                  "y": 75
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 105,
+                  "y": 57
+                }
+              ]
+            }
+          },
+          "id": 1193949834664914944,
+          "id_str": "1193949834664914944",
+          "indices": [
+            236,
+            259
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJHDDH7WsAA_UsI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJHDDH7WsAA_UsI.jpg",
+          "sizes": {
+            "large": {
+              "h": 552,
+              "resize": "fit",
+              "w": 984
+            },
+            "medium": {
+              "h": 552,
+              "resize": "fit",
+              "w": 984
+            },
+            "small": {
+              "h": 381,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tWnVR4odEL"
+        }
+      ]
+    },
+    "favorite_count": 13116,
+    "favorited": false,
+    "full_text": "What a night at the season ending @SchwabCupFinale. Congratulations to both @Jeff_Maggert on his @ChampionsTour win and @ScottMccarron for overall winner of the Charles Schwab Cup. Love seeing the passion on this tour. My very best. GP https://t.co/tWnVR4odEL",
+    "geo": null,
+    "id": 1193949840578957313,
+    "id_str": "1193949840578957313",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2836,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 26 19:40:53 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Black Knight, Player, Grand Slam Golfer, Philanthropy, Course Design & Fitness. https://t.co/azQ3lGbXn6",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "garyplayer.com",
+              "expanded_url": "http://www.garyplayer.com",
+              "indices": [
+                84,
+                107
+              ],
+              "url": "https://t.co/azQ3lGbXn6"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "garyplayer.com",
+              "expanded_url": "http://garyplayer.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/66N4vOMM1L"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4241,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 406286,
+      "following": false,
+      "friends_count": 3000,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 26829777,
+      "id_str": "26829777",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1990,
+      "location": "A Global Brand",
+      "name": "Gary Player",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26829777/1489748603",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1097028105/gp_3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097028105/gp_3_normal.jpg",
+      "profile_link_color": "074F73",
+      "profile_sidebar_border_color": "FAFAFA",
+      "profile_sidebar_fill_color": "C3C3C3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "garyplayer",
+      "statuses_count": 26378,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/66N4vOMM1L",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66767824,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110634,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46050,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

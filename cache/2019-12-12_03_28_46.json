@@ -1,0 +1,591 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 12 03:28:46 +0000 2019",
+  "display_text_range": [
+    0,
+    108
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/yxIV5AAG8k",
+        "expanded_url": "https://twitter.com/LaraLeaTrump/status/1204491961564053509/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 597,
+                "y": 114
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 597,
+                "y": 114
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 597,
+                "y": 114
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 35,
+                "w": 35,
+                "x": 390,
+                "y": 74
+              }
+            ]
+          }
+        },
+        "id": 1204491956249870338,
+        "id_str": "1204491956249870338",
+        "indices": [
+          85,
+          108
+        ],
+        "media_url": "http://pbs.twimg.com/media/ELc3DXMWwAIctLY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ELc3DXMWwAIctLY.jpg",
+        "sizes": {
+          "large": {
+            "h": 1039,
+            "resize": "fit",
+            "w": 672
+          },
+          "medium": {
+            "h": 1039,
+            "resize": "fit",
+            "w": 672
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 440
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1204491961564053509,
+        "source_status_id_str": "1204491961564053509",
+        "source_user_id": 75541946,
+        "source_user_id_str": "75541946",
+        "type": "photo",
+        "url": "https://t.co/yxIV5AAG8k"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 75541946,
+        "id_str": "75541946",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Lara Trump",
+        "screen_name": "LaraLeaTrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          63,
+          79
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/yxIV5AAG8k",
+        "expanded_url": "https://twitter.com/LaraLeaTrump/status/1204491961564053509/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 597,
+                "y": 114
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 597,
+                "y": 114
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 597,
+                "y": 114
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 35,
+                "w": 35,
+                "x": 390,
+                "y": 74
+              }
+            ]
+          }
+        },
+        "id": 1204491956249870338,
+        "id_str": "1204491956249870338",
+        "indices": [
+          85,
+          108
+        ],
+        "media_url": "http://pbs.twimg.com/media/ELc3DXMWwAIctLY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ELc3DXMWwAIctLY.jpg",
+        "sizes": {
+          "large": {
+            "h": 1039,
+            "resize": "fit",
+            "w": 672
+          },
+          "medium": {
+            "h": 1039,
+            "resize": "fit",
+            "w": 672
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 440
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1204491961564053509,
+        "source_status_id_str": "1204491961564053509",
+        "source_user_id": 75541946,
+        "source_user_id_str": "75541946",
+        "type": "photo",
+        "url": "https://t.co/yxIV5AAG8k"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LaraLeaTrump: Fighting for all Americans, and animals too! @realDonaldTrump \ud83c\uddfa\ud83c\uddf8\ud83d\udc36\ud83d\udc31 https://t.co/yxIV5AAG8k",
+  "geo": null,
+  "id": 1204966296741433344,
+  "id_str": "1204966296741433344",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 4605,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 10 20:03:56 +0000 2019",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yxIV5AAG8k",
+          "expanded_url": "https://twitter.com/LaraLeaTrump/status/1204491961564053509/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 597,
+                  "y": 114
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 597,
+                  "y": 114
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 597,
+                  "y": 114
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 390,
+                  "y": 74
+                }
+              ]
+            }
+          },
+          "id": 1204491956249870338,
+          "id_str": "1204491956249870338",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELc3DXMWwAIctLY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELc3DXMWwAIctLY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1039,
+              "resize": "fit",
+              "w": 672
+            },
+            "medium": {
+              "h": 1039,
+              "resize": "fit",
+              "w": 672
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 440
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yxIV5AAG8k"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            45,
+            61
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yxIV5AAG8k",
+          "expanded_url": "https://twitter.com/LaraLeaTrump/status/1204491961564053509/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 597,
+                  "y": 114
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 597,
+                  "y": 114
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 597,
+                  "y": 114
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 390,
+                  "y": 74
+                }
+              ]
+            }
+          },
+          "id": 1204491956249870338,
+          "id_str": "1204491956249870338",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELc3DXMWwAIctLY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELc3DXMWwAIctLY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1039,
+              "resize": "fit",
+              "w": 672
+            },
+            "medium": {
+              "h": 1039,
+              "resize": "fit",
+              "w": 672
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 440
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yxIV5AAG8k"
+        }
+      ]
+    },
+    "favorite_count": 18212,
+    "favorited": false,
+    "full_text": "Fighting for all Americans, and animals too! @realDonaldTrump \ud83c\uddfa\ud83c\uddf8\ud83d\udc36\ud83d\udc31 https://t.co/yxIV5AAG8k",
+    "geo": null,
+    "id": 1204491961564053509,
+    "id_str": "1204491961564053509",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -77.172219,
+              38.827378
+            ],
+            [
+              -77.031779,
+              38.827378
+            ],
+            [
+              -77.031779,
+              38.934311
+            ],
+            [
+              -77.172219,
+              38.934311
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Arlington, VA",
+      "id": "319ee7b36c9149da",
+      "name": "Arlington",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 4605,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat Sep 19 12:49:26 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "NC girl in NYC #MAGA",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com",
+              "expanded_url": "http://www.donaldjtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/XjVAWvUQuR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6005,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 683194,
+      "following": false,
+      "friends_count": 492,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 75541946,
+      "id_str": "75541946",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1971,
+      "location": "New York City",
+      "name": "Lara Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/75541946/1535755233",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1035658620246077440/ZDmmMCxQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035658620246077440/ZDmmMCxQ_normal.jpg",
+      "profile_link_color": "B300A7",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LaraLeaTrump",
+      "statuses_count": 3426,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/XjVAWvUQuR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67448885,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111273,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46961,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

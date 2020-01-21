@@ -1,0 +1,518 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 04 05:19:41 +0000 2019",
+  "display_text_range": [
+    0,
+    88
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          17,
+          24
+        ],
+        "text": "\u0627\u0644\u0639\u0631\u0627\u0642"
+      },
+      {
+        "indices": [
+          57,
+          64
+        ],
+        "text": "\u0643\u0631\u0628\u0644\u0627\u0621"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/C4jZyZkDeC",
+        "expanded_url": "https://twitter.com/IranIntl_Ar/status/1191096553341145089/video/1",
+        "features": {},
+        "id": 1191096519853838336,
+        "id_str": "1191096519853838336",
+        "indices": [
+          65,
+          88
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1191096519853838336/pu/img/56w9l6vGDi9QMaCC.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1191096519853838336/pu/img/56w9l6vGDi9QMaCC.jpg",
+        "sizes": {
+          "large": {
+            "h": 636,
+            "resize": "fit",
+            "w": 360
+          },
+          "medium": {
+            "h": 636,
+            "resize": "fit",
+            "w": 360
+          },
+          "small": {
+            "h": 636,
+            "resize": "fit",
+            "w": 360
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1191096553341145089,
+        "source_status_id_str": "1191096553341145089",
+        "source_user_id": 1028780657093365760,
+        "source_user_id_str": "1028780657093365760",
+        "type": "photo",
+        "url": "https://t.co/C4jZyZkDeC"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1028780657093365760,
+        "id_str": "1028780657093365760",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "\u0625\u064a\u0631\u0627\u0646 \u0625\u0646\u062a\u0631\u0646\u0627\u0634\u064a\u0648\u0646\u0627\u0644-\u0639\u0631\u0628\u064a",
+        "screen_name": "IranIntl_Ar"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "can_media_tag": true,
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 12 23:09:57 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "\u0644\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0648\u0627\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0627\u0644\u0633\u064a\u0627\u0633\u064a\u0629 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629 \u0644\u062d\u0638\u0629 \u0628\u0644\u062d\u0638\u0629",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "iranintl.com/ar",
+                    "expanded_url": "https://iranintl.com/ar",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/WFFpcG2Vhh"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followed_by": false,
+            "followers_count": 15831,
+            "following": false,
+            "friends_count": 3,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1028780657093365760,
+            "id_str": "1028780657093365760",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 33,
+            "location": "London, UK",
+            "name": "\u0625\u064a\u0631\u0627\u0646 \u0625\u0646\u062a\u0631\u0646\u0627\u0634\u064a\u0648\u0646\u0627\u0644-\u0639\u0631\u0628\u064a",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028780657093365760/1553354339",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1028780806884483072/KgumMqoD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028780806884483072/KgumMqoD_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "IranIntl_Ar",
+            "statuses_count": 4943,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/WFFpcG2Vhh",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/C4jZyZkDeC",
+        "expanded_url": "https://twitter.com/IranIntl_Ar/status/1191096553341145089/video/1",
+        "features": {},
+        "id": 1191096519853838336,
+        "id_str": "1191096519853838336",
+        "indices": [
+          65,
+          88
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1191096519853838336/pu/img/56w9l6vGDi9QMaCC.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1191096519853838336/pu/img/56w9l6vGDi9QMaCC.jpg",
+        "sizes": {
+          "large": {
+            "h": 636,
+            "resize": "fit",
+            "w": 360
+          },
+          "medium": {
+            "h": 636,
+            "resize": "fit",
+            "w": 360
+          },
+          "small": {
+            "h": 636,
+            "resize": "fit",
+            "w": 360
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1191096553341145089,
+        "source_status_id_str": "1191096553341145089",
+        "source_user_id": 1028780657093365760,
+        "source_user_id_str": "1028780657093365760",
+        "type": "video",
+        "url": "https://t.co/C4jZyZkDeC",
+        "video_info": {
+          "aspect_ratio": [
+            30,
+            53
+          ],
+          "duration_millis": 15410,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1191096519853838336/pu/pl/wF9IGGKdZXAA1flL.m3u8?tag=10"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1191096519853838336/pu/vid/320x564/8_mbSMNgSpy2nRCI.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1191096519853838336/pu/vid/360x636/cgqw8K-clRrpd2yK.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IranIntl_Ar: #\u0627\u0644\u0639\u0631\u0627\u0642: \u062d\u0631\u0642 \u062c\u062f\u0627\u0631 \u0627\u0644\u0642\u0646\u0635\u0644\u064a\u0629 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629 \u0641\u064a #\u0643\u0631\u0628\u0644\u0627\u0621 https://t.co/C4jZyZkDeC",
+  "geo": null,
+  "id": 1191223468899098625,
+  "id_str": "1191223468899098625",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "ar",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 2425,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 03 20:55:22 +0000 2019",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            7
+          ],
+          "text": "\u0627\u0644\u0639\u0631\u0627\u0642"
+        },
+        {
+          "indices": [
+            40,
+            47
+          ],
+          "text": "\u0643\u0631\u0628\u0644\u0627\u0621"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/C4jZyZkDeC",
+          "expanded_url": "https://twitter.com/IranIntl_Ar/status/1191096553341145089/video/1",
+          "features": {},
+          "id": 1191096519853838336,
+          "id_str": "1191096519853838336",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1191096519853838336/pu/img/56w9l6vGDi9QMaCC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1191096519853838336/pu/img/56w9l6vGDi9QMaCC.jpg",
+          "sizes": {
+            "large": {
+              "h": 636,
+              "resize": "fit",
+              "w": 360
+            },
+            "medium": {
+              "h": 636,
+              "resize": "fit",
+              "w": 360
+            },
+            "small": {
+              "h": 636,
+              "resize": "fit",
+              "w": 360
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/C4jZyZkDeC"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/C4jZyZkDeC",
+          "expanded_url": "https://twitter.com/IranIntl_Ar/status/1191096553341145089/video/1",
+          "features": {},
+          "id": 1191096519853838336,
+          "id_str": "1191096519853838336",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1191096519853838336/pu/img/56w9l6vGDi9QMaCC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1191096519853838336/pu/img/56w9l6vGDi9QMaCC.jpg",
+          "sizes": {
+            "large": {
+              "h": 636,
+              "resize": "fit",
+              "w": 360
+            },
+            "medium": {
+              "h": 636,
+              "resize": "fit",
+              "w": 360
+            },
+            "small": {
+              "h": 636,
+              "resize": "fit",
+              "w": 360
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/C4jZyZkDeC",
+          "video_info": {
+            "aspect_ratio": [
+              30,
+              53
+            ],
+            "duration_millis": 15410,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1191096519853838336/pu/pl/wF9IGGKdZXAA1flL.m3u8?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1191096519853838336/pu/vid/320x564/8_mbSMNgSpy2nRCI.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1191096519853838336/pu/vid/360x636/cgqw8K-clRrpd2yK.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 6387,
+    "favorited": false,
+    "full_text": "#\u0627\u0644\u0639\u0631\u0627\u0642: \u062d\u0631\u0642 \u062c\u062f\u0627\u0631 \u0627\u0644\u0642\u0646\u0635\u0644\u064a\u0629 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629 \u0641\u064a #\u0643\u0631\u0628\u0644\u0627\u0621 https://t.co/C4jZyZkDeC",
+    "geo": null,
+    "id": 1191096553341145089,
+    "id_str": "1191096553341145089",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "ar",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2425,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Aug 12 23:09:57 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "\u0644\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0648\u0627\u0644\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0627\u0644\u0633\u064a\u0627\u0633\u064a\u0629 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629 \u0644\u062d\u0638\u0629 \u0628\u0644\u062d\u0638\u0629",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "iranintl.com/ar",
+              "expanded_url": "https://iranintl.com/ar",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/WFFpcG2Vhh"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 15831,
+      "following": false,
+      "friends_count": 3,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1028780657093365760,
+      "id_str": "1028780657093365760",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 33,
+      "location": "London, UK",
+      "name": "\u0625\u064a\u0631\u0627\u0646 \u0625\u0646\u062a\u0631\u0646\u0627\u0634\u064a\u0648\u0646\u0627\u0644-\u0639\u0631\u0628\u064a",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028780657093365760/1553354339",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1028780806884483072/KgumMqoD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028780806884483072/KgumMqoD_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IranIntl_Ar",
+      "statuses_count": 4943,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/WFFpcG2Vhh",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66512431,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110438,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45802,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

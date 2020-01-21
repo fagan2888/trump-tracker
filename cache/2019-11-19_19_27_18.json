@@ -1,0 +1,384 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Nov 19 19:27:18 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1080477288955826176,
+        "id_str": "1080477288955826176",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Rep. Mark Green",
+        "screen_name": "RepMarkGreen"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepMarkGreen: I will speak up for my constituents in Tennessee who have had enough of this impeachment charade and want Congress to act\u2026",
+  "geo": null,
+  "id": 1196872596912033792,
+  "id_str": "1196872596912033792",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8311,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 19 15:54:23 +0000 2019",
+    "display_text_range": [
+      0,
+      248
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            153,
+            164
+          ],
+          "text": "TNSpeaksUp"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/RR7schFTJV",
+          "expanded_url": "https://twitter.com/RepMarkGreen/status/1196819014527410177/video/1",
+          "features": {},
+          "id": 1196818780791476224,
+          "id_str": "1196818780791476224",
+          "indices": [
+            249,
+            272
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196818780791476224/pu/img/wI-cjzKhVCPgxwj-.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196818780791476224/pu/img/wI-cjzKhVCPgxwj-.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/RR7schFTJV"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 235312723,
+          "id_str": "235312723",
+          "indices": [
+            166,
+            181
+          ],
+          "name": "Scott DesJarlais",
+          "screen_name": "DesJarlaisTN04"
+        },
+        {
+          "id": 235190657,
+          "id_str": "235190657",
+          "indices": [
+            182,
+            191
+          ],
+          "name": "Chuck Fleischmann",
+          "screen_name": "RepChuck"
+        },
+        {
+          "id": 1081312310059253763,
+          "id_str": "1081312310059253763",
+          "indices": [
+            192,
+            204
+          ],
+          "name": "John Rose",
+          "screen_name": "RepJohnRose"
+        },
+        {
+          "id": 1028854804087492613,
+          "id_str": "1028854804087492613",
+          "indices": [
+            205,
+            220
+          ],
+          "name": "Rep. Tim Burchett",
+          "screen_name": "RepTimBurchett"
+        },
+        {
+          "id": 52503751,
+          "id_str": "52503751",
+          "indices": [
+            221,
+            231
+          ],
+          "name": "Dr. Phil Roe",
+          "screen_name": "DrPhilRoe"
+        },
+        {
+          "id": 816012124505931780,
+          "id_str": "816012124505931780",
+          "indices": [
+            232,
+            248
+          ],
+          "name": "Rep. David Kustoff",
+          "screen_name": "RepDavidKustoff"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/RR7schFTJV",
+          "expanded_url": "https://twitter.com/RepMarkGreen/status/1196819014527410177/video/1",
+          "features": {},
+          "id": 1196818780791476224,
+          "id_str": "1196818780791476224",
+          "indices": [
+            249,
+            272
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196818780791476224/pu/img/wI-cjzKhVCPgxwj-.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196818780791476224/pu/img/wI-cjzKhVCPgxwj-.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/RR7schFTJV",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 111612,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1196818780791476224/pu/vid/640x360/1chDguUXb2Qy0k1B.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1196818780791476224/pu/vid/480x270/xBYpuWMxDX0vkkIi.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1196818780791476224/pu/pl/muQvYWUKcKSYcOal.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1196818780791476224/pu/vid/1280x720/VC0rRIaERzr_0KbT.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 23803,
+    "favorited": false,
+    "full_text": "I will speak up for my constituents in Tennessee who have had enough of this impeachment charade and want Congress to actually help improve their lives. #TNSpeaksUp \n@DesJarlaisTN04 @RepChuck @RepJohnRose @RepTimBurchett @DrPhilRoe @RepDavidKustoff https://t.co/RR7schFTJV",
+    "geo": null,
+    "id": 1196819014527410177,
+    "id_str": "1196819014527410177",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8311,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 02 14:53:54 +0000 2019",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mark Green is a physician, businessman, and combat veteran representing Tennessee\u2019s 7th District in Congress.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "markgreen.house.gov",
+              "expanded_url": "http://markgreen.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/tBr76gfx9G"
+            }
+          ]
+        }
+      },
+      "favourites_count": 298,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 25539,
+      "following": false,
+      "friends_count": 839,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1080477288955826176,
+      "id_str": "1080477288955826176",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 354,
+      "location": "",
+      "name": "Rep. Mark Green",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080477288955826176/1549298310",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1080478006169268224/aB7vw1E2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080478006169268224/aB7vw1E2_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RepMarkGreen",
+      "statuses_count": 996,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/tBr76gfx9G",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66888539,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110767,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46291,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

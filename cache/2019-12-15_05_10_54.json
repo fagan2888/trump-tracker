@@ -1,0 +1,368 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 15 05:10:54 +0000 2019",
+  "display_text_range": [
+    0,
+    78
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/discoverphl/st\u2026",
+        "expanded_url": "https://twitter.com/discoverphl/status/1205996212542955520",
+        "indices": [
+          79,
+          102
+        ],
+        "url": "https://t.co/V3oAZjWqEo"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 17346,
+  "favorited": false,
+  "full_text": "I will see Navy at the White House to present the Commander-in-Chief\u2019s Trophy! https://t.co/V3oAZjWqEo",
+  "geo": null,
+  "id": 1206079160923369472,
+  "id_str": "1206079160923369472",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 14 23:41:18 +0000 2019",
+    "display_text_range": [
+      0,
+      169
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            149,
+            158
+          ],
+          "text": "ArmyNavy"
+        },
+        {
+          "indices": [
+            159,
+            169
+          ],
+          "text": "PHLSports"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/dhGcVZFui7",
+          "expanded_url": "https://twitter.com/discoverPHL/status/1205996212542955520/video/1",
+          "features": {},
+          "id": 1205996025594470400,
+          "id_str": "1205996025594470400",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205996025594470400/pu/img/BL4fOmDdbirkbDa9.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205996025594470400/pu/img/BL4fOmDdbirkbDa9.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/dhGcVZFui7"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2429051735,
+          "id_str": "2429051735",
+          "indices": [
+            78,
+            85
+          ],
+          "name": "Navy Football",
+          "screen_name": "NavyFB"
+        },
+        {
+          "id": 257589984,
+          "id_str": "257589984",
+          "indices": [
+            90,
+            106
+          ],
+          "name": "Army Football",
+          "screen_name": "ArmyWP_Football"
+        },
+        {
+          "id": 836295889,
+          "id_str": "836295889",
+          "indices": [
+            133,
+            146
+          ],
+          "name": "Army-Navy Game",
+          "screen_name": "ArmyNavyGame"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/dhGcVZFui7",
+          "expanded_url": "https://twitter.com/discoverPHL/status/1205996212542955520/video/1",
+          "features": {},
+          "id": 1205996025594470400,
+          "id_str": "1205996025594470400",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205996025594470400/pu/img/BL4fOmDdbirkbDa9.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205996025594470400/pu/img/BL4fOmDdbirkbDa9.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/dhGcVZFui7",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 6405,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205996025594470400/pu/vid/360x640/xYA09YIGV05G6j8G.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205996025594470400/pu/vid/720x1280/ZCVgpu2-FsmdXqBp.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1205996025594470400/pu/pl/9zN3ZWn6_p5T_9fc.m3u8?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1205996025594470400/pu/vid/320x568/WD8x9k59qvs_kOML.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 450,
+    "favorited": false,
+    "full_text": "To the victors go the Commander-in-Chief\u2019s Trophy. \ud83c\udfc6\n\nCongratulations to both @NavyFB and @ArmyWP_Football on yet another incredible @ArmyNavyGame!\n\n#ArmyNavy #PHLSports https://t.co/dhGcVZFui7",
+    "geo": null,
+    "id": 1205996212542955520,
+    "id_str": "1205996212542955520",
+    "in_reply_to_screen_name": "discoverPHL",
+    "in_reply_to_status_id": 1205995306724270082,
+    "in_reply_to_status_id_str": "1205995306724270082",
+    "in_reply_to_user_id": 17044681,
+    "in_reply_to_user_id_str": "17044681",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 121,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Oct 29 16:25:40 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Tips for overseas visitors and convention attendees discovering Philadelphia, courtesy of the Philadelphia Convention & Visitors Bureau (@meetPHL). #discoverPHL",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "discoverPHL.com",
+              "expanded_url": "http://www.discoverPHL.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/iiIq4wSwQW"
+            }
+          ]
+        }
+      },
+      "favourites_count": 11696,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 22211,
+      "following": false,
+      "friends_count": 3365,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 17044681,
+      "id_str": "17044681",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 698,
+      "location": "Philadelphia, Pennsylvania, US",
+      "name": "Philadelphia CVB",
+      "notifications": false,
+      "profile_background_color": "0092AC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17044681/1575902337",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1180830683805224961/YwbRo3hJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180830683805224961/YwbRo3hJ_normal.jpg",
+      "profile_link_color": "0092AC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "C7D0D6",
+      "profile_text_color": "504D52",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "discoverPHL",
+      "statuses_count": 26477,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/iiIq4wSwQW",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1205996212542955520,
+  "quoted_status_id_str": "1205996212542955520",
+  "quoted_status_permalink": {
+    "display": "twitter.com/discoverphl/st\u2026",
+    "expanded": "https://twitter.com/discoverphl/status/1205996212542955520",
+    "url": "https://t.co/V3oAZjWqEo"
+  },
+  "retweet_count": 3782,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67564787,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111455,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47133,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 20 22:49:24 +0000 2019",
+  "display_text_range": [
+    0,
+    99
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/WhiteHouseCEA/\u2026",
+        "expanded_url": "https://twitter.com/WhiteHouseCEA/status/1152232652654678022",
+        "indices": [
+          76,
+          99
+        ],
+        "url": "https://t.co/WZ7JuOiaIu"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 2847221717,
+        "id_str": "2847221717",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "John Ratcliffe",
+        "screen_name": "RepRatcliffe"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepRatcliffe: Great news for Texas in June's unemployment rates report. https://t.co/WZ7JuOiaIu",
+  "geo": null,
+  "id": 1152712138131148800,
+  "id_str": "1152712138131148800",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1152232652654678022,
+  "quoted_status_id_str": "1152232652654678022",
+  "quoted_status_permalink": {
+    "display": "twitter.com/WhiteHouseCEA/\u2026",
+    "expanded": "https://twitter.com/WhiteHouseCEA/status/1152232652654678022",
+    "url": "https://t.co/WZ7JuOiaIu"
+  },
+  "retweet_count": 3675,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 19 17:56:36 +0000 2019",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/WhiteHouseCEA/\u2026",
+          "expanded_url": "https://twitter.com/WhiteHouseCEA/status/1152232652654678022",
+          "indices": [
+            58,
+            81
+          ],
+          "url": "https://t.co/WZ7JuOiaIu"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 13942,
+    "favorited": false,
+    "full_text": "Great news for Texas in June's unemployment rates report. https://t.co/WZ7JuOiaIu",
+    "geo": null,
+    "id": 1152276064221257733,
+    "id_str": "1152276064221257733",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jul 19 15:04:06 +0000 2019",
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              22,
+              30
+            ],
+            "text": "Alabama"
+          },
+          {
+            "indices": [
+              32,
+              41
+            ],
+            "text": "Arkansas"
+          },
+          {
+            "indices": [
+              43,
+              53
+            ],
+            "text": "NewJersey"
+          },
+          {
+            "indices": [
+              59,
+              65
+            ],
+            "text": "Texas"
+          },
+          {
+            "indices": [
+              127,
+              132
+            ],
+            "text": "Iowa"
+          },
+          {
+            "indices": [
+              134,
+              140
+            ],
+            "text": "Maine"
+          },
+          {
+            "indices": [
+              142,
+              154
+            ],
+            "text": "NorthDakota"
+          },
+          {
+            "indices": [
+              156,
+              169
+            ],
+            "text": "Pennsylvania"
+          },
+          {
+            "indices": [
+              175,
+              183
+            ],
+            "text": "Vermont"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 576,
+      "favorited": false,
+      "full_text": "Unemployment rates in #Alabama, #Arkansas, #NewJersey, and #Texas reached new series lows. 5 other States matched series lows: #Iowa, #Maine, #NorthDakota, #Pennsylvania, and #Vermont.",
+      "geo": null,
+      "id": 1152232652654678022,
+      "id_str": "1152232652654678022",
+      "in_reply_to_screen_name": "WhiteHouseCEA",
+      "in_reply_to_status_id": 1152232651295793152,
+      "in_reply_to_status_id_str": "1152232651295793152",
+      "in_reply_to_user_id": 866725756025667584,
+      "in_reply_to_user_id_str": "866725756025667584",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 296,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 22 18:41:38 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Council of Economic Advisers | Tweets may be archived: https://t.co/ALEV9E9onn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "WH.gov/privacy",
+                "expanded_url": "http://WH.gov/privacy",
+                "indices": [
+                  55,
+                  78
+                ],
+                "url": "https://t.co/ALEV9E9onn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov/cea",
+                "expanded_url": "https://www.whitehouse.gov/cea",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/sPbfOAv1K8"
+              }
+            ]
+          }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 11782,
+        "following": false,
+        "friends_count": 30,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 866725756025667584,
+        "id_str": "866725756025667584",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 174,
+        "location": "Washington, DC",
+        "name": "CEA",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/866725756025667584/1503586033",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/900729467349250051/oT0xhuSa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/900729467349250051/oT0xhuSa_normal.jpg",
+        "profile_link_color": "0C2644",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WhiteHouseCEA",
+        "statuses_count": 760,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/sPbfOAv1K8",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1152232652654678022,
+    "quoted_status_id_str": "1152232652654678022",
+    "quoted_status_permalink": {
+      "display": "twitter.com/WhiteHouseCEA/\u2026",
+      "expanded": "https://twitter.com/WhiteHouseCEA/status/1152232652654678022",
+      "url": "https://t.co/WZ7JuOiaIu"
+    },
+    "retweet_count": 3675,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Oct 27 20:20:35 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "U.S. Congressman for Texas' 4th District. Member of House Intelligence Committee, @HomelandGOP, @JudiciaryGOP & House Ethics. Former federal prosecutor.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ratcliffe.house.gov",
+              "expanded_url": "http://ratcliffe.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RaXZihuHYU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1296,
+      "follow_request_sent": false,
+      "followers_count": 52018,
+      "following": false,
+      "friends_count": 730,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2847221717,
+      "id_str": "2847221717",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 660,
+      "location": "Heath, TX",
+      "name": "John Ratcliffe",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2847221717/1544463847",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1072185562621243392/Kt2NcAx9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072185562621243392/Kt2NcAx9_normal.jpg",
+      "profile_link_color": "700F00",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RepRatcliffe",
+      "statuses_count": 2545,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/RaXZihuHYU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62143369,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105505,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43040,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 19 15:35:12 +0000 2019",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/danscavino/sta\u2026",
+        "expanded_url": "https://twitter.com/danscavino/status/1185016544415404032",
+        "indices": [
+          16,
+          39
+        ],
+        "url": "https://t.co/aJSyPSHJfw"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 43603,
+  "favorited": false,
+  "full_text": "Texas is great! https://t.co/aJSyPSHJfw",
+  "geo": null,
+  "id": 1185580161305059328,
+  "id_str": "1185580161305059328",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 18 02:15:35 +0000 2019",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            17
+          ],
+          "text": "TrumpRallyDallas"
+        },
+        {
+          "indices": [
+            18,
+            26
+          ],
+          "text": "KAG2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YZ7xrj8l1h",
+          "expanded_url": "https://twitter.com/DanScavino/status/1185016544415404032/photo/1",
+          "id": 1185016539071819783,
+          "id_str": "1185016539071819783",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHIGQ4hWsAc5qFt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHIGQ4hWsAc5qFt.jpg",
+          "sizes": {
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 2047
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YZ7xrj8l1h"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YZ7xrj8l1h",
+          "expanded_url": "https://twitter.com/DanScavino/status/1185016544415404032/photo/1",
+          "id": 1185016539071819783,
+          "id_str": "1185016539071819783",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHIGQ4hWsAc5qFt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHIGQ4hWsAc5qFt.jpg",
+          "sizes": {
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 2047
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YZ7xrj8l1h"
+        }
+      ]
+    },
+    "favorite_count": 33285,
+    "favorited": false,
+    "full_text": "#TrumpRallyDallas #KAG2020 https://t.co/YZ7xrj8l1h",
+    "geo": null,
+    "id": 1185016544415404032,
+    "id_str": "1185016544415404032",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9135,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "MAKING AMERICA GREAT AGAIN!\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8Personal Twitter Handle",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2940,
+      "follow_request_sent": false,
+      "followers_count": 575075,
+      "following": false,
+      "friends_count": 735,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3619,
+      "location": "Washington, DC\u2708\ufe0fNew York",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1571389614",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10604,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1185016544415404032,
+  "quoted_status_id_str": "1185016544415404032",
+  "quoted_status_permalink": {
+    "display": "twitter.com/danscavino/sta\u2026",
+    "expanded": "https://twitter.com/danscavino/status/1185016544415404032",
+    "url": "https://t.co/aJSyPSHJfw"
+  },
+  "retweet_count": 9817,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 66002850,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110070,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45355,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

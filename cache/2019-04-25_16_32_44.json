@@ -1,0 +1,374 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 25 16:32:44 +0000 2019",
+  "display_text_range": [
+    0,
+    66
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/nra/status/111\u2026",
+        "expanded_url": "https://twitter.com/nra/status/1119398244180688896",
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/3soeEjsMA3"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 55102,
+  "favorited": false,
+  "full_text": "Look forward to seeing everyone in Indianapolis, Indiana tomorrow! https://t.co/3soeEjsMA3",
+  "geo": null,
+  "id": 1121451990712762369,
+  "id_str": "1121451990712762369",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 20 00:31:53 +0000 2019",
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            116,
+            129
+          ],
+          "text": "Indianapolis"
+        },
+        {
+          "indices": [
+            203,
+            209
+          ],
+          "text": "NRAAM"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/IIhKYCO8yT",
+          "expanded_url": "https://twitter.com/NRA/status/1119398244180688896/photo/1",
+          "id": 1119396845791395840,
+          "id_str": "1119396845791395840",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4jlgBwWwAAQzRB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4jlgBwWwAAQzRB.jpg",
+          "sizes": {
+            "large": {
+              "h": 844,
+              "resize": "fit",
+              "w": 1500
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/IIhKYCO8yT"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/NRAILALeadersh\u2026",
+          "expanded_url": "http://bit.ly/NRAILALeadershipForum",
+          "indices": [
+            179,
+            202
+          ],
+          "url": "https://t.co/Ww8ifmQ6bL"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 818910970567344128,
+          "id_str": "818910970567344128",
+          "indices": [
+            31,
+            34
+          ],
+          "name": "Vice President Mike Pence",
+          "screen_name": "VP"
+        },
+        {
+          "id": 531636273,
+          "id_str": "531636273",
+          "indices": [
+            88,
+            95
+          ],
+          "name": "NRA-ILA",
+          "screen_name": "NRAILA"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/IIhKYCO8yT",
+          "expanded_url": "https://twitter.com/NRA/status/1119398244180688896/photo/1",
+          "id": 1119396845791395840,
+          "id_str": "1119396845791395840",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4jlgBwWwAAQzRB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4jlgBwWwAAQzRB.jpg",
+          "sizes": {
+            "large": {
+              "h": 844,
+              "resize": "fit",
+              "w": 1500
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/IIhKYCO8yT"
+        }
+      ]
+    },
+    "favorite_count": 2464,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump and @VP Mike Pence are speaking next Friday, April 26 at the @NRAILA Leadership Forum in #Indianapolis! You don't want to miss this. Get your tickets \u2192 https://t.co/Ww8ifmQ6bL #NRAAM https://t.co/IIhKYCO8yT",
+    "geo": null,
+    "id": 1119398244180688896,
+    "id_str": "1119398244180688896",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -86.348441,
+              39.631677
+            ],
+            [
+              -85.937404,
+              39.631677
+            ],
+            [
+              -85.937404,
+              39.927448
+            ],
+            [
+              -86.348441,
+              39.927448
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Indianapolis, IN",
+      "id": "018929347840059e",
+      "name": "Indianapolis",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/018929347840059e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 949,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 25 03:07:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "National Rifle Association of America #NRA #2A",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nraila.org",
+              "expanded_url": "http://nraila.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fYRRxfZW9I"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2406,
+      "follow_request_sent": false,
+      "followers_count": 753934,
+      "following": false,
+      "friends_count": 821,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 21829541,
+      "id_str": "21829541",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 4389,
+      "location": "Fairfax, VA",
+      "name": "NRA",
+      "notifications": false,
+      "profile_background_color": "CC0000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21829541/1549925386",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1003996910729007104/4akvnA-Q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003996910729007104/4akvnA-Q_normal.jpg",
+      "profile_link_color": "279CFC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F5F5F5",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NRA",
+      "statuses_count": 17090,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/fYRRxfZW9I",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1119398244180688896,
+  "quoted_status_id_str": "1119398244180688896",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nra/status/111\u2026",
+    "expanded": "https://twitter.com/nra/status/1119398244180688896",
+    "url": "https://t.co/3soeEjsMA3"
+  },
+  "retweet_count": 14165,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 59861599,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102170,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41441,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

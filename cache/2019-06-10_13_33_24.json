@@ -1,0 +1,274 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jun 10 13:33:24 +0000 2019",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/2O43Na2Nmr",
+        "expanded_url": "https://twitter.com/SquawkCNBC/status/1138066512076509184/video/1",
+        "id": 1138066386243215361,
+        "id_str": "1138066386243215361",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/media/D8s5dSOXsAA5Tab.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D8s5dSOXsAA5Tab.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1138066512076509184,
+        "source_status_id_str": "1138066512076509184",
+        "source_user_id": 404422077,
+        "source_user_id_str": "404422077",
+        "type": "photo",
+        "url": "https://t.co/2O43Na2Nmr"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Nov 03 22:17:10 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Start your morning with Joe Kernen, Becky Quick, and Andrew Ross Sorkin - Monday through Friday from 6-9a ET.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "squawkbox.cnbc.com",
+                    "expanded_url": "http://squawkbox.cnbc.com",
+                    "indices": [
+                      0,
+                      22
+                    ],
+                    "url": "http://t.co/AMPUczhT7a"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1875,
+            "follow_request_sent": false,
+            "followers_count": 178084,
+            "following": false,
+            "friends_count": 387,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 404422077,
+            "id_str": "404422077",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 2343,
+            "location": "New York, NY",
+            "name": "Squawk Box",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/404422077/1510766339",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/565647783634292736/LG-C0pIu_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/565647783634292736/LG-C0pIu_normal.jpeg",
+            "profile_link_color": "3473A3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E3E3E3",
+            "profile_text_color": "5E5E5E",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "SquawkCNBC",
+            "statuses_count": 21059,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://t.co/AMPUczhT7a",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/2O43Na2Nmr",
+        "expanded_url": "https://twitter.com/SquawkCNBC/status/1138066512076509184/video/1",
+        "id": 1138066386243215361,
+        "id_str": "1138066386243215361",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/media/D8s5dSOXsAA5Tab.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D8s5dSOXsAA5Tab.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1138066512076509184,
+        "source_status_id_str": "1138066512076509184",
+        "source_user_id": 404422077,
+        "source_user_id_str": "404422077",
+        "type": "video",
+        "url": "https://t.co/2O43Na2Nmr",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 47448,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1138066386243215361/pl/OGp7i8rfmPkzUYmY.m3u8?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1138066386243215361/vid/640x360/J1NMW90jBst0KmZ5.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1138066386243215361/vid/480x270/ewKiFZRKVs9hQouG.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1138066386243215361/vid/1280x720/n_44zINEuSImgssg.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 40493,
+  "favorited": false,
+  "full_text": "https://t.co/2O43Na2Nmr",
+  "geo": null,
+  "id": 1138076700959498242,
+  "id_str": "1138076700959498242",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 11201,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60960497,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104031,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1559860593",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42306,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

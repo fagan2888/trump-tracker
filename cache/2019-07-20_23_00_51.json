@@ -1,0 +1,409 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 20 23:00:51 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 844281463,
+        "id_str": "844281463",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Danielle D'Souza Gill",
+        "screen_name": "danielledsouzag"
+      },
+      {
+        "id": 76438819,
+        "id_str": "76438819",
+        "indices": [
+          43,
+          57
+        ],
+        "name": "Deneen Borelli",
+        "screen_name": "deneenborelli"
+      },
+      {
+        "id": 478855762,
+        "id_str": "478855762",
+        "indices": [
+          58,
+          73
+        ],
+        "name": "Jessie Jane Duff",
+        "screen_name": "JessieJaneDuff"
+      },
+      {
+        "id": 42670638,
+        "id_str": "42670638",
+        "indices": [
+          74,
+          90
+        ],
+        "name": "Mercedes Schlapp",
+        "screen_name": "mercedesschlapp"
+      },
+      {
+        "id": 259001548,
+        "id_str": "259001548",
+        "indices": [
+          91,
+          107
+        ],
+        "name": "Kayleigh McEnany",
+        "screen_name": "kayleighmcenany"
+      },
+      {
+        "id": 214174323,
+        "id_str": "214174323",
+        "indices": [
+          108,
+          121
+        ],
+        "name": "Cissie Graham Lynch",
+        "screen_name": "CissieGLynch"
+      },
+      {
+        "id": 25101996,
+        "id_str": "25101996",
+        "indices": [
+          122,
+          135
+        ],
+        "name": "Kimberly Guilfoyle",
+        "screen_name": "kimguilfoyle"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @danielledsouzag: Our squad is better\ud83c\uddfa\ud83c\uddf8 @deneenborelli @JessieJaneDuff @mercedesschlapp @kayleighmcenany @CissieGLynch @kimguilfoyle @La\u2026",
+  "geo": null,
+  "id": 1152715016669487104,
+  "id_str": "1152715016669487104",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5023,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 20 19:02:26 +0000 2019",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SD2BiVVHDZ",
+          "expanded_url": "https://twitter.com/danielledsouzag/status/1152655018396442625/photo/1",
+          "id": 1152655001644404736,
+          "id_str": "1152655001644404736",
+          "indices": [
+            129,
+            152
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_8NnfGXkAAS4oY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_8NnfGXkAAS4oY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1549,
+              "resize": "fit",
+              "w": 1549
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SD2BiVVHDZ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 76438819,
+          "id_str": "76438819",
+          "indices": [
+            22,
+            36
+          ],
+          "name": "Deneen Borelli",
+          "screen_name": "deneenborelli"
+        },
+        {
+          "id": 478855762,
+          "id_str": "478855762",
+          "indices": [
+            37,
+            52
+          ],
+          "name": "Jessie Jane Duff",
+          "screen_name": "JessieJaneDuff"
+        },
+        {
+          "id": 42670638,
+          "id_str": "42670638",
+          "indices": [
+            53,
+            69
+          ],
+          "name": "Mercedes Schlapp",
+          "screen_name": "mercedesschlapp"
+        },
+        {
+          "id": 259001548,
+          "id_str": "259001548",
+          "indices": [
+            70,
+            86
+          ],
+          "name": "Kayleigh McEnany",
+          "screen_name": "kayleighmcenany"
+        },
+        {
+          "id": 214174323,
+          "id_str": "214174323",
+          "indices": [
+            87,
+            100
+          ],
+          "name": "Cissie Graham Lynch",
+          "screen_name": "CissieGLynch"
+        },
+        {
+          "id": 25101996,
+          "id_str": "25101996",
+          "indices": [
+            101,
+            114
+          ],
+          "name": "Kimberly Guilfoyle",
+          "screen_name": "kimguilfoyle"
+        },
+        {
+          "id": 75541946,
+          "id_str": "75541946",
+          "indices": [
+            115,
+            128
+          ],
+          "name": "Lara Trump",
+          "screen_name": "LaraLeaTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SD2BiVVHDZ",
+          "expanded_url": "https://twitter.com/danielledsouzag/status/1152655018396442625/photo/1",
+          "id": 1152655001644404736,
+          "id_str": "1152655001644404736",
+          "indices": [
+            129,
+            152
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_8NnfGXkAAS4oY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_8NnfGXkAAS4oY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1549,
+              "resize": "fit",
+              "w": 1549
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SD2BiVVHDZ"
+        }
+      ]
+    },
+    "favorite_count": 19481,
+    "favorited": false,
+    "full_text": "Our squad is better\ud83c\uddfa\ud83c\uddf8 @deneenborelli @JessieJaneDuff @mercedesschlapp @kayleighmcenany @CissieGLynch @kimguilfoyle @LaraLeaTrump https://t.co/SD2BiVVHDZ",
+    "geo": null,
+    "id": 1152655018396442625,
+    "id_str": "1152655018396442625",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5023,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 24 20:44:14 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Young woman who loves God and supports our President. #WomenforTrump Advisory Board, Frequently seen on @FoxNews \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/danielledsouza\u2026",
+              "expanded_url": "https://www.instagram.com/danielledsouzagill/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CrPOptkcPt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8346,
+      "follow_request_sent": false,
+      "followers_count": 55318,
+      "following": false,
+      "friends_count": 4335,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 844281463,
+      "id_str": "844281463",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 173,
+      "location": "New York, NY",
+      "name": "Danielle D'Souza Gill",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/844281463/1563669076",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1152798988803944448/Nwga3d3-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152798988803944448/Nwga3d3-_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "danielledsouzag",
+      "statuses_count": 1483,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/CrPOptkcPt",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62143369,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105505,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43040,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 20 20:14:35 +0000 2018",
+  "display_text_range": [
+    0,
+    44
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          33,
+          39
+        ],
+        "text": "Emmys"
+      },
+      {
+        "indices": [
+          40,
+          44
+        ],
+        "text": "TBT"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/KtSS17xvIn",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1075846949427908608/video/1",
+        "id": 1075846768754069509,
+        "id_str": "1075846768754069509",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1075846768754069509/pu/img/MYj6Rl62f3i_11hu.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1075846768754069509/pu/img/MYj6Rl62f3i_11hu.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/KtSS17xvIn"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/KtSS17xvIn",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1075846949427908608/video/1",
+        "id": 1075846768754069509,
+        "id_str": "1075846768754069509",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1075846768754069509/pu/img/MYj6Rl62f3i_11hu.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1075846768754069509/pu/img/MYj6Rl62f3i_11hu.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/KtSS17xvIn",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 52300,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1075846768754069509/pu/pl/Gq8BEFjIG1jJ6dYS.m3u8?tag=6"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1075846768754069509/pu/vid/1280x720/NaX704PS8xI3vHPa.mp4?tag=6"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1075846768754069509/pu/vid/320x180/U9n96MyGDkSVB6y1.mp4?tag=6"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1075846768754069509/pu/vid/640x360/NqyUXKSuYZJqPgY4.mp4?tag=6"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 100472,
+  "favorited": false,
+  "full_text": "Farm Bill signing in 15 minutes! #Emmys #TBT https://t.co/KtSS17xvIn",
+  "geo": null,
+  "id": 1075846949427908608,
+  "id_str": "1075846949427908608",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 29003,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 56377887,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 97675,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1543104015",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39998,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

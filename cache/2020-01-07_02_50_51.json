@@ -1,0 +1,389 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 07 02:50:51 +0000 2020",
+  "display_text_range": [
+    0,
+    135
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 27245742,
+        "id_str": "27245742",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Marc Thiessen",
+        "screen_name": "marcthiessen"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @marcthiessen: Besides Soleimani already carried out an attack that killed an American citizen. Trump needed no other justification.",
+  "geo": null,
+  "id": 1214378837783588865,
+  "id_str": "1214378837783588865",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1213922336178606083,
+  "quoted_status_id_str": "1213922336178606083",
+  "quoted_status_permalink": {
+    "display": "twitter.com/MichaelRStrain\u2026",
+    "expanded": "https://twitter.com/MichaelRStrain/status/1213922336178606083",
+    "url": "https://t.co/0BhoeVbmy2"
+  },
+  "retweet_count": 4080,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 05 22:29:12 +0000 2020",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/MichaelRStrain\u2026",
+          "expanded_url": "https://twitter.com/MichaelRStrain/status/1213922336178606083",
+          "indices": [
+            118,
+            141
+          ],
+          "url": "https://t.co/0BhoeVbmy2"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 13173,
+    "favorited": false,
+    "full_text": "Besides Soleimani already carried out an attack that killed an American citizen. Trump needed no other justification. https://t.co/0BhoeVbmy2",
+    "geo": null,
+    "id": 1213950604701245441,
+    "id_str": "1213950604701245441",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -71.518925,
+              41.629501
+            ],
+            [
+              -71.354415,
+              41.629501
+            ],
+            [
+              -71.354415,
+              41.76838
+            ],
+            [
+              -71.518925,
+              41.76838
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Warwick, RI",
+      "id": "d1871b0189c27a21",
+      "name": "Warwick",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/d1871b0189c27a21.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Jan 05 20:36:53 +0000 2020",
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "washingtonpost.com/opinions/2020/\u2026",
+            "expanded_url": "https://www.washingtonpost.com/opinions/2020/01/03/killing-soleimani-trump-enforces-red-line-he-drew-iran/",
+            "indices": [
+              184,
+              207
+            ],
+            "url": "https://t.co/LhfhG8QvZR"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 27245742,
+            "id_str": "27245742",
+            "indices": [
+              1,
+              14
+            ],
+            "name": "Marc Thiessen",
+            "screen_name": "marcthiessen"
+          }
+        ]
+      },
+      "favorite_count": 454,
+      "favorited": false,
+      "full_text": ".@marcthiessen: \"According to the U.S. official, the United States had 'exquisite intelligence' that the two men were planning an attack that could have killed hundreds of Americans.\" https://t.co/LhfhG8QvZR",
+      "geo": null,
+      "id": 1213922336178606083,
+      "id_str": "1213922336178606083",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 241,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 30 23:36:22 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Director of Economic Policy Studies and Resident Scholar at the American Enterprise Institute. Columnist for Bloomberg Opinion.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "michaelrstrain.com",
+                "expanded_url": "http://www.michaelrstrain.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/TAiQ3IVAvs"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1183,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 8277,
+        "following": false,
+        "friends_count": 242,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 727088844,
+        "id_str": "727088844",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 292,
+        "location": "Washington, D.C.",
+        "name": "Michael R. Strain",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/727088844/1398274416",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/893498435474571264/S1fP-pMw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/893498435474571264/S1fP-pMw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MichaelRStrain",
+        "statuses_count": 4144,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/TAiQ3IVAvs",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1213922336178606083,
+    "quoted_status_id_str": "1213922336178606083",
+    "quoted_status_permalink": {
+      "display": "twitter.com/MichaelRStrain\u2026",
+      "expanded": "https://twitter.com/MichaelRStrain/status/1213922336178606083",
+      "url": "https://t.co/0BhoeVbmy2"
+    },
+    "retweet_count": 4080,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 28 15:21:52 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "AEI Fellow, Fox News, Wash Post columnist, Co-host of \"What The Hell Is Going On?\"  https://t.co/nsW9nj1ZAG",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "podcasts.apple.com/us/podcast/wha\u2026",
+              "expanded_url": "https://podcasts.apple.com/us/podcast/what-the-hell-is-going-on/id1467993804",
+              "indices": [
+                84,
+                107
+              ],
+              "url": "https://t.co/nsW9nj1ZAG"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "aei.org/author/marc-a-\u2026",
+              "expanded_url": "http://www.aei.org/author/marc-a-thiessen/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/b9M5GHR3Bh"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1417,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 43373,
+      "following": false,
+      "friends_count": 1308,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 27245742,
+      "id_str": "27245742",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 930,
+      "location": "Washington, DC",
+      "name": "Marc Thiessen",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/27245742/1532021064",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1171534856213254145/BWQzLlfl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171534856213254145/BWQzLlfl_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "marcthiessen",
+      "statuses_count": 14459,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/b9M5GHR3Bh",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 69450042,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 112506,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47720,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 12 12:41:35 +0000 2019",
+  "display_text_range": [
+    0,
+    112
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/steveguest/sta\u2026",
+        "expanded_url": "https://twitter.com/steveguest/status/1204248653843632128",
+        "indices": [
+          89,
+          112
+        ],
+        "url": "https://t.co/rKz3uy2GL7"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: It was bring your donors to work at Democrat headquarters yesterday. https://t.co/rKz3uy2GL7",
+  "geo": null,
+  "id": 1205105417275269122,
+  "id_str": "1205105417275269122",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1204248653843632128,
+  "quoted_status_id_str": "1204248653843632128",
+  "quoted_status_permalink": {
+    "display": "twitter.com/steveguest/sta\u2026",
+    "expanded": "https://twitter.com/steveguest/status/1204248653843632128",
+    "url": "https://t.co/rKz3uy2GL7"
+  },
+  "retweet_count": 8577,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 10 20:42:25 +0000 2019",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/steveguest/sta\u2026",
+          "expanded_url": "https://twitter.com/steveguest/status/1204248653843632128",
+          "indices": [
+            69,
+            92
+          ],
+          "url": "https://t.co/rKz3uy2GL7"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 26921,
+    "favorited": false,
+    "full_text": "It was bring your donors to work at Democrat headquarters yesterday. https://t.co/rKz3uy2GL7",
+    "geo": null,
+    "id": 1204501645004038144,
+    "id_str": "1204501645004038144",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Dec 10 03:57:07 +0000 2019",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UjFnz6gGQ3",
+            "expanded_url": "https://twitter.com/SteveGuest/status/1204248653843632128/video/1",
+            "features": {},
+            "id": 1204246995306786817,
+            "id_str": "1204246995306786817",
+            "indices": [
+              277,
+              300
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1204246995306786817/img/lCiuTsE71ATo8XvD.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1204246995306786817/img/lCiuTsE71ATo8XvD.jpg",
+            "sizes": {
+              "large": {
+                "h": 356,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 356,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 356,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UjFnz6gGQ3"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/UjFnz6gGQ3",
+            "expanded_url": "https://twitter.com/SteveGuest/status/1204248653843632128/video/1",
+            "features": {},
+            "id": 1204246995306786817,
+            "id_str": "1204246995306786817",
+            "indices": [
+              277,
+              300
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1204246995306786817/img/lCiuTsE71ATo8XvD.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1204246995306786817/img/lCiuTsE71ATo8XvD.jpg",
+            "sizes": {
+              "large": {
+                "h": 356,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 356,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 356,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/UjFnz6gGQ3",
+            "video_info": {
+              "aspect_ratio": [
+                160,
+                89
+              ],
+              "duration_millis": 162329,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1204246995306786817/vid/640x356/YkMme8hVTXMW5gVb.mp4?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1204246995306786817/vid/484x270/y1ym662_yy8eX36O.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1204246995306786817/pl/UQBRGvwY5LoizsZ0.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 5247,
+      "favorited": false,
+      "full_text": "WATCH: Rep. Matt Gaetz questions Democrat \"witness\" Daniel Goldman. \n\nGaetz: \"Do you think if you'd given more money, you might have been able to ask questions and answer them like Mr. Berke did?\"\n\nBarry Berke has contributed $105,180 to Dems.\nGoldman has contributed $36,000. https://t.co/UjFnz6gGQ3",
+      "geo": null,
+      "id": 1204248653843632128,
+      "id_str": "1204248653843632128",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2344,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 23 23:49:19 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@GOP Rapid Response Director",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 5009,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 23592,
+        "following": false,
+        "friends_count": 1485,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 341194704,
+        "id_str": "341194704",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 277,
+        "location": "Washington, DC",
+        "name": "Steve Guest",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/341194704/1516810389",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1060661820954939392/E0RKNPrg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060661820954939392/E0RKNPrg_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SteveGuest",
+        "statuses_count": 25471,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1204248653843632128,
+    "quoted_status_id_str": "1204248653843632128",
+    "quoted_status_permalink": {
+      "display": "twitter.com/steveguest/sta\u2026",
+      "expanded": "https://twitter.com/steveguest/status/1204248653843632128",
+      "url": "https://t.co/rKz3uy2GL7"
+    },
+    "retweet_count": 8577,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "centerstreet.com/titles/donald-\u2026",
+              "expanded_url": "https://www.centerstreet.com/titles/donald-trump-jr/triggered/9781546086031/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/p0wYduKA0W"
+            }
+          ]
+        }
+      },
+      "favourites_count": 14726,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 4126630,
+      "following": false,
+      "friends_count": 1390,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11552,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1571423068",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 32026,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/p0wYduKA0W",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67491776,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111356,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47085,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

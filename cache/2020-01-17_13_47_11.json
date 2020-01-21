@@ -1,0 +1,386 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 17 13:47:11 +0000 2020",
+  "display_text_range": [
+    0,
+    143
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2175836343,
+        "id_str": "2175836343",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Madison Gesiotto",
+        "screen_name": "madisongesiotto"
+      },
+      {
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          59,
+          63
+        ],
+        "name": "CNN",
+        "screen_name": "CNN"
+      },
+      {
+        "id": 1367531,
+        "id_str": "1367531",
+        "indices": [
+          66,
+          74
+        ],
+        "name": "Fox News",
+        "screen_name": "FoxNews"
+      },
+      {
+        "id": 2836421,
+        "id_str": "2836421",
+        "indices": [
+          79,
+          85
+        ],
+        "name": "MSNBC",
+        "screen_name": "MSNBC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @madisongesiotto: Check out these exciting moments from @CNN , @FoxNews and @MSNBC ! Full video available here --&gt; https://t.co/fsEFbwRa\u2026",
+  "geo": null,
+  "id": 1218167887589969920,
+  "id_str": "1218167887589969920",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6078,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 22 23:23:46 +0000 2016",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/aGIzwgcb4r",
+          "expanded_url": "https://twitter.com/madisongesiotto/status/801204556390658048/video/1",
+          "features": {},
+          "id": 801202459024695296,
+          "id_str": "801202459024695296",
+          "indices": [
+            124,
+            147
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/801202459024695296/pu/img/jkL2bsKdxhsJNrLg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/801202459024695296/pu/img/jkL2bsKdxhsJNrLg.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/aGIzwgcb4r"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "facebook.com/madisonmgesiot\u2026",
+          "expanded_url": "https://www.facebook.com/madisonmgesiotto/videos/845193648916934/",
+          "indices": [
+            100,
+            123
+          ],
+          "url": "https://t.co/fsEFbwRa5m"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            38,
+            42
+          ],
+          "name": "CNN",
+          "screen_name": "CNN"
+        },
+        {
+          "id": 1367531,
+          "id_str": "1367531",
+          "indices": [
+            45,
+            53
+          ],
+          "name": "Fox News",
+          "screen_name": "FoxNews"
+        },
+        {
+          "id": 2836421,
+          "id_str": "2836421",
+          "indices": [
+            58,
+            64
+          ],
+          "name": "MSNBC",
+          "screen_name": "MSNBC"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/aGIzwgcb4r",
+          "expanded_url": "https://twitter.com/madisongesiotto/status/801204556390658048/video/1",
+          "features": {},
+          "id": 801202459024695296,
+          "id_str": "801202459024695296",
+          "indices": [
+            124,
+            147
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/801202459024695296/pu/img/jkL2bsKdxhsJNrLg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/801202459024695296/pu/img/jkL2bsKdxhsJNrLg.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/aGIzwgcb4r",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 140000,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/801202459024695296/pu/vid/320x180/LjwLi5uOQYujkuTk.mp4"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/801202459024695296/pu/vid/640x360/usyy6IeYCblQY2ds.mp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/801202459024695296/pu/vid/1280x720/eq11A06Trv0TrmQT.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/801202459024695296/pu/pl/oOo6CAB0E8nu_cMz.m3u8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 19062,
+    "favorited": false,
+    "full_text": "Check out these exciting moments from @CNN , @FoxNews and @MSNBC ! Full video available here --&gt; https://t.co/fsEFbwRa5m https://t.co/aGIzwgcb4r",
+    "geo": null,
+    "id": 801204556390658048,
+    "id_str": "801204556390658048",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6078,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 10 14:56:24 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Practicing Attorney | @theHill Columnist | TV Commentator | Trump Campaign Advisory Board | Women for Trump Co-Chair | Former Miss Ohio USA",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "madisongesiotto.com",
+              "expanded_url": "http://madisongesiotto.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/YpkqIosbRF"
+            }
+          ]
+        }
+      },
+      "favourites_count": 37689,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 129038,
+      "following": false,
+      "friends_count": 498,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 2175836343,
+      "id_str": "2175836343",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 549,
+      "location": "contact@madisongesiotto.com",
+      "name": "Madison Gesiotto",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175836343/1477675991",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092529360735739904/5cP-XfB0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092529360735739904/5cP-XfB0_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "madisongesiotto",
+      "statuses_count": 13790,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/YpkqIosbRF",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71146089,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113466,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47937,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

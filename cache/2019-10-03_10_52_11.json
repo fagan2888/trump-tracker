@@ -1,0 +1,385 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 03 10:52:11 +0000 2019",
+  "display_text_range": [
+    0,
+    30
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/opinion8dkelli\u2026",
+        "expanded_url": "https://twitter.com/opinion8dkellie/status/1176182239954186240",
+        "indices": [
+          31,
+          54
+        ],
+        "url": "https://t.co/PcAnK009EW"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 65648,
+  "favorited": false,
+  "full_text": "Keep up the great work Kellie! https://t.co/PcAnK009EW",
+  "geo": null,
+  "id": 1179710734030249984,
+  "id_str": "1179710734030249984",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 23 17:11:13 +0000 2019",
+    "display_text_range": [
+      0,
+      222
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1VIaJoIyBA",
+          "expanded_url": "https://twitter.com/CNN/status/1176159504288886785/video/1",
+          "id": 1176157632186466305,
+          "id_str": "1176157632186466305",
+          "indices": [
+            199,
+            222
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1176157632186466305/img/sn6shwR6BJZh_pZC.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1176157632186466305/img/sn6shwR6BJZh_pZC.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1176159504288886785,
+          "source_status_id_str": "1176159504288886785",
+          "source_user_id": 759251,
+          "source_user_id_str": "759251",
+          "type": "photo",
+          "url": "https://t.co/1VIaJoIyBA"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK  & Download our app ?https://t.co/UCHG9M367J",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "cnn.com/apps",
+                      "expanded_url": "http://cnn.com/apps",
+                      "indices": [
+                        136,
+                        159
+                      ],
+                      "url": "https://t.co/UCHG9M367J"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "cnn.com",
+                      "expanded_url": "http://www.cnn.com",
+                      "indices": [
+                        0,
+                        22
+                      ],
+                      "url": "http://t.co/IaghNW8Xm2"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 1435,
+              "follow_request_sent": false,
+              "followers_count": 43015124,
+              "following": false,
+              "friends_count": 1106,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 759251,
+              "id_str": "759251",
+              "is_translation_enabled": true,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 139693,
+              "location": "",
+              "name": "CNN",
+              "notifications": false,
+              "profile_background_color": "323232",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1564637377",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+              "profile_link_color": "004287",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "EEEEEE",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "CNN",
+              "statuses_count": 265515,
+              "time_zone": null,
+              "translator_type": "regular",
+              "url": "http://t.co/IaghNW8Xm2",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/1VIaJoIyBA",
+          "expanded_url": "https://twitter.com/CNN/status/1176159504288886785/video/1",
+          "id": 1176157632186466305,
+          "id_str": "1176157632186466305",
+          "indices": [
+            199,
+            222
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1176157632186466305/img/sn6shwR6BJZh_pZC.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1176157632186466305/img/sn6shwR6BJZh_pZC.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1176159504288886785,
+          "source_status_id_str": "1176159504288886785",
+          "source_user_id": 759251,
+          "source_user_id_str": "759251",
+          "type": "video",
+          "url": "https://t.co/1VIaJoIyBA",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 52553,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1176157632186466305/vid/320x320/kJE87IfZmZVPkrzg.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1176157632186466305/pl/CwLIkKFBifLvK5O5.m3u8?tag=13"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1176157632186466305/vid/720x720/TGMrt0fLCUij3ABJ.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1176157632186466305/vid/480x480/F9-jv3i2XjO6Rnjm.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 9100,
+    "favorited": false,
+    "full_text": "What an actress! \u201cI should be in school.\u201d She\u2019s getting the best education socialism can steal. I won\u2019t be held hostage by someone who just got a learner\u2019s permit. Sorry kiddo! Tell Al to try again. https://t.co/1VIaJoIyBA",
+    "geo": null,
+    "id": 1176182239954186240,
+    "id_str": "1176182239954186240",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2482,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Sep 11 16:39:56 +0000 2012",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Trump will win 2020-PERIOD. They can\u2019t take the idea of America away from me without my consent. #ALLCAPS \ud83c\udfd2 \ud83d\udeabDates.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 13491,
+      "follow_request_sent": false,
+      "followers_count": 12506,
+      "following": false,
+      "friends_count": 3198,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 817754190,
+      "id_str": "817754190",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 72,
+      "location": "Greatest country on earth",
+      "name": "Kellie",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/817754190/1509295394",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1156305422120345600/Kaen2VRQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156305422120345600/Kaen2VRQ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Opinion8dKellie",
+      "statuses_count": 9276,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1176182239954186240,
+  "quoted_status_id_str": "1176182239954186240",
+  "quoted_status_permalink": {
+    "display": "twitter.com/opinion8dkelli\u2026",
+    "expanded": "https://twitter.com/opinion8dkellie/status/1176182239954186240",
+    "url": "https://t.co/PcAnK009EW"
+  },
+  "retweet_count": 15381,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65243129,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109347,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44852,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

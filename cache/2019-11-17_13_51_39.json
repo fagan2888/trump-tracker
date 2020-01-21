@@ -1,0 +1,410 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 17 13:51:39 +0000 2019",
+  "display_text_range": [
+    0,
+    58
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/liz_wheeler/st\u2026",
+        "expanded_url": "https://twitter.com/liz_wheeler/status/1195408797633671168",
+        "indices": [
+          59,
+          82
+        ],
+        "url": "https://t.co/9QH4oUa2eg"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 109579534,
+        "id_str": "109579534",
+        "indices": [
+          43,
+          57
+        ],
+        "name": "Elise Stefanik",
+        "screen_name": "EliseStefanik"
+      }
+    ]
+  },
+  "favorite_count": 78606,
+  "favorited": false,
+  "full_text": "A new Republican Star is born. Great going @EliseStefanik! https://t.co/9QH4oUa2eg",
+  "geo": null,
+  "id": 1196063349844430849,
+  "id_str": "1196063349844430849",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 15 18:30:41 +0000 2019",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/sUJEMwa0Tw",
+          "expanded_url": "https://twitter.com/eddiezipperer/status/1195407083824398337/video/1",
+          "features": {},
+          "id": 1195407003243421697,
+          "id_str": "1195407003243421697",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195407003243421697/pu/img/q4YP8wk8wLs7DLRE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195407003243421697/pu/img/q4YP8wk8wLs7DLRE.jpg",
+          "sizes": {
+            "large": {
+              "h": 400,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 400,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 378,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1195407083824398337,
+          "source_status_id_str": "1195407083824398337",
+          "source_user_id": 292388879,
+          "source_user_id_str": "292388879",
+          "type": "photo",
+          "url": "https://t.co/sUJEMwa0Tw"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 109579534,
+          "id_str": "109579534",
+          "indices": [
+            15,
+            29
+          ],
+          "name": "Elise Stefanik",
+          "screen_name": "EliseStefanik"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Tue May 03 15:33:40 +0000 2011",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Opinion contributor @dailycaller. Host of the Politics for Patriots podcast. Co-host of @electionandbeer. Poli Sci Professor.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "eddiezipperer.com",
+                      "expanded_url": "http://eddiezipperer.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/zmDxMsTTZe"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 38690,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 18556,
+              "following": false,
+              "friends_count": 1230,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 292388879,
+              "id_str": "292388879",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 161,
+              "location": "Milledgeville, GA",
+              "name": "Eddie Zipperer",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/292388879/1549550383",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1075772115385704452/G4_VLsZV_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075772115385704452/G4_VLsZV_normal.jpg",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "EddieZipperer",
+              "statuses_count": 40001,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/zmDxMsTTZe",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/sUJEMwa0Tw",
+          "expanded_url": "https://twitter.com/eddiezipperer/status/1195407083824398337/video/1",
+          "features": {},
+          "id": 1195407003243421697,
+          "id_str": "1195407003243421697",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195407003243421697/pu/img/q4YP8wk8wLs7DLRE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195407003243421697/pu/img/q4YP8wk8wLs7DLRE.jpg",
+          "sizes": {
+            "large": {
+              "h": 400,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 400,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 378,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1195407083824398337,
+          "source_status_id_str": "1195407083824398337",
+          "source_user_id": 292388879,
+          "source_user_id_str": "292388879",
+          "type": "video",
+          "url": "https://t.co/sUJEMwa0Tw",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              5
+            ],
+            "duration_millis": 80080,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1195407003243421697/pu/pl/AFZkvpcrc8IhVrSh.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1195407003243421697/pu/vid/486x270/3Y4YgfQuqOfRdvTU.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1195407003243421697/pu/vid/720x400/nUtNBi3Bwht3le95.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 36336,
+    "favorited": false,
+    "full_text": "Holy cow. Rep. @EliseStefanik absolutely wrecks Adam Schiff &amp; the Democrats\u2019 entire impeachment premise.\n\nhttps://t.co/sUJEMwa0Tw",
+    "geo": null,
+    "id": 1195408797633671168,
+    "id_str": "1195408797633671168",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12801,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 11 19:43:21 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of Tipping Point on @OANN. Author of \u201cTipping Points: How to Topple the Left\u2019s House of Cards\u201d available now!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/Tipping-Points\u2026",
+              "expanded_url": "https://www.amazon.com/Tipping-Points-Topple-Lefts-House/dp/1621579255/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ri2TlWLhK2"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7428,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 361572,
+      "following": false,
+      "friends_count": 750,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 264361128,
+      "id_str": "264361128",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1965,
+      "location": "",
+      "name": "Liz Wheeler",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/264361128/1556120120",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1035192110675243008/rOFScozb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035192110675243008/rOFScozb_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Liz_Wheeler",
+      "statuses_count": 32716,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/ri2TlWLhK2",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1195408797633671168,
+  "quoted_status_id_str": "1195408797633671168",
+  "quoted_status_permalink": {
+    "display": "twitter.com/liz_wheeler/st\u2026",
+    "expanded": "https://twitter.com/liz_wheeler/status/1195408797633671168",
+    "url": "https://t.co/9QH4oUa2eg"
+  },
+  "retweet_count": 20017,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66871838,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110763,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46249,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 20 02:41:40 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15922214,
+        "id_str": "15922214",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Roll Call",
+        "screen_name": "rollcall"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @rollcall: \"I believe that this is just a better fit for me,\u201d New Jersey's Jeff Van Drew said in the Oval Office Thursday. \u201cThis is who\u2026",
+  "geo": null,
+  "id": 1207853545799716864,
+  "id_str": "1207853545799716864",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3991,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 19 21:45:19 +0000 2019",
+    "display_text_range": [
+      0,
+      155
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "j.mp/2Q97AZs",
+          "expanded_url": "http://j.mp/2Q97AZs",
+          "indices": [
+            132,
+            155
+          ],
+          "url": "https://t.co/ClBkOdZVP3"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 15293,
+    "favorited": false,
+    "full_text": "\"I believe that this is just a better fit for me,\u201d New Jersey's Jeff Van Drew said in the Oval Office Thursday. \u201cThis is who I am.\u201d https://t.co/ClBkOdZVP3",
+    "geo": null,
+    "id": 1207778964355371013,
+    "id_str": "1207778964355371013",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3991,
+    "retweeted": false,
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Aug 20 19:53:31 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Breaking news, reporter tweets and analysis from the Source for News on Capitol Hill since 1955. Instagram: https://t.co/ZFMIdCppoH",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/rollcall/",
+              "expanded_url": "https://www.instagram.com/rollcall/",
+              "indices": [
+                108,
+                131
+              ],
+              "url": "https://t.co/ZFMIdCppoH"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "rollcall.com",
+              "expanded_url": "http://www.rollcall.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MDNRLFUEEN"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1597,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 361605,
+      "following": false,
+      "friends_count": 1595,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 15922214,
+      "id_str": "15922214",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8099,
+      "location": "Washington, D.C.",
+      "name": "Roll Call",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15922214/1483454210",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875811552221421568/nA_qp1qB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875811552221421568/nA_qp1qB_normal.jpg",
+      "profile_link_color": "257095",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F8F8F8",
+      "profile_text_color": "555555",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "rollcall",
+      "statuses_count": 108436,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/MDNRLFUEEN",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

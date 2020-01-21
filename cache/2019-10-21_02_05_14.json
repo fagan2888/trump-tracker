@@ -1,0 +1,398 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 21 02:05:14 +0000 2019",
+  "display_text_range": [
+    0,
+    36
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/bennyjohnson/s\u2026",
+        "expanded_url": "https://twitter.com/bennyjohnson/status/1186046551690530816",
+        "indices": [
+          37,
+          60
+        ],
+        "url": "https://t.co/16aSrqjwu2"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 72998,
+  "favorited": false,
+  "full_text": "Adam Schiff is a Corrupt Politician! https://t.co/16aSrqjwu2",
+  "geo": null,
+  "id": 1186101103676526592,
+  "id_str": "1186101103676526592",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 20 22:28:28 +0000 2019",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LHG3MVJ1NZ",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1186025179471892480/video/1",
+          "id": 1186024696040624128,
+          "id_str": "1186024696040624128",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHWbYAwXYAEvSrF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHWbYAwXYAEvSrF.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 706
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 706
+            },
+            "small": {
+              "h": 347,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1186025179471892480,
+          "source_status_id_str": "1186025179471892480",
+          "source_user_id": 19739126,
+          "source_user_id_str": "19739126",
+          "type": "photo",
+          "url": "https://t.co/LHG3MVJ1NZ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.\nhttps://t.co/ZqWsqD6L0T",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/repkevinmccart\u2026",
+                      "expanded_url": "https://www.instagram.com/repkevinmccarthy/",
+                      "indices": [
+                        100,
+                        123
+                      ],
+                      "url": "https://t.co/ZqWsqD6L0T"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "republicanleader.gov",
+                      "expanded_url": "http://republicanleader.gov",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/eB1lud6Yi3"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 1802,
+              "follow_request_sent": false,
+              "followers_count": 421095,
+              "following": false,
+              "friends_count": 1380,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 19739126,
+              "id_str": "19739126",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 4269,
+              "location": "Bakersfield, CA",
+              "name": "Kevin McCarthy",
+              "notifications": false,
+              "profile_background_color": "3B94D9",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1561180371",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+              "profile_link_color": "0A2644",
+              "profile_sidebar_border_color": "FF0000",
+              "profile_sidebar_fill_color": "FFFFFF",
+              "profile_text_color": "122C73",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "GOPLeader",
+              "statuses_count": 11176,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/eB1lud6Yi3",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/LHG3MVJ1NZ",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1186025179471892480/video/1",
+          "id": 1186024696040624128,
+          "id_str": "1186024696040624128",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHWbYAwXYAEvSrF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHWbYAwXYAEvSrF.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 706
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 706
+            },
+            "small": {
+              "h": 347,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1186025179471892480,
+          "source_status_id_str": "1186025179471892480",
+          "source_user_id": 19739126,
+          "source_user_id_str": "19739126",
+          "type": "video",
+          "url": "https://t.co/LHG3MVJ1NZ",
+          "video_info": {
+            "aspect_ratio": [
+              320,
+              163
+            ],
+            "duration_millis": 12326,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1186024696040624128/vid/706x360/16K7c01YvoogDJcu.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1186024696040624128/vid/1280x652/kK6ffrOz0_7VFCOq.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1186024696040624128/vid/530x270/bF7hhU1iWFjq_U6x.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1186024696040624128/pl/iMZfCdyuza9p6fhq.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16172,
+    "favorited": false,
+    "full_text": "House Republicans plan to vote to Censure Adam Schiff tomorrow.\n\nNext, get him to testify under oath.\nhttps://t.co/LHG3MVJ1NZ",
+    "geo": null,
+    "id": 1186046551690530816,
+    "id_str": "1186046551690530816",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5011,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jun 23 21:33:20 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Love my Family, God and Pipe Tobacco; not necessarily in that order. @tpusa Chief Creative Officer Benny@tpusa.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tpusa.com",
+              "expanded_url": "http://www.tpusa.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8gi1LppSDA"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9966,
+      "follow_request_sent": false,
+      "followers_count": 178480,
+      "following": false,
+      "friends_count": 1561,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 15212187,
+      "id_str": "15212187",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1936,
+      "location": "WashingtonDC/ New York City",
+      "name": "Benny",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15212187/1542303332",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1028825307258617856/hwu5zhmx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028825307258617856/hwu5zhmx_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "bennyjohnson",
+      "statuses_count": 38243,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8gi1LppSDA",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1186046551690530816,
+  "quoted_status_id_str": "1186046551690530816",
+  "quoted_status_permalink": {
+    "display": "twitter.com/bennyjohnson/s\u2026",
+    "expanded": "https://twitter.com/bennyjohnson/status/1186046551690530816",
+    "url": "https://t.co/16aSrqjwu2"
+  },
+  "retweet_count": 21229,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 66061320,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110117,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45404,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

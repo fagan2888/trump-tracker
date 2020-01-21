@@ -1,0 +1,364 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Aug 22 15:05:30 +0000 2018",
+  "display_text_range": [
+    0,
+    157
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          24,
+          38
+        ],
+        "text": "HurricaneLane"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/fema/status/10\u2026",
+        "expanded_url": "https://twitter.com/fema/status/1032043444221431810",
+        "indices": [
+          158,
+          181
+        ],
+        "url": "https://t.co/kCwtL8UxNI"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 304054410,
+        "id_str": "304054410",
+        "indices": [
+          123,
+          135
+        ],
+        "name": "NWSHonolulu",
+        "screen_name": "NWSHonolulu"
+      }
+    ]
+  },
+  "favorite_count": 37280,
+  "favorited": false,
+  "full_text": "Everyone in the path of #HurricaneLane please prepare yourselves, heed the advice of State and local officials, and follow @NWSHonolulu for updates. Be safe! https://t.co/kCwtL8UxNI",
+  "geo": null,
+  "id": 1032282621290704897,
+  "id_str": "1032282621290704897",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 21 23:15:06 +0000 2018",
+    "display_text_range": [
+      0,
+      199
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            32,
+            46
+          ],
+          "text": "HurricaneLane"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cqrZ8iFANM",
+          "expanded_url": "https://twitter.com/fema/status/1032043444221431810/video/1",
+          "id": 1032042615959633920,
+          "id_str": "1032042615959633920",
+          "indices": [
+            200,
+            223
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1032042615959633920/pu/img/DhWdqIv2Cv4fU6z7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1032042615959633920/pu/img/DhWdqIv2Cv4fU6z7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/cqrZ8iFANM"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "ready.gov/hurricanes",
+          "expanded_url": "http://ready.gov/hurricanes",
+          "indices": [
+            161,
+            184
+          ],
+          "url": "https://t.co/YbTCtJCzgd"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 304054410,
+          "id_str": "304054410",
+          "indices": [
+            120,
+            132
+          ],
+          "name": "NWSHonolulu",
+          "screen_name": "NWSHonolulu"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/cqrZ8iFANM",
+          "expanded_url": "https://twitter.com/fema/status/1032043444221431810/video/1",
+          "id": 1032042615959633920,
+          "id_str": "1032042615959633920",
+          "indices": [
+            200,
+            223
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1032042615959633920/pu/img/DhWdqIv2Cv4fU6z7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1032042615959633920/pu/img/DhWdqIv2Cv4fU6z7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/cqrZ8iFANM",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 58559,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1032042615959633920/pu/vid/640x360/Y3u4JlKEbyP496pJ.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1032042615959633920/pu/vid/1280x720/lhhQCqxjioljPPCi.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1032042615959633920/pu/pl/PJwiAc_FOj2Bcbe0.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1032042615959633920/pu/vid/320x180/D9cziRvZcpzZTUFt.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 1334,
+    "favorited": false,
+    "full_text": "(8/21) If you\u2019re in the path of #HurricaneLane, get ready now and make sure your family and neighbors do as well. Check @NWSHonolulu for the latest forecast and https://t.co/YbTCtJCzgd for more tips. https://t.co/cqrZ8iFANM",
+    "geo": null,
+    "id": 1032043444221431810,
+    "id_str": "1032043444221431810",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 693,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 09 16:54:20 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Our story of supporting citizens & first responders before, during, and after emergencies. For emergencies, call your local fire/EMS/police or 9-1-1.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fema.gov",
+              "expanded_url": "http://www.fema.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pJoesev0fm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2981,
+      "follow_request_sent": false,
+      "followers_count": 698953,
+      "following": false,
+      "friends_count": 639,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16669075,
+      "id_str": "16669075",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 10535,
+      "location": "United States",
+      "name": "FEMA",
+      "notifications": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16669075/1530889653",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875380682637234176/Fw_Rx4T-_normal.jpg",
+      "profile_link_color": "2A91B0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DCDCE0",
+      "profile_text_color": "65686E",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fema",
+      "statuses_count": 14269,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pJoesev0fm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1032043444221431810,
+  "quoted_status_id_str": "1032043444221431810",
+  "quoted_status_permalink": {
+    "display": "twitter.com/fema/status/10\u2026",
+    "expanded": "https://twitter.com/fema/status/1032043444221431810",
+    "url": "https://t.co/kCwtL8UxNI"
+  },
+  "retweet_count": 9852,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 53927872,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 92392,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1531968290",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 38648,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 24 19:29:08 +0000 2019",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 405004997,
+        "id_str": "405004997",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Pete Hegseth",
+        "screen_name": "PeteHegseth"
+      },
+      {
+        "id": 60680268,
+        "id_str": "60680268",
+        "indices": [
+          42,
+          55
+        ],
+        "name": "Jedediah Bila",
+        "screen_name": "JedediahBila"
+      },
+      {
+        "id": 15513604,
+        "id_str": "15513604",
+        "indices": [
+          104,
+          118
+        ],
+        "name": "FOX & friends",
+        "screen_name": "foxandfriends"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PeteHegseth: Huge CONGRATS to new mom @JedediahBila &amp; hubby Jeremy! Welcome baby Hartley to the @foxandfriends family. So glad all is w\u2026",
+  "geo": null,
+  "id": 1198684997013692418,
+  "id_str": "1198684997013692418",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3126,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 20 18:09:15 +0000 2019",
+    "display_text_range": [
+      0,
+      167
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Aa8gk3OuUP",
+          "expanded_url": "https://twitter.com/PeteHegseth/status/1197215343233654785/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "FOX & friends",
+                  "screen_name": "foxandfriends",
+                  "type": "user",
+                  "user_id": "15513604"
+                },
+                {
+                  "name": "Jedediah Bila",
+                  "screen_name": "JedediahBila",
+                  "type": "user",
+                  "user_id": "60680268"
+                }
+              ]
+            },
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1197215337177112579,
+          "id_str": "1197215337177112579",
+          "indices": [
+            168,
+            191
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJ1dAYwXYAMK8tY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJ1dAYwXYAMK8tY.jpg",
+          "sizes": {
+            "large": {
+              "h": 780,
+              "resize": "fit",
+              "w": 1446
+            },
+            "medium": {
+              "h": 647,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 367,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Aa8gk3OuUP"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 60680268,
+          "id_str": "60680268",
+          "indices": [
+            25,
+            38
+          ],
+          "name": "Jedediah Bila",
+          "screen_name": "JedediahBila"
+        },
+        {
+          "id": 15513604,
+          "id_str": "15513604",
+          "indices": [
+            87,
+            101
+          ],
+          "name": "FOX & friends",
+          "screen_name": "foxandfriends"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Aa8gk3OuUP",
+          "expanded_url": "https://twitter.com/PeteHegseth/status/1197215343233654785/photo/1",
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "FOX & friends",
+                  "screen_name": "foxandfriends",
+                  "type": "user",
+                  "user_id": "15513604"
+                },
+                {
+                  "name": "Jedediah Bila",
+                  "screen_name": "JedediahBila",
+                  "type": "user",
+                  "user_id": "60680268"
+                }
+              ]
+            },
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1197215337177112579,
+          "id_str": "1197215337177112579",
+          "indices": [
+            168,
+            191
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJ1dAYwXYAMK8tY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJ1dAYwXYAMK8tY.jpg",
+          "sizes": {
+            "large": {
+              "h": 780,
+              "resize": "fit",
+              "w": 1446
+            },
+            "medium": {
+              "h": 647,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 367,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Aa8gk3OuUP"
+        }
+      ]
+    },
+    "favorite_count": 17370,
+    "favorited": false,
+    "full_text": "Huge CONGRATS to new mom @JedediahBila &amp; hubby Jeremy! Welcome baby Hartley to the @foxandfriends family. So glad all is well \u2014 and can\u2019t wait to see you all soon! https://t.co/Aa8gk3OuUP",
+    "geo": null,
+    "id": 1197215343233654785,
+    "id_str": "1197215343233654785",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3126,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Nov 04 18:24:14 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "husband to @JennyHegseth | @foxandfriends weekend co-host & @FoxNews senior political analyst | @PremiereSpeaker speaker | author (#InTheArena) | Army veteran",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "PeteHegseth.com",
+              "expanded_url": "http://PeteHegseth.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/cTHjv2wXfE"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7458,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 237143,
+      "following": false,
+      "friends_count": 2682,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 405004997,
+      "id_str": "405004997",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1191,
+      "location": "#AmericaFirst",
+      "name": "Pete Hegseth",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/405004997/1470764205",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896507017266946048/xjDDu8VR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896507017266946048/xjDDu8VR_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PeteHegseth",
+      "statuses_count": 10288,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/cTHjv2wXfE",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67009030,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110871,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

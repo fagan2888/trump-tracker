@@ -1,0 +1,368 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Aug 09 11:35:12 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 202952121,
+        "id_str": "202952121",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Oliver McGee PhD MBA",
+        "screen_name": "OliverMcGee"
+      },
+      {
+        "id": 783792992,
+        "id_str": "783792992",
+        "indices": [
+          36,
+          44
+        ],
+        "name": "Ilhan Omar",
+        "screen_name": "IlhanMN"
+      },
+      {
+        "id": 22703645,
+        "id_str": "22703645",
+        "indices": [
+          75,
+          89
+        ],
+        "name": "Tucker Carlson",
+        "screen_name": "TuckerCarlson"
+      },
+      {
+        "id": 1082334352711790593,
+        "id_str": "1082334352711790593",
+        "indices": [
+          107,
+          113
+        ],
+        "name": "Rep. Ilhan Omar",
+        "screen_name": "Ilhan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @OliverMcGee: Retweet if you see @IlhanMN GETS A PASS By The Media says @TuckerCarlson!\n\n\"Media ignores @Ilhan Omar's Tax Fraud with som\u2026",
+  "geo": null,
+  "id": 1159790228170858497,
+  "id_str": "1159790228170858497",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 20948,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 09 00:55:28 +0000 2019",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/uQuxFyivi4",
+          "expanded_url": "https://twitter.com/OliverMcGee/status/1159629234333200386/video/1",
+          "id": 1159585987699380224,
+          "id_str": "1159585987699380224",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1159585987699380224/img/M7sReh9WxL7tFBDg.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1159585987699380224/img/M7sReh9WxL7tFBDg.jpg",
+          "sizes": {
+            "large": {
+              "h": 356,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 356,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 356,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/uQuxFyivi4"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 783792992,
+          "id_str": "783792992",
+          "indices": [
+            19,
+            27
+          ],
+          "name": "Ilhan Omar",
+          "screen_name": "IlhanMN"
+        },
+        {
+          "id": 22703645,
+          "id_str": "22703645",
+          "indices": [
+            58,
+            72
+          ],
+          "name": "Tucker Carlson",
+          "screen_name": "TuckerCarlson"
+        },
+        {
+          "id": 1082334352711790593,
+          "id_str": "1082334352711790593",
+          "indices": [
+            90,
+            96
+          ],
+          "name": "Rep. Ilhan Omar",
+          "screen_name": "Ilhan"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/uQuxFyivi4",
+          "expanded_url": "https://twitter.com/OliverMcGee/status/1159629234333200386/video/1",
+          "id": 1159585987699380224,
+          "id_str": "1159585987699380224",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1159585987699380224/img/M7sReh9WxL7tFBDg.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1159585987699380224/img/M7sReh9WxL7tFBDg.jpg",
+          "sizes": {
+            "large": {
+              "h": 356,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 356,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 356,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/uQuxFyivi4",
+          "video_info": {
+            "aspect_ratio": [
+              160,
+              89
+            ],
+            "duration_millis": 187521,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1159585987699380224/vid/640x356/1XQfKeNR6-LUfcER.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1159585987699380224/vid/484x270/d31k0lV2p1omMeXi.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1159585987699380224/pl/DDkULRNuFPDJ6N5w.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 40706,
+    "favorited": false,
+    "full_text": "Retweet if you see @IlhanMN GETS A PASS By The Media says @TuckerCarlson!\n\n\"Media ignores @Ilhan Omar's Tax Fraud with someone she wasn't married to! Omar's Marriage History can't be verified by local reporters on accusations she married her brother to skip our immigration laws!\" https://t.co/uQuxFyivi4",
+    "geo": null,
+    "id": 1159629234333200386,
+    "id_str": "1159629234333200386",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 20948,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Oct 15 05:20:45 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "FMR Sr Advisor @WhiteHouse, FMR US Dep Asst Secretary\ud83c\uddfa\ud83c\uddf8#MAGA|Guest @SkyNews @BBCWorld @LBC\ud83c\uddec\ud83c\udde7|@FoxNews|@MSNBC|@CNN|@CGTNOfficial\ud83c\udde8\ud83c\uddf3|BookMe ogmcgee@yahoo.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "OliverMcGee.org",
+              "expanded_url": "http://www.OliverMcGee.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8g76FMYmJB"
+            }
+          ]
+        }
+      },
+      "favourites_count": 536330,
+      "follow_request_sent": false,
+      "followers_count": 192910,
+      "following": false,
+      "friends_count": 147812,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 202952121,
+      "id_str": "202952121",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1231,
+      "location": "Washington, DC, USA",
+      "name": "Oliver McGee PhD MBA",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/202952121/1461301545",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2963669853/52457122be447a2bf80f30fd63ed5768_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2963669853/52457122be447a2bf80f30fd63ed5768_normal.jpeg",
+      "profile_link_color": "0009B3",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "OliverMcGee",
+      "statuses_count": 14363,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8g76FMYmJB",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62912957,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106586,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43390,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

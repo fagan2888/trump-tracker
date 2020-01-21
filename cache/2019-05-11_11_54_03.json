@@ -1,0 +1,350 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 11 11:54:03 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2964174789,
+        "id_str": "2964174789",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Senator Thom Tillis",
+        "screen_name": "SenThomTillis"
+      },
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          98,
+          113
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenThomTillis: I agree with Leader McConnell: this case is closed. The Mueller Report cleared @DonaldJTrumpJr and he\u2019s already spent 27\u2026",
+  "geo": null,
+  "id": 1127180063001251840,
+  "id_str": "1127180063001251840",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1126225660656214016,
+  "quoted_status_id_str": "1126225660656214016",
+  "quoted_status_permalink": {
+    "display": "twitter.com/WSJ/status/112\u2026",
+    "expanded": "https://twitter.com/WSJ/status/1126225660656214016",
+    "url": "https://t.co/11THs9LE0j"
+  },
+  "retweet_count": 9065,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 09 14:18:08 +0000 2019",
+    "display_text_range": [
+      0,
+      284
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/WSJ/status/112\u2026",
+          "expanded_url": "https://twitter.com/WSJ/status/1126225660656214016",
+          "indices": [
+            285,
+            308
+          ],
+          "url": "https://t.co/11THs9LE0j"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 39344374,
+          "id_str": "39344374",
+          "indices": [
+            79,
+            94
+          ],
+          "name": "Donald Trump Jr.",
+          "screen_name": "DonaldJTrumpJr"
+        }
+      ]
+    },
+    "favorite_count": 27173,
+    "favorited": false,
+    "full_text": "I agree with Leader McConnell: this case is closed. The Mueller Report cleared @DonaldJTrumpJr and he\u2019s already spent 27 hours testifying before Congress. Dems have made it clear this is all about politics. It\u2019s time to move on &amp; start focusing on issues that matter to Americans. https://t.co/11THs9LE0j",
+    "geo": null,
+    "id": 1126491544712880129,
+    "id_str": "1126491544712880129",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 08 20:41:36 +0000 2019",
+      "display_text_range": [
+        0,
+        161
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "on.wsj.com/2H7Qx5f",
+            "expanded_url": "https://on.wsj.com/2H7Qx5f",
+            "indices": [
+              138,
+              161
+            ],
+            "url": "https://t.co/S6d9fD2BeL"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 458,
+      "favorited": false,
+      "full_text": "A Senate panel has subpoenaed Donald Trump Jr. to testify about what he said to congressional investigators as part of their Russia probe https://t.co/S6d9fD2BeL",
+      "geo": null,
+      "id": 1126225660656214016,
+      "id_str": "1126225660656214016",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 180,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Breaking news and features from the WSJ.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wsj.com",
+                "expanded_url": "http://wsj.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/GhhR6PLfem"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1237,
+        "follow_request_sent": false,
+        "followers_count": 16597306,
+        "following": false,
+        "friends_count": 1126,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3108351,
+        "id_str": "3108351",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 112177,
+        "location": "New York, NY",
+        "name": "The Wall Street Journal",
+        "notifications": false,
+        "profile_background_color": "EDF2F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1533138007",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+        "profile_link_color": "1164B8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WSJ",
+        "statuses_count": 275771,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/GhhR6PLfem",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1126225660656214016,
+    "quoted_status_id_str": "1126225660656214016",
+    "quoted_status_permalink": {
+      "display": "twitter.com/WSJ/status/112\u2026",
+      "expanded": "https://twitter.com/WSJ/status/1126225660656214016",
+      "url": "https://t.co/11THs9LE0j"
+    },
+    "retweet_count": 9065,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 06 14:22:18 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of North Carolina U.S. Senator Thom Tillis.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tillis.senate.gov",
+              "expanded_url": "http://tillis.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mLVkKiULqh"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1362,
+      "follow_request_sent": false,
+      "followers_count": 77323,
+      "following": false,
+      "friends_count": 4652,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2964174789,
+      "id_str": "2964174789",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1558,
+      "location": "North Carolina, USA",
+      "name": "Senator Thom Tillis",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964174789/1556910350",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113102311566594048/TE6vxjHC_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113102311566594048/TE6vxjHC_normal.png",
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SenThomTillis",
+      "statuses_count": 4164,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mLVkKiULqh",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60179323,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102916,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41812,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

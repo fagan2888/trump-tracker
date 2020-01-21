@@ -1,0 +1,630 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 12 11:53:17 +0000 2019",
+  "display_text_range": [
+    0,
+    100
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          56,
+          74
+        ],
+        "text": "SocialMediaSummit"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/SlJOM1j0aT",
+        "expanded_url": "https://twitter.com/IWV/status/1149438875309412352/photo/1",
+        "id": 1149438845957681160,
+        "id_str": "1149438845957681160",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/media/D_OgilhXsAghGow.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D_OgilhXsAghGow.jpg",
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1149438875309412352,
+        "source_status_id_str": "1149438875309412352",
+        "source_user_id": 71036272,
+        "source_user_id_str": "71036272",
+        "type": "photo",
+        "url": "https://t.co/SlJOM1j0aT"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 71036272,
+        "id_str": "71036272",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "IWV",
+        "screen_name": "IWV"
+      },
+      {
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "indices": [
+          44,
+          55
+        ],
+        "name": "The White House",
+        "screen_name": "WhiteHouse"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/SlJOM1j0aT",
+        "expanded_url": "https://twitter.com/IWV/status/1149438875309412352/photo/1",
+        "id": 1149438845957681160,
+        "id_str": "1149438845957681160",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/media/D_OgilhXsAghGow.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D_OgilhXsAghGow.jpg",
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1149438875309412352,
+        "source_status_id_str": "1149438875309412352",
+        "source_user_id": 71036272,
+        "source_user_id_str": "71036272",
+        "type": "photo",
+        "url": "https://t.co/SlJOM1j0aT"
+      },
+      {
+        "display_url": "pic.twitter.com/SlJOM1j0aT",
+        "expanded_url": "https://twitter.com/IWV/status/1149438875309412352/photo/1",
+        "id": 1149438845961887745,
+        "id_str": "1149438845961887745",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/media/D_OgiliX4AEvwG5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D_OgiliX4AEvwG5.jpg",
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1149438875309412352,
+        "source_status_id_str": "1149438875309412352",
+        "source_user_id": 71036272,
+        "source_user_id_str": "71036272",
+        "type": "photo",
+        "url": "https://t.co/SlJOM1j0aT"
+      },
+      {
+        "display_url": "pic.twitter.com/SlJOM1j0aT",
+        "expanded_url": "https://twitter.com/IWV/status/1149438875309412352/photo/1",
+        "id": 1149438845957656576,
+        "id_str": "1149438845957656576",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/media/D_OgilhXUAAvyIl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D_OgilhXUAAvyIl.jpg",
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1149438875309412352,
+        "source_status_id_str": "1149438875309412352",
+        "source_user_id": 71036272,
+        "source_user_id_str": "71036272",
+        "type": "photo",
+        "url": "https://t.co/SlJOM1j0aT"
+      },
+      {
+        "display_url": "pic.twitter.com/SlJOM1j0aT",
+        "expanded_url": "https://twitter.com/IWV/status/1149438875309412352/photo/1",
+        "id": 1149438845966049280,
+        "id_str": "1149438845966049280",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/media/D_OgiljXYAAqC3f.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/D_OgiljXYAAqC3f.jpg",
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1149438875309412352,
+        "source_status_id_str": "1149438875309412352",
+        "source_user_id": 71036272,
+        "source_user_id_str": "71036272",
+        "type": "photo",
+        "url": "https://t.co/SlJOM1j0aT"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IWV: \ud83e\udd33 iPhones fully charged (\u2705) at the @WhiteHouse #SocialMediaSummit\ud83c\uddfa\ud83c\uddf8 https://t.co/SlJOM1j0aT",
+  "geo": null,
+  "id": 1149647916992098305,
+  "id_str": "1149647916992098305",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1295,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 11 22:02:38 +0000 2019",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            47,
+            65
+          ],
+          "text": "SocialMediaSummit"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SlJOM1j0aT",
+          "expanded_url": "https://twitter.com/IWV/status/1149438875309412352/photo/1",
+          "id": 1149438845957681160,
+          "id_str": "1149438845957681160",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OgilhXsAghGow.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OgilhXsAghGow.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SlJOM1j0aT"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            35,
+            46
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SlJOM1j0aT",
+          "expanded_url": "https://twitter.com/IWV/status/1149438875309412352/photo/1",
+          "id": 1149438845957681160,
+          "id_str": "1149438845957681160",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OgilhXsAghGow.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OgilhXsAghGow.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SlJOM1j0aT"
+        },
+        {
+          "display_url": "pic.twitter.com/SlJOM1j0aT",
+          "expanded_url": "https://twitter.com/IWV/status/1149438875309412352/photo/1",
+          "id": 1149438845961887745,
+          "id_str": "1149438845961887745",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OgiliX4AEvwG5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OgiliX4AEvwG5.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SlJOM1j0aT"
+        },
+        {
+          "display_url": "pic.twitter.com/SlJOM1j0aT",
+          "expanded_url": "https://twitter.com/IWV/status/1149438875309412352/photo/1",
+          "id": 1149438845957656576,
+          "id_str": "1149438845957656576",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OgilhXUAAvyIl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OgilhXUAAvyIl.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SlJOM1j0aT"
+        },
+        {
+          "display_url": "pic.twitter.com/SlJOM1j0aT",
+          "expanded_url": "https://twitter.com/IWV/status/1149438875309412352/photo/1",
+          "id": 1149438845966049280,
+          "id_str": "1149438845966049280",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_OgiljXYAAqC3f.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_OgiljXYAAqC3f.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SlJOM1j0aT"
+        }
+      ]
+    },
+    "favorite_count": 7376,
+    "favorited": false,
+    "full_text": "\ud83e\udd33 iPhones fully charged (\u2705) at the @WhiteHouse #SocialMediaSummit\ud83c\uddfa\ud83c\uddf8 https://t.co/SlJOM1j0aT",
+    "geo": null,
+    "id": 1149438875309412352,
+    "id_str": "1149438875309412352",
+    "in_reply_to_screen_name": "IWV",
+    "in_reply_to_status_id": 1149360416369336322,
+    "in_reply_to_status_id_str": "1149360416369336322",
+    "in_reply_to_user_id": 71036272,
+    "in_reply_to_user_id_str": "71036272",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1295,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Sep 02 18:27:29 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "We expand support for policy solutions that enhance people's freedoms, choices, and opportunities. President: @heytammybruce CEO: @TheHRH #ChampionWomen",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "iwv.org",
+              "expanded_url": "http://iwv.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Fss5CxmgBQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3254,
+      "follow_request_sent": false,
+      "followers_count": 246225,
+      "following": false,
+      "friends_count": 188415,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 71036272,
+      "id_str": "71036272",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1130,
+      "location": "Washington D.C.",
+      "name": "IWV",
+      "notifications": false,
+      "profile_background_color": "9D2234",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/71036272/1555358082",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1019281635693375488/ypWSpDWR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019281635693375488/ypWSpDWR_normal.jpg",
+      "profile_link_color": "50266F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "IWV",
+      "statuses_count": 21788,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Fss5CxmgBQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 61882786,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 105181,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42870,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

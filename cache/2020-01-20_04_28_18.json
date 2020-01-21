@@ -1,0 +1,386 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jan 20 04:28:18 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 202952121,
+        "id_str": "202952121",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Oliver McGee PhD MBA",
+        "screen_name": "OliverMcGee"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          25,
+          31
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 15764644,
+        "id_str": "15764644",
+        "indices": [
+          76,
+          90
+        ],
+        "name": "Nancy Pelosi",
+        "screen_name": "SpeakerPelosi"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @OliverMcGee: Retweet @POTUS\u2019 PROMISES MADE, PROMISES KEPT on TRADE!\n\nAs @SpeakerPelosi spent $5K on Gold Pens to sign an Impeachment Ho\u2026",
+  "geo": null,
+  "id": 1219114402521272325,
+  "id_str": "1219114402521272325",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10724,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 18 02:59:20 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ogb7kXSRJO",
+          "expanded_url": "https://twitter.com/OliverMcGee/status/1218367238987751424/video/1",
+          "features": {},
+          "id": 1218367185732718593,
+          "id_str": "1218367185732718593",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218367185732718593/pu/img/3saUE2KU1oxqtm1g.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218367185732718593/pu/img/3saUE2KU1oxqtm1g.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ogb7kXSRJO"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            8,
+            14
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 15764644,
+          "id_str": "15764644",
+          "indices": [
+            59,
+            73
+          ],
+          "name": "Nancy Pelosi",
+          "screen_name": "SpeakerPelosi"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            126,
+            142
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            224,
+            235
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "id": 813286,
+          "id_str": "813286",
+          "indices": [
+            260,
+            272
+          ],
+          "name": "Barack Obama",
+          "screen_name": "BarackObama"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/ogb7kXSRJO",
+          "expanded_url": "https://twitter.com/OliverMcGee/status/1218367238987751424/video/1",
+          "features": {},
+          "id": 1218367185732718593,
+          "id_str": "1218367185732718593",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218367185732718593/pu/img/3saUE2KU1oxqtm1g.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218367185732718593/pu/img/3saUE2KU1oxqtm1g.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ogb7kXSRJO",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 59142,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1218367185732718593/pu/vid/480x270/6VApyAEBzWJwX8XA.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1218367185732718593/pu/vid/1280x720/okCXEfHkuFnpcVie.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1218367185732718593/pu/pl/i6E7lqoqQiOaUujW.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1218367185732718593/pu/vid/640x360/D_1uwytJaC-83Gwn.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 26083,
+    "favorited": false,
+    "full_text": "Retweet @POTUS\u2019 PROMISES MADE, PROMISES KEPT on TRADE!\n\nAs @SpeakerPelosi spent $5K on Gold Pens to sign an Impeachment Hoax, @realDonaldTrump used a $1.99 Sharpie Pen to sign a $200B China Trade Deal, adding to 7M JOBS the @WhiteHouse created in 3 years that @BarackObama didn\u2019t! https://t.co/ogb7kXSRJO",
+    "geo": null,
+    "id": 1218367238987751424,
+    "id_str": "1218367238987751424",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10724,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Oct 15 05:20:45 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "FMR Sr Advisor @WhiteHouse, FMR US Dep Asst Secretary\ud83c\uddfa\ud83c\uddf8#MAGA|Guest @SkyNews @BBCWorld @LBC\ud83c\uddec\ud83c\udde7|@FoxNews|@MSNBC|@CNN|@CGTNOfficial\ud83c\udde8\ud83c\uddf3|BookMe ogmcgee@yahoo.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "OliverMcGee.org",
+              "expanded_url": "http://www.OliverMcGee.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8g76FMYmJB"
+            }
+          ]
+        }
+      },
+      "favourites_count": 531677,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 201927,
+      "following": false,
+      "friends_count": 144475,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 202952121,
+      "id_str": "202952121",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1257,
+      "location": "Washington, DC, USA",
+      "name": "Oliver McGee PhD MBA",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/202952121/1461301545",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2963669853/52457122be447a2bf80f30fd63ed5768_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2963669853/52457122be447a2bf80f30fd63ed5768_normal.jpeg",
+      "profile_link_color": "0009B3",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "OliverMcGee",
+      "statuses_count": 14944,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8g76FMYmJB",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71259348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113545,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47964,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

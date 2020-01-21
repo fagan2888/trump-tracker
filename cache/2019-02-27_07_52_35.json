@@ -1,0 +1,394 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Feb 27 07:52:35 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: No I did not. I support a minimum wage. I do not however believe in a minimum guarantee for people \u201cunwilling to work\u201d whi\u2026",
+  "geo": null,
+  "id": 1100664978955272193,
+  "id_str": "1100664978955272193",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1100501863529627653,
+  "quoted_status_id_str": "1100501863529627653",
+  "quoted_status_permalink": {
+    "display": "twitter.com/yahoolifestyle\u2026",
+    "expanded": "https://twitter.com/yahoolifestyle/status/1100501863529627653",
+    "url": "https://t.co/NTzw8Bimaj"
+  },
+  "retweet_count": 18017,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 26 22:22:40 +0000 2019",
+    "display_text_range": [
+      0,
+      154
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/yahoolifestyle\u2026",
+          "expanded_url": "https://twitter.com/yahoolifestyle/status/1100501863529627653",
+          "indices": [
+            155,
+            178
+          ],
+          "url": "https://t.co/NTzw8Bimaj"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 87620,
+    "favorited": false,
+    "full_text": "No I did not. I support a minimum wage. I do not however believe in a minimum guarantee for people \u201cunwilling to work\u201d which was the question asked of me. https://t.co/NTzw8Bimaj",
+    "geo": null,
+    "id": 1100521555090726912,
+    "id_str": "1100521555090726912",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Feb 26 21:04:25 +0000 2019",
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/pjE3wRu4fD",
+            "expanded_url": "https://twitter.com/yahoolifestyle/status/1100501863529627653/photo/1",
+            "id": 1100501861721878529,
+            "id_str": "1100501861721878529",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/D0XEnM6WsAEeagV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D0XEnM6WsAEeagV.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/pjE3wRu4fD"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "yhoo.it/2TdtWMQ",
+            "expanded_url": "https://yhoo.it/2TdtWMQ",
+            "indices": [
+              114,
+              137
+            ],
+            "url": "https://t.co/on3opqQNNP"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/pjE3wRu4fD",
+            "expanded_url": "https://twitter.com/yahoolifestyle/status/1100501863529627653/photo/1",
+            "id": 1100501861721878529,
+            "id_str": "1100501861721878529",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/D0XEnM6WsAEeagV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D0XEnM6WsAEeagV.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/pjE3wRu4fD"
+          }
+        ]
+      },
+      "favorite_count": 589,
+      "favorited": false,
+      "full_text": "Ivanka Trump challenges Alexandria Ocasio-Cortez's minimum-wage platform: 'People want to work for what they get' https://t.co/on3opqQNNP https://t.co/pjE3wRu4fD",
+      "geo": null,
+      "id": 1100501863529627653,
+      "id_str": "1100501863529627653",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 141,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 19 17:43:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Yahoo Lifestyle is home to the most inspiring and inclusive style, beauty, and wellness stories in your feed.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yahoo.com/lifestyle",
+                "expanded_url": "https://www.yahoo.com/lifestyle",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/YitV4ABdpH"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1723,
+        "follow_request_sent": false,
+        "followers_count": 45123,
+        "following": false,
+        "friends_count": 16997,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 21320186,
+        "id_str": "21320186",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 662,
+        "location": "New York City",
+        "name": "Yahoo Lifestyle",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21320186/1546348790",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/908436073574916096/O1HhJRTv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/908436073574916096/O1HhJRTv_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yahoolifestyle",
+        "statuses_count": 31059,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/YitV4ABdpH",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1100501863529627653,
+    "quoted_status_id_str": "1100501863529627653",
+    "quoted_status_permalink": {
+      "display": "twitter.com/yahoolifestyle\u2026",
+      "expanded": "https://twitter.com/yahoolifestyle/status/1100501863529627653",
+      "url": "https://t.co/NTzw8Bimaj"
+    },
+    "retweet_count": 18017,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1615,
+      "follow_request_sent": false,
+      "followers_count": 6230842,
+      "following": false,
+      "friends_count": 1362,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 20901,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 15154,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 58692834,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 100761,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40687,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

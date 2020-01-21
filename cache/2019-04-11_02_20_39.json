@@ -1,0 +1,335 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 11 02:20:39 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15647676,
+        "id_str": "15647676",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Homeland Security",
+        "screen_name": "DHSgov"
+      },
+      {
+        "id": 16613128,
+        "id_str": "16613128",
+        "indices": [
+          19,
+          23
+        ],
+        "name": "CBP",
+        "screen_name": "CBP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DHSgov: Today, @CBP Commissioner Kevin McAleenan was sworn-in to lead DHS as the Acting Secretary. The ceremony took place at the new D\u2026",
+  "geo": null,
+  "id": 1116164123635535873,
+  "id_str": "1116164123635535873",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3706,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 10 21:41:03 +0000 2019",
+    "display_text_range": [
+      0,
+      162
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/f5z7oMuqZX",
+          "expanded_url": "https://twitter.com/DHSgov/status/1116093762147627014/photo/1",
+          "id": 1116093753482186752,
+          "id_str": "1116093753482186752",
+          "indices": [
+            163,
+            186
+          ],
+          "media_url": "http://pbs.twimg.com/media/D30pWwBWkAArM4I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D30pWwBWkAArM4I.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/f5z7oMuqZX"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 16613128,
+          "id_str": "16613128",
+          "indices": [
+            7,
+            11
+          ],
+          "name": "CBP",
+          "screen_name": "CBP"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/f5z7oMuqZX",
+          "expanded_url": "https://twitter.com/DHSgov/status/1116093762147627014/photo/1",
+          "id": 1116093753482186752,
+          "id_str": "1116093753482186752",
+          "indices": [
+            163,
+            186
+          ],
+          "media_url": "http://pbs.twimg.com/media/D30pWwBWkAArM4I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D30pWwBWkAArM4I.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/f5z7oMuqZX"
+        },
+        {
+          "display_url": "pic.twitter.com/f5z7oMuqZX",
+          "expanded_url": "https://twitter.com/DHSgov/status/1116093762147627014/photo/1",
+          "id": 1116093753473798145,
+          "id_str": "1116093753473798145",
+          "indices": [
+            163,
+            186
+          ],
+          "media_url": "http://pbs.twimg.com/media/D30pWv_WkAE7-Xs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D30pWv_WkAE7-Xs.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/f5z7oMuqZX"
+        }
+      ]
+    },
+    "favorite_count": 14069,
+    "favorited": false,
+    "full_text": "Today, @CBP Commissioner Kevin McAleenan was sworn-in to lead DHS as the Acting Secretary. The ceremony took place at the new DHS Headquarters at St. Elizabeth\u2019s. https://t.co/f5z7oMuqZX",
+    "geo": null,
+    "id": 1116093762147627014,
+    "id_str": "1116093762147627014",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3706,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jul 29 16:32:34 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The DHS Mission: With honor and integrity, we will safeguard the American people, our homeland, and our values.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dhs.gov",
+              "expanded_url": "http://www.dhs.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/sVSheOcQ7l"
+            }
+          ]
+        }
+      },
+      "favourites_count": 453,
+      "follow_request_sent": false,
+      "followers_count": 1731668,
+      "following": false,
+      "friends_count": 397,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 15647676,
+      "id_str": "15647676",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 11272,
+      "location": "Washington, D.C.",
+      "name": "Homeland Security",
+      "notifications": false,
+      "profile_background_color": "E6E6E6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15647676/1551450208",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/888490452076437504/LjyWI52h_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/888490452076437504/LjyWI52h_normal.jpg",
+      "profile_link_color": "005288",
+      "profile_sidebar_border_color": "821111",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "3A3636",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DHSgov",
+      "statuses_count": 14201,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/sVSheOcQ7l",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 59621599,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101735,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41199,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

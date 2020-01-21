@@ -1,0 +1,276 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 06 02:12:50 +0000 2019",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/uElgSLSoJ8",
+        "expanded_url": "https://twitter.com/WattersWorld/status/1180652642944634881/video/1",
+        "id": 1180218449475317760,
+        "id_str": "1180218449475317760",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1180218449475317760/img/WfsMh-ExUF-Pe_mf.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1180218449475317760/img/WfsMh-ExUF-Pe_mf.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1180652642944634881,
+        "source_status_id_str": "1180652642944634881",
+        "source_user_id": 819334191624101888,
+        "source_user_id_str": "819334191624101888",
+        "type": "photo",
+        "url": "https://t.co/uElgSLSoJ8"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jan 12 00:04:28 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Watch Saturdays at 8p ET on @FoxNews with host @jessebwatters",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "fxn.ws/2it87pa",
+                    "expanded_url": "http://fxn.ws/2it87pa",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/Zjs4bvrtLS"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 6664,
+            "follow_request_sent": false,
+            "followers_count": 95156,
+            "following": false,
+            "friends_count": 168,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 819334191624101888,
+            "id_str": "819334191624101888",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 408,
+            "location": "",
+            "name": "Watters' World",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/819334191624101888/1484335847",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/819989731282800640/un-19jXS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/819989731282800640/un-19jXS_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "WattersWorld",
+            "statuses_count": 2753,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/Zjs4bvrtLS",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/uElgSLSoJ8",
+        "expanded_url": "https://twitter.com/WattersWorld/status/1180652642944634881/video/1",
+        "id": 1180218449475317760,
+        "id_str": "1180218449475317760",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1180218449475317760/img/WfsMh-ExUF-Pe_mf.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1180218449475317760/img/WfsMh-ExUF-Pe_mf.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1180652642944634881,
+        "source_status_id_str": "1180652642944634881",
+        "source_user_id": 819334191624101888,
+        "source_user_id_str": "819334191624101888",
+        "type": "video",
+        "url": "https://t.co/uElgSLSoJ8",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 270670,
+          "variants": [
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1180218449475317760/vid/480x270/ueLilgHT2I6fT8Lh.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1180218449475317760/vid/1280x720/ls0L3BZP5F3PCEoI.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1180218449475317760/vid/640x360/zapkEZwvoA32u0SC.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1180218449475317760/pl/MVsFU_WqlphdiiB_.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 28314,
+  "favorited": false,
+  "full_text": "https://t.co/uElgSLSoJ8",
+  "geo": null,
+  "id": 1180667198093824001,
+  "id_str": "1180667198093824001",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 10330,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65275651,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44875,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

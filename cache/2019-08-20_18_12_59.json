@@ -1,0 +1,309 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Aug 20 18:12:59 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3434177986,
+        "id_str": "3434177986",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Full Measure News",
+        "screen_name": "FullMeasureNews"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FullMeasureNews: Sunday on Full Measure: Claims of media bias aren\u2019t new, but they are heightened. What will this mean for the 2020 ele\u2026",
+  "geo": null,
+  "id": 1163876597323247617,
+  "id_str": "1163876597323247617",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7849,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 16 18:00:50 +0000 2019",
+    "display_text_range": [
+      0,
+      173
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/r0H6i94NuK",
+          "expanded_url": "https://twitter.com/FullMeasureNews/status/1162423987588218880/video/1",
+          "id": 1162423116020289536,
+          "id_str": "1162423116020289536",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1162423116020289536/pu/img/XVJx1NstW2kswFGJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1162423116020289536/pu/img/XVJx1NstW2kswFGJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/r0H6i94NuK"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/r0H6i94NuK",
+          "expanded_url": "https://twitter.com/FullMeasureNews/status/1162423987588218880/video/1",
+          "id": 1162423116020289536,
+          "id_str": "1162423116020289536",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1162423116020289536/pu/img/XVJx1NstW2kswFGJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1162423116020289536/pu/img/XVJx1NstW2kswFGJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/r0H6i94NuK",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 39367,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1162423116020289536/pu/vid/1280x720/J17-JtwQRgNVM5py.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1162423116020289536/pu/vid/640x360/fJhPWfChgmSB-0Mw.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1162423116020289536/pu/vid/480x270/Wsq5iLEkYNV0uRkY.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1162423116020289536/pu/pl/w_8rTdZG1EwNOwrm.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 26556,
+    "favorited": false,
+    "full_text": "Sunday on Full Measure: Claims of media bias aren\u2019t new, but they are heightened. What will this mean for the 2020 election? Find out results of our Full Measure poll. #2020 https://t.co/r0H6i94NuK",
+    "geo": null,
+    "id": 1162423987588218880,
+    "id_str": "1162423987588218880",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7849,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Aug 21 12:24:16 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "TV\u2019s most fearless half hour of nonpartisan original & investigative reporting. Specialties: govt. & corp. accountability, transparency, $. @SharylAttkisson",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fullmeasure.news",
+              "expanded_url": "http://fullmeasure.news",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/s9kZYbCXxY"
+            }
+          ]
+        }
+      },
+      "favourites_count": 413,
+      "follow_request_sent": false,
+      "followers_count": 53260,
+      "following": false,
+      "friends_count": 310,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 3434177986,
+      "id_str": "3434177986",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 570,
+      "location": "Washington, DC",
+      "name": "Full Measure News",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3434177986/1516586426",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1084161469330214917/0sOXMUnv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084161469330214917/0sOXMUnv_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FullMeasureNews",
+      "statuses_count": 2668,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/s9kZYbCXxY",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63348704,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107254,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43669,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

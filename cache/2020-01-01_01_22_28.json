@@ -1,0 +1,343 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 01 01:22:28 +0000 2020",
+  "display_text_range": [
+    0,
+    25
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/flotus/status/\u2026",
+        "expanded_url": "https://twitter.com/flotus/status/1211995670510391296",
+        "indices": [
+          26,
+          49
+        ],
+        "url": "https://t.co/6iswto4WDI"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 67224,
+  "favorited": false,
+  "full_text": "Our fantastic First Lady! https://t.co/6iswto4WDI",
+  "geo": null,
+  "id": 1212182267113680896,
+  "id_str": "1212182267113680896",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 31 13:01:00 +0000 2019",
+    "display_text_range": [
+      0,
+      183
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            176,
+            183
+          ],
+          "text": "BeBest"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4yv1B93d6S",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1211995670510391296/video/1",
+          "features": {},
+          "id": 1211462289376841728,
+          "id_str": "1211462289376841728",
+          "indices": [
+            184,
+            207
+          ],
+          "media_url": "http://pbs.twimg.com/media/EM_8VrsXsAA0Ujx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EM_8VrsXsAA0Ujx.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/4yv1B93d6S"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Be Best"
+          },
+          "display_url": "pic.twitter.com/4yv1B93d6S",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1211995670510391296/video/1",
+          "features": {},
+          "id": 1211462289376841728,
+          "id_str": "1211462289376841728",
+          "indices": [
+            184,
+            207
+          ],
+          "media_url": "http://pbs.twimg.com/media/EM_8VrsXsAA0Ujx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EM_8VrsXsAA0Ujx.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/4yv1B93d6S",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 120000,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1211462289376841728/vid/480x270/49IGqMGCn76w8w29.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1211462289376841728/vid/640x360/CG0iDc35_6OvabAI.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1211462289376841728/pl/v5O3Qi_EeJCrUZR-.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1211462289376841728/vid/1280x720/48fM5SKwdIu9up41.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 61410,
+    "favorited": false,
+    "full_text": "#2019 was a successful year! It was a privilege to meet so many incredible people. As we head into the New Year, I will continue speaking with children and encouraging them to #BeBest https://t.co/4yv1B93d6S",
+    "geo": null,
+    "id": 1211995670510391296,
+    "id_str": "1211995670510391296",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12800,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 17:43:50 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This account is run by the Office of First Lady Melania Trump. Tweets may be archived. More at https://t.co/eVVzoBb3Zr",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                95,
+                118
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BeBest.gov",
+              "expanded_url": "http://www.BeBest.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9zG6ZvKVLm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 12794954,
+      "following": false,
+      "friends_count": 7,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 818876014390603776,
+      "id_str": "818876014390603776",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8248,
+      "location": "Washington, D.C.",
+      "name": "Melania Trump",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818876014390603776/1484852402",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FLOTUS",
+      "statuses_count": 780,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9zG6ZvKVLm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1211995670510391296,
+  "quoted_status_id_str": "1211995670510391296",
+  "quoted_status_permalink": {
+    "display": "twitter.com/flotus/status/\u2026",
+    "expanded": "https://twitter.com/flotus/status/1211995670510391296",
+    "url": "https://t.co/6iswto4WDI"
+  },
+  "retweet_count": 16050,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 68110358,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111904,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47640,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

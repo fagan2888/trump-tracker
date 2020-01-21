@@ -1,0 +1,301 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 11 15:38:29 +0000 2019",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          21,
+          27
+        ],
+        "text": "USMCA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 12788332,
+        "id_str": "12788332",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Ways and Means GOP",
+        "screen_name": "WaysandMeansGOP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @WaysandMeansGOP: #USMCA will build on the strong economy, benefitting farmers, small businesses, and manufacturers across the country.\u2026",
+  "geo": null,
+  "id": 1182681884628791297,
+  "id_str": "1182681884628791297",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3776,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 10 18:22:28 +0000 2019",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "USMCA"
+        },
+        {
+          "indices": [
+            132,
+            141
+          ],
+          "text": "USMCANow"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xTiloQMnhD",
+          "expanded_url": "https://twitter.com/WaysandMeansGOP/status/1182360766172815367/photo/1",
+          "id": 1182360763069059072,
+          "id_str": "1182360763069059072",
+          "indices": [
+            143,
+            166
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGiW2X8XUAAGnU7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGiW2X8XUAAGnU7.jpg",
+          "sizes": {
+            "large": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xTiloQMnhD"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xTiloQMnhD",
+          "expanded_url": "https://twitter.com/WaysandMeansGOP/status/1182360766172815367/photo/1",
+          "id": 1182360763069059072,
+          "id_str": "1182360763069059072",
+          "indices": [
+            143,
+            166
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGiW2X8XUAAGnU7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGiW2X8XUAAGnU7.jpg",
+          "sizes": {
+            "large": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xTiloQMnhD"
+        }
+      ]
+    },
+    "favorite_count": 12278,
+    "favorited": false,
+    "full_text": "#USMCA will build on the strong economy, benefitting farmers, small businesses, and manufacturers across the country. It\u2019s time for #USMCANow. https://t.co/xTiloQMnhD",
+    "geo": null,
+    "id": 1182360766172815367,
+    "id_str": "1182360766172815367",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3776,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 28 15:30:34 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Senior Committee, with jurisdiction over taxes, trade, healthcare, welfare, and Social Security",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "gop-waysandmeans.house.gov",
+              "expanded_url": "http://gop-waysandmeans.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RORoP6Sbor"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1169,
+      "follow_request_sent": false,
+      "followers_count": 41648,
+      "following": false,
+      "friends_count": 557,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 12788332,
+      "id_str": "12788332",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1355,
+      "location": "Washington, D.C.",
+      "name": "Ways and Means GOP",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/12788332/1536173435",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1042836487300149249/APsv5hxG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042836487300149249/APsv5hxG_normal.jpg",
+      "profile_link_color": "FADC1A",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F0C766",
+      "profile_text_color": "18038C",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WaysandMeansGOP",
+      "statuses_count": 10146,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/RORoP6Sbor",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 65611493,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109762,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45125,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

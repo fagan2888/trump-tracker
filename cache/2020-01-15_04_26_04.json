@@ -1,0 +1,339 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 15 04:26:04 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1074480192,
+        "id_str": "1074480192",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Senator Ted Cruz",
+        "screen_name": "SenTedCruz"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          59,
+          75
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenTedCruz: The recent jobs report is proof that under @realDonaldTrump &amp; Republicans\u2019 leadership the American people are seeing real r\u2026",
+  "geo": null,
+  "id": 1217301903744176128,
+  "id_str": "1217301903744176128",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3170,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 14 17:36:43 +0000 2020",
+    "display_text_range": [
+      0,
+      282
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NF3YYPGUCU",
+          "expanded_url": "https://twitter.com/SenTedCruz/status/1217138487712980992/video/1",
+          "features": {},
+          "id": 1217137817287102464,
+          "id_str": "1217137817287102464",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1217137817287102464/img/MUThSClpWdqVXcbo.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1217137817287102464/img/MUThSClpWdqVXcbo.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NF3YYPGUCU"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            43,
+            59
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/NF3YYPGUCU",
+          "expanded_url": "https://twitter.com/SenTedCruz/status/1217138487712980992/video/1",
+          "features": {},
+          "id": 1217137817287102464,
+          "id_str": "1217137817287102464",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1217137817287102464/img/MUThSClpWdqVXcbo.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1217137817287102464/img/MUThSClpWdqVXcbo.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/NF3YYPGUCU",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 35805,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217137817287102464/vid/480x270/4H-Bus_C_D0TfgXI.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217137817287102464/vid/640x360/eThARDwnDDpv4yPa.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1217137817287102464/pl/QQpnC8KLHzypsHnh.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217137817287102464/vid/1280x720/QKZUTQxr1oXM0yrI.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 10138,
+    "favorited": false,
+    "full_text": "The recent jobs report is proof that under @realDonaldTrump &amp; Republicans\u2019 leadership the American people are seeing real results: more jobs &amp; higher wages.\n\u2705 Lowest unemployment rate of 3.5% since 1969\n\u2705 Average wage growth for workers now outpaces wage growth for managers https://t.co/NF3YYPGUCU",
+    "geo": null,
+    "id": 1217138487712980992,
+    "id_str": "1217138487712980992",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3170,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 09 18:11:37 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Representing the State of Texas in the United States Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cruz.senate.gov",
+              "expanded_url": "http://cruz.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9HWCyvsTvJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 433,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1384510,
+      "following": false,
+      "friends_count": 6877,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1074480192,
+      "id_str": "1074480192",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8664,
+      "location": "Houston, Texas",
+      "name": "Senator Ted Cruz",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074480192/1515618797",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenTedCruz",
+      "statuses_count": 12066,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9HWCyvsTvJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 70972856,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113364,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47898,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

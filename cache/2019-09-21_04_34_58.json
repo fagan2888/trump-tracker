@@ -1,0 +1,491 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Sep 21 04:34:58 +0000 2019",
+  "display_text_range": [
+    0,
+    113
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/realdonaldtrum\u2026",
+        "expanded_url": "https://twitter.com/realdonaldtrump/status/1175261118161461250",
+        "indices": [
+          90,
+          113
+        ],
+        "url": "https://t.co/QM15sIAlHR"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 34116377,
+        "id_str": "34116377",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Scott Morrison",
+        "screen_name": "ScottMorrisonMP"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          36,
+          52
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 818876014390603776,
+        "id_str": "818876014390603776",
+        "indices": [
+          57,
+          64
+        ],
+        "name": "Melania Trump",
+        "screen_name": "FLOTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ScottMorrisonMP: \ud83c\udde6\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 Thank you @realDonaldTrump and @FLOTUS for a wonderful evening. https://t.co/QM15sIAlHR",
+  "geo": null,
+  "id": 1175267150799540224,
+  "id_str": "1175267150799540224",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1175261118161461250,
+  "quoted_status_id_str": "1175261118161461250",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realdonaldtrum\u2026",
+    "expanded": "https://twitter.com/realdonaldtrump/status/1175261118161461250",
+    "url": "https://t.co/QM15sIAlHR"
+  },
+  "retweet_count": 2538,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 21 04:22:24 +0000 2019",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realdonaldtrum\u2026",
+          "expanded_url": "https://twitter.com/realdonaldtrump/status/1175261118161461250",
+          "indices": [
+            69,
+            92
+          ],
+          "url": "https://t.co/QM15sIAlHR"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            15,
+            31
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 818876014390603776,
+          "id_str": "818876014390603776",
+          "indices": [
+            36,
+            43
+          ],
+          "name": "Melania Trump",
+          "screen_name": "FLOTUS"
+        }
+      ]
+    },
+    "favorite_count": 11621,
+    "favorited": false,
+    "full_text": "\ud83c\udde6\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 Thank you @realDonaldTrump and @FLOTUS for a wonderful evening. https://t.co/QM15sIAlHR",
+    "geo": null,
+    "id": 1175263986079518720,
+    "id_str": "1175263986079518720",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Sep 21 04:11:00 +0000 2019",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/i61cHCZYlD",
+            "expanded_url": "https://twitter.com/realDonaldTrump/status/1175261118161461250/video/1",
+            "id": 1175261028675928064,
+            "id_str": "1175261028675928064",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175261028675928064/pu/img/OZs8I3yeTIeUnGvA.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175261028675928064/pu/img/OZs8I3yeTIeUnGvA.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/i61cHCZYlD"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 818876014390603776,
+            "id_str": "818876014390603776",
+            "indices": [
+              56,
+              63
+            ],
+            "name": "Melania Trump",
+            "screen_name": "FLOTUS"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/i61cHCZYlD",
+            "expanded_url": "https://twitter.com/realDonaldTrump/status/1175261118161461250/video/1",
+            "id": 1175261028675928064,
+            "id_str": "1175261028675928064",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175261028675928064/pu/img/OZs8I3yeTIeUnGvA.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175261028675928064/pu/img/OZs8I3yeTIeUnGvA.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/i61cHCZYlD",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 59818,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1175261028675928064/pu/pl/gqVDqS7SlcfbNZ4Y.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1175261028675928064/pu/vid/640x360/IzCOC3kMNdAxfpIT.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1175261028675928064/pu/vid/1280x720/o-r4MA-94_UHT4o2.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1175261028675928064/pu/vid/480x270/10hDc8gxQ7_dL4qm.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 35540,
+      "favorited": false,
+      "full_text": "I want to express my gratitude to America\u2019s magnificent @FLOTUS for tonight\u2019s exquisite evening where we celebrated more than a century of loyal and devoted friendship between\ud83c\uddfa\ud83c\uddf8\ud83c\udde6\ud83c\uddfaBoth of our nations are blessed by uncommon courage, unfailing commitment, and unyielding character! https://t.co/i61cHCZYlD",
+      "geo": null,
+      "id": 1175261118161461250,
+      "id_str": "1175261118161461250",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 8156,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 64537027,
+        "following": true,
+        "friends_count": 47,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 108728,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 44413,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1175261118161461250,
+    "quoted_status_id_str": "1175261118161461250",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realdonaldtrum\u2026",
+      "expanded": "https://twitter.com/realdonaldtrump/status/1175261118161461250",
+      "url": "https://t.co/QM15sIAlHR"
+    },
+    "retweet_count": 2538,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 22 00:51:17 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Prime Minister of Australia and Federal Member for Cook. Authorised by S. Morrison, Liberal Party of Australia, Canberra.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "liberal.org.au/sign-up",
+              "expanded_url": "https://www.liberal.org.au/sign-up",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/3pdq8hVjAJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 32,
+      "follow_request_sent": false,
+      "followers_count": 195607,
+      "following": false,
+      "friends_count": 1721,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 34116377,
+      "id_str": "34116377",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1385,
+      "location": "Canberra, Australia",
+      "name": "Scott Morrison",
+      "notifications": false,
+      "profile_background_color": "58A0E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/34116377/1554978264",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1116081523394891776/AYnEcQnG_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116081523394891776/AYnEcQnG_normal.png",
+      "profile_link_color": "04508A",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FEFABF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "ScottMorrisonMP",
+      "statuses_count": 7344,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/3pdq8hVjAJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 64537027,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108728,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44413,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

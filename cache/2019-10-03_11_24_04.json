@@ -1,0 +1,365 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 03 11:24:04 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52052011,
+        "id_str": "52052011",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "GovTrack.\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "govtrack"
+      },
+      {
+        "id": 216881337,
+        "id_str": "216881337",
+        "indices": [
+          43,
+          52
+        ],
+        "name": "Senator Rand Paul",
+        "screen_name": "RandPaul"
+      },
+      {
+        "id": 963480595,
+        "id_str": "963480595",
+        "indices": [
+          57,
+          72
+        ],
+        "name": "Mark Meadows",
+        "screen_name": "RepMarkMeadows"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @govtrack: Duplication Scoring Act from @RandPaul and @RepMarkMeadows would help prevent new laws or programs that accidentally duplicat\u2026",
+  "geo": null,
+  "id": 1179718758207819777,
+  "id_str": "1179718758207819777",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4482,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 30 17:31:53 +0000 2019",
+    "display_text_range": [
+      0,
+      188
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/HfwUYVoZDD",
+          "expanded_url": "https://twitter.com/govtrack/status/1178724156768182273/photo/1",
+          "id": 1178724152762650626,
+          "id_str": "1178724152762650626",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFurXy2XUAIULdf.png",
+          "media_url_https": "https://pbs.twimg.com/media/EFurXy2XUAIULdf.png",
+          "sizes": {
+            "large": {
+              "h": 240,
+              "resize": "fit",
+              "w": 200
+            },
+            "medium": {
+              "h": 240,
+              "resize": "fit",
+              "w": 200
+            },
+            "small": {
+              "h": 240,
+              "resize": "fit",
+              "w": 200
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/HfwUYVoZDD"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "govtrackinsider.com/duplication-sc\u2026",
+          "expanded_url": "https://govtrackinsider.com/duplication-scoring-act-would-help-prevent-new-laws-or-programs-that-accidentally-duplicate-or-81a4fdf32146",
+          "indices": [
+            165,
+            188
+          ],
+          "url": "https://t.co/w989XITJ2Y"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 216881337,
+          "id_str": "216881337",
+          "indices": [
+            29,
+            38
+          ],
+          "name": "Senator Rand Paul",
+          "screen_name": "RandPaul"
+        },
+        {
+          "id": 963480595,
+          "id_str": "963480595",
+          "indices": [
+            43,
+            58
+          ],
+          "name": "Mark Meadows",
+          "screen_name": "RepMarkMeadows"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/HfwUYVoZDD",
+          "expanded_url": "https://twitter.com/govtrack/status/1178724156768182273/photo/1",
+          "id": 1178724152762650626,
+          "id_str": "1178724152762650626",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFurXy2XUAIULdf.png",
+          "media_url_https": "https://pbs.twimg.com/media/EFurXy2XUAIULdf.png",
+          "sizes": {
+            "large": {
+              "h": 240,
+              "resize": "fit",
+              "w": 200
+            },
+            "medium": {
+              "h": 240,
+              "resize": "fit",
+              "w": 200
+            },
+            "small": {
+              "h": 240,
+              "resize": "fit",
+              "w": 200
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/HfwUYVoZDD"
+        },
+        {
+          "display_url": "pic.twitter.com/HfwUYVoZDD",
+          "expanded_url": "https://twitter.com/govtrack/status/1178724156768182273/photo/1",
+          "id": 1178724152699736064,
+          "id_str": "1178724152699736064",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFurXynXUAARQTv.png",
+          "media_url_https": "https://pbs.twimg.com/media/EFurXynXUAARQTv.png",
+          "sizes": {
+            "large": {
+              "h": 240,
+              "resize": "fit",
+              "w": 200
+            },
+            "medium": {
+              "h": 240,
+              "resize": "fit",
+              "w": 200
+            },
+            "small": {
+              "h": 240,
+              "resize": "fit",
+              "w": 200
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/HfwUYVoZDD"
+        }
+      ]
+    },
+    "favorite_count": 16247,
+    "favorited": false,
+    "full_text": "Duplication Scoring Act from @RandPaul and @RepMarkMeadows would help prevent new laws or programs that accidentally duplicate or overlap existing laws or programs. https://t.co/w989XITJ2Y https://t.co/HfwUYVoZDD",
+    "geo": null,
+    "id": 1178724156768182273,
+    "id_str": "1178724156768182273",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4482,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jun 29 13:16:27 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Research and track the bills and votes in the \ud83c\uddfa\ud83c\uddf8 Congress. #opengov (Not a government account.)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "govtrack.us",
+              "expanded_url": "https://www.govtrack.us",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QH4YsS5dOc"
+            }
+          ]
+        }
+      },
+      "favourites_count": 785,
+      "follow_request_sent": false,
+      "followers_count": 92978,
+      "following": false,
+      "friends_count": 869,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 52052011,
+      "id_str": "52052011",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1721,
+      "location": "Washington, DC",
+      "name": "GovTrack.\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52052011/1481234218",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3113926464/808a08bd97e3b46f66c342095a2847e8_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3113926464/808a08bd97e3b46f66c342095a2847e8_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "govtrack",
+      "statuses_count": 23708,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/QH4YsS5dOc",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65243129,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109347,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44852,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

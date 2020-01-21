@@ -1,0 +1,888 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 11 13:27:22 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          17,
+          23
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          24,
+          40
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: .@POTUS @realDonaldTrump\ud83d\udd0a\n\n\u201cAmerica is thriving like never before \u2014 and ladies and gentlemen of Pennsylvania: THE BEST IS Y\u2026",
+  "geo": null,
+  "id": 1204754547924754433,
+  "id_str": "1204754547924754433",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4872,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 11 02:12:16 +0000 2019",
+    "display_text_range": [
+      0,
+      154
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            136,
+            154
+          ],
+          "text": "TrumpRallyHershey"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GI5QNB2Oo6",
+          "expanded_url": "https://twitter.com/DanScavino/status/1204584654856163330/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1204584644856963072,
+          "id_str": "1204584644856963072",
+          "indices": [
+            155,
+            178
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELeLWjKW4AACZ56.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELeLWjKW4AACZ56.jpg",
+          "sizes": {
+            "large": {
+              "h": 689,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 404,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 229,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GI5QNB2Oo6"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            1,
+            7
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            8,
+            24
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GI5QNB2Oo6",
+          "expanded_url": "https://twitter.com/DanScavino/status/1204584654856163330/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1204584644856963072,
+          "id_str": "1204584644856963072",
+          "indices": [
+            155,
+            178
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELeLWjKW4AACZ56.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELeLWjKW4AACZ56.jpg",
+          "sizes": {
+            "large": {
+              "h": 689,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 404,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 229,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GI5QNB2Oo6"
+        },
+        {
+          "display_url": "pic.twitter.com/GI5QNB2Oo6",
+          "expanded_url": "https://twitter.com/DanScavino/status/1204584654856163330/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 1972,
+                  "y": 40
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 10,
+                  "y": 748
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 1514,
+                  "y": 806
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 74,
+                  "y": 894
+                },
+                {
+                  "h": 74,
+                  "w": 74,
+                  "x": 964,
+                  "y": 724
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 1270,
+                  "y": 764
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 1708,
+                  "y": 748
+                },
+                {
+                  "h": 100,
+                  "w": 100,
+                  "x": 848,
+                  "y": 180
+                },
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 844,
+                  "y": 832
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 1155,
+                  "y": 23
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 5,
+                  "y": 438
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 887,
+                  "y": 472
+                },
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 43,
+                  "y": 523
+                },
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 564,
+                  "y": 424
+                },
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 744,
+                  "y": 447
+                },
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 1000,
+                  "y": 438
+                },
+                {
+                  "h": 58,
+                  "w": 58,
+                  "x": 496,
+                  "y": 105
+                },
+                {
+                  "h": 65,
+                  "w": 65,
+                  "x": 494,
+                  "y": 487
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 1972,
+                  "y": 40
+                },
+                {
+                  "h": 72,
+                  "w": 72,
+                  "x": 10,
+                  "y": 748
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 1514,
+                  "y": 806
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 74,
+                  "y": 894
+                },
+                {
+                  "h": 74,
+                  "w": 74,
+                  "x": 964,
+                  "y": 724
+                },
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 1270,
+                  "y": 764
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 1708,
+                  "y": 748
+                },
+                {
+                  "h": 100,
+                  "w": 100,
+                  "x": 848,
+                  "y": 180
+                },
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 844,
+                  "y": 832
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 21,
+                  "w": 21,
+                  "x": 654,
+                  "y": 13
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 3,
+                  "y": 248
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 502,
+                  "y": 267
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 24,
+                  "y": 296
+                },
+                {
+                  "h": 24,
+                  "w": 24,
+                  "x": 320,
+                  "y": 240
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 421,
+                  "y": 253
+                },
+                {
+                  "h": 31,
+                  "w": 31,
+                  "x": 567,
+                  "y": 248
+                },
+                {
+                  "h": 33,
+                  "w": 33,
+                  "x": 281,
+                  "y": 59
+                },
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 280,
+                  "y": 276
+                }
+              ]
+            }
+          },
+          "id": 1204584644966002688,
+          "id_str": "1204584644966002688",
+          "indices": [
+            155,
+            178
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELeLWjkWsAAr7-_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELeLWjkWsAAr7-_.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GI5QNB2Oo6"
+        },
+        {
+          "display_url": "pic.twitter.com/GI5QNB2Oo6",
+          "expanded_url": "https://twitter.com/DanScavino/status/1204584654856163330/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 1051,
+                  "y": 133
+                },
+                {
+                  "h": 48,
+                  "w": 48,
+                  "x": 76,
+                  "y": 158
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 463,
+                  "y": 160
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 428,
+                  "y": 250
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 18,
+                  "y": 376
+                },
+                {
+                  "h": 57,
+                  "w": 57,
+                  "x": 223,
+                  "y": 217
+                },
+                {
+                  "h": 81,
+                  "w": 81,
+                  "x": 128,
+                  "y": 343
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 985,
+                  "y": 124
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 71,
+                  "y": 148
+                },
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 434,
+                  "y": 150
+                },
+                {
+                  "h": 46,
+                  "w": 46,
+                  "x": 401,
+                  "y": 234
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 16,
+                  "y": 352
+                },
+                {
+                  "h": 53,
+                  "w": 53,
+                  "x": 209,
+                  "y": 203
+                },
+                {
+                  "h": 75,
+                  "w": 75,
+                  "x": 120,
+                  "y": 321
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 1051,
+                  "y": 133
+                },
+                {
+                  "h": 48,
+                  "w": 48,
+                  "x": 76,
+                  "y": 158
+                },
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 463,
+                  "y": 160
+                },
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 428,
+                  "y": 250
+                },
+                {
+                  "h": 45,
+                  "w": 45,
+                  "x": 18,
+                  "y": 376
+                },
+                {
+                  "h": 57,
+                  "w": 57,
+                  "x": 223,
+                  "y": 217
+                },
+                {
+                  "h": 81,
+                  "w": 81,
+                  "x": 128,
+                  "y": 343
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 21,
+                  "w": 21,
+                  "x": 558,
+                  "y": 70
+                },
+                {
+                  "h": 25,
+                  "w": 25,
+                  "x": 40,
+                  "y": 83
+                },
+                {
+                  "h": 22,
+                  "w": 22,
+                  "x": 245,
+                  "y": 85
+                },
+                {
+                  "h": 26,
+                  "w": 26,
+                  "x": 227,
+                  "y": 132
+                },
+                {
+                  "h": 23,
+                  "w": 23,
+                  "x": 9,
+                  "y": 199
+                },
+                {
+                  "h": 30,
+                  "w": 30,
+                  "x": 118,
+                  "y": 115
+                },
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 68,
+                  "y": 182
+                }
+              ]
+            }
+          },
+          "id": 1204584644848603136,
+          "id_str": "1204584644848603136",
+          "indices": [
+            155,
+            178
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELeLWjIXUAAop3J.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELeLWjIXUAAop3J.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GI5QNB2Oo6"
+        },
+        {
+          "display_url": "pic.twitter.com/GI5QNB2Oo6",
+          "expanded_url": "https://twitter.com/DanScavino/status/1204584654856163330/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1204584644857024512,
+          "id_str": "1204584644857024512",
+          "indices": [
+            155,
+            178
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELeLWjKX0AAMjl-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELeLWjKX0AAMjl-.jpg",
+          "sizes": {
+            "large": {
+              "h": 1074,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 629,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 357,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GI5QNB2Oo6"
+        }
+      ]
+    },
+    "favorite_count": 15607,
+    "favorited": false,
+    "full_text": ".@POTUS @realDonaldTrump\ud83d\udd0a\n\n\u201cAmerica is thriving like never before \u2014 and ladies and gentlemen of Pennsylvania: THE BEST IS YET TO COME!\u201d #TrumpRallyHershey https://t.co/GI5QNB2Oo6",
+    "geo": null,
+    "id": 1204584654856163330,
+    "id_str": "1204584654856163330",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4872,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "MAKING AMERICA GREAT AGAIN!\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8Personal Twitter Handle.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2863,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 599534,
+      "following": false,
+      "friends_count": 792,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3673,
+      "location": "Washington, DC\u2708\ufe0fNew York",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1571389614",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10658,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67448885,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111273,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46961,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 05 00:56:03 +0000 2019",
+  "display_text_range": [
+    0,
+    94
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/realDonaldTrum\u2026",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1146938775689412608",
+        "indices": [
+          71,
+          94
+        ],
+        "url": "https://t.co/CFxPjWeuNq"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 462104542,
+        "id_str": "462104542",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Chuck Woolery",
+        "screen_name": "chuckwoolery"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @chuckwoolery: Rain? who cares. This is what it really looked like. https://t.co/CFxPjWeuNq",
+  "geo": null,
+  "id": 1146945804399271936,
+  "id_str": "1146945804399271936",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1146938775689412608,
+  "quoted_status_id_str": "1146938775689412608",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realDonaldTrum\u2026",
+    "expanded": "https://twitter.com/realDonaldTrump/status/1146938775689412608",
+    "url": "https://t.co/CFxPjWeuNq"
+  },
+  "retweet_count": 8677,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 05 00:34:26 +0000 2019",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realDonaldTrum\u2026",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1146938775689412608",
+          "indices": [
+            53,
+            76
+          ],
+          "url": "https://t.co/CFxPjWeuNq"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 37624,
+    "favorited": false,
+    "full_text": "Rain? who cares. This is what it really looked like. https://t.co/CFxPjWeuNq",
+    "geo": null,
+    "id": 1146940362017185792,
+    "id_str": "1146940362017185792",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jul 05 00:28:07 +0000 2019",
+      "display_text_range": [
+        0,
+        114
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              96,
+              112
+            ],
+            "text": "SaluteToAmerica"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/nJghdfqIhX",
+            "expanded_url": "https://twitter.com/realDonaldTrump/status/1146938775689412608/photo/1",
+            "id": 1146938770488537088,
+            "id_str": "1146938770488537088",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-q-vCoXsAAzIlA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-q-vCoXsAAzIlA.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1810
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1061
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 601
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/nJghdfqIhX"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/nJghdfqIhX",
+            "expanded_url": "https://twitter.com/realDonaldTrump/status/1146938775689412608/photo/1",
+            "id": 1146938770488537088,
+            "id_str": "1146938770488537088",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-q-vCoXsAAzIlA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-q-vCoXsAAzIlA.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1810
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1061
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 601
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/nJghdfqIhX"
+          }
+        ]
+      },
+      "favorite_count": 95378,
+      "favorited": false,
+      "full_text": "A great crowd of tremendous Patriots this evening, all the way back to the Washington Monument! #SaluteToAmerica\ud83c\uddfa\ud83c\uddf8 https://t.co/nJghdfqIhX",
+      "geo": null,
+      "id": 1146938775689412608,
+      "id_str": "1146938775689412608",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 23924,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 61701596,
+        "following": true,
+        "friends_count": 47,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 104984,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 42694,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1146938775689412608,
+    "quoted_status_id_str": "1146938775689412608",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realDonaldTrum\u2026",
+      "expanded": "https://twitter.com/realDonaldTrump/status/1146938775689412608",
+      "url": "https://t.co/CFxPjWeuNq"
+    },
+    "retweet_count": 8677,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 12 15:30:41 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Hollywood Conservative, Love Connection Host, Back in Two and Two, Fisherman, Navy Vet, Political Activist. Host of Blunt Force Truth w/ @markyoungtruth",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bluntforcetruth.com",
+              "expanded_url": "http://bluntforcetruth.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/isGCEz1eW7"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9994,
+      "follow_request_sent": false,
+      "followers_count": 575680,
+      "following": false,
+      "friends_count": 2839,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 462104542,
+      "id_str": "462104542",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3904,
+      "location": "Texas",
+      "name": "Chuck Woolery",
+      "notifications": false,
+      "profile_background_color": "200E82",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/462104542/1499952548",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1764172727/Chuck_Headshot_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1764172727/Chuck_Headshot_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "chuckwoolery",
+      "statuses_count": 78929,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/isGCEz1eW7",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 61701596,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 104984,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42694,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

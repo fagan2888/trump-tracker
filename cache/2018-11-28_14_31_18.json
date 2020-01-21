@@ -1,0 +1,511 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 28 14:31:18 +0000 2018",
+  "display_text_range": [
+    0,
+    63
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/MattBatzel/sta\u2026",
+        "expanded_url": "https://twitter.com/MattBatzel/status/1057017326653054977",
+        "indices": [
+          40,
+          63
+        ],
+        "url": "https://t.co/3haUa6XMRe"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 232901331,
+        "id_str": "232901331",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Dan Bongino",
+        "screen_name": "dbongino"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @dbongino: What the hell is this? \ud83d\udc47\ud83c\udffb https://t.co/3haUa6XMRe",
+  "geo": null,
+  "id": 1067788027110526976,
+  "id_str": "1067788027110526976",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1057017326653054977,
+  "quoted_status_id_str": "1057017326653054977",
+  "quoted_status_permalink": {
+    "display": "twitter.com/MattBatzel/sta\u2026",
+    "expanded": "https://twitter.com/MattBatzel/status/1057017326653054977",
+    "url": "https://t.co/3haUa6XMRe"
+  },
+  "retweet_count": 15837,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 30 01:01:03 +0000 2018",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/MattBatzel/sta\u2026",
+          "expanded_url": "https://twitter.com/MattBatzel/status/1057017326653054977",
+          "indices": [
+            26,
+            49
+          ],
+          "url": "https://t.co/3haUa6XMRe"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 34753,
+    "favorited": false,
+    "full_text": "What the hell is this? \ud83d\udc47\ud83c\udffb https://t.co/3haUa6XMRe",
+    "geo": null,
+    "id": 1057074872118140930,
+    "id_str": "1057074872118140930",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Oct 29 21:12:23 +0000 2018",
+      "display_text_range": [
+        0,
+        146
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              141,
+              146
+            ],
+            "text": "maga"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/K1BpdShf8k",
+            "expanded_url": "https://twitter.com/9Joe9/status/1056700902244003841/video/1",
+            "id": 1056700664963891200,
+            "id_str": "1056700664963891200",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056700664963891200/pu/img/5mSRWQmPUfc9Kvsf.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056700664963891200/pu/img/5mSRWQmPUfc9Kvsf.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1056700902244003841,
+            "source_status_id_str": "1056700902244003841",
+            "source_user_id": 1511018348,
+            "source_user_id_str": "1511018348",
+            "type": "photo",
+            "url": "https://t.co/K1BpdShf8k"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Jun 12 16:44:14 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Entity that disseminates news or information. Familiar with matters. Observer of \"big, fat, beautiful negotiations.\"\n\"I'm like, a smart person.\"",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "favourites_count": 7416,
+                "follow_request_sent": false,
+                "followers_count": 473,
+                "following": false,
+                "friends_count": 2150,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1511018348,
+                "id_str": "1511018348",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 74,
+                "location": "",
+                "name": "\ud835\udc75\ud835\udc8a\ud835\udc84\ud835\udc8c",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511018348/1427900803",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/601746518429794305/8AtQ3gtV_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/601746518429794305/8AtQ3gtV_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "9Joe9",
+                "statuses_count": 78912,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+              },
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/K1BpdShf8k",
+            "expanded_url": "https://twitter.com/9Joe9/status/1056700902244003841/video/1",
+            "id": 1056700664963891200,
+            "id_str": "1056700664963891200",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056700664963891200/pu/img/5mSRWQmPUfc9Kvsf.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056700664963891200/pu/img/5mSRWQmPUfc9Kvsf.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1056700902244003841,
+            "source_status_id_str": "1056700902244003841",
+            "source_user_id": 1511018348,
+            "source_user_id_str": "1511018348",
+            "type": "video",
+            "url": "https://t.co/K1BpdShf8k",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 23020,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1056700664963891200/pu/pl/udessrCXpfX_Fdyj.m3u8?tag=5"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1056700664963891200/pu/vid/320x180/NAKNHq04tkiCvuIa.mp4?tag=5"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1056700664963891200/pu/vid/640x360/GFx8VNQKPJPLYqil.mp4?tag=5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 9034,
+      "favorited": false,
+      "full_text": "Wow. Hillary tries to crack joke after Moderator confuses Eric Holder and Cory Booker: \u201cI know they all look alike\u201d  https://t.co/K1BpdShf8k #maga",
+      "geo": null,
+      "id": 1057017326653054977,
+      "id_str": "1057017326653054977",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 8023,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 02 02:46:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Conservative, Father of 5, Husband, \u26be\ufe0f & \ud83c\udfc0 coach, Runner. National Executive Director of @AM_National. Co-creator of #WiRight Tweets are my own opinion. \ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "americanmajority.org",
+                "expanded_url": "http://americanmajority.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/pecOgDZ7ep"
+              }
+            ]
+          }
+        },
+        "favourites_count": 8499,
+        "follow_request_sent": false,
+        "followers_count": 134904,
+        "following": false,
+        "friends_count": 59892,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 52944689,
+        "id_str": "52944689",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 745,
+        "location": "Wisconsin",
+        "name": "Matt Batzel",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52944689/1499395845",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1029572191992594433/5b8c9Nbl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029572191992594433/5b8c9Nbl_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MattBatzel",
+        "statuses_count": 20074,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/pecOgDZ7ep",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1057017326653054977,
+    "quoted_status_id_str": "1057017326653054977",
+    "quoted_status_permalink": {
+      "display": "twitter.com/MattBatzel/sta\u2026",
+      "expanded": "https://twitter.com/MattBatzel/status/1057017326653054977",
+      "url": "https://t.co/3haUa6XMRe"
+    },
+    "retweet_count": 15837,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 01 17:50:03 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of The Dan Bongino Show Podcast. Former Secret Service Agent. NRATV Host. Own the Libs. Best-Selling Author. Podcast here - https://t.co/z78vfqi19k",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/bpodcast",
+              "expanded_url": "http://bit.ly/bpodcast",
+              "indices": [
+                129,
+                152
+              ],
+              "url": "https://t.co/z78vfqi19k"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bongino.com",
+              "expanded_url": "http://www.bongino.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eNhMvTGdKP"
+            }
+          ]
+        }
+      },
+      "favourites_count": 49760,
+      "follow_request_sent": false,
+      "followers_count": 772977,
+      "following": false,
+      "friends_count": 719,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 232901331,
+      "id_str": "232901331",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3326,
+      "location": "Inside Caputo's Head",
+      "name": "Dan Bongino",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/232901331/1523585202",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/982777167351373824/2qrZ01gs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/982777167351373824/2qrZ01gs_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "dbongino",
+      "statuses_count": 51271,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eNhMvTGdKP",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 55990702,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 96611,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1543104015",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39796,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

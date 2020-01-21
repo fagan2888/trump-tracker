@@ -1,0 +1,312 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Sep 13 03:39:52 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18166778,
+        "id_str": "18166778",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Rep. Jim Jordan",
+        "screen_name": "Jim_Jordan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Jim_Jordan: Democrats on the House Judiciary Committee:\n\n-First voted to take away Americans' firearms\n-Then voted to impeach the guy w\u2026",
+  "geo": null,
+  "id": 1172354179358232576,
+  "id_str": "1172354179358232576",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 21378,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 12 13:45:32 +0000 2019",
+    "display_text_range": [
+      0,
+      219
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4dJxW5vUbW",
+          "expanded_url": "https://twitter.com/Jim_Jordan/status/1172144213418553345/video/1",
+          "id": 1172137823132147715,
+          "id_str": "1172137823132147715",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/media/EERFvzMXYAAlJ31.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EERFvzMXYAAlJ31.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/4dJxW5vUbW"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/4dJxW5vUbW",
+          "expanded_url": "https://twitter.com/Jim_Jordan/status/1172144213418553345/video/1",
+          "id": 1172137823132147715,
+          "id_str": "1172137823132147715",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/media/EERFvzMXYAAlJ31.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EERFvzMXYAAlJ31.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/4dJxW5vUbW",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 283967,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1172137823132147715/pl/gzp41Z5vL-TyBl4Z.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1172137823132147715/vid/1280x720/TTeEmQnP69BD7v4q.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1172137823132147715/vid/480x270/oiNYG1BZolTZgCvo.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1172137823132147715/vid/640x360/I3DNIRij0iuA-2Bo.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 48720,
+    "favorited": false,
+    "full_text": "Democrats on the House Judiciary Committee:\n\n-First voted to take away Americans' firearms\n-Then voted to impeach the guy we elected President\n\nAll in less than 48 hours. And you wonder why people can't stand this town. https://t.co/4dJxW5vUbW",
+    "geo": null,
+    "id": 1172144213418553345,
+    "id_str": "1172144213418553345",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 21378,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 16 17:20:24 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Proudly serving Ohio's beautiful fourth district. Ranking Member on @GOPoversight. Fighting to #DoWhatWeSaid",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jordan.house.gov",
+              "expanded_url": "http://jordan.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wd2j7YpRZm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1055,
+      "follow_request_sent": false,
+      "followers_count": 697132,
+      "following": false,
+      "friends_count": 4309,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18166778,
+      "id_str": "18166778",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3798,
+      "location": "Washington, D.C. ",
+      "name": "Rep. Jim Jordan",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18166778/1406042839",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+      "profile_link_color": "4F90DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "BA0D1F",
+      "profile_text_color": "01050D",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Jim_Jordan",
+      "statuses_count": 3450,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wd2j7YpRZm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 64241912,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108430,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44255,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

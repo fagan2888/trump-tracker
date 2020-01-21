@@ -1,0 +1,283 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 24 22:01:07 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18559431,
+        "id_str": "18559431",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "John McLaughlin",
+        "screen_name": "jmclghln"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          65,
+          81
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          120,
+          126
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @jmclghln: 52% majority says impeachment is political to stop @realDonaldTrump reelection only 36% legal 47%-33% say @POTUS shudn\u2019t coop\u2026",
+  "geo": null,
+  "id": 1187489220501430272,
+  "id_str": "1187489220501430272",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4188,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 24 14:35:20 +0000 2019",
+    "display_text_range": [
+      0,
+      236
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "mclaughlinonline.com/2019/10/24/nat\u2026",
+          "expanded_url": "https://mclaughlinonline.com/2019/10/24/national-survey-impeachment-related-issue-results-10-24-19/",
+          "indices": [
+            213,
+            236
+          ],
+          "url": "https://t.co/P8vfPtIb47"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            51,
+            67
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            106,
+            112
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "favorite_count": 12735,
+    "favorited": false,
+    "full_text": "52% majority says impeachment is political to stop @realDonaldTrump reelection only 36% legal 47%-33% say @POTUS shudn\u2019t cooperate n 59%-33% say it\u2019s a waste n Dems need to work w/ Reps to solve nations problems. https://t.co/P8vfPtIb47",
+    "geo": null,
+    "id": 1187377036437966849,
+    "id_str": "1187377036437966849",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -73.986545,
+              41.050544
+            ],
+            [
+              -73.920661,
+              41.050544
+            ],
+            [
+              -73.920661,
+              41.089706
+            ],
+            [
+              -73.986545,
+              41.089706
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Blauvelt, NY",
+      "id": "1f5eb4a10cbe2e78",
+      "name": "Blauvelt",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/1f5eb4a10cbe2e78.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 4188,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 02 19:04:05 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "CEO/Partner McLaughlin&Associates",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "mclaughlinonline.com",
+              "expanded_url": "http://www.mclaughlinonline.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/zc8XaIIngw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2071,
+      "follow_request_sent": false,
+      "followers_count": 3504,
+      "following": false,
+      "friends_count": 837,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18559431,
+      "id_str": "18559431",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 87,
+      "location": "USA",
+      "name": "John McLaughlin",
+      "notifications": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/79807941/John_-_Headshot_8-26-08_normal.JPG",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/79807941/John_-_Headshot_8-26-08_normal.JPG",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jmclghln",
+      "statuses_count": 4308,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/zc8XaIIngw",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 66148958,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110189,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45487,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

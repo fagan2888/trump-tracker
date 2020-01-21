@@ -1,0 +1,347 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Sep 12 03:35:32 +0000 2019",
+  "display_text_range": [
+    0,
+    18
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/brandonstraka/\u2026",
+        "expanded_url": "https://twitter.com/brandonstraka/status/1157470788758507521",
+        "indices": [
+          19,
+          42
+        ],
+        "url": "https://t.co/VfzWVHYIrU"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 18125,
+  "favorited": false,
+  "full_text": "Thank you Brandon! https://t.co/VfzWVHYIrU",
+  "geo": null,
+  "id": 1171990702596775938,
+  "id_str": "1171990702596775938",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 03 01:58:35 +0000 2019",
+    "display_text_range": [
+      0,
+      288
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/y8XpBWqdO9",
+          "expanded_url": "https://twitter.com/BrandonStraka/status/1157470788758507521/video/1",
+          "id": 1157470680209903618,
+          "id_str": "1157470680209903618",
+          "indices": [
+            289,
+            312
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157470680209903618/pu/img/znbDRimhjCQy31v7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157470680209903618/pu/img/znbDRimhjCQy31v7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/y8XpBWqdO9"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "youtu.be/eew8lUmGVqM",
+          "expanded_url": "https://youtu.be/eew8lUmGVqM",
+          "indices": [
+            234,
+            257
+          ],
+          "url": "https://t.co/vRHiD5LBaK"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            258,
+            274
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 75541946,
+          "id_str": "75541946",
+          "indices": [
+            275,
+            288
+          ],
+          "name": "Lara Trump",
+          "screen_name": "LaraLeaTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/y8XpBWqdO9",
+          "expanded_url": "https://twitter.com/BrandonStraka/status/1157470788758507521/video/1",
+          "id": 1157470680209903618,
+          "id_str": "1157470680209903618",
+          "indices": [
+            289,
+            312
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157470680209903618/pu/img/znbDRimhjCQy31v7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157470680209903618/pu/img/znbDRimhjCQy31v7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/y8XpBWqdO9",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 75537,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157470680209903618/pu/vid/1280x720/4-Yjb4tEMhQyyTsn.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1157470680209903618/pu/pl/SW7-HVBqGQyro91F.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157470680209903618/pu/vid/480x270/xeCPpgUxy1_gu6mD.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1157470680209903618/pu/vid/640x360/oQPH5rWE-48Ni9Ee.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 24511,
+    "favorited": false,
+    "full_text": "I got a bit choked up last night when dedicating a message directly to President Trump. His election &amp; the things it revealed opened my eyes &amp; changed me forever at a soul level. I hope he will see this someday. \nFULL SPEECH:\nhttps://t.co/vRHiD5LBaK\n@realDonaldTrump @LaraLeaTrump https://t.co/y8XpBWqdO9",
+    "geo": null,
+    "id": 1157470788758507521,
+    "id_str": "1157470788758507521",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8905,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 07:52:26 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "#WalkAway Campaign Founder. BOOKING/PRESS INQUIRIES: bstrakabooking@gmail.com Former Liberal. Gay. Conservative. Outspoken. On a mission to #RedPill humanity",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WalkAwayCampaign.com",
+              "expanded_url": "http://WalkAwayCampaign.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dXT48dwaI9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 20641,
+      "follow_request_sent": false,
+      "followers_count": 243508,
+      "following": false,
+      "friends_count": 386,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 52338305,
+      "id_str": "52338305",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 693,
+      "location": "New York, USA",
+      "name": "Brandon Straka",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52338305/1547102017",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/998414118561316864/wT9_5MUw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/998414118561316864/wT9_5MUw_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BrandonStraka",
+      "statuses_count": 7216,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dXT48dwaI9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1157470788758507521,
+  "quoted_status_id_str": "1157470788758507521",
+  "quoted_status_permalink": {
+    "display": "twitter.com/brandonstraka/\u2026",
+    "expanded": "https://twitter.com/brandonstraka/status/1157470788758507521",
+    "url": "https://t.co/VfzWVHYIrU"
+  },
+  "retweet_count": 5379,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 64213430,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108384,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44240,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 24 19:22:27 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 47739450,
+        "id_str": "47739450",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Byron York",
+        "screen_name": "ByronYork"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ByronYork: NPR reviews new Glenn Simpson book. Says Steele dossier 'found its way to news organizations.' Why obscure what happened? In\u2026",
+  "geo": null,
+  "id": 1198683313902407682,
+  "id_str": "1198683313902407682",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4034,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 22 19:33:34 +0000 2019",
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/TL9MLZ0d7R",
+          "expanded_url": "https://twitter.com/ByronYork/status/1197961336669515777/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1197961335054766082,
+          "id_str": "1197961335054766082",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKADfLaXkAII12m.png",
+          "media_url_https": "https://pbs.twimg.com/media/EKADfLaXkAII12m.png",
+          "sizes": {
+            "large": {
+              "h": 259,
+              "resize": "fit",
+              "w": 661
+            },
+            "medium": {
+              "h": 259,
+              "resize": "fit",
+              "w": 661
+            },
+            "small": {
+              "h": 259,
+              "resize": "fit",
+              "w": 661
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/TL9MLZ0d7R"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "ow.ly/V0tH50xioGg",
+          "expanded_url": "http://ow.ly/V0tH50xioGg",
+          "indices": [
+            238,
+            261
+          ],
+          "url": "https://t.co/OOTi0lnVvF"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/TL9MLZ0d7R",
+          "expanded_url": "https://twitter.com/ByronYork/status/1197961336669515777/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1197961335054766082,
+          "id_str": "1197961335054766082",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKADfLaXkAII12m.png",
+          "media_url_https": "https://pbs.twimg.com/media/EKADfLaXkAII12m.png",
+          "sizes": {
+            "large": {
+              "h": 259,
+              "resize": "fit",
+              "w": 661
+            },
+            "medium": {
+              "h": 259,
+              "resize": "fit",
+              "w": 661
+            },
+            "small": {
+              "h": 259,
+              "resize": "fit",
+              "w": 661
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/TL9MLZ0d7R"
+        }
+      ]
+    },
+    "favorite_count": 10592,
+    "favorited": false,
+    "full_text": "NPR reviews new Glenn Simpson book. Says Steele dossier 'found its way to news organizations.' Why obscure what happened? In fact, Steele personally briefed dossier info to NYT WP CNN YAHOO New Yorker Mother Jones *before* 2016 election. https://t.co/OOTi0lnVvF https://t.co/TL9MLZ0d7R",
+    "geo": null,
+    "id": 1197961336669515777,
+    "id_str": "1197961336669515777",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4034,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 16 20:38:05 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Chief political correspondent, Washington Examiner, Fox News contributor, author of The Vast Left Wing Conspiracy",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "washex.am/1pU9zQ5",
+              "expanded_url": "http://washex.am/1pU9zQ5",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/tAAyTAVFIb"
+            }
+          ]
+        }
+      },
+      "favourites_count": 17,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 372760,
+      "following": false,
+      "friends_count": 1325,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 47739450,
+      "id_str": "47739450",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5383,
+      "location": "Washington, D.C.",
+      "name": "Byron York",
+      "notifications": false,
+      "profile_background_color": "020405",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/47739450/1407595550",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1151132595201069057/mum7JUUe_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151132595201069057/mum7JUUe_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ByronYork",
+      "statuses_count": 44162,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/tAAyTAVFIb",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67009030,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110871,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 07 03:38:49 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1128353063196958720,
+        "id_str": "1128353063196958720",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "The Ann and Phelim Scoop",
+        "screen_name": "AP_Scoop"
+      },
+      {
+        "id": 18005085,
+        "id_str": "18005085",
+        "indices": [
+          49,
+          61
+        ],
+        "name": "Mollie",
+        "screen_name": "MZHemingway"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AP_Scoop: SPECIAL EPISODE with the brilliant @MZHemingway on the Russia Collusion Hoax and Kavanaugh.  \n\nWatch the full video: https://\u2026",
+  "geo": null,
+  "id": 1203156885534334977,
+  "id_str": "1203156885534334977",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2244,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 07 00:26:30 +0000 2019",
+    "display_text_range": [
+      0,
+      188
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/eaBmDxJRPO",
+          "expanded_url": "https://twitter.com/AP_Scoop/status/1203108487217082369/video/1",
+          "features": {},
+          "id": 1202984840158568448,
+          "id_str": "1202984840158568448",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1202984840158568448/img/nitSFq1yYFf3NNRp.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202984840158568448/img/nitSFq1yYFf3NNRp.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eaBmDxJRPO"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "youtu.be/atxuzQtyDJs",
+          "expanded_url": "https://youtu.be/atxuzQtyDJs",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/X8GHdagYKs"
+        },
+        {
+          "display_url": "anchor.fm/ap-scoop/episo\u2026",
+          "expanded_url": "https://anchor.fm/ap-scoop/episodes/Episode-20-SPECIAL--Our-New-Project-With-Adam-Baldwin--Russia-Collusion-Talk-with-Mollie-Hemingway-e9c7qd",
+          "indices": [
+            165,
+            188
+          ],
+          "url": "https://t.co/fXsvit3qiP"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 18005085,
+          "id_str": "18005085",
+          "indices": [
+            35,
+            47
+          ],
+          "name": "Mollie",
+          "screen_name": "MZHemingway"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/eaBmDxJRPO",
+          "expanded_url": "https://twitter.com/AP_Scoop/status/1203108487217082369/video/1",
+          "features": {},
+          "id": 1202984840158568448,
+          "id_str": "1202984840158568448",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1202984840158568448/img/nitSFq1yYFf3NNRp.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202984840158568448/img/nitSFq1yYFf3NNRp.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/eaBmDxJRPO",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 137179,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1202984840158568448/pl/hYgBWlpxY66cFZF1.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1202984840158568448/vid/480x480/s22rhXmebMFDKlnk.mp4?tag=13"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1202984840158568448/vid/720x720/KeRYWyKvOs7lFHB3.mp4?tag=13"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1202984840158568448/vid/320x320/qgKB9rXFHYQg_KBg.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 6203,
+    "favorited": false,
+    "full_text": "SPECIAL EPISODE with the brilliant @MZHemingway on the Russia Collusion Hoax and Kavanaugh.  \n\nWatch the full video: https://t.co/X8GHdagYKs\n\nListen to the podcast: https://t.co/fXsvit3qiP https://t.co/eaBmDxJRPO",
+    "geo": null,
+    "id": 1203108487217082369,
+    "id_str": "1203108487217082369",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2244,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue May 14 17:35:08 +0000 2019",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Telling the stories that the media ignores! The Scoop is a podcast hosted by Ann McElhinney & Phelim McAleer. A project of the Unreported Story Society 501c(3).",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "anchor.fm/ap-scoop",
+              "expanded_url": "https://anchor.fm/ap-scoop",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/KHGpBUU4qM"
+            }
+          ]
+        }
+      },
+      "favourites_count": 840,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 3363,
+      "following": false,
+      "friends_count": 322,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1128353063196958720,
+      "id_str": "1128353063196958720",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7,
+      "location": "Los Angeles, CA",
+      "name": "The Ann and Phelim Scoop",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128353063196958720/1561992938",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1203006180068454400/7KoJGe_a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203006180068454400/7KoJGe_a_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "AP_Scoop",
+      "statuses_count": 2156,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/KHGpBUU4qM",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67309429,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111079,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46700,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

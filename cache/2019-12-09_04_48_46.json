@@ -1,0 +1,452 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Dec 09 04:48:46 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          57,
+          63
+        ],
+        "text": "UFCDC"
+      },
+      {
+        "indices": [
+          64,
+          78
+        ],
+        "text": "UFCWashington"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      },
+      {
+        "id": 863538430575353858,
+        "id_str": "863538430575353858",
+        "indices": [
+          41,
+          54
+        ],
+        "name": "Bryce Mitchell",
+        "screen_name": "ThugnastyMMA"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          83,
+          99
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: CONGRATS Bryce Mitchell (@ThugnastyMMA)! #UFCDC #UFCWashington cc: @realDonaldTrump\n\nWAIT FOR IT.....\nhttps://t.co/KPcInakf\u2026",
+  "geo": null,
+  "id": 1203899262104420353,
+  "id_str": "1203899262104420353",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 14111,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 08 03:40:27 +0000 2019",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            41,
+            47
+          ],
+          "text": "UFCDC"
+        },
+        {
+          "indices": [
+            48,
+            62
+          ],
+          "text": "UFCWashington"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KPcInakfKa",
+          "expanded_url": "https://twitter.com/espnmma/status/1203482924072525824/video/1",
+          "features": {},
+          "id": 1203482112998940672,
+          "id_str": "1203482112998940672",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELOg1JsXsAAh2RN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELOg1JsXsAAh2RN.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1203482924072525824,
+          "source_status_id_str": "1203482924072525824",
+          "source_user_id": 1062738433716686848,
+          "source_user_id_str": "1062738433716686848",
+          "type": "photo",
+          "url": "https://t.co/KPcInakfKa"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 863538430575353858,
+          "id_str": "863538430575353858",
+          "indices": [
+            25,
+            38
+          ],
+          "name": "Bryce Mitchell",
+          "screen_name": "ThugnastyMMA"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            67,
+            83
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "watch_now": {
+                "url": "http://es.pn/UFCDCPrelims"
+              }
+            },
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Wed Nov 14 16:06:02 +0000 2018",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "The post-for-post king of MMA coverage \ud83c\udf9f Ariel Helwani\u2019s MMA Show Live Podcast in Vegas Dec. 13 \u2935\ufe0f",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "es.pn/HelwaniShowVeg\u2026",
+                      "expanded_url": "http://es.pn/HelwaniShowVegas",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Nfcxn2yvnE"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 610,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 143249,
+              "following": false,
+              "friends_count": 490,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 1062738433716686848,
+              "id_str": "1062738433716686848",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 511,
+              "location": "",
+              "name": "ESPN MMA",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1062738433716686848/1545490770",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1079781681089994753/DMwkBkPC_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079781681089994753/DMwkBkPC_normal.jpg",
+              "profile_link_color": "E81C4F",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "espnmma",
+              "statuses_count": 5922,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/Nfcxn2yvnE",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/KPcInakfKa",
+          "expanded_url": "https://twitter.com/espnmma/status/1203482924072525824/video/1",
+          "features": {},
+          "id": 1203482112998940672,
+          "id_str": "1203482112998940672",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELOg1JsXsAAh2RN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELOg1JsXsAAh2RN.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1203482924072525824,
+          "source_status_id_str": "1203482924072525824",
+          "source_user_id": 1062738433716686848,
+          "source_user_id_str": "1062738433716686848",
+          "type": "video",
+          "url": "https://t.co/KPcInakfKa",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 44177,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1203482112998940672/vid/480x480/0mvQGEoEHgTVi6zx.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1203482112998940672/pl/nPIfoJzI9ZpjHnVC.m3u8?tag=13"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1203482112998940672/vid/720x720/7OcFRSvCt4OBWntS.mp4?tag=13"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1203482112998940672/vid/320x320/3uMBKnHCn13qiUIb.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 40614,
+    "favorited": false,
+    "full_text": "CONGRATS Bryce Mitchell (@ThugnastyMMA)! #UFCDC #UFCWashington cc: @realDonaldTrump\n\nWAIT FOR IT.....\nhttps://t.co/KPcInakfKa",
+    "geo": null,
+    "id": 1203519682038435840,
+    "id_str": "1203519682038435840",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 14111,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "MAKING AMERICA GREAT AGAIN!\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8Personal Twitter Handle.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2941,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 597000,
+      "following": false,
+      "friends_count": 791,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3656,
+      "location": "Washington, DC\u2708\ufe0fNew York",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1571389614",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10657,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67353829,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111108,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46828,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

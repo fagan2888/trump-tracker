@@ -1,0 +1,395 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 11 20:37:41 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 729676086632656900,
+        "id_str": "729676086632656900",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Team Trump",
+        "screen_name": "TeamTrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          25,
+          41
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TeamTrump: President @realDonaldTrump has a proven record of accomplishments for veterans from reforming the VA to the lowest veteran u\u2026",
+  "geo": null,
+  "id": 1193991207761928193,
+  "id_str": "1193991207761928193",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7514,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 11 19:51:10 +0000 2019",
+    "display_text_range": [
+      0,
+      248
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            236,
+            248
+          ],
+          "text": "VeteransDay"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/U9P7oxjgPp",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1193979501568561154/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 163,
+                  "w": 163,
+                  "x": 651,
+                  "y": 202
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 163,
+                  "w": 163,
+                  "x": 651,
+                  "y": 202
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 163,
+                  "w": 163,
+                  "x": 651,
+                  "y": 202
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 109,
+                  "w": 109,
+                  "x": 436,
+                  "y": 135
+                }
+              ]
+            }
+          },
+          "id": 1193979498766774272,
+          "id_str": "1193979498766774272",
+          "indices": [
+            249,
+            272
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJHeBzUXsAAeCRP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJHeBzUXsAAeCRP.jpg",
+          "sizes": {
+            "large": {
+              "h": 1013,
+              "resize": "fit",
+              "w": 952
+            },
+            "medium": {
+              "h": 1013,
+              "resize": "fit",
+              "w": 952
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 639
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/U9P7oxjgPp"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/U9P7oxjgPp",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1193979501568561154/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 163,
+                  "w": 163,
+                  "x": 651,
+                  "y": 202
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 163,
+                  "w": 163,
+                  "x": 651,
+                  "y": 202
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 163,
+                  "w": 163,
+                  "x": 651,
+                  "y": 202
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 109,
+                  "w": 109,
+                  "x": 436,
+                  "y": 135
+                }
+              ]
+            }
+          },
+          "id": 1193979498766774272,
+          "id_str": "1193979498766774272",
+          "indices": [
+            249,
+            272
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJHeBzUXsAAeCRP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJHeBzUXsAAeCRP.jpg",
+          "sizes": {
+            "large": {
+              "h": 1013,
+              "resize": "fit",
+              "w": 952
+            },
+            "medium": {
+              "h": 1013,
+              "resize": "fit",
+              "w": 952
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 639
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/U9P7oxjgPp"
+        }
+      ]
+    },
+    "favorite_count": 26787,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump has a proven record of accomplishments for veterans from reforming the VA to the lowest veteran unemployment rate ever.\n\nThe Trump Administration has scored huge wins for veterans unlike any other President!\n\n#VeteransDay https://t.co/U9P7oxjgPp",
+    "geo": null,
+    "id": 1193979501568561154,
+    "id_str": "1193979501568561154",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7514,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon May 09 14:15:10 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Welcome to Team Trump, the official Twitter for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hymxC9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2699,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1281429,
+      "following": false,
+      "friends_count": 90,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 729676086632656900,
+      "id_str": "729676086632656900",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3220,
+      "location": "USA",
+      "name": "Team Trump",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1564436211",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_link_color": "CB0606",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TeamTrump",
+      "statuses_count": 15682,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hymxC9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66767824,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110634,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46050,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

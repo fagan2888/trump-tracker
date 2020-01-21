@@ -1,0 +1,387 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 25 23:18:32 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          57,
+          65
+        ],
+        "text": "economy"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 281610530,
+        "id_str": "281610530",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Varney & Co.",
+        "screen_name": "Varneyco"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          85,
+          101
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Varneyco: STU: \"We are living in the best performing #economy in the world. It's @realDonaldTrump's big reelection issue. The #democrat\u2026",
+  "geo": null,
+  "id": 1209976753281806336,
+  "id_str": "1209976753281806336",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5352,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 20 17:30:39 +0000 2019",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            43,
+            51
+          ],
+          "text": "economy"
+        },
+        {
+          "indices": [
+            116,
+            126
+          ],
+          "text": "democrats"
+        },
+        {
+          "indices": [
+            237,
+            247
+          ],
+          "text": "DemDebate"
+        },
+        {
+          "indices": [
+            248,
+            261
+          ],
+          "text": "WorkingClass"
+        },
+        {
+          "indices": [
+            262,
+            269
+          ],
+          "text": "MyTake"
+        },
+        {
+          "indices": [
+            270,
+            279
+          ],
+          "text": "VarneyCo"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/UkQPYP0bqd",
+          "expanded_url": "https://twitter.com/Varneyco/status/1208077263746555904/video/1",
+          "features": {},
+          "id": 1208077072708591616,
+          "id_str": "1208077072708591616",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208077072708591616/pu/img/RqJSVmwCRIDVCydD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208077072708591616/pu/img/RqJSVmwCRIDVCydD.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/UkQPYP0bqd"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            71,
+            87
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/UkQPYP0bqd",
+          "expanded_url": "https://twitter.com/Varneyco/status/1208077263746555904/video/1",
+          "features": {},
+          "id": 1208077072708591616,
+          "id_str": "1208077072708591616",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208077072708591616/pu/img/RqJSVmwCRIDVCydD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208077072708591616/pu/img/RqJSVmwCRIDVCydD.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/UkQPYP0bqd",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 126060,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1208077072708591616/pu/vid/480x270/fic0B1EI82dNfWbZ.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1208077072708591616/pu/pl/sedsyapNlp-mhiQC.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1208077072708591616/pu/vid/640x360/mmZrzc7_M8imLoVt.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1208077072708591616/pu/vid/1280x720/3H1_JI8U_uPX87qy.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 17301,
+    "favorited": false,
+    "full_text": "STU: \"We are living in the best performing #economy in the world. It's @realDonaldTrump's big reelection issue. The #democrats will have to do a lot better if they want to beat the President. Last night's spin was just plain laughable!\" #DemDebate #WorkingClass #MyTake #VarneyCo https://t.co/UkQPYP0bqd",
+    "geo": null,
+    "id": 1208077263746555904,
+    "id_str": "1208077263746555904",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5352,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 13 16:27:54 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Airing Weekdays at 9AM ET on the Fox Business Network. Note: These tweets come from Varney & Co. production team, not Stuart himself.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxbusiness.com/person/v/stuar\u2026",
+              "expanded_url": "http://www.foxbusiness.com/person/v/stuart-varney.html",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UT25ycG2zy"
+            }
+          ]
+        }
+      },
+      "favourites_count": 992,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 639199,
+      "following": false,
+      "friends_count": 721,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 281610530,
+      "id_str": "281610530",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1994,
+      "location": "New York",
+      "name": "Varney & Co.",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/281610530/1542396577",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/462238346727526401/9vqChgMI_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/462238346727526401/9vqChgMI_normal.png",
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E3D29A",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Varneyco",
+      "statuses_count": 16199,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/UT25ycG2zy",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67944063,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111794,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47480,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

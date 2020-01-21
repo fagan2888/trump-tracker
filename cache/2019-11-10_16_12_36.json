@@ -1,0 +1,361 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 10 16:12:36 +0000 2019",
+  "display_text_range": [
+    0,
+    151
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/jamesokeefeiii\u2026",
+        "expanded_url": "https://twitter.com/jamesokeefeiii/status/1193348135613091841",
+        "indices": [
+          152,
+          175
+        ],
+        "url": "https://t.co/nzF31cLYw7"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 81644,
+  "favorited": false,
+  "full_text": "ABC is as bad as the rest of them. Journalistic standards are nonexistent today. The press is so dishonest that we no longer have Freedom of the Press! https://t.co/nzF31cLYw7",
+  "geo": null,
+  "id": 1193562107666673664,
+  "id_str": "1193562107666673664",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 10 02:02:21 +0000 2019",
+    "display_text_range": [
+      0,
+      190
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            175,
+            190
+          ],
+          "text": "EpsteinCoverup"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/F8jNdppkgN",
+          "expanded_url": "https://twitter.com/JamesOKeefeIII/status/1193348135613091841/video/1",
+          "features": {},
+          "id": 1193346532596240384,
+          "id_str": "1193346532596240384",
+          "indices": [
+            191,
+            214
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1193346532596240384/pu/img/4XAnXjXLXEzO2lXP.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1193346532596240384/pu/img/4XAnXjXLXEzO2lXP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/F8jNdppkgN"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 28785486,
+          "id_str": "28785486",
+          "indices": [
+            19,
+            23
+          ],
+          "name": "ABC News",
+          "screen_name": "ABC"
+        },
+        {
+          "id": 28785486,
+          "id_str": "28785486",
+          "indices": [
+            45,
+            49
+          ],
+          "name": "ABC News",
+          "screen_name": "ABC"
+        },
+        {
+          "id": 56561449,
+          "id_str": "56561449",
+          "indices": [
+            160,
+            174
+          ],
+          "name": "Jesse Watters",
+          "screen_name": "JesseBWatters"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/F8jNdppkgN",
+          "expanded_url": "https://twitter.com/JamesOKeefeIII/status/1193348135613091841/video/1",
+          "features": {},
+          "id": 1193346532596240384,
+          "id_str": "1193346532596240384",
+          "indices": [
+            191,
+            214
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1193346532596240384/pu/img/4XAnXjXLXEzO2lXP.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1193346532596240384/pu/img/4XAnXjXLXEzO2lXP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/F8jNdppkgN",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 127780,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1193346532596240384/pu/vid/640x360/zKHogvhNdj-wIRfL.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1193346532596240384/pu/vid/480x270/ZcXJZlg_N9DgUegP.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1193346532596240384/pu/pl/QBiUIZ4E-xoQzy3K.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1193346532596240384/pu/vid/1280x720/nrpmw9OCWDnUFR4R.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 30080,
+    "favorited": false,
+    "full_text": "\u201cWhat the hell are @ABC editorial standards? @ABC smeared Kavanaugh with 40 year old hearsay. No corroborating witnesses, no evidence, no pictures, nothing.\u201d - @JesseBWatters #EpsteinCoverup https://t.co/F8jNdppkgN",
+    "geo": null,
+    "id": 1193348135613091841,
+    "id_str": "1193348135613091841",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13581,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Oct 27 00:38:24 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Guerrilla Journalist. @Project_Veritas #EpsteinCoverup On the Inside? Email veritastips@protonmail.com or send us an encrypted Signal message at 914-653-3110.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "EpsteinCoverup.com",
+              "expanded_url": "http://EpsteinCoverup.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nrAPSLDTX8"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1602,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 662065,
+      "following": false,
+      "friends_count": 1223,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16989178,
+      "id_str": "16989178",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4852,
+      "location": "New York",
+      "name": "James O'Keefe",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16989178/1551277687",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/955646067529408514/gVHckbLf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/955646067529408514/gVHckbLf_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JamesOKeefeIII",
+      "statuses_count": 13497,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/nrAPSLDTX8",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1193348135613091841,
+  "quoted_status_id_str": "1193348135613091841",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jamesokeefeiii\u2026",
+    "expanded": "https://twitter.com/jamesokeefeiii/status/1193348135613091841",
+    "url": "https://t.co/nzF31cLYw7"
+  },
+  "retweet_count": 26597,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66711791,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110612,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46004,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

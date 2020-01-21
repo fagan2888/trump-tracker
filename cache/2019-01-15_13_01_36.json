@@ -1,0 +1,449 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 15 13:01:36 +0000 2019",
+  "display_text_range": [
+    0,
+    138
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/whitehouse/sta\u2026",
+        "expanded_url": "https://twitter.com/whitehouse/status/1084917134277394433",
+        "indices": [
+          115,
+          138
+        ],
+        "url": "https://t.co/mo4oWe1SnI"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 66923871,
+        "id_str": "66923871",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "PARIS",
+        "screen_name": "PARISDENNARD"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PARISDENNARD: I trust a rancher on the Southern border more than a liberal politician from Northern California https://t.co/mo4oWe1SnI",
+  "geo": null,
+  "id": 1085160070374195200,
+  "id_str": "1085160070374195200",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1084917134277394433,
+  "quoted_status_id_str": "1084917134277394433",
+  "quoted_status_permalink": {
+    "display": "twitter.com/whitehouse/sta\u2026",
+    "expanded": "https://twitter.com/whitehouse/status/1084917134277394433",
+    "url": "https://t.co/mo4oWe1SnI"
+  },
+  "retweet_count": 14314,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 14 21:33:38 +0000 2019",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/whitehouse/sta\u2026",
+          "expanded_url": "https://twitter.com/whitehouse/status/1084917134277394433",
+          "indices": [
+            97,
+            120
+          ],
+          "url": "https://t.co/mo4oWe1SnI"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 50911,
+    "favorited": false,
+    "full_text": "I trust a rancher on the Southern border more than a liberal politician from Northern California https://t.co/mo4oWe1SnI",
+    "geo": null,
+    "id": 1084926537282080776,
+    "id_str": "1084926537282080776",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Jan 14 20:56:16 +0000 2019",
+      "display_text_range": [
+        0,
+        206
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0zaNJMx7zv",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1084917134277394433/video/1",
+            "id": 1084917070465245184,
+            "id_str": "1084917070465245184",
+            "indices": [
+              207,
+              230
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1084917070465245184/pu/img/raTleGvaGF_9MHKy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1084917070465245184/pu/img/raTleGvaGF_9MHKy.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0zaNJMx7zv"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/0zaNJMx7zv",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1084917134277394433/video/1",
+            "id": 1084917070465245184,
+            "id_str": "1084917070465245184",
+            "indices": [
+              207,
+              230
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1084917070465245184/pu/img/raTleGvaGF_9MHKy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1084917070465245184/pu/img/raTleGvaGF_9MHKy.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/0zaNJMx7zv",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 76367,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1084917070465245184/pu/pl/J_zKzVC4o-6kMKu8.m3u8?tag=6"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1084917070465245184/pu/vid/1280x720/UfjXqA_xZDBlDttT.mp4?tag=6"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1084917070465245184/pu/vid/640x360/bXYuepPTbFgAaxmH.mp4?tag=6"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1084917070465245184/pu/vid/320x180/VZa73xg5jgqCHEFi.mp4?tag=6"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 25715,
+      "favorited": false,
+      "full_text": "\"Mr. President, we need a wall!\u201d \u2013 Jim Chilton, Arizona farmer\n\nHe knows better than anyone why walls aren't immoral: The deadly Sinaloa cartel runs a major drug trafficking route right through Jim\u2019s ranch. https://t.co/0zaNJMx7zv",
+      "geo": null,
+      "id": 1084917134277394433,
+      "id_str": "1084917134277394433",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 8702,
+      "retweeted": false,
+      "source": "<a href=\"https://www.whitehouse.gov/\" rel=\"nofollow\">WH Digital</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov/privacy",
+                "expanded_url": "http://whitehouse.gov/privacy",
+                "indices": [
+                  126,
+                  149
+                ],
+                "url": "https://t.co/IURuMIrzxb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "WhiteHouse.gov",
+                "expanded_url": "http://www.WhiteHouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wyOVgSLgBV"
+              }
+            ]
+          }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 17840136,
+        "following": false,
+        "friends_count": 12,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9495,
+        "location": "Washington, D.C.",
+        "name": "The White House",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1541531194",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhiteHouse",
+        "statuses_count": 6491,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wyOVgSLgBV",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1084917134277394433,
+    "quoted_status_id_str": "1084917134277394433",
+    "quoted_status_permalink": {
+      "display": "twitter.com/whitehouse/sta\u2026",
+      "expanded": "https://twitter.com/whitehouse/status/1084917134277394433",
+      "url": "https://t.co/mo4oWe1SnI"
+    },
+    "retweet_count": 14314,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Aug 19 05:48:56 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Republican Political Commentator & Communications Strategist|Former Bush 43 @WhiteHouse & @GOP Stafferl @pepperdine grad|HBCU advocate|Tweets are my own #MAGA",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "parisdennard.com",
+              "expanded_url": "http://www.parisdennard.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/3Fj9hYrcZz"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8570,
+      "follow_request_sent": false,
+      "followers_count": 58020,
+      "following": false,
+      "friends_count": 962,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 66923871,
+      "id_str": "66923871",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 598,
+      "location": "Washington DC",
+      "name": "PARIS",
+      "notifications": false,
+      "profile_background_color": "73726A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/66923871/1543671269",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1068862102042013696/Tkli7Cu5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068862102042013696/Tkli7Cu5_normal.jpg",
+      "profile_link_color": "B01111",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C4C0B2",
+      "profile_text_color": "170517",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PARISDENNARD",
+      "statuses_count": 28859,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/3Fj9hYrcZz",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 57331581,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 98985,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1543104015",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40263,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Nov 26 04:58:09 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          50,
+          62
+        ],
+        "text": "Impeachment"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 246500501,
+        "id_str": "246500501",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Geraldo Rivera",
+        "screen_name": "GeraldoRivera"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          66,
+          82
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GeraldoRivera: As Democrats charge forward on #Impeachment of @realDonaldTrump despite certainty of defeat, don\u2019t let them forget phony\u2026",
+  "geo": null,
+  "id": 1199190584067538949,
+  "id_str": "1199190584067538949",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8627,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 25 12:53:37 +0000 2019",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            31,
+            43
+          ],
+          "text": "Impeachment"
+        },
+        {
+          "indices": [
+            121,
+            132
+          ],
+          "text": "Russiagate"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            47,
+            63
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 32245,
+    "favorited": false,
+    "full_text": "As Democrats charge forward on #Impeachment of @realDonaldTrump despite certainty of defeat, don\u2019t let them forget phony #Russiagate scandal they created out of salacious, false opposition research. It\u2019s fraudulent underpinnings should disqualify these hypocritical putschists.",
+    "geo": null,
+    "id": 1198947851272888326,
+    "id_str": "1198947851272888326",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -81.7697,
+              41.418412
+            ],
+            [
+              -81.728559,
+              41.418412
+            ],
+            [
+              -81.728559,
+              41.462537
+            ],
+            [
+              -81.7697,
+              41.462537
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Brooklyn, OH",
+      "id": "91a74c998f238191",
+      "name": "Brooklyn",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/91a74c998f238191.json"
+    },
+    "retweet_count": 8627,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 02 22:17:56 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "loving husband and dad, loyal friend, fierce enemy, patriot, kick ass reporter, proud JewRican",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "geraldo.com",
+              "expanded_url": "http://geraldo.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/S2mJWiBvw9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1015,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 309926,
+      "following": false,
+      "friends_count": 869,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 246500501,
+      "id_str": "246500501",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2380,
+      "location": "New York City",
+      "name": "Geraldo Rivera",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/246500501/1511818449",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/565927841381253120/-iHS2dYA_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/565927841381253120/-iHS2dYA_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GeraldoRivera",
+      "statuses_count": 11047,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/S2mJWiBvw9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67050538,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110919,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46487,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

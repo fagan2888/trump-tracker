@@ -1,0 +1,439 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Aug 14 00:29:22 +0000 2019",
+  "display_text_range": [
+    0,
+    126
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/realsaavedra/s\u2026",
+        "expanded_url": "https://twitter.com/realsaavedra/status/1161010740821577728",
+        "indices": [
+          103,
+          126
+        ],
+        "url": "https://t.co/JAqPKjq41y"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 25429371,
+        "id_str": "25429371",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Katrina Pierson",
+        "screen_name": "KatrinaPierson"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KatrinaPierson: Harris thought she was going to a nursing home...\n\nEnded up being taken to school. https://t.co/JAqPKjq41y",
+  "geo": null,
+  "id": 1161434602034094082,
+  "id_str": "1161434602034094082",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1161010740821577728,
+  "quoted_status_id_str": "1161010740821577728",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realsaavedra/s\u2026",
+    "expanded": "https://twitter.com/realsaavedra/status/1161010740821577728",
+    "url": "https://t.co/JAqPKjq41y"
+  },
+  "retweet_count": 10668,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Aug 12 20:30:43 +0000 2019",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realsaavedra/s\u2026",
+          "expanded_url": "https://twitter.com/realsaavedra/status/1161010740821577728",
+          "indices": [
+            83,
+            106
+          ],
+          "url": "https://t.co/JAqPKjq41y"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 36151,
+    "favorited": false,
+    "full_text": "Harris thought she was going to a nursing home...\n\nEnded up being taken to school. https://t.co/JAqPKjq41y",
+    "geo": null,
+    "id": 1161012159167500290,
+    "id_str": "1161012159167500290",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Aug 12 20:25:05 +0000 2019",
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3PphwW3svR",
+            "expanded_url": "https://twitter.com/RealSaavedra/status/1161010740821577728/video/1",
+            "id": 1161010645631787008,
+            "id_str": "1161010645631787008",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161010645631787008/pu/img/MyghZFDy5ceShrsE.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161010645631787008/pu/img/MyghZFDy5ceShrsE.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3PphwW3svR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/3PphwW3svR",
+            "expanded_url": "https://twitter.com/RealSaavedra/status/1161010740821577728/video/1",
+            "id": 1161010645631787008,
+            "id_str": "1161010645631787008",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161010645631787008/pu/img/MyghZFDy5ceShrsE.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161010645631787008/pu/img/MyghZFDy5ceShrsE.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/3PphwW3svR",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 47033,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1161010645631787008/pu/vid/640x360/l9GoUWdLrU1jXA-o.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1161010645631787008/pu/vid/1280x720/DxT1B5HAu_r57upo.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1161010645631787008/pu/pl/mQsT0Ee5SSNVygvC.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1161010645631787008/pu/vid/480x270/tJlKrASrbyHMdGmK.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 43587,
+      "favorited": false,
+      "full_text": "Nursing home resident slams Kamala Harris' health care plan:\n\nWoman: \"you are advocating health care for everyone ... who's going to pay for it?\"\n\nHarris: \"Well, we're going to pay for it\"\n\nW: \"No we're not. Leave our health care system alone. We don't want you to mess with it\" https://t.co/3PphwW3svR",
+      "geo": null,
+      "id": 1161010740821577728,
+      "id_str": "1161010740821577728",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 14220,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 23 03:20:58 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Reporter at @realDailyWire. Retweets \u2260 endorsement. rsaavedra@dailywire.com",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dailywire.com/authors/ryan-s\u2026",
+                "expanded_url": "http://www.dailywire.com/authors/ryan-saavedra",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OeFiLruANp"
+              }
+            ]
+          }
+        },
+        "favourites_count": 9069,
+        "follow_request_sent": false,
+        "followers_count": 297919,
+        "following": false,
+        "friends_count": 290,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 812135885328236551,
+        "id_str": "812135885328236551",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1793,
+        "location": "USA",
+        "name": "Ryan Saavedra",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/812135885328236551/1516447063",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073821172905603072/0KzMnw9m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RealSaavedra",
+        "statuses_count": 35728,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OeFiLruANp",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1161010740821577728,
+    "quoted_status_id_str": "1161010740821577728",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realsaavedra/s\u2026",
+      "expanded": "https://twitter.com/realsaavedra/status/1161010740821577728",
+      "url": "https://t.co/JAqPKjq41y"
+    },
+    "retweet_count": 10668,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 20 01:25:06 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Sr. Advisor @TeamTrump 2020 - 2016 Campaign Spox @realDonaldTrump aka @POTUS - Inventor Snap: snapKatPierson1 DAL \u2708\ufe0f DCA \ud83c\uddfa\ud83c\uddf8@BookCameo",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "katrinapierson.com",
+              "expanded_url": "https://www.katrinapierson.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pvs5wP8FBp"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6986,
+      "follow_request_sent": false,
+      "followers_count": 499395,
+      "following": false,
+      "friends_count": 2334,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 25429371,
+      "id_str": "25429371",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3244,
+      "location": "Washington, DC",
+      "name": "Katrina Pierson",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25429371/1559870623",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1061478222523760640/EMKPa_g__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061478222523760640/EMKPa_g__normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "191F22",
+      "profile_text_color": "4BB7DF",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KatrinaPierson",
+      "statuses_count": 49862,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pvs5wP8FBp",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63069807,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106815,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43473,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

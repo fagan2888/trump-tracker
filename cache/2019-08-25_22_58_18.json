@@ -1,0 +1,351 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 25 22:58:18 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18247062,
+        "id_str": "18247062",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Judicial Watch \ud83d\udd0e",
+        "screen_name": "JudicialWatch"
+      },
+      {
+        "id": 2417586104,
+        "id_str": "2417586104",
+        "indices": [
+          81,
+          90
+        ],
+        "name": "Sebastian Gorka DrG",
+        "screen_name": "SebGorka"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JudicialWatch: Judicial Watch Director of Investigation Chris Farrell joins \n@SebGorka on America First to discuss the federal court he\u2026",
+  "geo": null,
+  "id": 1165760338958045185,
+  "id_str": "1165760338958045185",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3900,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 25 12:30:00 +0000 2019",
+    "display_text_range": [
+      0,
+      267
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            134,
+            149
+          ],
+          "text": "HillaryClinton"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/kFtjQzJsX4",
+          "expanded_url": "https://twitter.com/JudicialWatch/status/1165602223402799105/video/1",
+          "id": 1164603453206925312,
+          "id_str": "1164603453206925312",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1164603453206925312/img/kLbbaBcGeJl55DQ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1164603453206925312/img/kLbbaBcGeJl55DQ8.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/kFtjQzJsX4"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "jwatch.us/ELrU4g",
+          "expanded_url": "http://jwatch.us/ELrU4g",
+          "indices": [
+            244,
+            267
+          ],
+          "url": "https://t.co/uLtzm3ILIP"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 2417586104,
+          "id_str": "2417586104",
+          "indices": [
+            62,
+            71
+          ],
+          "name": "Sebastian Gorka DrG",
+          "screen_name": "SebGorka"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/kFtjQzJsX4",
+          "expanded_url": "https://twitter.com/JudicialWatch/status/1165602223402799105/video/1",
+          "id": 1164603453206925312,
+          "id_str": "1164603453206925312",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1164603453206925312/img/kLbbaBcGeJl55DQ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1164603453206925312/img/kLbbaBcGeJl55DQ8.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/kFtjQzJsX4",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 521300,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1164603453206925312/vid/480x270/0EOHR_KEWY4C5Hl-.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1164603453206925312/vid/640x360/eWcCODEqkwzRfBL9.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1164603453206925312/pl/WTdAKsVi6Fsj-S5Q.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1164603453206925312/vid/1280x720/thw-4vDRMVLR8kEH.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 11436,
+    "favorited": false,
+    "full_text": "Judicial Watch Director of Investigation Chris Farrell joins \n@SebGorka on America First to discuss the federal court hearings on the #HillaryClinton emails that are taking place in Washington D.C. on Thursday, August 22, 2019. READ MORE HERE: https://t.co/uLtzm3ILIP https://t.co/kFtjQzJsX4",
+    "geo": null,
+    "id": 1165602223402799105,
+    "id_str": "1165602223402799105",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3900,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 19 18:04:57 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government. Follow us on FB & Instagram: judicialwatch",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "judicialwatch.org",
+              "expanded_url": "http://www.judicialwatch.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JPjqvKy5es"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1542,
+      "follow_request_sent": false,
+      "followers_count": 1210142,
+      "following": false,
+      "friends_count": 1956,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18247062,
+      "id_str": "18247062",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5374,
+      "location": "Washington, DC",
+      "name": "Judicial Watch \ud83d\udd0e",
+      "notifications": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18247062/1557862227",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1151510176077352960/0cHfTCIE_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151510176077352960/0cHfTCIE_normal.png",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "30353B",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JudicialWatch",
+      "statuses_count": 64431,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JPjqvKy5es",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 63524939,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 107615,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43797,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

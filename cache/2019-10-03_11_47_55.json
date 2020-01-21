@@ -1,0 +1,298 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 03 11:47:55 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 40116885,
+        "id_str": "40116885",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Rich Lowry",
+        "screen_name": "RichLowry"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RichLowry: Excited to share that my new book, \u201cThe Case for Nationalism: How It Made Us Powerful, United, and Free\u201d will be out Novembe\u2026",
+  "geo": null,
+  "id": 1179724760722345984,
+  "id_str": "1179724760722345984",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3957,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 16 20:45:43 +0000 2019",
+    "display_text_range": [
+      0,
+      185
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wUuPBN73Qw",
+          "expanded_url": "https://twitter.com/RichLowry/status/1162465481598615554/photo/1",
+          "id": 1162465476057948161,
+          "id_str": "1162465476057948161",
+          "indices": [
+            186,
+            209
+          ],
+          "media_url": "http://pbs.twimg.com/media/ECHoMQQW4AE4l0h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ECHoMQQW4AE4l0h.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wUuPBN73Qw"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "amazon.com/Case-Nationali\u2026",
+          "expanded_url": "https://www.amazon.com/Case-Nationalism-Rich-Lowry/dp/0062839640/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=",
+          "indices": [
+            162,
+            185
+          ],
+          "url": "https://t.co/oU1PxQZaRh"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wUuPBN73Qw",
+          "expanded_url": "https://twitter.com/RichLowry/status/1162465481598615554/photo/1",
+          "id": 1162465476057948161,
+          "id_str": "1162465476057948161",
+          "indices": [
+            186,
+            209
+          ],
+          "media_url": "http://pbs.twimg.com/media/ECHoMQQW4AE4l0h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ECHoMQQW4AE4l0h.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wUuPBN73Qw"
+        }
+      ]
+    },
+    "favorite_count": 14323,
+    "favorited": false,
+    "full_text": "Excited to share that my new book, \u201cThe Case for Nationalism: How It Made Us Powerful, United, and Free\u201d will be out November 5. It\u2019s available for pre-order now https://t.co/oU1PxQZaRh https://t.co/wUuPBN73Qw",
+    "geo": null,
+    "id": 1162465481598615554,
+    "id_str": "1162465481598615554",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3957,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu May 14 23:28:39 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Author of forthcoming \u201cThe Case for Nationalism\u201d: https://t.co/gpK2Vr0csP Editor of National Review. Speaking opps: lowry.speaking@gmail.com",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "amzn.to/2YVffBv",
+              "expanded_url": "https://amzn.to/2YVffBv",
+              "indices": [
+                50,
+                73
+              ],
+              "url": "https://t.co/gpK2Vr0csP"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amzn.to/2YVffBv",
+              "expanded_url": "https://amzn.to/2YVffBv",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/gpK2Vr0csP"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1587,
+      "follow_request_sent": false,
+      "followers_count": 177668,
+      "following": false,
+      "friends_count": 741,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 40116885,
+      "id_str": "40116885",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3516,
+      "location": "",
+      "name": "Rich Lowry",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/40116885/1565989860",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1163291999929327616/UI3VU-_L_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163291999929327616/UI3VU-_L_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RichLowry",
+      "statuses_count": 25942,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/gpK2Vr0csP",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65243129,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109347,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44852,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

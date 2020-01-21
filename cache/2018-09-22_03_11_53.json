@@ -1,0 +1,288 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Sep 22 03:11:53 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18956073,
+        "id_str": "18956073",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Washington Examiner",
+        "screen_name": "dcexaminer"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @dcexaminer: \"We are standing up for your values,\" Trump said closing his rally in Springfield, Missouri. \"We are standing up for our na\u2026",
+  "geo": null,
+  "id": 1043337056754102272,
+  "id_str": "1043337056754102272",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3006,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 22 00:49:11 +0000 2018",
+    "display_text_range": [
+      0,
+      247
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MvWRKUpDmM",
+          "expanded_url": "https://twitter.com/dcexaminer/status/1043301145278640129/photo/1",
+          "id": 1043300654117269504,
+          "id_str": "1043300654117269504",
+          "indices": [
+            248,
+            271
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnqMatKXsAA7dwn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnqMatKXsAA7dwn.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MvWRKUpDmM"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MvWRKUpDmM",
+          "expanded_url": "https://twitter.com/dcexaminer/status/1043301145278640129/photo/1",
+          "id": 1043300654117269504,
+          "id_str": "1043300654117269504",
+          "indices": [
+            248,
+            271
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnqMatKXsAA7dwn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnqMatKXsAA7dwn.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MvWRKUpDmM"
+        }
+      ]
+    },
+    "favorite_count": 10317,
+    "favorited": false,
+    "full_text": "\"We are standing up for your values,\" Trump said closing his rally in Springfield, Missouri. \"We are standing up for our national anthem. To continue this momentum, you need to get out and vote Republican. Together we are taking back our country.\" https://t.co/MvWRKUpDmM",
+    "geo": null,
+    "id": 1043301145278640129,
+    "id_str": "1043301145278640129",
+    "in_reply_to_screen_name": "dcexaminer",
+    "in_reply_to_status_id": 1043300584995123200,
+    "in_reply_to_status_id_str": "1043300584995123200",
+    "in_reply_to_user_id": 18956073,
+    "in_reply_to_user_id_str": "18956073",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3006,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 13 22:16:00 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Political news and commentary from the Washington Examiner. https://t.co/ou7lbgJSLh",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "washingtonexaminer.com",
+              "expanded_url": "http://www.washingtonexaminer.com",
+              "indices": [
+                60,
+                83
+              ],
+              "url": "https://t.co/ou7lbgJSLh"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "washingtonexaminer.com",
+              "expanded_url": "http://www.washingtonexaminer.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/yIzleEakTJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 31,
+      "follow_request_sent": false,
+      "followers_count": 135709,
+      "following": false,
+      "friends_count": 117,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18956073,
+      "id_str": "18956073",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 3597,
+      "location": "Washington, DC",
+      "name": "Washington Examiner",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18956073/1531264094",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1016735613033353216/b3FMDdA9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016735613033353216/b3FMDdA9_normal.jpg",
+      "profile_link_color": "CA0613",
+      "profile_sidebar_border_color": "D9B17E",
+      "profile_sidebar_fill_color": "EADEAA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "dcexaminer",
+      "statuses_count": 344741,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/yIzleEakTJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54580117,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93873,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39068,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

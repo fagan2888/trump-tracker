@@ -1,0 +1,508 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 09 21:59:51 +0000 2018",
+  "display_text_range": [
+    0,
+    57
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/5FXP7Ki3Zw",
+        "expanded_url": "https://twitter.com/FLOTUS/status/1049343687526928384/video/1",
+        "id": 1049343459448897536,
+        "id_str": "1049343459448897536",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049343459448897536/pu/img/WCq5WBIyev_w8wBv.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049343459448897536/pu/img/WCq5WBIyev_w8wBv.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1049343687526928384,
+        "source_status_id_str": "1049343687526928384",
+        "source_user_id": 818876014390603776,
+        "source_user_id_str": "818876014390603776",
+        "type": "photo",
+        "url": "https://t.co/5FXP7Ki3Zw"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818876014390603776,
+        "id_str": "818876014390603776",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Melania Trump",
+        "screen_name": "FLOTUS"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 10 17:43:50 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "This account is run by the Office of First Lady Melania Trump. Tweets may be archived. More at https://t.co/eVVzoBb3Zr",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "wh.gov/privacy",
+                    "expanded_url": "http://wh.gov/privacy",
+                    "indices": [
+                      95,
+                      118
+                    ],
+                    "url": "https://t.co/eVVzoBb3Zr"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "BeBest.gov",
+                    "expanded_url": "http://www.BeBest.gov",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/9zG6ZvKVLm"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 11005408,
+            "following": false,
+            "friends_count": 6,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 818876014390603776,
+            "id_str": "818876014390603776",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 6701,
+            "location": "Washington, D.C.",
+            "name": "Melania Trump",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/818876014390603776/1484852402",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FLOTUS",
+            "statuses_count": 387,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/9zG6ZvKVLm",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/5FXP7Ki3Zw",
+        "expanded_url": "https://twitter.com/FLOTUS/status/1049343687526928384/video/1",
+        "id": 1049343459448897536,
+        "id_str": "1049343459448897536",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049343459448897536/pu/img/WCq5WBIyev_w8wBv.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049343459448897536/pu/img/WCq5WBIyev_w8wBv.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1049343687526928384,
+        "source_status_id_str": "1049343687526928384",
+        "source_user_id": 818876014390603776,
+        "source_user_id_str": "818876014390603776",
+        "type": "video",
+        "url": "https://t.co/5FXP7Ki3Zw",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 35093,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1049343459448897536/pu/vid/640x360/DU5KAms8XvuxtV-W.mp4?tag=5"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1049343459448897536/pu/vid/1280x720/8QN4OEx6eLKZhphW.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1049343459448897536/pu/pl/ygpi0_0viHU-qQys.m3u8?tag=5"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1049343459448897536/pu/vid/320x180/9j-FsurCIKGVMtew.mp4?tag=5"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FLOTUS: Thank you Kenya \ud83c\uddf0\ud83c\uddea \ud83c\uddfa\ud83c\uddf8 https://t.co/5FXP7Ki3Zw",
+  "geo": null,
+  "id": 1049781513347194880,
+  "id_str": "1049781513347194880",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 13543,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 08 17:00:05 +0000 2018",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5FXP7Ki3Zw",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1049343687526928384/video/1",
+          "id": 1049343459448897536,
+          "id_str": "1049343459448897536",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049343459448897536/pu/img/WCq5WBIyev_w8wBv.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049343459448897536/pu/img/WCq5WBIyev_w8wBv.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5FXP7Ki3Zw"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/5FXP7Ki3Zw",
+          "expanded_url": "https://twitter.com/FLOTUS/status/1049343687526928384/video/1",
+          "id": 1049343459448897536,
+          "id_str": "1049343459448897536",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049343459448897536/pu/img/WCq5WBIyev_w8wBv.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049343459448897536/pu/img/WCq5WBIyev_w8wBv.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/5FXP7Ki3Zw",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 35093,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1049343459448897536/pu/vid/640x360/DU5KAms8XvuxtV-W.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1049343459448897536/pu/vid/1280x720/8QN4OEx6eLKZhphW.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1049343459448897536/pu/pl/ygpi0_0viHU-qQys.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1049343459448897536/pu/vid/320x180/9j-FsurCIKGVMtew.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 76816,
+    "favorited": false,
+    "full_text": "Thank you Kenya \ud83c\uddf0\ud83c\uddea \ud83c\uddfa\ud83c\uddf8 https://t.co/5FXP7Ki3Zw",
+    "geo": null,
+    "id": 1049343687526928384,
+    "id_str": "1049343687526928384",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13543,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 17:43:50 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This account is run by the Office of First Lady Melania Trump. Tweets may be archived. More at https://t.co/eVVzoBb3Zr",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                95,
+                118
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BeBest.gov",
+              "expanded_url": "http://www.BeBest.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9zG6ZvKVLm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 11005408,
+      "following": false,
+      "friends_count": 6,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 818876014390603776,
+      "id_str": "818876014390603776",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 6701,
+      "location": "Washington, D.C.",
+      "name": "Melania Trump",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818876014390603776/1484852402",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FLOTUS",
+      "statuses_count": 387,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9zG6ZvKVLm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54996808,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 94490,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1539117550",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39212,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

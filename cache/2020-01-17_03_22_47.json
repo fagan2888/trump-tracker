@@ -1,0 +1,333 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 17 03:22:47 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1196441152486072320,
+        "id_str": "1196441152486072320",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Catherine Herridge",
+        "screen_name": "CBS_Herridge"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CBS_Herridge: READ: Letter to surveillance court obtained by CBS News questions where there will be further disciplinary action and cho\u2026",
+  "geo": null,
+  "id": 1218010753434820614,
+  "id_str": "1218010753434820614",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4716,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 16 17:38:00 +0000 2020",
+    "display_text_range": [
+      0,
+      205
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            192,
+            197
+          ],
+          "text": "FISA"
+        },
+        {
+          "indices": [
+            198,
+            205
+          ],
+          "text": "Durham"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/s1VfumTiQf",
+          "expanded_url": "https://twitter.com/CBS_Herridge/status/1217863587164753921/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1217863582404227072,
+          "id_str": "1217863582404227072",
+          "indices": [
+            206,
+            229
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOa4ecYWsAAzRDi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOa4ecYWsAAzRDi.jpg",
+          "sizes": {
+            "large": {
+              "h": 1624,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 554
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 314
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/s1VfumTiQf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 975198558461800449,
+          "id_str": "975198558461800449",
+          "indices": [
+            167,
+            179
+          ],
+          "name": "Mark Meadows",
+          "screen_name": "MarkMeadows"
+        },
+        {
+          "id": 18166778,
+          "id_str": "18166778",
+          "indices": [
+            180,
+            191
+          ],
+          "name": "Rep. Jim Jordan",
+          "screen_name": "Jim_Jordan"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/s1VfumTiQf",
+          "expanded_url": "https://twitter.com/CBS_Herridge/status/1217863587164753921/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1217863582404227072,
+          "id_str": "1217863582404227072",
+          "indices": [
+            206,
+            229
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOa4ecYWsAAzRDi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOa4ecYWsAAzRDi.jpg",
+          "sizes": {
+            "large": {
+              "h": 1624,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 554
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 314
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/s1VfumTiQf"
+        }
+      ]
+    },
+    "favorite_count": 11007,
+    "favorited": false,
+    "full_text": "READ: Letter to surveillance court obtained by CBS News questions where there will be further disciplinary action and choice of former DOJ official to oversee reforms @MarkMeadows @Jim_Jordan #FISA #Durham https://t.co/s1VfumTiQf",
+    "geo": null,
+    "id": 1217863587164753921,
+    "id_str": "1217863587164753921",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4716,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Mon Nov 18 14:53:25 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "@CBSNews Senior Investigative Correspondent, military mom, organ donor. Covering national security and intel. Follow me for more news, less noise #factsmatter",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 1,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 76627,
+      "following": false,
+      "friends_count": 16,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1196441152486072320,
+      "id_str": "1196441152486072320",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 359,
+      "location": "Washington, D.C.",
+      "name": "Catherine Herridge",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196441152486072320/1574089953",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1196446872371642369/J4nMFPJv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196446872371642369/J4nMFPJv_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CBS_Herridge",
+      "statuses_count": 98,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71090741,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113411,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47906,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

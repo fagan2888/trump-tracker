@@ -1,0 +1,387 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Mar 08 23:02:29 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2836421,
+        "id_str": "2836421",
+        "indices": [
+          3,
+          9
+        ],
+        "name": "MSNBC",
+        "screen_name": "MSNBC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MSNBC: President Trump and First Lady Melania Trump view memorial crosses for the 23 people killed in the Alabama tornadoes. https://t.\u2026",
+  "geo": null,
+  "id": 1104155456019357703,
+  "id_str": "1104155456019357703",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6063,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 08 19:37:49 +0000 2019",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/HGs6gpxLDk",
+          "expanded_url": "https://twitter.com/MSNBC/status/1104103949446103041/video/1",
+          "id": 1104102122461806599,
+          "id_str": "1104102122461806599",
+          "indices": [
+            118,
+            141
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1KPLPMWwAA-egT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1KPLPMWwAA-egT.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_user_id": 14173315,
+          "source_user_id_str": "14173315",
+          "type": "photo",
+          "url": "https://t.co/HGs6gpxLDk"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Tue Mar 18 23:19:17 +0000 2008",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "The leading source of global news and info for more than 75 years. https://t.co/Hd7rJQeDzP",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/nbcnews",
+                      "expanded_url": "https://www.instagram.com/nbcnews",
+                      "indices": [
+                        67,
+                        90
+                      ],
+                      "url": "https://t.co/Hd7rJQeDzP"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "NBCNews.com",
+                      "expanded_url": "http://NBCNews.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Z73is4fJ3x"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 767,
+              "follow_request_sent": false,
+              "followers_count": 6428633,
+              "following": false,
+              "friends_count": 1760,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 14173315,
+              "id_str": "14173315",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": "en",
+              "listed_count": 41025,
+              "location": "New York, NY",
+              "name": "NBC News",
+              "notifications": false,
+              "profile_background_color": "062131",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1552059019",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/875411730679173121/l9PSFLJb_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/875411730679173121/l9PSFLJb_normal.jpg",
+              "profile_link_color": "5172A0",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "FFFFFF",
+              "profile_text_color": "000000",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "NBCNews",
+              "statuses_count": 196082,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/Z73is4fJ3x",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/HGs6gpxLDk",
+          "expanded_url": "https://twitter.com/MSNBC/status/1104103949446103041/video/1",
+          "id": 1104102122461806599,
+          "id_str": "1104102122461806599",
+          "indices": [
+            118,
+            141
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1KPLPMWwAA-egT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1KPLPMWwAA-egT.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_user_id": 14173315,
+          "source_user_id_str": "14173315",
+          "type": "video",
+          "url": "https://t.co/HGs6gpxLDk",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 57391,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1104102122461806599/pl/2DDDnzwtb9RObrKG.m3u8?tag=11"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1104102122461806599/vid/640x360/rPFa4cY7hRbXbUQB.mp4?tag=11"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1104102122461806599/vid/320x180/Eeg0Bn_9O-Wkp46b.mp4?tag=11"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1104102122461806599/vid/1280x720/MoHcmDvS-YZWjLJo.mp4?tag=11"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 24395,
+    "favorited": false,
+    "full_text": "President Trump and First Lady Melania Trump view memorial crosses for the 23 people killed in the Alabama tornadoes. https://t.co/HGs6gpxLDk",
+    "geo": null,
+    "id": 1104103949446103041,
+    "id_str": "1104103949446103041",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6063,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 29 13:15:41 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The place for in-depth analysis, political commentary and informed perspectives.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "msnbc.com",
+              "expanded_url": "http://msnbc.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5TAF6ijWwt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 659,
+      "follow_request_sent": false,
+      "followers_count": 2344695,
+      "following": false,
+      "friends_count": 599,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2836421,
+      "id_str": "2836421",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 22268,
+      "location": "",
+      "name": "MSNBC",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836421/1545246734",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+      "profile_link_color": "0CB1C7",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MSNBC",
+      "statuses_count": 158316,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/5TAF6ijWwt",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 9,
+    "follow_request_sent": false,
+    "followers_count": 58891724,
+    "following": true,
+    "friends_count": 45,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 101034,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 40804,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

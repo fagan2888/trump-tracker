@@ -1,0 +1,399 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 15:16:52 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1912799826,
+        "id_str": "1912799826",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Bishop",
+        "screen_name": "jdanbishop"
+      },
+      {
+        "id": 48029066,
+        "id_str": "48029066",
+        "indices": [
+          53,
+          66
+        ],
+        "name": "James Rosen",
+        "screen_name": "JamesRosenTV"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @jdanbishop: 5 pgs of evidence. Endless argument. @JamesRosenTV almost alone noticed the most cogent, first-hand evidence. In the 7/25 c\u2026",
+  "geo": null,
+  "id": 1207681207267397632,
+  "id_str": "1207681207267397632",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1176877788999114756,
+  "quoted_status_id_str": "1176877788999114756",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jamesrosentv/s\u2026",
+    "expanded": "https://twitter.com/jamesrosentv/status/1176877788999114756",
+    "url": "https://t.co/8DVO4e4EF1"
+  },
+  "retweet_count": 4657,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 18 16:11:01 +0000 2019",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            128,
+            137
+          ],
+          "text": "Zelensky"
+        },
+        {
+          "indices": [
+            254,
+            261
+          ],
+          "text": "RESIST"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/jamesrosentv/s\u2026",
+          "expanded_url": "https://twitter.com/jamesrosentv/status/1176877788999114756",
+          "indices": [
+            279,
+            302
+          ],
+          "url": "https://t.co/8DVO4e4EF1"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 48029066,
+          "id_str": "48029066",
+          "indices": [
+            37,
+            50
+          ],
+          "name": "James Rosen",
+          "screen_name": "JamesRosenTV"
+        }
+      ]
+    },
+    "favorite_count": 13922,
+    "favorited": false,
+    "full_text": "5 pgs of evidence. Endless argument. @JamesRosenTV almost alone noticed the most cogent, first-hand evidence. In the 7/25 call, #Zelensky summed up POTUS\u2019s requests: \u201cThe issue ... is actually the issue of making sure to restore the honesty.\u201d\n\nDemocrats #RESIST that to the end. https://t.co/8DVO4e4EF1",
+    "geo": null,
+    "id": 1207332448876535808,
+    "id_str": "1207332448876535808",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Sep 25 15:15:04 +0000 2019",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              3,
+              12
+            ],
+            "text": "Zelensky"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "indices": [
+              19,
+              25
+            ],
+            "name": "President Trump",
+            "screen_name": "POTUS"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              26,
+              42
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          },
+          {
+            "id": 939091,
+            "id_str": "939091",
+            "indices": [
+              67,
+              76
+            ],
+            "name": "Joe Biden",
+            "screen_name": "JoeBiden"
+          }
+        ]
+      },
+      "favorite_count": 875,
+      "favorited": false,
+      "full_text": "On #Zelensky: When @POTUS @realDonaldTrump asks him to investigate @JoeBiden, he indicates he regards it as legitimate, even imperative, for law enforcement: \"The investigation of the case is actually the issue of making sure to restore the honesty so we will take care of that.\"",
+      "geo": null,
+      "id": 1176877788999114756,
+      "id_str": "1176877788999114756",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 453,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 17 16:58:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@WeAreSinclair reporter ::: @nytimes bestselling author ::: Member, Board of Trustees, @MS_GreaterDCMD ::: comics nerd ::: Tips: jamessrosen@protonmail.com",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wjla.com/station/people\u2026",
+                "expanded_url": "https://wjla.com/station/people/james-rosen",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/1uITYwltr0"
+              }
+            ]
+          }
+        },
+        "favourites_count": 7066,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 215912,
+        "following": false,
+        "friends_count": 56457,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 48029066,
+        "id_str": "48029066",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2302,
+        "location": "Washington, D.C.",
+        "name": "James Rosen",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48029066/1568322873",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177216095368949760/AppU4l-v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177216095368949760/AppU4l-v_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JamesRosenTV",
+        "statuses_count": 26720,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/1uITYwltr0",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1176877788999114756,
+    "quoted_status_id_str": "1176877788999114756",
+    "quoted_status_permalink": {
+      "display": "twitter.com/jamesrosentv/s\u2026",
+      "expanded": "https://twitter.com/jamesrosentv/status/1176877788999114756",
+      "url": "https://t.co/8DVO4e4EF1"
+    },
+    "retweet_count": 4657,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Sat Sep 28 02:03:15 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Proud Representative of North Carolina\u2019s 9th congressional district fighting for America, freedom & the America First agenda. \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "votedanbishop.com",
+              "expanded_url": "http://www.votedanbishop.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PhDX5lvOpO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2480,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 13551,
+      "following": false,
+      "friends_count": 709,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 1912799826,
+      "id_str": "1912799826",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 159,
+      "location": "Charlotte, NC",
+      "name": "Dan Bishop",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1912799826/1413750839",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/849111620924190721/0VdFDpoK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/849111620924190721/0VdFDpoK_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jdanbishop",
+      "statuses_count": 1767,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PhDX5lvOpO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

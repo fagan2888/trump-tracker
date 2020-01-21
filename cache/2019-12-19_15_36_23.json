@@ -1,0 +1,254 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 15:36:23 +0000 2019",
+  "display_text_range": [
+    0,
+    122
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 762932101,
+        "id_str": "762932101",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "MatthewJshow",
+        "screen_name": "MatthewJshow"
+      },
+      {
+        "id": 49034507,
+        "id_str": "49034507",
+        "indices": [
+          18,
+          32
+        ],
+        "name": "RD",
+        "screen_name": "real_defender"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          33,
+          49
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MatthewJshow: @real_defender @realDonaldTrump We will win big time in 2020! President Trump has delivered for America!",
+  "geo": null,
+  "id": 1207686120793890817,
+  "id_str": "1207686120793890817",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4552,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 19 14:15:44 +0000 2019",
+    "display_text_range": [
+      32,
+      104
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 49034507,
+          "id_str": "49034507",
+          "indices": [
+            0,
+            14
+          ],
+          "name": "RD",
+          "screen_name": "real_defender"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            15,
+            31
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 20252,
+    "favorited": false,
+    "full_text": "@real_defender @realDonaldTrump We will win big time in 2020! President Trump has delivered for America!",
+    "geo": null,
+    "id": 1207665825710313472,
+    "id_str": "1207665825710313472",
+    "in_reply_to_screen_name": "real_defender",
+    "in_reply_to_status_id": 1207665023964864513,
+    "in_reply_to_status_id_str": "1207665023964864513",
+    "in_reply_to_user_id": 49034507,
+    "in_reply_to_user_id_str": "49034507",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 4552,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Aug 17 03:49:27 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of the MatthewJshow podcast. Retweeted by President Trump! Podcast is available on itunes and https://t.co/N76zO7H6zn",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "BlogTalkRadio.com",
+              "expanded_url": "http://BlogTalkRadio.com",
+              "indices": [
+                99,
+                122
+              ],
+              "url": "https://t.co/N76zO7H6zn"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "MatthewJshow.com",
+              "expanded_url": "http://MatthewJshow.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UlkOXIrzwu"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1629,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 21429,
+      "following": false,
+      "friends_count": 9138,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 762932101,
+      "id_str": "762932101",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 307,
+      "location": "Philadelphia, PA",
+      "name": "MatthewJshow",
+      "notifications": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/762932101/1486270534",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1206409137002815488/SEqVLAX6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206409137002815488/SEqVLAX6_normal.jpg",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MatthewJshow",
+      "statuses_count": 98265,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/UlkOXIrzwu",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 02 22:26:52 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818910970567344128,
+        "id_str": "818910970567344128",
+        "indices": [
+          3,
+          6
+        ],
+        "name": "Vice President Mike Pence",
+        "screen_name": "VP"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          24,
+          40
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @VP: Under President @realDonaldTrump, we\u2019ve cut taxes, rolled back red tape, unleashed American energy and forged free, fair and recipr\u2026",
+  "geo": null,
+  "id": 1190757192036732929,
+  "id_str": "1190757192036732929",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7568,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 02 15:36:00 +0000 2019",
+    "display_text_range": [
+      0,
+      230
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            199,
+            205
+          ],
+          "text": "USMCA"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "richmond.com/opinion/column\u2026",
+          "expanded_url": "https://www.richmond.com/opinion/columnists/mike-pence-column-it-s-time-to-pass-the-united/article_e0f06c31-ccd8-53b5-b9ff-b17cdcb3a911.html",
+          "indices": [
+            207,
+            230
+          ],
+          "url": "https://t.co/OLv6l9oopo"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            16,
+            32
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 29269,
+    "favorited": false,
+    "full_text": "Under President @realDonaldTrump, we\u2019ve cut taxes, rolled back red tape, unleashed American energy and forged free, fair and reciprocal trade deals that put America first. Now it is time to pass the #USMCA! https://t.co/OLv6l9oopo",
+    "geo": null,
+    "id": 1190653796290088967,
+    "id_str": "1190653796290088967",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7568,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 20:02:44 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Vice President Mike Pence. Husband, father, & honored to serve as the 48th Vice President of the United States. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                136,
+                159
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Whitehouse.gov",
+              "expanded_url": "http://Whitehouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8TGZjBkuaR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 17,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 8050648,
+      "following": false,
+      "friends_count": 13,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 818910970567344128,
+      "id_str": "818910970567344128",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9709,
+      "location": "Washington, D.C.",
+      "name": "Vice President Mike Pence",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818910970567344128/1572354157",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "VP",
+      "statuses_count": 7747,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8TGZjBkuaR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66488068,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110397,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45762,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

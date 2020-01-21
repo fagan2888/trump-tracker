@@ -1,0 +1,488 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 19 04:28:01 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1074480192,
+        "id_str": "1074480192",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Senator Ted Cruz",
+        "screen_name": "SenTedCruz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenTedCruz: Tonight House Dems concluded their partisan show trial, voting to impeach a president for the 1st time in US history withou\u2026",
+  "geo": null,
+  "id": 1207517918533042177,
+  "id_str": "1207517918533042177",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1204413480872185856,
+  "quoted_status_id_str": "1204413480872185856",
+  "quoted_status_permalink": {
+    "display": "twitter.com/SenTedCruz/sta\u2026",
+    "expanded": "https://twitter.com/SenTedCruz/status/1204413480872185856",
+    "url": "https://t.co/zlH9SO0gMj"
+  },
+  "retweet_count": 9100,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 19 02:29:23 +0000 2019",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/SenTedCruz/sta\u2026",
+          "expanded_url": "https://twitter.com/SenTedCruz/status/1204413480872185856",
+          "indices": [
+            279,
+            302
+          ],
+          "url": "https://t.co/zlH9SO0gMj"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 704320143824953344,
+          "id_str": "704320143824953344",
+          "indices": [
+            176,
+            189
+          ],
+          "name": "Senate Judiciary",
+          "screen_name": "senjudiciary"
+        },
+        {
+          "id": 43919633,
+          "id_str": "43919633",
+          "indices": [
+            210,
+            219
+          ],
+          "name": "Brian Kilmeade",
+          "screen_name": "kilmeade"
+        },
+        {
+          "id": 22055109,
+          "id_str": "22055109",
+          "indices": [
+            220,
+            231
+          ],
+          "name": "Steve Doocy",
+          "screen_name": "SteveDoocy"
+        },
+        {
+          "id": 186646579,
+          "id_str": "186646579",
+          "indices": [
+            232,
+            248
+          ],
+          "name": "Ainsley Earhardt",
+          "screen_name": "ainsleyearhardt"
+        }
+      ]
+    },
+    "favorite_count": 29354,
+    "favorited": false,
+    "full_text": "Tonight House Dems concluded their partisan show trial, voting to impeach a president for the 1st time in US history without alleging a single law was violated. As a member of @senjudiciary, tomorrow I'll join @kilmeade @SteveDoocy @ainsleyearhardt to discuss what happens next. https://t.co/zlH9SO0gMj",
+    "geo": null,
+    "id": 1207488064412700673,
+    "id_str": "1207488064412700673",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Dec 10 14:52:05 +0000 2019",
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              131,
+              153
+            ],
+            "text": "ArticlesOfImpeachment"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/lSNwQy16tQ",
+            "expanded_url": "https://twitter.com/SenTedCruz/status/1204413480872185856/video/1",
+            "features": {},
+            "id": 1204412942264852480,
+            "id_str": "1204412942264852480",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1204412942264852480/img/s4vWZHVMY7NWMo84.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1204412942264852480/img/s4vWZHVMY7NWMo84.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/lSNwQy16tQ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/lSNwQy16tQ",
+            "expanded_url": "https://twitter.com/SenTedCruz/status/1204413480872185856/video/1",
+            "features": {},
+            "id": 1204412942264852480,
+            "id_str": "1204412942264852480",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1204412942264852480/img/s4vWZHVMY7NWMo84.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1204412942264852480/img/s4vWZHVMY7NWMo84.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/lSNwQy16tQ",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 74283,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1204412942264852480/vid/480x270/rTo5tzHBUkYfIGlZ.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1204412942264852480/vid/640x360/ZTx3DBRbzAKqHJw_.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1204412942264852480/vid/1280x720/jPkrax7OjxJ3UWhO.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1204412942264852480/pl/GKO_dwLx0fFEdHkK.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 20244,
+      "favorited": false,
+      "full_text": "What\u2019s happening in the House has become an absolute circus. A show trial. A propaganda trial. When the Senate takes up Democrats' #ArticlesOfImpeachment, we will have a fair proceeding, a proceeding that respects due process, that allows both sides to present their case. https://t.co/lSNwQy16tQ",
+      "geo": null,
+      "id": 1204413480872185856,
+      "id_str": "1204413480872185856",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 6864,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 09 18:11:37 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Representing the State of Texas in the United States Senate.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cruz.senate.gov",
+                "expanded_url": "http://cruz.senate.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/9HWCyvsTvJ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 428,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 1359738,
+        "following": false,
+        "friends_count": 6901,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1074480192,
+        "id_str": "1074480192",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8653,
+        "location": "Houston, Texas",
+        "name": "Senator Ted Cruz",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074480192/1515618797",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SenTedCruz",
+        "statuses_count": 11917,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9HWCyvsTvJ",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1204413480872185856,
+    "quoted_status_id_str": "1204413480872185856",
+    "quoted_status_permalink": {
+      "display": "twitter.com/SenTedCruz/sta\u2026",
+      "expanded": "https://twitter.com/SenTedCruz/status/1204413480872185856",
+      "url": "https://t.co/zlH9SO0gMj"
+    },
+    "retweet_count": 9100,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 09 18:11:37 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Representing the State of Texas in the United States Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cruz.senate.gov",
+              "expanded_url": "http://cruz.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9HWCyvsTvJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 428,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1359738,
+      "following": false,
+      "friends_count": 6901,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1074480192,
+      "id_str": "1074480192",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8653,
+      "location": "Houston, Texas",
+      "name": "Senator Ted Cruz",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074480192/1515618797",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenTedCruz",
+      "statuses_count": 11917,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9HWCyvsTvJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

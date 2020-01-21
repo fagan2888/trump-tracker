@@ -1,0 +1,303 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 25 19:55:52 +0000 2019",
+  "display_text_range": [
+    0,
+    24
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/jonvoight/stat\u2026",
+        "expanded_url": "https://twitter.com/jonvoight/status/1132093445743489024",
+        "indices": [
+          25,
+          48
+        ],
+        "url": "https://t.co/cfcXpzjYn7"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 69334,
+  "favorited": false,
+  "full_text": "Thank you John, so nice! https://t.co/cfcXpzjYn7",
+  "geo": null,
+  "id": 1132374746912493569,
+  "id_str": "1132374746912493569",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 25 01:18:05 +0000 2019",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/srw4zXCRKJ",
+          "expanded_url": "https://twitter.com/jonvoight/status/1132093445743489024/video/1",
+          "id": 1132093306102517760,
+          "id_str": "1132093306102517760",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1132093306102517760/pu/img/qOdw1vbwEVBjUVJb.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1132093306102517760/pu/img/qOdw1vbwEVBjUVJb.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/srw4zXCRKJ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/srw4zXCRKJ",
+          "expanded_url": "https://twitter.com/jonvoight/status/1132093445743489024/video/1",
+          "id": 1132093306102517760,
+          "id_str": "1132093306102517760",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1132093306102517760/pu/img/qOdw1vbwEVBjUVJb.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1132093306102517760/pu/img/qOdw1vbwEVBjUVJb.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/srw4zXCRKJ",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 45003,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1132093306102517760/pu/pl/ONBT-ephWqTlwQZn.m3u8?tag=9"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1132093306102517760/pu/vid/320x180/VUOyLF1YaNrV6T1h.mp4?tag=9"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1132093306102517760/pu/vid/640x360/yzr4bSnrxJ4C1Dqh.mp4?tag=9"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1132093306102517760/pu/vid/1280x720/477sSu0D9TRhxPWk.mp4?tag=9"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 74975,
+    "favorited": false,
+    "full_text": "To my fellow Americans. Part 1. https://t.co/srw4zXCRKJ",
+    "geo": null,
+    "id": 1132093445743489024,
+    "id_str": "1132093445743489024",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 24343,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jul 29 17:39:49 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Academy Award winning actor currently starring as 'Mickey Donovan' on Showtime's Ray Donovan",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 6,
+      "follow_request_sent": false,
+      "followers_count": 113080,
+      "following": false,
+      "friends_count": 8,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 759081003168112640,
+      "id_str": "759081003168112640",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 479,
+      "location": "",
+      "name": "Jon Voight",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/759081003168112640/1469816343",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/759082994573336576/ETIixJ90_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/759082994573336576/ETIixJ90_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jonvoight",
+      "statuses_count": 17,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1132093445743489024,
+  "quoted_status_id_str": "1132093445743489024",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jonvoight/stat\u2026",
+    "expanded": "https://twitter.com/jonvoight/status/1132093445743489024",
+    "url": "https://t.co/cfcXpzjYn7"
+  },
+  "retweet_count": 16257,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60562870,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 103460,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 42076,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

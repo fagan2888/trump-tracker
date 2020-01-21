@@ -1,0 +1,338 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 18 12:00:54 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 47293791,
+        "id_str": "47293791",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Terrence K. Williams",
+        "screen_name": "w_terrence"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @w_terrence: TRUMP DERANGEMENT SYNDROME \n\nCorey Lewandowski to Sheila Jackson Lee: \n\n\"Could you repeat the question? I didn't hear it. J\u2026",
+  "geo": null,
+  "id": 1174292210335932417,
+  "id_str": "1174292210335932417",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 24219,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 17 21:54:04 +0000 2019",
+    "display_text_range": [
+      0,
+      282
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            257,
+            282
+          ],
+          "text": "TrumpDerangementSyndrome"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GTNi0jCaTA",
+          "expanded_url": "https://twitter.com/w_terrence/status/1174079096969674752/video/1",
+          "id": 1174078420558503936,
+          "id_str": "1174078420558503936",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1174078420558503936/pu/img/qXMKXBkiSHjP5obI.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1174078420558503936/pu/img/qXMKXBkiSHjP5obI.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GTNi0jCaTA"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            192,
+            208
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/GTNi0jCaTA",
+          "expanded_url": "https://twitter.com/w_terrence/status/1174079096969674752/video/1",
+          "id": 1174078420558503936,
+          "id_str": "1174078420558503936",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1174078420558503936/pu/img/qXMKXBkiSHjP5obI.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1174078420558503936/pu/img/qXMKXBkiSHjP5obI.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/GTNi0jCaTA",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 138100,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1174078420558503936/pu/vid/480x480/mCv56CD2mA44vAl4.mp4?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1174078420558503936/pu/vid/320x320/mnIqsBvUqi9M87JK.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1174078420558503936/pu/pl/CXVuOGbxd5K13mc0.m3u8?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1174078420558503936/pu/vid/720x720/_UzNtFMyXm1cFOqm.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 73486,
+    "favorited": false,
+    "full_text": "TRUMP DERANGEMENT SYNDROME \n\nCorey Lewandowski to Sheila Jackson Lee: \n\n\"Could you repeat the question? I didn't hear it. Just a rant.\"\n\nThe Dems did nothing but cry &amp; complain about Pres\n@realDonaldTrump \n\nYOU CANT IMPEACH TRUMP FOR BEING A WINNER!\n\n\ud83d\udc49 #TrumpDerangementSyndrome https://t.co/GTNi0jCaTA",
+    "geo": null,
+    "id": 1174079096969674752,
+    "id_str": "1174079096969674752",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 24219,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jun 15 08:46:13 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Actor\u2022 Comedian\u2022Commentator\u2022  Follow Insta: https://t.co/vFNWtEdxGr",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/terrencekwilli\u2026",
+              "expanded_url": "http://instagram.com/terrencekwilliams",
+              "indices": [
+                44,
+                67
+              ],
+              "url": "https://t.co/vFNWtEdxGr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "terrencekwilliams.com/contact",
+              "expanded_url": "https://www.terrencekwilliams.com/contact",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OmckPIMb1Y"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5752,
+      "follow_request_sent": false,
+      "followers_count": 614379,
+      "following": false,
+      "friends_count": 592,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 47293791,
+      "id_str": "47293791",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1832,
+      "location": "United States",
+      "name": "Terrence K. Williams",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/47293791/1547075218",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1135684037232738305/AV28uh9e_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135684037232738305/AV28uh9e_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "w_terrence",
+      "statuses_count": 3578,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/OmckPIMb1Y",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 64485223,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 108696,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44403,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 08 19:50:26 +0000 2019",
+  "display_text_range": [
+    0,
+    143
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 38495835,
+        "id_str": "38495835",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Mark R. Levin",
+        "screen_name": "marklevinshow"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @marklevinshow: Tonight at 8 PM eastern on Fox, don\u2019t miss Life, Liberty &amp; Levin!\u00a0 My guest for the full hour is Professor Dershowitz!\u00a0\u2026",
+  "geo": null,
+  "id": 1203763787788095488,
+  "id_str": "1203763787788095488",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5826,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 08 14:51:28 +0000 2019",
+    "display_text_range": [
+      0,
+      212
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rG4MDwmymw",
+          "expanded_url": "https://twitter.com/RichSementa/status/1203661456258011138/video/1",
+          "features": {},
+          "id": 1203661375660273667,
+          "id_str": "1203661375660273667",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203661375660273667/pu/img/NAym0qLZVHibGkpg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203661375660273667/pu/img/NAym0qLZVHibGkpg.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1203661456258011138,
+          "source_status_id_str": "1203661456258011138",
+          "source_user_id": 38644883,
+          "source_user_id_str": "38644883",
+          "type": "photo",
+          "url": "https://t.co/rG4MDwmymw"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": true,
+              "contributors_enabled": false,
+              "created_at": "Fri May 08 11:08:39 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "'Mr Producer' of @marklevinshow. FMR producer @larry_kudlow @monicacrowley @batchelorshow @marksimoneny @seanhannity. #ThisisAmerica @richvaldes producer. RT\u2260E",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 9470,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 16502,
+              "following": false,
+              "friends_count": 527,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 38644883,
+              "id_str": "38644883",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 107,
+              "location": "NYC",
+              "name": "Mr Producer",
+              "notifications": false,
+              "profile_background_color": "C6E2EE",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/38644883/1553640551",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1097667051538268161/qzUFF4mB_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097667051538268161/qzUFF4mB_normal.jpg",
+              "profile_link_color": "1F98C7",
+              "profile_sidebar_border_color": "C6E2EE",
+              "profile_sidebar_fill_color": "DAECF4",
+              "profile_text_color": "663B12",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "RichSementa",
+              "statuses_count": 6483,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/rG4MDwmymw",
+          "expanded_url": "https://twitter.com/RichSementa/status/1203661456258011138/video/1",
+          "features": {},
+          "id": 1203661375660273667,
+          "id_str": "1203661375660273667",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203661375660273667/pu/img/NAym0qLZVHibGkpg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203661375660273667/pu/img/NAym0qLZVHibGkpg.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1203661456258011138,
+          "source_status_id_str": "1203661456258011138",
+          "source_user_id": 38644883,
+          "source_user_id_str": "38644883",
+          "type": "video",
+          "url": "https://t.co/rG4MDwmymw",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 105600,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1203661375660273667/pu/vid/1280x720/TBHMFMeEcwAXXgQF.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1203661375660273667/pu/vid/480x270/nk8ZQxgnHx6FixMo.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1203661375660273667/pu/vid/640x360/WkC19yBd8pzzepvT.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1203661375660273667/pu/pl/jZ57A5CVaQxD0mQB.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16926,
+    "favorited": false,
+    "full_text": "Tonight at 8 PM eastern on Fox, don\u2019t miss Life, Liberty &amp; Levin!\u00a0 My guest for the full hour is Professor Dershowitz!\u00a0 Levin &amp; Dershowitz for the first time!\u00a0 It\u2019s a blockbuster!\n\nhttps://t.co/rG4MDwmymw",
+    "geo": null,
+    "id": 1203688549897379845,
+    "id_str": "1203688549897379845",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5826,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu May 07 19:18:36 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "THIS IS THE OFFICIAL MARK LEVIN SHOW TWITTER PAGE. \nDOWNLOAD MY PODCAST FOR FREE https://t.co/HUEgXS3l2C",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "marklevinshow.com/audio-rewind",
+              "expanded_url": "http://www.marklevinshow.com/audio-rewind",
+              "indices": [
+                81,
+                104
+              ],
+              "url": "https://t.co/HUEgXS3l2C"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "marklevinshow.com",
+              "expanded_url": "http://www.marklevinshow.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/YUs6HigZju"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1868120,
+      "following": false,
+      "friends_count": 6,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 38495835,
+      "id_str": "38495835",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9532,
+      "location": "Underground Bunker",
+      "name": "Mark R. Levin",
+      "notifications": false,
+      "profile_background_color": "35475B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/38495835/1559247697",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000116305623/80c5515ce8244c85105172fe5640f550_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000116305623/80c5515ce8244c85105172fe5640f550_normal.jpeg",
+      "profile_link_color": "0013B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "F00000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "marklevinshow",
+      "statuses_count": 21120,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/YUs6HigZju",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67353829,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111108,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46828,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

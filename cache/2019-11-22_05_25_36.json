@@ -1,0 +1,415 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Nov 22 05:25:36 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 41634520,
+        "id_str": "41634520",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Sean Hannity",
+        "screen_name": "seanhannity"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          18,
+          34
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @seanhannity: .@realDonaldTrump: \"It\u2019s a hoax. It\u2019s a disgrace. It\u2019s an embarrassment to our country. Nancy Pelosi has done a terrible j\u2026",
+  "geo": null,
+  "id": 1197747941160706048,
+  "id_str": "1197747941160706048",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3080,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 21 22:10:04 +0000 2019",
+    "display_text_range": [
+      0,
+      224
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            190,
+            200
+          ],
+          "text": "WitchHunt"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/F7W7nlQW2h",
+          "expanded_url": "https://twitter.com/seanhannity/status/1197638334253797382/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 409,
+                  "y": 61
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 409,
+                  "y": 61
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 409,
+                  "y": 61
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 81,
+                  "w": 81,
+                  "x": 316,
+                  "y": 47
+                }
+              ]
+            }
+          },
+          "id": 1197638331577884674,
+          "id_str": "1197638331577884674",
+          "indices": [
+            225,
+            248
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJ7dt5sXYAIUJdE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJ7dt5sXYAIUJdE.jpg",
+          "sizes": {
+            "large": {
+              "h": 495,
+              "resize": "fit",
+              "w": 880
+            },
+            "medium": {
+              "h": 495,
+              "resize": "fit",
+              "w": 880
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/F7W7nlQW2h"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "hannity.com/media-room/tru\u2026",
+          "expanded_url": "https://hannity.com/media-room/trump-on-impeachment-not-only-did-we-win-today-its-over/",
+          "indices": [
+            201,
+            224
+          ],
+          "url": "https://t.co/dRWtWkJn3w"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/F7W7nlQW2h",
+          "expanded_url": "https://twitter.com/seanhannity/status/1197638334253797382/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 409,
+                  "y": 61
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 409,
+                  "y": 61
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 409,
+                  "y": 61
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 81,
+                  "w": 81,
+                  "x": 316,
+                  "y": 47
+                }
+              ]
+            }
+          },
+          "id": 1197638331577884674,
+          "id_str": "1197638331577884674",
+          "indices": [
+            225,
+            248
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJ7dt5sXYAIUJdE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJ7dt5sXYAIUJdE.jpg",
+          "sizes": {
+            "large": {
+              "h": 495,
+              "resize": "fit",
+              "w": 880
+            },
+            "medium": {
+              "h": 495,
+              "resize": "fit",
+              "w": 880
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/F7W7nlQW2h"
+        }
+      ]
+    },
+    "favorite_count": 9824,
+    "favorited": false,
+    "full_text": ".@realDonaldTrump: \"It\u2019s a hoax. It\u2019s a disgrace. It\u2019s an embarrassment to our country. Nancy Pelosi has done a terrible job as Speaker, there\u2019s never been a Speaker that\u2019s done so little.\" #WitchHunt https://t.co/dRWtWkJn3w https://t.co/F7W7nlQW2h",
+    "geo": null,
+    "id": 1197638334253797382,
+    "id_str": "1197638334253797382",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3080,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu May 21 17:41:12 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "TV Host Fox News Channel 9 PM EST. Nationally Syndicated Radio Host 3-6 PM EST. https://t.co/z23FRgA02S Retweets, Follows NOT endorsements! Due to hackings, no DM\u2019s!",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Hannity.com",
+              "expanded_url": "http://Hannity.com",
+              "indices": [
+                80,
+                103
+              ],
+              "url": "https://t.co/z23FRgA02S"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "hannity.com",
+              "expanded_url": "http://hannity.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/gEpXK0qpWl"
+            }
+          ]
+        }
+      },
+      "favourites_count": 106,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 4360271,
+      "following": false,
+      "friends_count": 5,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 41634520,
+      "id_str": "41634520",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 19296,
+      "location": "NYC",
+      "name": "Sean Hannity",
+      "notifications": false,
+      "profile_background_color": "663333",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/41634520/1398970584",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000709183776/6273b31aa1836ac86426478aaa82a597_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "CCCCFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "seanhannity",
+      "statuses_count": 1583,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/gEpXK0qpWl",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 66937864,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110833,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46373,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

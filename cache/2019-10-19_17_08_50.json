@@ -1,0 +1,467 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 19 17:08:50 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ronna McDaniel",
+        "screen_name": "GOPChairwoman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPChairwoman: Nancy Pelosi only cares about her witch hunt, not working for the American people.\n\nIt\u2019s time for Pelosi to put the #USM\u2026",
+  "geo": null,
+  "id": 1185603727861915648,
+  "id_str": "1185603727861915648",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1184892924376600582,
+  "quoted_status_id_str": "1184892924376600582",
+  "quoted_status_permalink": {
+    "display": "twitter.com/RNCResearch/st\u2026",
+    "expanded": "https://twitter.com/RNCResearch/status/1184892924376600582?s=20",
+    "url": "https://t.co/SQPM1OOsIg"
+  },
+  "retweet_count": 6093,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 17 22:18:59 +0000 2019",
+    "display_text_range": [
+      0,
+      224
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            116,
+            122
+          ],
+          "text": "USMCA"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/RNCResearch/st\u2026",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1184892924376600582?s=20",
+          "indices": [
+            201,
+            224
+          ],
+          "url": "https://t.co/SQPM1OOsIg"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            183,
+            199
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 17624,
+    "favorited": false,
+    "full_text": "Nancy Pelosi only cares about her witch hunt, not working for the American people.\n\nIt\u2019s time for Pelosi to put the #USMCA to a vote instead of pushing her political vendetta against @realDonaldTrump!\nhttps://t.co/SQPM1OOsIg",
+    "geo": null,
+    "id": 1184957003619295232,
+    "id_str": "1184957003619295232",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Oct 17 18:04:22 +0000 2019",
+      "display_text_range": [
+        0,
+        120
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vFqTFTOnFX",
+            "expanded_url": "https://twitter.com/RNCResearch/status/1184892924376600582/video/1",
+            "id": 1184892731841224704,
+            "id_str": "1184892731841224704",
+            "indices": [
+              121,
+              144
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184892731841224704/pu/img/N26lW89fsRolrmmq.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184892731841224704/pu/img/N26lW89fsRolrmmq.jpg",
+            "sizes": {
+              "large": {
+                "h": 540,
+                "resize": "fit",
+                "w": 960
+              },
+              "medium": {
+                "h": 540,
+                "resize": "fit",
+                "w": 960
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vFqTFTOnFX"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/gpxZPSS9vjc",
+            "expanded_url": "https://youtu.be/gpxZPSS9vjc",
+            "indices": [
+              97,
+              120
+            ],
+            "url": "https://t.co/NKWi06CrRJ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/vFqTFTOnFX",
+            "expanded_url": "https://twitter.com/RNCResearch/status/1184892924376600582/video/1",
+            "id": 1184892731841224704,
+            "id_str": "1184892731841224704",
+            "indices": [
+              121,
+              144
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184892731841224704/pu/img/N26lW89fsRolrmmq.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184892731841224704/pu/img/N26lW89fsRolrmmq.jpg",
+            "sizes": {
+              "large": {
+                "h": 540,
+                "resize": "fit",
+                "w": 960
+              },
+              "medium": {
+                "h": 540,
+                "resize": "fit",
+                "w": 960
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/vFqTFTOnFX",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 86253,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1184892731841224704/pu/vid/480x270/tbthbXRIfTYcgK4v.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1184892731841224704/pu/vid/960x540/bKdzk0SSwjmrnvwW.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1184892731841224704/pu/pl/JuyqWoxtancjyZtG.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1184892731841224704/pu/vid/640x360/niQOtfjtu6-gFbsj.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 1068,
+      "favorited": false,
+      "full_text": "Minority Whip Scalise: Pelosi \u201cjust wants to impeach,\u201d she won't work on the \"people's business\"\nhttps://t.co/NKWi06CrRJ https://t.co/vFqTFTOnFX",
+      "geo": null,
+      "id": 1184892924376600582,
+      "id_str": "1184892924376600582",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 506,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 09 19:08:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#MAGA. Official RNC Research acct. Follow for latest on Democrats, pundits, & Trump's accomplishments. Subscribe to our YouTube page: https://t.co/OLjaWvAwOj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goo.gl/oryp5i",
+                "expanded_url": "https://goo.gl/oryp5i",
+                "indices": [
+                  134,
+                  157
+                ],
+                "url": "https://t.co/OLjaWvAwOj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gop.com/research/",
+                "expanded_url": "https://gop.com/research/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/oeE4SVAXcg"
+              }
+            ]
+          }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 63410,
+        "following": false,
+        "friends_count": 3438,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 55329156,
+        "id_str": "55329156",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1177,
+        "location": "Washington, DC",
+        "name": "RNC Research",
+        "notifications": false,
+        "profile_background_color": "CC0A0A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55329156/1526665097",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+        "profile_link_color": "F50808",
+        "profile_sidebar_border_color": "030303",
+        "profile_sidebar_fill_color": "8A8585",
+        "profile_text_color": "050505",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RNCResearch",
+        "statuses_count": 17379,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/oeE4SVAXcg",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1184892924376600582,
+    "quoted_status_id_str": "1184892924376600582",
+    "quoted_status_permalink": {
+      "display": "twitter.com/RNCResearch/st\u2026",
+      "expanded": "https://twitter.com/RNCResearch/status/1184892924376600582?s=20",
+      "url": "https://t.co/SQPM1OOsIg"
+    },
+    "retweet_count": 6093,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6167,
+      "follow_request_sent": false,
+      "followers_count": 387010,
+      "following": false,
+      "friends_count": 2612,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2183,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1094021853272784896/kyyA04f8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094021853272784896/kyyA04f8_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 11975,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 66002850,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110070,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45355,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

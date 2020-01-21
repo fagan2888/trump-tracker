@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Sep 21 20:24:20 +0000 2018",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 264501955,
+        "id_str": "264501955",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Mike Tokes",
+        "screen_name": "MikeTokes"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MikeTokes: What an amazing Trump rally in Las Vegas, Nevada. There must have been over 10,000 people here and trust me when I say it, w\u2026",
+  "geo": null,
+  "id": 1043234493648142336,
+  "id_str": "1043234493648142336",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9768,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 21 04:18:42 +0000 2018",
+    "display_text_range": [
+      0,
+      160
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ykaU92fcet",
+          "expanded_url": "https://twitter.com/MikeTokes/status/1042991486051135488/video/1",
+          "id": 1042991281129938951,
+          "id_str": "1042991281129938951",
+          "indices": [
+            161,
+            184
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1042991281129938951/pu/img/RmhfC2FzGx-b4fG4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1042991281129938951/pu/img/RmhfC2FzGx-b4fG4.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ykaU92fcet"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/ykaU92fcet",
+          "expanded_url": "https://twitter.com/MikeTokes/status/1042991486051135488/video/1",
+          "id": 1042991281129938951,
+          "id_str": "1042991281129938951",
+          "indices": [
+            161,
+            184
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1042991281129938951/pu/img/RmhfC2FzGx-b4fG4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1042991281129938951/pu/img/RmhfC2FzGx-b4fG4.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ykaU92fcet",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 140029,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1042991281129938951/pu/vid/640x360/jx3N80qNoGdpthZ8.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1042991281129938951/pu/pl/W_vEUij4n3CW-zm8.m3u8?tag=5"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1042991281129938951/pu/vid/320x180/ZMx4xlQ5dYxC8nGT.mp4?tag=5"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1042991281129938951/pu/vid/1280x720/X2VY_Zll2UZHSREk.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 33917,
+    "favorited": false,
+    "full_text": "What an amazing Trump rally in Las Vegas, Nevada. There must have been over 10,000 people here and trust me when I say it, we are all ready to VOTE in November! https://t.co/ykaU92fcet",
+    "geo": null,
+    "id": 1042991486051135488,
+    "id_str": "1042991486051135488",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9768,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 12 00:56:35 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Political strategist. Entrepreneur. CEO: https://t.co/OCCa0bUzj8 - Social Media For Politicians & Organizations. Co-Founder @NewRightUS \ud83d\udce7:Michael@YukoSocial.com",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "YukoSocial.com",
+              "expanded_url": "http://YukoSocial.com",
+              "indices": [
+                41,
+                64
+              ],
+              "url": "https://t.co/OCCa0bUzj8"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/miketokes",
+              "expanded_url": "http://instagram.com/miketokes",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GcKeJ8ODHt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 73604,
+      "follow_request_sent": false,
+      "followers_count": 162708,
+      "following": false,
+      "friends_count": 4015,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 264501955,
+      "id_str": "264501955",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 1166,
+      "location": "Los Angeles / Las Vegas",
+      "name": "Mike Tokes",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/264501955/1522786114",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/983195874393112577/acrCHKs__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/983195874393112577/acrCHKs__normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MikeTokes",
+      "statuses_count": 6656,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/GcKeJ8ODHt",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 25,
+    "follow_request_sent": false,
+    "followers_count": 54580117,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 93873,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1535689655",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39068,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

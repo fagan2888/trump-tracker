@@ -1,0 +1,408 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 22 00:31:24 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1444015610,
+        "id_str": "1444015610",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "U.S. Rep. Billy Long",
+        "screen_name": "USRepLong"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USRepLong: I am proud to stand with my colleagues to demand transparency during this \"impeachment inquiry.\" Rep. Schiff has demonstrate\u2026",
+  "geo": null,
+  "id": 1186439875760984065,
+  "id_str": "1186439875760984065",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1186288565547884545,
+  "quoted_status_id_str": "1186288565547884545",
+  "quoted_status_permalink": {
+    "display": "twitter.com/RepAndyBiggsAZ\u2026",
+    "expanded": "https://twitter.com/RepAndyBiggsAZ/status/1186288565547884545",
+    "url": "https://t.co/I7Fqy4DTjK"
+  },
+  "retweet_count": 5033,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 21 14:56:48 +0000 2019",
+    "display_text_range": [
+      0,
+      254
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/RepAndyBiggsAZ\u2026",
+          "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1186288565547884545",
+          "indices": [
+            255,
+            278
+          ],
+          "url": "https://t.co/I7Fqy4DTjK"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 16473,
+    "favorited": false,
+    "full_text": "I am proud to stand with my colleagues to demand transparency during this \"impeachment inquiry.\" Rep. Schiff has demonstrated that he is not a fair arbiter, which is why I joined over 170 Members of Congress in calling to condemn and censure Adam Schiff. https://t.co/I7Fqy4DTjK",
+    "geo": null,
+    "id": 1186295273947123713,
+    "id_str": "1186295273947123713",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Oct 21 14:30:08 +0000 2019",
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/I7vEvFTcHR",
+            "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1186288565547884545/video/1",
+            "id": 1186287865250099200,
+            "id_str": "1186287865250099200",
+            "indices": [
+              198,
+              221
+            ],
+            "media_url": "http://pbs.twimg.com/media/EHaLEaOX0AE0Ede.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EHaLEaOX0AE0Ede.jpg",
+            "sizes": {
+              "large": {
+                "h": 268,
+                "resize": "fit",
+                "w": 476
+              },
+              "medium": {
+                "h": 268,
+                "resize": "fit",
+                "w": 476
+              },
+              "small": {
+                "h": 268,
+                "resize": "fit",
+                "w": 476
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/I7vEvFTcHR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/I7vEvFTcHR",
+            "expanded_url": "https://twitter.com/RepAndyBiggsAZ/status/1186288565547884545/video/1",
+            "id": 1186287865250099200,
+            "id_str": "1186287865250099200",
+            "indices": [
+              198,
+              221
+            ],
+            "media_url": "http://pbs.twimg.com/media/EHaLEaOX0AE0Ede.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EHaLEaOX0AE0Ede.jpg",
+            "sizes": {
+              "large": {
+                "h": 268,
+                "resize": "fit",
+                "w": 476
+              },
+              "medium": {
+                "h": 268,
+                "resize": "fit",
+                "w": 476
+              },
+              "small": {
+                "h": 268,
+                "resize": "fit",
+                "w": 476
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/I7vEvFTcHR",
+            "video_info": {
+              "aspect_ratio": [
+                119,
+                67
+              ],
+              "duration_millis": 330633,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1186287865250099200/vid/476x268/zefvJP1pRmMkYHvk.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1186287865250099200/pl/S9n0Uunvq7tGpKxg.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 15795,
+      "favorited": false,
+      "full_text": "Tonight, I will force a vote on my motion to condemn and censure Adam Schiff.\n\nHe must be held accountable for misleading the American people.\n\n173 Members of Congress have cosponsored this motion. https://t.co/I7vEvFTcHR",
+      "geo": null,
+      "id": 1186288565547884545,
+      "id_str": "1186288565547884545",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5544,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 04 14:28:51 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Representing Arizona's Fighting Fifth.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 4723,
+        "follow_request_sent": false,
+        "followers_count": 61016,
+        "following": false,
+        "friends_count": 1526,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 816652616625168388,
+        "id_str": "816652616625168388",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 716,
+        "location": "Arizona, USA",
+        "name": "Rep Andy Biggs",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816652616625168388/1558381518",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1176647112550993920/rETjTe_z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176647112550993920/rETjTe_z_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RepAndyBiggsAZ",
+        "statuses_count": 6871,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1186288565547884545,
+    "quoted_status_id_str": "1186288565547884545",
+    "quoted_status_permalink": {
+      "display": "twitter.com/RepAndyBiggsAZ\u2026",
+      "expanded": "https://twitter.com/RepAndyBiggsAZ/status/1186288565547884545",
+      "url": "https://t.co/I7Fqy4DTjK"
+    },
+    "retweet_count": 5033,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 20 15:02:21 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Representing Missouri\u2019s 7th District in the United States Congress - Member of the House Energy and Commerce Committee",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "long.house.gov",
+              "expanded_url": "http://long.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uG5DCdtUfQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 322,
+      "follow_request_sent": false,
+      "followers_count": 21519,
+      "following": false,
+      "friends_count": 4325,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1444015610,
+      "id_str": "1444015610",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 675,
+      "location": "",
+      "name": "U.S. Rep. Billy Long",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444015610/1566843230",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/931238240396423168/Zew9SE9S_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/931238240396423168/Zew9SE9S_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USRepLong",
+      "statuses_count": 8082,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uG5DCdtUfQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 66061320,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 110117,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 45404,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

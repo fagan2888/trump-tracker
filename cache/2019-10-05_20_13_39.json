@@ -1,0 +1,330 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 05 20:13:39 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1209417007,
+        "id_str": "1209417007",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Steve Scalise",
+        "screen_name": "SteveScalise"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          95,
+          111
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SteveScalise: Proven liar Adam Schiff is running the Democrats\u2019 impeachment scheme against @realDonaldTrump.\n\nSchiff\u2019s Record:\n- Collus\u2026",
+  "geo": null,
+  "id": 1180576805893230592,
+  "id_str": "1180576805893230592",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 17255,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 04 00:29:59 +0000 2019",
+    "display_text_range": [
+      0,
+      268
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wzCrrWY7qQ",
+          "expanded_url": "https://twitter.com/SteveScalise/status/1179916540629700608/video/1",
+          "id": 1179916475609600005,
+          "id_str": "1179916475609600005",
+          "indices": [
+            269,
+            292
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1179916475609600005/pu/img/fwYdUzyIHH1koH2N.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1179916475609600005/pu/img/fwYdUzyIHH1koH2N.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wzCrrWY7qQ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            77,
+            93
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/wzCrrWY7qQ",
+          "expanded_url": "https://twitter.com/SteveScalise/status/1179916540629700608/video/1",
+          "id": 1179916475609600005,
+          "id_str": "1179916475609600005",
+          "indices": [
+            269,
+            292
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1179916475609600005/pu/img/fwYdUzyIHH1koH2N.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1179916475609600005/pu/img/fwYdUzyIHH1koH2N.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/wzCrrWY7qQ",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 50651,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1179916475609600005/pu/pl/66R451Hu2L0qqCc6.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1179916475609600005/pu/vid/1280x720/FL8vRFp8-VJqm9vr.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1179916475609600005/pu/vid/640x360/Y39S6FA0PDdSLP5i.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1179916475609600005/pu/vid/480x270/tLE_gc2zvPGKhaJ9.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 44485,
+    "favorited": false,
+    "full_text": "Proven liar Adam Schiff is running the Democrats\u2019 impeachment scheme against @realDonaldTrump.\n\nSchiff\u2019s Record:\n- Collusion evidence myths\n- Fabricated call transcript\n- Secret dealings with the whistleblower\n\nWhere does it stop? And when will he be held accountable? https://t.co/wzCrrWY7qQ",
+    "geo": null,
+    "id": 1179916540629700608,
+    "id_str": "1179916540629700608",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 17255,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "republicanwhip.gov",
+              "expanded_url": "http://republicanwhip.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vKBoGD7Spm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1297,
+      "follow_request_sent": false,
+      "followers_count": 333271,
+      "following": false,
+      "friends_count": 1290,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1209417007,
+      "id_str": "1209417007",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2120,
+      "location": "Jefferson, LA",
+      "name": "Steve Scalise",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+      "profile_link_color": "021F59",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SteveScalise",
+      "statuses_count": 10001,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/vKBoGD7Spm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 65275651,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 109373,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 44875,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

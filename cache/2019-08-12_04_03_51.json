@@ -1,0 +1,241 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 12 04:03:51 +0000 2019",
+  "display_text_range": [
+    0,
+    143
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 246871490,
+        "id_str": "246871490",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Marc Lotter",
+        "screen_name": "marc_lotter"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          73,
+          89
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @marc_lotter: STRONG! \"The American economy is doing very well [under @realDonaldTrump] &amp; wages are up, but we cannot rely on the media\u2026",
+  "geo": null,
+  "id": 1160763802096492545,
+  "id_str": "1160763802096492545",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4374,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 09 13:34:22 +0000 2019",
+    "display_text_range": [
+      0,
+      284
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "washingtontimes.com/news/2019/aug/\u2026",
+          "expanded_url": "https://www.washingtontimes.com/news/2019/aug/8/acknowledging-robust-economy/",
+          "indices": [
+            261,
+            284
+          ],
+          "url": "https://t.co/mjjn5BTlre"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            56,
+            72
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 33750798,
+          "id_str": "33750798",
+          "indices": [
+            247,
+            259
+          ],
+          "name": "Scott Walker",
+          "screen_name": "ScottWalker"
+        }
+      ]
+    },
+    "favorite_count": 12205,
+    "favorited": false,
+    "full_text": "STRONG! \"The American economy is doing very well [under @realDonaldTrump] &amp; wages are up, but we cannot rely on the media or anyone else to share this message with the general public. We need to share it ourselves. There is too much at stake\"-@ScottWalker  https://t.co/mjjn5BTlre",
+    "geo": null,
+    "id": 1159820217079537665,
+    "id_str": "1159820217079537665",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4374,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 03 16:52:21 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Director of Strategic Communications for @realDonaldTrump 2020 Campaign.  Fmr Special Assistant to President & Press Sec to VP @mike_pence. #MAGA. \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldtrump.com",
+              "expanded_url": "http://www.donaldtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dwXt62OBSf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1411,
+      "follow_request_sent": false,
+      "followers_count": 68138,
+      "following": false,
+      "friends_count": 1056,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 246871490,
+      "id_str": "246871490",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 631,
+      "location": "Washington, DC",
+      "name": "Marc Lotter",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/246871490/1513795160",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/943546528903376897/5tXCSG52_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/943546528903376897/5tXCSG52_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "marc_lotter",
+      "statuses_count": 4377,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dwXt62OBSf",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 62988652,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 106692,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 43412,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

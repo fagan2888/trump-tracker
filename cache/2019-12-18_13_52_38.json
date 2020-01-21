@@ -1,0 +1,568 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 18 13:52:38 +0000 2019",
+  "display_text_range": [
+    0,
+    134
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/mF3tNWzWhF",
+        "expanded_url": "https://twitter.com/WhiteHouse/status/1207139520518471680/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 124,
+                "y": 375
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 124,
+                "y": 375
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 124,
+                "y": 375
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 35,
+                "w": 35,
+                "x": 82,
+                "y": 249
+              }
+            ]
+          }
+        },
+        "id": 1207139519226679296,
+        "id_str": "1207139519226679296",
+        "indices": [
+          111,
+          134
+        ],
+        "media_url": "http://pbs.twimg.com/media/EMCe_z3XkAAhSnP.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EMCe_z3XkAAhSnP.jpg",
+        "sizes": {
+          "large": {
+            "h": 512,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 512,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1207139520518471680,
+        "source_status_id_str": "1207139520518471680",
+        "source_user_id": 822215673812119553,
+        "source_user_id_str": "822215673812119553",
+        "type": "photo",
+        "url": "https://t.co/mF3tNWzWhF"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "The White House",
+        "screen_name": "WhiteHouse"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          84,
+          100
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/mF3tNWzWhF",
+        "expanded_url": "https://twitter.com/WhiteHouse/status/1207139520518471680/photo/1",
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 124,
+                "y": 375
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 124,
+                "y": 375
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 124,
+                "y": 375
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 35,
+                "w": 35,
+                "x": 82,
+                "y": 249
+              }
+            ]
+          }
+        },
+        "id": 1207139519226679296,
+        "id_str": "1207139519226679296",
+        "indices": [
+          111,
+          134
+        ],
+        "media_url": "http://pbs.twimg.com/media/EMCe_z3XkAAhSnP.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EMCe_z3XkAAhSnP.jpg",
+        "sizes": {
+          "large": {
+            "h": 512,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 512,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1207139520518471680,
+        "source_status_id_str": "1207139520518471680",
+        "source_user_id": 822215673812119553,
+        "source_user_id_str": "822215673812119553",
+        "type": "photo",
+        "url": "https://t.co/mF3tNWzWhF"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @WhiteHouse: Nancy Pelosi's do-nothing party simply can't compete with President @realDonaldTrump's record. https://t.co/mF3tNWzWhF",
+  "geo": null,
+  "id": 1207297621678800897,
+  "id_str": "1207297621678800897",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 8751,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 18 03:24:23 +0000 2019",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/mF3tNWzWhF",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1207139520518471680/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 124,
+                  "y": 375
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 124,
+                  "y": 375
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 124,
+                  "y": 375
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 82,
+                  "y": 249
+                }
+              ]
+            }
+          },
+          "id": 1207139519226679296,
+          "id_str": "1207139519226679296",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMCe_z3XkAAhSnP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMCe_z3XkAAhSnP.jpg",
+          "sizes": {
+            "large": {
+              "h": 512,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 512,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mF3tNWzWhF"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            68,
+            84
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/mF3tNWzWhF",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1207139520518471680/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 124,
+                  "y": 375
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 124,
+                  "y": 375
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 124,
+                  "y": 375
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 82,
+                  "y": 249
+                }
+              ]
+            }
+          },
+          "id": 1207139519226679296,
+          "id_str": "1207139519226679296",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMCe_z3XkAAhSnP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMCe_z3XkAAhSnP.jpg",
+          "sizes": {
+            "large": {
+              "h": 512,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 512,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mF3tNWzWhF"
+        }
+      ]
+    },
+    "favorite_count": 27517,
+    "favorited": false,
+    "full_text": "Nancy Pelosi's do-nothing party simply can't compete with President @realDonaldTrump's record. https://t.co/mF3tNWzWhF",
+    "geo": null,
+    "id": 1207139520518471680,
+    "id_str": "1207139520518471680",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8751,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">TheWhiteHouse</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "whitehouse.gov/privacy",
+              "expanded_url": "http://whitehouse.gov/privacy",
+              "indices": [
+                126,
+                149
+              ],
+              "url": "https://t.co/IURuMIrzxb"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 19482274,
+      "following": false,
+      "friends_count": 17,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 822215673812119553,
+      "id_str": "822215673812119553",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11949,
+      "location": "Washington, D.C.",
+      "name": "The White House",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WhiteHouse",
+      "statuses_count": 14217,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67785966,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111642,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47370,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

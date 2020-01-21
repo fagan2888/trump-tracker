@@ -1,0 +1,381 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 08 23:15:29 +0000 2019",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          22,
+          33
+        ],
+        "text": "SchiffShow"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 816284664658874368,
+        "id_str": "816284664658874368",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Rep. Arrington",
+        "screen_name": "RepArrington"
+      },
+      {
+        "id": 15764644,
+        "id_str": "15764644",
+        "indices": [
+          58,
+          72
+        ],
+        "name": "Nancy Pelosi",
+        "screen_name": "SpeakerPelosi"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepArrington: The #SchiffShow is finally over. \n\nWith @SpeakerPelosi choosing to continue this impeachment charade, I\u2019m confident my co\u2026",
+  "geo": null,
+  "id": 1203815389165215744,
+  "id_str": "1203815389165215744",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5316,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 06 21:57:02 +0000 2019",
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            4,
+            15
+          ],
+          "text": "SchiffShow"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gXE31S9GQo",
+          "expanded_url": "https://twitter.com/RepArrington/status/1203070873915269126/video/1",
+          "features": {},
+          "id": 1203070698677297158,
+          "id_str": "1203070698677297158",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203070698677297158/pu/img/pBlHOPu5vU7mcEg5.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203070698677297158/pu/img/pBlHOPu5vU7mcEg5.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gXE31S9GQo"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 15764644,
+          "id_str": "15764644",
+          "indices": [
+            40,
+            54
+          ],
+          "name": "Nancy Pelosi",
+          "screen_name": "SpeakerPelosi"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            221,
+            237
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/gXE31S9GQo",
+          "expanded_url": "https://twitter.com/RepArrington/status/1203070873915269126/video/1",
+          "features": {},
+          "id": 1203070698677297158,
+          "id_str": "1203070698677297158",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203070698677297158/pu/img/pBlHOPu5vU7mcEg5.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203070698677297158/pu/img/pBlHOPu5vU7mcEg5.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/gXE31S9GQo",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 98005,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1203070698677297158/pu/vid/1280x720/mhAod5R2982l7206.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1203070698677297158/pu/vid/480x270/wNZt-zbWGxuO45YO.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1203070698677297158/pu/vid/640x360/3VcNF1-qHZdiHIPd.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1203070698677297158/pu/pl/hkpPgxGC9AmPC2li.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 15649,
+    "favorited": false,
+    "full_text": "The #SchiffShow is finally over. \n\nWith @SpeakerPelosi choosing to continue this impeachment charade, I\u2019m confident my colleagues in the Senate will expose this for what it really is - a partisan sham fueled by hatred of @realDonaldTrump &amp; fear that he will be re-elected: https://t.co/gXE31S9GQo",
+    "geo": null,
+    "id": 1203070873915269126,
+    "id_str": "1203070873915269126",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5316,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 03 14:06:44 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Proudly representing the good people of West Texas in Congress. Member of @WaysandMeansGOP | https://t.co/VpAJydDzVy | https://t.co/zklMmCQTJd",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "facebook.com/JodeyArrington/",
+              "expanded_url": "http://facebook.com/JodeyArrington/",
+              "indices": [
+                93,
+                116
+              ],
+              "url": "https://t.co/VpAJydDzVy"
+            },
+            {
+              "display_url": "instagram.com/repjodeyarring\u2026",
+              "expanded_url": "http://instagram.com/repjodeyarrington",
+              "indices": [
+                119,
+                142
+              ],
+              "url": "https://t.co/zklMmCQTJd"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "arrington.house.gov",
+              "expanded_url": "http://arrington.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DZziBJQejF"
+            }
+          ]
+        }
+      },
+      "favourites_count": 372,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 12562,
+      "following": false,
+      "friends_count": 1231,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 816284664658874368,
+      "id_str": "816284664658874368",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 377,
+      "location": "West Texas",
+      "name": "Rep. Arrington",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816284664658874368/1536674512",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044646049791520768/2b1S7QU8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044646049791520768/2b1S7QU8_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RepArrington",
+      "statuses_count": 2089,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DZziBJQejF",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 67353829,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 111108,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 46828,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

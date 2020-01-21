@@ -1,0 +1,314 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 30 00:39:17 +0000 2018",
+  "display_text_range": [
+    0,
+    13
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/blacksfortrump\u2026",
+        "expanded_url": "https://twitter.com/blacksfortrump5/status/1045820275831402496",
+        "indices": [
+          14,
+          37
+        ],
+        "url": "https://t.co/wR0Z4694ei"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 46322,
+  "favorited": false,
+  "full_text": "So Revealing! https://t.co/wR0Z4694ei",
+  "geo": null,
+  "id": 1057069393090355200,
+  "id_str": "1057069393090355200",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 28 23:39:18 +0000 2018",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KPcm3JBLUX",
+          "expanded_url": "https://twitter.com/BlacksForTrump5/status/1045820275831402496/video/1",
+          "id": 1045819015296299009,
+          "id_str": "1045819015296299009",
+          "indices": [
+            120,
+            143
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045819015296299009/pu/img/xZV4mQcdUVMprPSn.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045819015296299009/pu/img/xZV4mQcdUVMprPSn.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/KPcm3JBLUX"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 16303106,
+          "id_str": "16303106",
+          "indices": [
+            76,
+            90
+          ],
+          "name": "Stephen Colbert",
+          "screen_name": "StephenAtHome"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/KPcm3JBLUX",
+          "expanded_url": "https://twitter.com/BlacksForTrump5/status/1045820275831402496/video/1",
+          "id": 1045819015296299009,
+          "id_str": "1045819015296299009",
+          "indices": [
+            120,
+            143
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045819015296299009/pu/img/xZV4mQcdUVMprPSn.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045819015296299009/pu/img/xZV4mQcdUVMprPSn.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/KPcm3JBLUX",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 130567,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1045819015296299009/pu/vid/240x240/5FRj5-yLkfs5VWq2.mp4?tag=5"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1045819015296299009/pu/vid/480x480/8HL4ffR3y_0QlBhv.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1045819015296299009/pu/pl/iwHFwsUMISjDsDSg.m3u8?tag=5"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1045819015296299009/pu/vid/640x640/5-EjftPySuf6jMAd.mp4?tag=5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 23555,
+    "favorited": false,
+    "full_text": "It would be a shame if this video gets 10,000 retweets, and expose how much @StephenAtHome and his audience love Trump\ud83e\udd2d https://t.co/KPcm3JBLUX",
+    "geo": null,
+    "id": 1045820275831402496,
+    "id_str": "1045820275831402496",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 20330,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Sep 28 10:39:06 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Martin Luther King would cringe if he saw black lives matter.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 958,
+      "follow_request_sent": false,
+      "followers_count": 3789,
+      "following": false,
+      "friends_count": 43,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1045623930554204160,
+      "id_str": "1045623930554204160",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": "en",
+      "listed_count": 27,
+      "location": "San Diego, CA",
+      "name": "Blacks For Trump\ud83c\uddfa\ud83c\uddf8\u270a\ud83c\udffe\u270a\ud83c\udffe\u270a\ud83c\udffe",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045623930554204160/1538354208",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1052211964011778049/BRpiZvzo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052211964011778049/BRpiZvzo_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BlacksForTrump5",
+      "statuses_count": 124,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1045820275831402496,
+  "quoted_status_id_str": "1045820275831402496",
+  "quoted_status_permalink": {
+    "display": "twitter.com/blacksfortrump\u2026",
+    "expanded": "https://twitter.com/blacksfortrump5/status/1045820275831402496",
+    "url": "https://t.co/wR0Z4694ei"
+  },
+  "retweet_count": 25016,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 55482039,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 95398,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1540264974",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 39467,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 12 10:33:41 +0000 2019",
+  "display_text_range": [
+    0,
+    190
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 389512058,
+        "id_str": "389512058",
+        "indices": [
+          169,
+          179
+        ],
+        "name": "Ed Rollins",
+        "screen_name": "EdRollins"
+      },
+      {
+        "id": 26487169,
+        "id_str": "26487169",
+        "indices": [
+          181,
+          190
+        ],
+        "name": "Lou Dobbs",
+        "screen_name": "LouDobbs"
+      }
+    ]
+  },
+  "favorite_count": 75605,
+  "favorited": false,
+  "full_text": "....President who is willing to have the battle, and we have a great Attorney General who is willing to lead the battle, and they are going to get to the bottom of it.\u201d @EdRollins  @LouDobbs",
+  "geo": null,
+  "id": 1127522226381774850,
+  "id_str": "1127522226381774850",
+  "in_reply_to_screen_name": "realDonaldTrump",
+  "in_reply_to_status_id": 1127522225224146949,
+  "in_reply_to_status_id_str": "1127522225224146949",
+  "in_reply_to_user_id": 25073877,
+  "in_reply_to_user_id_str": "25073877",
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 17513,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 60190621,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": "en",
+    "listed_count": 102946,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1557167376",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 41842,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

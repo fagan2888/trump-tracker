@@ -1,0 +1,369 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 17 22:22:04 +0000 2020",
+  "display_text_range": [
+    0,
+    31
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/sentedcruz/sta\u2026",
+        "expanded_url": "https://twitter.com/sentedcruz/status/1217855192399601665",
+        "indices": [
+          32,
+          55
+        ],
+        "url": "https://t.co/LRyAHS9VEL"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 52970,
+  "favorited": false,
+  "full_text": "Words of wisdom. Thank you Ted! https://t.co/LRyAHS9VEL",
+  "geo": null,
+  "id": 1218297460185030658,
+  "id_str": "1218297460185030658",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 16 17:04:39 +0000 2020",
+    "display_text_range": [
+      0,
+      235
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            150,
+            162
+          ],
+          "text": "impeachment"
+        },
+        {
+          "indices": [
+            163,
+            185
+          ],
+          "text": "ArticlesOfImpeachment"
+        },
+        {
+          "indices": [
+            186,
+            203
+          ],
+          "text": "ImpeachmentTrial"
+        },
+        {
+          "indices": [
+            204,
+            211
+          ],
+          "text": "senate"
+        },
+        {
+          "indices": [
+            212,
+            235
+          ],
+          "text": "SenateImpeachmentTrial"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Rp82D2igmN",
+          "expanded_url": "https://twitter.com/SenTedCruz/status/1217855192399601665/video/1",
+          "features": {},
+          "id": 1217854830024253442,
+          "id_str": "1217854830024253442",
+          "indices": [
+            236,
+            259
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217854830024253442/pu/img/xIjStcReIo4DGi72.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217854830024253442/pu/img/xIjStcReIo4DGi72.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Rp82D2igmN"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            132,
+            148
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/Rp82D2igmN",
+          "expanded_url": "https://twitter.com/SenTedCruz/status/1217855192399601665/video/1",
+          "features": {},
+          "id": 1217854830024253442,
+          "id_str": "1217854830024253442",
+          "indices": [
+            236,
+            259
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217854830024253442/pu/img/xIjStcReIo4DGi72.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217854830024253442/pu/img/xIjStcReIo4DGi72.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Rp82D2igmN",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 58533,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1217854830024253442/pu/vid/360x640/j5guspLrnTO7Q93i.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1217854830024253442/pu/vid/720x1280/O-WbbhsEfhU1eZKh.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1217854830024253442/pu/vid/320x568/g0H0fBUPEhWvcLr6.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1217854830024253442/pu/pl/AczkQpQlewvXjkQo.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 103376,
+    "favorited": false,
+    "full_text": "TO THE AMERICAN PEOPLE: This is the beginning of the end of the abuse of the Constitution. The Senate will provide a fair trial for @realDonaldTrump. #impeachment #ArticlesOfImpeachment #ImpeachmentTrial #senate #SenateImpeachmentTrial https://t.co/Rp82D2igmN",
+    "geo": null,
+    "id": 1217855192399601665,
+    "id_str": "1217855192399601665",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 28239,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 09 18:11:37 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Representing the State of Texas in the United States Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cruz.senate.gov",
+              "expanded_url": "http://cruz.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9HWCyvsTvJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 437,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1391307,
+      "following": false,
+      "friends_count": 6875,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1074480192,
+      "id_str": "1074480192",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8671,
+      "location": "Houston, Texas",
+      "name": "Senator Ted Cruz",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074480192/1515618797",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100507943458484236/KICyvXVn_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenTedCruz",
+      "statuses_count": 12116,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9HWCyvsTvJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1217855192399601665,
+  "quoted_status_id_str": "1217855192399601665",
+  "quoted_status_permalink": {
+    "display": "twitter.com/sentedcruz/sta\u2026",
+    "expanded": "https://twitter.com/sentedcruz/status/1217855192399601665",
+    "url": "https://t.co/LRyAHS9VEL"
+  },
+  "retweet_count": 13862,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71146089,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113466,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 47937,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}
